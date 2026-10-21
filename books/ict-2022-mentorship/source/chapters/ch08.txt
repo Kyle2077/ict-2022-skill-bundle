@@ -1,0 +1,240 @@
+
+<<<PDFPAGE 101 | images=0>>>
+73
+Chapter 8
+第八章
+Morning Trade and Positioning
+早盘交易和定位
+As I have already mentioned, the morning trade session typically starts at 8:30
+am and extends until noon. During this time, there is usually a lot of volatility and
+excitement in the market, making it an opportune time for traders. It is important
+to understand the specific time frame of the morning trade session as it sets the
+boundariesforwhenyoushouldbeactivelytradingandobservingthemarket.
+正如我已经提到的，早盘通常从早上8:30开始，一直持续到中午。在此期间，市场通
+常会有很大的波动和兴奋，这是交易者的最佳时机。了解早盘交易的具体时间框架是
+很重要的，因为它为你何时应该积极交易和观察市场设定了界限。
+Why You Should Use 8:30 & Midnight Open (EST)
+为什么你应该使用8:30 &午夜开放(美国东部时间)
+The8:30openandmidnightopenarespecifictimepointsthatcanactasreference
+8:30开放和午夜开放是可以作为参考的具体时间点
+levelsforidentifyingtradingopportunitiesbasedonthedailyrange.
+基于日线范围识别交易机会的级别。
+• Onasellday,tradersaimtocatchtheJudasswingthatoccursabovethe8:30
+openandmidnightopen.Thisindicatesapotentialreversalinpricemovement
+fromthehighofthedaybacktowardsthelow.
+在卖出日，交易者的目标是抓住在8:30和午夜开盘时出现的犹大波动。这表明
+价格走势可能会从一天中的高点向低点反转。
+• Onabuyday,traderslookfortheJudasswingthatoccursbelowthe8:30open
+and midnight open.This can lead toa potential reversal in price movement
+fromthelowofthedaybacktowardsthehigh.
+在买入日，交易者寻找发生在8:30开盘和午夜开盘以下的犹大摆动。这可能会
+导致价格从一天中的低点向高点反转。
+Thesereferencelevels,alongwiththedailyrange,canbeconsideredaspointsof
+interestortargetsfortraderstomakeinformedtradingdecisions.
+这些参考水平，以及每日范围，可以被视为交易者的兴趣点或目标，以做出明智的交
+<<<PDFPAGE 102 | images=0>>>
+74
+易决定。
+Lower Time Frame Setups Around the 8:30 and Midnight Open
+8:30左右和午夜营业的较低时间段设置
+Tofurtherrefinethebuystrategy,wecanlookforlowertimeframesetupswithin
+the 8:30 open and midnight open prices. Lower time frames, such as 15-minute or
+30-minutecharts,providemoredetailedinformationaboutpricemovementswithin
+thesespecificperiods.
+为了进一步完善买入策略，我们可以在8:30开盘价和午夜开盘价之间寻找更低的时间
+框架。较低的时间框架，如15分钟或30分钟图表，提供了这些特定时期内价格变动的
+更详细的信息。
+We can look for PD arrays that indicate a swing or range within the market,
+particularlybelowthe8:30openandmidnightopenprices.Thiscanprovideadditional
+confirmationforapotentialbuyopportunity,asitsuggeststhatthepricehasreached
+alowerpointwithinthetradingday.
+我们可以寻找显示市场波动或区间的PD阵列，特别是在8:30开盘价和午夜开盘价以
+下。这可以为潜在的买入机会提供额外的确认，因为它表明价格已经达到交易日内的
+低点。
+Inadditiontobeingpotentialentrypoints,the8:30openandmidnightopencan
+alsobeconsideredpointsofinterestortargetsforbuydays.
+除了作为潜在的进入点，8:30和午夜开放也可以被认为是购买日的兴趣点或目标。
+We can set their targets to reach or surpass these levels, indicating a potential
+upwardmovementintheprice.
+我们可以设定他们的目标，以达到或超过这些水平，表明价格有可能上涨。
+<<<PDFPAGE 103 | images=0>>>
+75
+Identifying a premium in the 8:30 open and midnight open for
+sell opportunities
+发现8:30和午夜开盘的溢价卖出机会
+Whentrading onsell days, it is important toidentifyareas of premiumthat can
+indicatepotentialsellopportunities.Twokeyareastoconsiderarethe8:30openand
+themidnightopen.
+当在卖出日交易时，重要的是确定溢价区域，这可以表明潜在的卖出机会。要考虑的
+两个关键区域是8:30开放和午夜开放。
+• The8:30openreferstotheopeningpriceofthemarketat8:30AM.Iftheprice
+oftheassetisabovethe8:30open,itisconsideredapremium.Thisindicates
+thattheremaybesellingopportunitiesasthepriceishigherthantheopening
+price.
+8:30开盘是指上午8:30市场的开盘价。如果资产价格高于8:30开盘价，则被视
+为溢价。这表明可能存在卖出机会，因为价格高于开盘价。
+• The midnight open refers to the opening price of the market at midnight.
+Similartothe8:30open,ifthepriceoftheassetisabovethemidnightopen,
+itisconsideredapremium.Thiscanalsoindicatepotentialsellopportunities.
+午夜开盘是指市场在午夜的开盘价。类似于8:30开盘，如果资产价格高于午夜
+开盘，则被视为溢价。这也可能预示着潜在的销售机会。
+Within the 8:30 open and midnight open, it is important to lookfor lower time
+framesetups.Lowertimeframes,suchas15-minuteor30-minutecharts,canprovide
+moredetailedinformationaboutpricemovementswithinthesekeyareas.
+在8:30开放和午夜开放，重要的是要寻找更低的时间框架设置。较低的时间框架，如
+15分钟或30分钟图表，可以提供这些关键区域内价格变动的更详细信息。
+Inadditiontolowertimeframesetups,weshouldalsoanalyzepotentialPDarrays
+abovethe8:30openandmidnightopen.APDarrayreferstoarangeofpriceswhere
+themarketconsolidatesordistributesbeforemakingasignificantmove.
+除了较低的时间框架设置，我们还应该分析8:30开市和午夜开市以上的潜在PD阵列。
+PD数组指的是市场在做出重大变动之前进行整合或分配的价格范围。
+The 8:30 open and midnight open can also serve as pointsof interest or targets
+for sell positions. These price levels can act as psychological levels where traders
+anticipateareactionfromthemarket.
+8:30开盘和午夜开盘也可以作为卖出头寸的兴趣点或目标。这些价格水平可以作为交
+易者预期市场反应的心理水平。
+Forexample,ifthepriceofanassetreachesthe8:30openorthemidnightopen
+<<<PDFPAGE 104 | images=2>>>
+76
+during a sell day, traders may consider takingprofits orclosing their sell positions.
+Thesepricelevelscanalsobeusedasreferencepointsforsettingstop-lossordersto
+managerisk.
+例如，如果一项资产的价格在某个交易日达到8:30开盘或午夜开盘，交易员可能会考
+虑获利了结或平仓。这些价格水平也可以用作设置止损单以管理风险的参考点。
+
+<<<PDFPAGE 105 | images=3>>>
+77
+Incorporating the Power of 3
+结合PO3
+Usethemidnightopening(NMO)–00:00amNYTime.Wewanttoseetheprice
+tradestowardtheMNOPricetoactasManipulationbetween8:30amto9:45amEST.
+使用午夜开放(NMO)-纽约时间上午00:00。我们希望看到在美国东部时间上午8:30到
+9:45之间，价格朝着MNO价格交易，作为操纵。
+ItcanactasaJudasSwing,anditiscounteringwherethepricewillwanttogo.
+它可以充当犹大秋千，在价格想要去的地方反击。
+Duringthelastportionofthedayifyouarebearish,youcanusetheopeningprice
+at1:30pmNYTimethesamewaytheMidnight/8:30openisused.
+在一天的最后一段时间，如果你看跌，你可以使用纽约时间下午1:30的开盘价，和午
+夜/8:30的开盘价一样。
+
+<<<PDFPAGE 106 | images=0>>>
+78
+Strategies for Maximizing Profits During the NY AM Session
+纽约上午时段利润最大化策略
+Onestrategyistocloselymonitormarketprofilesanddailyranges.Byanalyzing
+thesepatternsandunderstandingifthedailycandleismorelikelytoexpandhigheror
+lower,youcanmakeinformedtradingdecisions.
+一个策略是密切监控市场概况和每日波动幅度。通过分析这些模式，了解日线蜡烛线
+更有可能上涨还是下跌，你可以做出明智的交易决定。
+Anotherstrategyistopayattentiontointradayorderflowandthedailyrange.By
+setting up your daily range and intraday layouts, you can identify potential trading
+opportunitiesanddeterminethedirectioninwhichthemarketislikelytomove.
+另一个策略是关注日内订单流和日线区间。通过设置你的日线和日内布局，你可以发
+现潜在的交易机会，并确定市场可能的走向。
+Remember,themorningtradesessionischaracterizedbyitsvolatility.Thismeans
+theremaybeopportunitiesforquickprofits,butitalsocomeswithincreasedrisk.Itis
+importanttohaveacleartradingplan,manageyourriskeffectively,andsticktoyour
+strategy.
+记住，早盘交易的特点是波动。这意味着可能有快速获利的机会，但也伴随着风险的
+增加。重要的是要有一个清晰的交易计划，有效地管理你的风险，坚持你的策略。
+The Step-by-Step Guide for Morning Trades
+早盘交易分步指南
+Here’sasimplifiedversionofthestepsinyourtradingstrategy:
+下面是你交易策略步骤的简化版:
+1. Before8:30am,weidentifyaliquiditypoolinthemarket.
+在上午8:30之前，我们发现市场中存在流动性池。
+2. Nowour15minutechartisready,andwecandropto5minuteforentries.
+现在我们的15分钟图表准备好了，我们可以降到5分钟来输入。
+3. Welookforadisplacementinpricemovementthatoccursbelowtheliquidity
+pool.
+我们寻找发生在流动性池以下的价格变动的位移。
+4. Weusetheconceptofafairvaluegap(FVG)todetermineourentrypoint.
+我们使用公允价值差距(FVG)的概念来确定我们的切入点。
+<<<PDFPAGE 107 | images=0>>>
+79
+Afternoon Session and Swing Highs/Lows
+下午时段和波动高点/低点
+Swinghighsandswinglowsareimportanttechnicalindicatorsthathelpusidentify
+potentialreversalsorcontinuationsinmarkettrends.Duringtheafternoonsession,
+we are particularly interested in identifying swing highs and swing lows that occur
+after1:30PM.Theselevelsaresignificantbecausetheyoftenserveasturningpoints
+orareasofconsolidationbeforethemarketmakesitsnextmove.
+波动高点和波动低点是重要的技术指标，帮助我们识别市场趋势的潜在反转或延续。
+在下午时段，我们特别感兴趣的是确定下午1:30以后出现的波动高点和波动低点。这
+些价位非常重要，因为它们通常是市场下一步行动前的转折点或盘整区域。
+Toidentifyswinghighsandswinglows,followthesesteps:
+要识别波动高点和波动低点，请遵循以下步骤:
+1. Beginbyanalyzingyourcharts,startingfromthemorningsession,andmoving
+intotheafternoonsession.
+从分析你的图表开始，从上午开始，到下午。
+2. Lookforsignificantpricepeaksthatformafter1:30PM.Theseareswinghighs
+寻找下午1:30后形成的价格高峰。这些是摇摆高潮
+andindicatepotentialresistancelevels.
+并指示潜在的阻力水平。
+3. Similarly, identify notable price troughs that occur after 1:30 PM. These are
+swinglowsandsuggestpossiblesupportlevels.
+同样，找出下午1:30以后出现的显著的价格低谷。这些是波动低点，暗示可能
+的支撑位。
+4. Pay attention to the formation of swing highs and swing lows. Ideally, each
+candleshouldhaveahigherlowtotheleftandahigherlowtotheright.This
+patternindicatesaccumulationandapotentialupwardtrend.
+注意摇摆高点和摇摆低点的形成。理想情况下，每根蜡烛线应该有一个更高的
+低点在左边，一个更高的低点在右边。这种模式表明积累和潜在的上升趋势。
+<<<PDFPAGE 108 | images=0>>>
+80
+Strategies for Capitalizing on Market Movements during the
+Afternoon Session
+利用午后市场波动的策略
+Onceyouhaveidentifiedswinghighsandswinglowsduringtheafternoonsession,
+it’stimetodevelopstrategiesforcapitalizingonmarketmovements.Hereareafew
+approachesyoucanconsider:
+一旦你确定了下午时段的波动高点和波动低点，就该制定利用市场波动的策略了。您
+可以考虑以下几种方法:
+1. Continuation Trades: If the morning session showed a bullish move and
+the afternoon session continues in the same direction, consider taking a
+continuation trade. Look for opportunities to enter the market based on the
+logicusedinthemorningsession.Thisstrategyaimstoridethemomentumof
+themarketandprofitfromfurtherupwardmovement.
+延续交易:如果上午的交易显示看涨，下午的交易继续在同一个方向，考虑进行
+延续交易。根据早盘使用的逻辑寻找进场机会。这种策略旨在利用市场的势头，
+从进一步的上涨中获利。
+2. ReversalTrades:Insomecases,themorningsessionmayexhibitabullishmove
+butreverseintheafternoon.Thispresentsanopportunityforreversaltrades.
+Ifyounoticeashiftinmarketsentimentorasignificantchangeinpriceaction,
+consider takinga trade in the opposite direction. This strategy allows you to
+capitalizeonpotentialtrendreversalsandprofitfrommarketcorrections.
+反转交易:在某些情况下，上午的交易可能会显示牛市，但下午会反转。这为反
+向交易提供了机会。如果你注意到市场情绪的转变或价格行为的显著变化，考
+虑进行相反方向的交易。这个策略允许你利用潜在的趋势逆转，从市场调整中
+获利。
+3. MeasuredMoves:Anotherstrategytoconsiderismeasuringthemorningmove
+and anticipatingapotential duplicatemove inthe afternoon.Forexample, if
+themorningmovewas70points(NQ),thereisapossibilitythattheafternoon
+sessioncouldseeanadditional70-pointmoveinthesamedirection.
+衡量移动:另一个要考虑的策略是衡量上午的移动，并预测下午可能的重复移
+动。例如，如果上午的移动是70点(NQ)，下午的会议可能会看到一个额外的70
+点移动在同一个方向。
+Remember, the afternoon session often experiences accelerated market
+movements,especiallyaround20minutestofourand10minutesbeforefouro’clock.
+These movements are driven by market on close orders and can create significant
+<<<PDFPAGE 109 | images=1>>>
+81
+opportunitiesfortraders.
+请记住，下午的时段通常会经历加速的市场波动，尤其是在4点20分左右和4点前10分
+钟。这些波动是由成交订单的市场驱动的，可以为交易者创造大量的机会。
+
+<<<PDFPAGE 110 | images=1>>>
+82
+Market Profile
+市场概况
+THEREARE3TEMPLATES:
+有3个模板:
+Template 1:morningtrend,afternoonreversal.
+模板1:上午趋势，下午反转。
+
+<<<PDFPAGE 111 | images=2>>>
+83
+Template 2:morningtrend,afternooncontinuationfora1:1measuredmove
+模板2:上午趋势，下午延续1:1的测量移动
+Template 3:morningconsolidation,afternoontrend
+模板3:上午盘整，下午走势

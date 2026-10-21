@@ -1,0 +1,25 @@
+383
+•
+Price back inside usually gives a relatively high probability, that the opposite
+side of the range gets taken out next sooner or later. I´m looking to enter after
+a shift in market structure.
+价格回到内部通常给出了一个相对较高的概率，范围的另一边迟早会被拿出
+来。我希望在市场结构转变后进入市场。
+Some weeks only one side gets taken out and turns into support/ resistance, or
+price just expanded so far away from the Monday Range, that it´s either unlikely to
+come back, or is too far away to set proper invalidation points after it got back inside
+(at least for this setup). Whenever this is the case, I just stay away from this play - or
+check for different pairs.
+有些周，只有一面被拿出来，变成了支撑/阻力，或者价格与周一的范围相差太远，它
+不太可能回来，或者太远了，以至于在它回来后无法设置正确的失效点(至少对于这个
+设置来说)。每当出现这种情况，我就远离这种打法——或者检查不同的对子。
+Here is an example: low got swept, what marks an HTF area of interest for longs.
+It´s lining up with Monday low, that got swept forming equal lows. These got taken
+out followed by a MSS and a rally to the highs.
+这里有一个例子:低得到席卷，这标志着HTF地区的兴趣多头。它与周一的低点一致，
+被扫形成相等的低点。这些都被取出，然后是一个MSS和反弹到高点。
+As HTF order flow is bearish in this example, chances are high this could be
+a bearish continuation range. As we don´t know, it´s best to TP at the midrange
+(50% of the range) to make it risk-free.
+由于HTF订单流在本例中是熊市，这很可能是一个熊市延续区间。正如我们所不知道
+的那样，最好在中档(50%的范围)进行TP，以使其无风险。

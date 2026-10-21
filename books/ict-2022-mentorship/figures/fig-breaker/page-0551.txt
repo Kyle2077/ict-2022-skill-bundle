@@ -1,0 +1,19 @@
+447
+Before a Bearish Breaker enters the market, liquidity is taken from the previous
+trend element. If the trend is down, then the momentum occurs at the LH level, and if
+the trend changes from rising to falling, then the momentum occurs at the HH level.
+以前看跌者进入市场，流动性取自之前的趋势元素。如果趋势是下降的，那么动量出
+现在LH级别，如果趋势从上升变为下降，那么动量出现在HH级别。
+To confirm a bearish breaker, you need to wait for a change in the direction of price
+要确认看跌突破，你需要等待价格方向的变化
+movement and an impulse breakout of the order block.
+订单块的移动和脉冲突破。
+Let’s think why breaker blocks work:
+让我们想一想断路器分块工作的原因:
+First, a major player knocks out stop-losses below a low to take a position. The
+buyers placed their stops there. Which need to be picked up. That is, a large player
+opens a sell position before this, just in the place where we will have a Breaker Block,
+initially it was OB in a downward direction.
+首先，一个主要的玩家在低点以下敲掉止损，建仓。买家把他们的止损点放在那里。
+需要捡起来。也就是说，一个大玩家在此之前开仓卖出，就在我们将有一个断路器块
+的地方，最初是向下的OB。

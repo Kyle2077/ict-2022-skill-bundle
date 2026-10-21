@@ -1,0 +1,13 @@
+57
+So, we have External Range Liquidity in the diagram above, which is an old low in
+this case. We then move up. After that, going down, down, down, taking out the low.
+So, that is External Range Liquidity.
+因此，在上图中我们有外部范围的流动性，这是一个旧的低点。然后我们向上移动。
+在那之后，往下，往下，往下，到达低点。这就是流动性外部范围。
+Now, price only does two things: it goes to old highs and old lows or seeks to reprice
+into imbalances.
+现在，价格只做两件事:它去旧的高点和旧的低点或寻求重新定价到不平衡。
+In this range, there was a FVG or an imbalance up higher; price took out External
+Range Liquidity then. So, what is the next thing price will do?
+在这个范围内，有一个FVG或更高的不平衡；价格带走了外部流动性。那么，价格下
+一步会怎样？

@@ -1,0 +1,204 @@
+
+<<<PDFPAGE 660 | images=1>>>
+416
+Chapter 33
+第三十三章
+Quarterly Shifts & IPDA Data Ranges
+季度班次和IPDA数据范围
+Quarterly shifts apply to every market. It happens because the market needs to
+createnewinterest.Alwayslookatpriceonamacrolevel,monthlyweeklyanddaily
+timeframe. Every3or4 monthsthere’samarketshift,itmaycauseaconsolidation
+oraretracementofwhateverpriceswinghadbeenevolving.
+季度变化适用于每个市场。这是因为市场需要创造新的兴趣。总是在宏观水平上看价
+格，每月每周和每天的时间框架。每3或4个月就会有一次市场变动，这可能会导致价
+格波动的盘整或回撤。
+Ifthemarketisinastronguptrend,youwilllikelynotseearetracementbutmore
+aconsolidation,SmartMoney willcapitalizenewlongsthatwayandtheymighttake
+ashort-termlowonthedailytothengohigher.
+如果市场处于强劲的上升趋势，你可能不会看到回撤，而更多的是盘整，聪明的资金
+会以这种方式利用新的多头，他们可能会在每日的短期低点，然后走高。
+IPDAisInterbankPriceDeliveryAlgorithm.Itplaysaroleinseekingnewlevelsin
+priceforliquidityandmovingthepricetoanareaofnewliquidity.
+IPDA是银行间价格传递算法。它的作用是寻找新的流动性价格水平，并将价格转移
+到新的流动性区域。
+IPDAhelpstradersforecastthedirectionoftheweeklycandleandthepotentialfor
+
+<<<PDFPAGE 661 | images=0>>>
+417
+higherorlowerpricesinrelationtoPDarraysandIPDAdatarange
+IPDA帮助交易者预测周蜡烛线的方向，以及与PD阵列和IPDA数据范围相关的价格上
+涨或下跌的可能性
+IPDAdeliverspricequotestoglobalfinancialinstitutionsandbanks,determining
+IPDA向全球金融机构和银行提供报价，确定
+thetradingrangewithinaday,week,month,season,year.
+日、周、月、季、年内的交易范围。
+Isitgoodorbad?Manipulation inthemarketisaforcednecessityforamarket
+makerwho,followingthemainruleofpreservingandincreasingcapital,mustperform
+a certain sequence of asset management actions in order to continue to stay in the
+game.
+是好是坏？对做市商来说，操纵市场是一种被迫的需要，做市商遵循资本保值增值的
+主要规则，必须执行一定的资产管理操作序列，以便继续留在游戏中。
+<<<PDFPAGE 662 | images=1>>>
+418
+How does it help in trading?
+对交易有什么帮助？
+Firstly, it allows smart money traders to determine a trading pattern, which
+will allow them to develop an optimal trading strategy based on the structure of
+consolidationwithinaperiod.
+首先，它允许聪明的资金交易者确定交易模式，这将允许他们根据一段时间内的整合
+结构制定最佳交易策略。
+Secondly,byunderstandingthetradingpattern,atraderhasthemostimportant
+knowledgeofwhentotradeandwhenitisbettertostayaway.
+其次，通过了解交易模式，交易者知道什么时候交易，什么时候最好远离交易，这是
+最重要的。
+Intheera of digitalization,theonlyway toteach aneural network totrade is to
+defineinstructionsaccordingtotheinitialdata,themainonesbeingtimeandprice.
+Theprice displaystheliquiditypoolswhere thetradingvolumeismost likelytobe,
+and the time is the reference points for the periods of formation of such liquidity.
+Understandingthesetwocomponentsofthemarketmechanicsputsthetraderatthe
+topofMaslow’smarketpyramid-youarenolongeraretailer;youareasmartmoney.
+在数字化时代，教神经网络交易的唯一方法是根据初始数据定义指令，主要是时间和
+价格。价格显示交易量最可能出现的流动性池，时间是这种流动性形成时期的参考点。
+理解了市场机制的这两个组成部分，交易者就处于马斯洛市场金字塔的顶端——你不
+再是一个零售商；你是个精明的人。
+
+<<<PDFPAGE 663 | images=1>>>
+419
+IPDA Data Ranges:
+IPDA数据范围:
+Whenthingslikethishappen,youcananticipateitbeingaturtlesouponthedaily.
+Iftheoldlow/highhasalotoflongwicksthenyou’llbelookingforarejectionblock.
+Insteadof asweepofthewicks,itwillbeasweepofthebodies.
+当这样的事情发生时，你可以预期这是一个龟汤。如果旧的低/高有很多长灯芯，那么
+你将寻找一个拒绝块。不是清扫灯芯，而是清扫尸体。
+
+<<<PDFPAGE 664 | images=2>>>
+420
+The Quarterly Shift
+季度换班
+ICTsuggeststhatbyhavingIPDAdatarangesonyourchart,youcanlookbackwards
+andforwardsforthemostrecent20-day,40-day,and60-daybuyandsell stops.
+ICT建议，通过在你的图表上有IPDA数据范围，你可以回顾和展望最近的20天、40天
+和60天的买入和卖出止损点。
+After they have been cleared out on both sides of the marketplace, once they
+have been wiped out and we’re in equilibrium, you have to look at where the
+next rangehighandlowisoutsideofthelast60days.Thatwilltellyouwherethenext
+big significant move is going to be. By combining this with weekly and monthly
+charts, you can anticipate a significant move 20 days from the new market
+delineation. You can identify where significant short-term and intermediate-term
+highs and lows are by looking at the last range of 20 days behind us and 20 days
+castingforward,expectinganew highoranewlowtoform.Therefore,youcanuse
+themostobviousbuystopsand sellstopstolookforthenear-termhighandlowin
+
+<<<PDFPAGE 665 | images=0>>>
+421
+thelast20days,theshort-termhighandlowinthelast40days,andtheintermediate-
+termhighandlowinthelast60days.
+当它们在市场的两边都被清除后，一旦它们被清除，我们就处于平衡状态，你必须看
+过去60天之外的下一个范围的高点和低点在哪里。这将告诉你下一个重大举措会在哪
+里。通过结合周线图和月线图，你可以在新的市场划分后的20天内预测到一个重要的
+波动。你可以通过观察过去20天和未来20天的范围来确定重要的短期和中期高点和低
+点，预计会形成新高或新低。所以，你可以用最明显的买入止损和卖出止损来寻找最
+近20天的近期高点和低点，最近40天的短期高点和低点，以及最近60天的中期高点
+和低点。
+Thealgowilldoashiftbetween60and20daysinthelookforwardphase.We
+在展望阶段，算法将在60到20天之间进行转换。我们
+<<<PDFPAGE 666 | images=6>>>
+422
+expectasetupinthenext60tradingdays,youdon’thavetotradethedailyifitdoesn’t
+suityou,thisalsohelpswithdailybiascontext.
+预计在未来60个交易日设置，如果不适合你，你不必每天交易，这也有助于每日偏见
+的背景。
+ThiswillhelpmapoutWHENthesetupsoccur,timeisveryimportant.Thealgo
+willseektodosomethinginthefirst20days,40days,60daysafterthemostrecent
+marketstructureshift.
+这将有助于绘制出何时设置发生，时间是非常重要的。该算法将寻求在最近的市场结
+构转变后的头20天、40天、60天内做一些事情。
+
+<<<PDFPAGE 667 | images=3>>>
+423
+[DXY]
+[DXY]
+SMTbetweenDXYandES,theunderlyingismakinghigherlowsandthebenchmark
+is makinghigher highs. Andits occurringwithinthe 3/4monthsand within the60
+dayslookforwardphase.
+DXY和ES之间的SMT，基础正在创造更高的低点，基准正在创造更高的高点。并且它
+发生在3/4个月和60天展望期内。
+There’sarhythmbehindpriceEvery3/4monthsthere’sasentimentshifttocause
+interest.
+价格背后有一个节奏，每3/4个月就会有一次情绪转变，引起人们的兴趣。
+Toconclude,weknowthatthereisaquarterlyshiftinthe market.Thismarketis
+not random, and if they were nobody would have gained many profits consistently.
+Themarketiscontrolledtotheexactpointasanexitortarget.
+总之，我们知道市场存在季度变化。这个市场不是随机的，如果是随机的，没有人会
+持续获得很多利润。市场被控制在一个精确的点上，作为出口或目标。
+1. BuildyourIPDADataRangeannotations:
+构建您的IPDA数据范围注记:
+• UsetheDailyTimeFrameONLY
+仅使用每日时间框架
+• Donotincludetheweekends,justtheweekdayswhencountingback(Mon.
+不包括周末，只包括倒计数的工作日。
+-Fri.)
+Fri。)
+<<<PDFPAGE 668 | images=0>>>
+424
+• Lookforthehighesthighandlowestlowwithineachlookbackrange(20,
+40,60)
+在每个回看区间(20，40，60)寻找最高价和最低价
+• LookforcertainPDArrayslikeOldMonthly,Weekly,4H,lows,highs,Gaps,
+LiquidityVoids,ICTOrderBlocksetc.
+寻找某些PD数组，如旧的月度、周、4H、低点、高点、缺口、流动性空
+白、ICT订单块等。
+• Findthehighesthighandlowestlowwithinthelast60daysandcutthat
+rangeinhalf.
+找出过去60天内的最高价和最低价，并将范围减半。
+• Locate all obvious premium and discount arrays within the respected
+tradingrangeyoucutinhalf.
+找到所有明显的溢价和折价排列，在你减半的交易范围内。
+<<<PDFPAGE 669 | images=5>>>
+425
+Main idea of the concept:Themarketswillmakeaquarterlyshiftevery3,4,
+or6months.Thissetstradersuptoanticipateifwegetahighertimeframemarket
+structure shift. Finding these highs and lows and PD arrays allow us to have more
+tradingcontextwithoutanyindicators.
+概念的主要思想:市场将每3、4或6个月进行一次季度变化。这让交易者可以预期，如
+果我们得到一个更高的时间框架市场结构的转变。找到这些高点和低点以及PD阵列，
+让我们在没有任何指标的情况下有更多的交易背景。
+Disclosure:IPDAlookbackdatarangesalonedoesnottellyouwheretobuyand
+sell.Thereneedstobeablendofconcepts,mainlytimeandprice.
+披露:IPDA回顾数据范围本身并不能告诉你在哪里买和卖。需要有一个概念的融合，
+主要是时间和价格。
+
+<<<PDFPAGE 670 | images=0>>>
+426
+DearReader,
+亲爱的读者:
+As we reach the final page of this book, I want to extend my heartfelt gratitude
+toyoufortakingthetimetoexploretheICTconceptandideasthathavefilledthese
+pages.Ithasbeenaprivilegetohaveyouasareader,andIhopeyoufoundinspiration,
+knowledge,orsimplyanenjoyableexperiencewithinthesewords.
+当我们到达这本书的最后一页时，我想对您花时间来探索充满这些页面的ICT概念和
+想法表示衷心的感谢。有你这样的读者是我的荣幸，我希望你能从这些文字中找到灵
+感、知识或者仅仅是愉快的经历。
+Yourcuriosityanddedicationtolearningaretrulycommendable.Ifyouhaveany
+questions,thoughts,orfeedback,Iwouldlovetohearfromyou.Pleasedon’thesitate
+toreachouttomeonTwitter: @LumiTraders,oremailat info@lumitraders.com
+Your insights and questions are invaluabletome, and I lookforward toconnecting
+withyou.
+你的好奇心和对学习的奉献精神确实值得称赞。如果您有任何问题、想法或反馈，我
+希望收到您的来信。请随时在Twitter上联系我:@LumiTraders，或发送电子邮件至
+info@lumitraders.com您的见解和问题对我来说是非常宝贵的，我期待着与您联
+系。
+Ifyou’reinterestedinjoiningmycommunityandbecomingpartofmyteam,please
+visitwww.LumiTraders.com.We’realwaysonthelookoutforpassionateindividuals
+whoshareourvisionandvalues.Together,wecancontinuetolearn,grow,andmake
+apositiveimpactontheworld.
+如果你有兴趣加入我的社区，成为我团队的一员，请访问www.LumiTraders.com。我
+们一直在寻找与我们有共同愿景和价值观的热情的人。一起，我们可以继续学习，成
+长，并对世界产生积极的影响。
+Thank youonceagainforbeingapartofthisjourney.Yoursupportmeansthe
+worldtome,andI’mexcitedtoseewhereourpathsmaylead.
+谢谢你再次感谢你参与了这次旅程。你的支持对我来说意味着整个世界，我很高兴看
+到我们的道路可能会走向何方。
+<<<PDFPAGE 671 | images=1>>>
+427

@@ -1,0 +1,77 @@
+
+<<<PDFPAGE 477 | images=3>>>
+373
+Chapter 21
+第二十一章
+View Price with Institutional Perception
+用制度的眼光看待价格
+Neverbuyaboveoldhighs,neversellbelowoldlows.
+不要在旧高点以上买入，不要在旧低点以下卖出。
+Step1.Identifymarketprofile:
+第一步。确定市场概况:
+Areweinaconsolidatingmarketorarewetrending?Thismodelworksextremely
+wellinarangeboundmarket.CanyouseethatthiswholePAisrangebound?
+我们是处于一个盘整的市场还是一个趋势？这种模式在窄幅波动的市场中非常有效。你
+能看出这整个PA是有范围的吗？
+Step2.RunonBSLfollowedbyabreaker:
+第二步。在BSL上运行，后跟一个断路器:
+YouseetheBSL(EQH)beingtaken.Thenpricebreaksdown.Thatlastdownclose
+candleisthestartoftherunonthebuysideliquidityisthebearishbreaker.Onceprice
+breaksthroughthat downclose candleyou wait forprice torevisit andsell.That in
+itself is a complete trading model. You’ll find it on every timeframe. Just frame the
+model on the timeframe and duration you would like to trade. If you want a lot of
+setups,youcantradethemon15mmultipletimesaweek.OnceyougobelowtheSSL
+
+<<<PDFPAGE 478 | images=0>>>
+374
+you’reout(partialsorfullclose).Yourstopshouldbeabovethebreakerblockorthe
+bearishOBjustabovethebreaker.
+你看到BSL(EQH)被占领。然后价格下跌。最后一根蜡烛线是买方挤兑的开始，流动
+性是看跌的破坏者。一旦价格突破收盘蜡烛线，你就等待价格再次上涨并卖出。这本
+身就是一个完整的交易模式。你会在每个时间段找到它。只要根据你想交易的时间框
+架和持续时间来构建模型。如果你想要很多套，你可以在15m上一周交易多次。一旦
+你低于SSL，你就出局了(部分或完全关闭)。你的止损点应该在止损块的上方，或者在
+止损块的正上方。
+<<<PDFPAGE 479 | images=3>>>
+375
+Step3.TheconfluencethatSMTdivergenceoffersfortheSmartMoneyReversal:
+第三步。SMT背离为明智的资金逆转提供了汇合点:
+This model is based on: if the market is going to have these internal turning
+pointsatmajorITH/ITL,thereshouldbesomekindofsignatureorfingerprintthere,
+reoccurringphenomenon.It’salwaysthereinarangeboundmarket.
+这个模型的基础是:如果市场将在ITH/ITL出现这些内部转折点，那里应该有某种签名
+或指纹，重复出现的现象。它总是在一个窄幅波动的市场中。
+AbovetheEQH,whatcanwedotoanticipatethisturningpoint? Look for SMT
+before it happens.
+在EQH上空，我们能做些什么来预测这个转折点呢？在SMT发生之前寻找它。
+Inthisexample,theSMTistheconfluencethattheHHonESisonlyafakeout(or
+turtlesoup,stoprun).Itshowsthatthemarketsareunderaheavydistributioncoming
+intothemarketplace.Socheckingtherelationshipwithcorrelatedpairsisimportant.
+NQmadethatlowerhighandESmadethatslightlyhigherhigh.Thisisindicatingthat
+there’salotofsellinggoingoninNQ.ThefactthattheNQisnotabletogetbackup
+andtradeaboveitsoldhighlikeESdid,istippingitshandthatthese2pairsarelikely
+to go down because they’re closely correlated. If we see that NQ is making that LH
+thatmeanstomethatthatHHonESisa“fake-out”(turtlesoup,runonstops)and
+wecananticipateareversalhere.Sotheunderlyingsignaturehereisyouwanttolook
+forREH/RELoroldhighs/lowsinaconsolidatingmarketandthenlookataclosely
+correlatedasset.
+在这个例子中，SMT是ES上的HH只是一个假out(或者乌龟汤，停止运行)的汇合点。
+这表明市场处于进入市场的重分布之下。因此，检查相关对之间的关系非常重要。NQ
+创造了较低的高点，而ES创造了略高的高点。这表明NQ正在进行大量抛售。事实上，
+<<<PDFPAGE 480 | images=0>>>
+376
+NQ不能像ES那样回升并在旧高点上方交易，这表明这两对货币可能会下跌，因为它
+们密切相关。如果我们看到NQ正在制造LH，对我来说这意味着HHonES是一个“假
+的”(海龟汤，停止运行)，我们可以预见这里的反转。因此，这里的潜在特征是，你希
+望在盘整市场中寻找REH/REL或旧高点/低点，然后寻找密切相关的资产。
+<<<PDFPAGE 481 | images=4>>>
+377
+Understand that only the divergence doesn’t necessarily mean there’s a trade.
+Narrativeisakey.WeanticipatetheBSLgoingtobetapped.Youhavetogrowinto
+this,youhavetotrainyourselftoknowthere’saturningpoint.Thebreakerisalsoa
+greatentrypoint.
+要明白只有背离不一定意味着有交易。叙事是一个关键。我们预计BSL将被挖掘。你
+必须成长到这一步，你必须训练自己知道有一个转折点。断路器也是一个很好的切入
+点。
+AsIhavealreadymentioned,IuseES,NQ,YM,andDXYforSMTanalysis.
+正如我已经提到的，我使用ES、NQ、YM和DXY进行SMT分析。

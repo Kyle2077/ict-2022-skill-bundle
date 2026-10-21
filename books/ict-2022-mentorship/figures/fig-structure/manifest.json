@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "source_id": "src-ict2022",
+  "source_filename": "开启ICT 2022导师计划的成功之门.pdf",
+  "source_sha256": "c072988322c073be09a95858fc5ec571c12af388fce9f093e6655ffc58b3bd7d",
+  "pdf_page_count": 671,
+  "selected_pdf_pages": [
+    319,
+    323,
+    327
+  ],
+  "max_edge": 2400,
+  "renderer": "PyMuPDF",
+  "pages": [
+    {
+      "page_id": "src-ict2022-c072988322c0-p0319",
+      "pdf_page": 319,
+      "printed_page": null,
+      "image": "page-0319.png",
+      "image_sha256": "80c4302fc25b588969f3d6dabd62c6bd7c552862f62b9aea4bebeba2bc840f8a",
+      "text": "page-0319.txt",
+      "text_sha256": "bd45823b0dc3649a29aeda8de33d87b7f60593209baf630aad7ea92adcadaae7",
+      "text_method": "pymupdf",
+      "text_status": "present",
+      "width": 2127,
+      "height": 2400,
+      "review_status": "unreviewed"
+    },
+    {
+      "page_id": "src-ict2022-c072988322c0-p0323",
+      "pdf_page": 323,
+      "printed_page": null,
+      "image": "page-0323.png",
+      "image_sha256": "211ac1788cc4722eea432b5cbf6c5b0d875964f8f1597a38d59e08fea1992c8b",
+      "text": "page-0323.txt",
+      "text_sha256": "cd275974fac35b4f2d1eb1ee56f4d74a2ac9de72a6e1e6ce799d2017dc41b3d2",
+      "text_method": "pymupdf",
+      "text_status": "present",
+      "width": 2127,
+      "height": 2400,
+      "review_status": "unreviewed"
+    },
+    {
+      "page_id": "src-ict2022-c072988322c0-p0327",
+      "pdf_page": 327,
+      "printed_page": null,
+      "image": "page-0327.png",
+      "image_sha256": "93d35dd235f165d28c16c48ca5c12529a665d83d94407647a587f8455bdd2f45",
+      "text": "page-0327.txt",
+      "text_sha256": "094395ba86ece5655ac515da0ca860a49a3f3d2cc1064131be4a8cc39ad71c6a",
+      "text_method": "pymupdf",
+      "text_status": "present",
+      "width": 2127,
+      "height": 2400,
+      "review_status": "unreviewed"
+    }
+  ],
+  "note": "仅页面准备；printed_page 需人工核对。路径相对于本清单。"
+}

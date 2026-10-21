@@ -1,0 +1,86 @@
+{
+  "suite": "ict-2022-mentorship trigger evals (darwin-compatible, per-skill sections)",
+  "version": "0.1.0",
+  "generated": "2026-10-20",
+  "skills": {
+    "session-taboo-filter": {
+      "test_cases": [
+        {"id": "stf-should-01", "type": "should_trigger", "prompt": "现在纽约时间凌晨3点，我想做ES，现在是哪个时段、能按伦敦剧本做吗", "expected_behavior": "调用 session-taboo-filter，定位 London Open KZ 并核对亚洲区间/事件", "notes": "正面"},
+        {"id": "stf-should-02", "type": "should_trigger", "prompt": "今天有FOMC决议，我还能正常做日内吗", "expected_behavior": "调用并输出禁忌日回避结论", "notes": "正面"},
+        {"id": "stf-should-03", "type": "should_trigger", "prompt": "亚洲区间走了22个点，伦敦开盘还能做空吗", "expected_behavior": "调用并触发 >15-20点 硬门，输出等纽约窗", "notes": "正面+硬门"},
+        {"id": "stf-not-01", "type": "should_not_trigger", "prompt": "帮我算一下ES今天的CBDR中点和前日高低", "expected_behavior": "应选 daily-static-anchors（跨skill混淆诱饵）", "notes": "混淆"},
+        {"id": "stf-not-02", "type": "should_not_trigger", "prompt": "查一下CME ES合约每点多少钱", "expected_behavior": "信息查询，不应调用任何决策skill", "notes": "诱饵"},
+        {"id": "stf-edge-01", "type": "edge_case", "prompt": "我现在能不能买苹果股票", "expected_behavior": "不调用（非ICT日内框架/非适配品种）", "notes": "边界"}
+      ]
+    },
+    "daily-static-anchors": {
+      "test_cases": [
+        {"id": "dsa-should-01", "type": "should_trigger", "prompt": "盘前帮我把今天ES的关键价位都列出来", "expected_behavior": "调用并输出锚表", "notes": "正面"},
+        {"id": "dsa-should-02", "type": "should_trigger", "prompt": "今天亚洲区间多宽？算窄吗", "expected_behavior": "调用并给幅度+过滤结论", "notes": "正面"},
+        {"id": "dsa-should-03", "type": "should_trigger", "prompt": "CBDR的中点怎么算、今天在哪", "expected_behavior": "调用并给14-20点纽约1h实体高中点", "notes": "正面"},
+        {"id": "dsa-not-01", "type": "should_not_trigger", "prompt": "今天偏多还是偏空", "expected_behavior": "应选 daily-bias-checklist（混淆诱饵）", "notes": "混淆"},
+        {"id": "dsa-not-02", "type": "should_not_trigger", "prompt": "解释一下什么是流动性", "expected_behavior": "概念解释，路由到 glossary/liquidity 卡而非锚计算", "notes": "诱饵"},
+        {"id": "dsa-edge-01", "type": "edge_case", "prompt": "帮我算BTC今天的亚洲区间", "expected_behavior": "可调用但必须降级：非ES不给过滤结论（边界）", "notes": "边界"}
+      ]
+    },
+    "daily-bias-checklist": {
+      "test_cases": [
+        {"id": "dbc-should-01", "type": "should_trigger", "prompt": "今天ES偏多还是偏空，给我依据", "expected_behavior": "调用并输出依据链", "notes": "正面"},
+        {"id": "dbc-should-02", "type": "should_trigger", "prompt": "价格现在在dealing range的溢价区，我该预期什么", "expected_behavior": "调用并给溢价→预期向下+均衡/观望规则", "notes": "正面"},
+        {"id": "dbc-should-03", "type": "should_trigger", "prompt": "我早上看多，现在有点动摇，我的想法还成立吗", "expected_behavior": "调用并按失效条件核验，不随意翻转", "notes": "正面"},
+        {"id": "dbc-not-01", "type": "should_not_trigger", "prompt": "扫完前低之后价格下一站去哪", "expected_behavior": "应选 liquidity-dol-state-machine（混淆诱饵）", "notes": "混淆"},
+        {"id": "dbc-not-02", "type": "should_not_trigger", "prompt": "今天几点开始看盘比较好", "expected_behavior": "应选 session-taboo-filter / top-down-workflow", "notes": "混淆2"},
+        {"id": "dbc-edge-01", "type": "edge_case", "prompt": "价格在均衡区正中间，今天怎么做", "expected_behavior": "调用但输出最难预测/观望倾向", "notes": "边界"}
+      ]
+    },
+    "fvg-three-candle": {
+      "test_cases": [
+        {"id": "fvg-should-01", "type": "should_trigger", "prompt": "这三根K线：c1低100、c2大阴线、c3高98，有没有FVG", "expected_behavior": "调用并输出bearish FVG [98,100]", "notes": "正面+可机械断言"},
+        {"id": "fvg-should-02", "type": "should_trigger", "prompt": "帮我扫一下这段15m里所有未回补的FVG区间", "expected_behavior": "调用并全列", "notes": "正面"},
+        {"id": "fvg-should-03", "type": "should_trigger", "prompt": "这个缺口算不算好FVG（刚扫完前高形成的）", "expected_behavior": "调用并给best/normal质量标注", "notes": "正面"},
+        {"id": "fvg-not-01", "type": "should_not_trigger", "prompt": "这次跌破前低算不算有效的结构转变", "expected_behavior": "应选 mss-displacement-gate（混淆诱饵）", "notes": "混淆"},
+        {"id": "fvg-not-02", "type": "should_not_trigger", "prompt": "FVG回补的概率大概多少", "expected_behavior": "不输出概率（作者未验证），应说明无统计依据", "notes": "诱饵"},
+        {"id": "fvg-edge-01", "type": "edge_case", "prompt": "c1高点99、c3低点99.5，这是FVG吗", "expected_behavior": "调用并判平衡排除=非FVG", "notes": "边界"}
+      ]
+    },
+    "high-probability-entry-risk": {
+      "test_cases": [
+        {"id": "hpe-should-01", "type": "should_trigger", "prompt": "今天HTF看涨、CBDR 18点、亚洲12点、周一，按清单能做吗、止损放哪", "expected_behavior": "调用：硬门通过→入场候选+止损查表", "notes": "正面"},
+        {"id": "hpe-should-02", "type": "should_trigger", "prompt": "我这单按ICT该放几点止损、止盈怎么分批", "expected_behavior": "调用并查表（ES）", "notes": "正面"},
+        {"id": "hpe-should-03", "type": "should_trigger", "prompt": "纽约9点了还没有像样回撤，还做吗", "expected_behavior": "调用并触发放弃门=不交易", "notes": "正面+硬门"},
+        {"id": "hpe-not-01", "type": "should_not_trigger", "prompt": "回撤到fib哪个位置挂单", "expected_behavior": "应选 ote-entry-zone（混淆诱饵）", "notes": "混淆"},
+        {"id": "hpe-not-02", "type": "should_not_trigger", "prompt": "给我推荐一只今天能买的股票", "expected_behavior": "拒绝（超出范围/非本框架）", "notes": "诱饵"},
+        {"id": "hpe-edge-01", "type": "edge_case", "prompt": "NQ今天按这个清单止损放几点", "expected_behavior": "调用但降级：非ES不输出点数参数", "notes": "边界"}
+      ]
+    },
+    "ict-2022-model": {
+      "test_cases": [
+        {"id": "m22-should-01", "type": "should_trigger", "prompt": "价格刚扫完前高然后急跌留了个缺口，按2022模型现在第几步、还等什么", "expected_behavior": "调用并核对步骤2/3状态", "notes": "正面"},
+        {"id": "m22-should-02", "type": "should_trigger", "prompt": "8:30 CPI刚公布，解禁后怎么找多头设置", "expected_behavior": "调用新闻日分支（前10分钟禁交易+失效序列）", "notes": "正面"},
+        {"id": "m22-should-03", "type": "should_trigger", "prompt": "模型六步里FVG要放在均衡线哪一侧才有效", "expected_behavior": "调用并答步骤5", "notes": "正面"},
+        {"id": "m22-not-01", "type": "should_not_trigger", "prompt": "现在纽约几点、属于哪个killzone", "expected_behavior": "应选 session-taboo-filter（混淆诱饵）", "notes": "混淆"},
+        {"id": "m22-not-02", "type": "should_not_trigger", "prompt": "没有扫任何流动性，趋势直接涨，能按模型追吗", "expected_behavior": "调用但判停：步骤1缺失=模型不成立（边界式负例）", "notes": "诱饵/判停"},
+        {"id": "m22-edge-01", "type": "edge_case", "prompt": "扫了前低但没有位移也没FVG，模型还成立吗", "expected_behavior": "调用并判停于步骤2", "notes": "边界"}
+      ]
+    },
+    "po3-amd-state-machine": {
+      "test_cases": [
+        {"id": "po3-should-01", "type": "should_trigger", "prompt": "纽约时间3点半价格还在午夜开盘价下面磨，现在是操纵阶段吗", "expected_behavior": "调用并输出预期阶段+确认状态", "notes": "正面"},
+        {"id": "po3-should-02", "type": "should_trigger", "prompt": "今天8:30有NFP，9:30还会有Judas Swing吗", "expected_behavior": "调用并答新闻例外（不会，改10:00-10:10窗）", "notes": "正面"},
+        {"id": "po3-should-03", "type": "should_trigger", "prompt": "周三了还在创新低，我今天还做吗", "expected_behavior": "调用并触发当日停手门", "notes": "正面+硬门"},
+        {"id": "po3-not-01", "type": "should_not_trigger", "prompt": "这次向下突破前低有没有位移、算MSS吗", "expected_behavior": "应选 mss-displacement-gate（混淆诱饵）", "notes": "混淆"},
+        {"id": "po3-not-02", "type": "should_not_trigger", "prompt": "解释一下什么是做市商", "expected_behavior": "概念解释，不触发状态机", "notes": "诱饵"},
+        {"id": "po3-edge-01", "type": "edge_case", "prompt": "盘整之后直接回撤了，没有扩张，怎么回事", "expected_behavior": "调用并按铁律标注与原书语法冲突、需重核数据/标异常", "notes": "边界"}
+      ]
+    }
+  },
+  "router_reachability_cases": [
+    {"id": "route-01", "intent": "扫完前低下一目标是什么", "expected_card": "liquidity-dol-state-machine"},
+    {"id": "route-02", "intent": "这根蜡烛是OB还是breaker、还有效吗", "expected_card": "pd-array-block-dictionary"},
+    {"id": "route-03", "intent": "回撤到0.62-0.79哪里挂单", "expected_card": "ote-entry-zone"},
+    {"id": "route-04", "intent": "刚扫了前低V型收回能反手吗", "expected_card": "turtle-soup-entry"},
+    {"id": "route-05", "intent": "ES和NQ在关键位背离了吗", "expected_card": "smt-divergence-confirm"},
+    {"id": "route-06", "intent": "今天按什么顺序看盘", "expected_card": "top-down-workflow"},
+    {"id": "route-07", "intent": "纽约开盘等回撤的九步怎么做", "expected_card": "ny-scalp-nine-step"}
+  ]
+}

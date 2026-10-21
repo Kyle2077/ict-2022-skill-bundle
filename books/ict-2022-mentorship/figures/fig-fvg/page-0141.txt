@@ -1,0 +1,29 @@
+113
+The illustration below does not depict a Fair Value Gap, as the previous candle’s
+high level has counterbalanced the low level of the third candle. This price action is
+considered to be balanced.
+下图没有描述公允价值差距，因为前一根蜡烛线的高水平抵消了第三根蜡烛线的低水
+平。这种价格行为被认为是平衡的。
+*FVG (Fair Value Gaps) is a candle in which there is an impulse, where an
+insufficiently large volume is traded with a lack of liquidity. This caused a sharp
+momentum without consolidations.
+*FVG(公允价值差距)是一个有推动力的蜡烛，在缺乏流动性的情况下交易量不够大。
+这造成了没有整合的强劲势头。
+An impulse movement can be triggered by large orders of one big player. The market
+maker seized all the liquidity, causing it to be scarce for most other players. Since a
+certain number of orders within the imbalance of a major player remains unfilled, the
+market returns and closes this zone.
+一个大玩家的大订单可以触发一个冲动动作。做市商攫取了所有的流动性，导致流动
+性对于大多数其他参与者来说是稀缺的。由于在主要参与者的不平衡状态下，一定数
+量的订单仍然没有完成，市场返回并关闭这个区域。
+Fair Value Gaps (FVGs) can be found on all timeframes and there are numerous
+trading strategies that can be implemented using them. In this example, we will
+focus on utilizing FVGs for trend continuation after a significant impulsive move.
+As previously mentioned, we can anticipate the price to return to these FVGs before
+continuing in the same direction as the impulse move. Traders can take advantage of
+this by waiting for the price to reach the FVG area of interest and then entering a trade,
+targeting trend continuation.
+公允价值差距(fvg)可以在所有时间框架中找到，并且有许多交易策略可以使用它们来
+实施。在本例中，我们将重点关注在重大脉冲波动后利用FVGs进行趋势延续。如前所
+述，我们可以预测价格在继续沿着与冲动相同的方向移动之前回到这些fvg。交易者可
+以利用这一点，等待价格到达FVG感兴趣的区域，然后开始交易，目标是趋势延续。

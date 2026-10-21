@@ -1,0 +1,30 @@
+145
+The next stage is always Expansion. This is not a pullback and not a reversal.
+下一阶段总是膨胀。这不是回调，也不是逆转。
+That is, after consolidation there is always an impulse movement.
+也就是说，在盘整之后，总会有一个冲动运动。
+We determine what kind of movement it is and in what direction it is. Once we
+have an Expansion, we have a choice:
+我们确定它是哪种运动，以及它的方向。一旦我们有了扩张，我们就有了选择:
+•
+there may be a Retracement pullback (we can return to the order block it just
+left and then make another move up or down, depending on the direction in
+which it moves).
+可能有一个回撤拉回(我们可以返回到它刚刚离开的订单块，然后根据它移动的
+方向再向上或向下移动一次)。
+•
+or maybe a Reversal.
+或者也许是反转.
+Once it reversed, there might be another Expansion move. It will then return to
+Consolidation.
+一旦它逆转，可能会有另一个扩展移动。然后，它将回到盘整状态。
+***Again, Consolidation cannot be followed by Retracement or Reversal.
+* * *再次，合并后面不能跟回撤或者反转.
+Consolidation is always followed by Expansion. After Expansion comes
+either Retracement or Reversal.
+合并后面总是跟着膨胀。在...之后膨胀要么来回撤或者反转.
+***The market does NOT do Consolidation -> Expansion -> Consolidation.
+* * *市场不做合并->扩展->合并.
+It does: Consolidation -> Expansion -> Retracement (before order block
+and resumption of movement) OR Consolidation -> Expansion -> Reversal.
+确实如此:合并->扩张->回撤(在订单阻塞和运动恢复之前)或合并->扩展->冲销。

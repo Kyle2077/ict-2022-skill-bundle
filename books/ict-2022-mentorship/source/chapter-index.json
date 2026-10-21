@@ -1,0 +1,332 @@
+[
+  {
+    "chapter": 1,
+    "title": "Introduction to Intraday Trading and Price Action",
+    "file": "ch01.txt",
+    "pdf_start": 14,
+    "pdf_end": 21,
+    "pages": 8,
+    "chars": 11126,
+    "images": 2
+  },
+  {
+    "chapter": 2,
+    "title": "Elements To A Trade Setup",
+    "file": "ch02.txt",
+    "pdf_start": 22,
+    "pdf_end": 38,
+    "pages": 17,
+    "chars": 14435,
+    "images": 12
+  },
+  {
+    "chapter": 3,
+    "title": "Introduction to Liquidity in Trading",
+    "file": "ch03.txt",
+    "pdf_start": 39,
+    "pdf_end": 79,
+    "pages": 41,
+    "chars": 31722,
+    "images": 36
+  },
+  {
+    "chapter": 4,
+    "title": "Market Structure Shifts",
+    "file": "ch04.txt",
+    "pdf_start": 80,
+    "pdf_end": 83,
+    "pages": 4,
+    "chars": 4087,
+    "images": 3
+  },
+  {
+    "chapter": 5,
+    "title": "How London Session Highs and Lows Can Provide Valuable Insights",
+    "file": "ch05.txt",
+    "pdf_start": 84,
+    "pdf_end": 87,
+    "pages": 4,
+    "chars": 3605,
+    "images": 1
+  },
+  {
+    "chapter": 6,
+    "title": "Intraday Order Flow & Understanding The Daily Range",
+    "file": "ch06.txt",
+    "pdf_start": 88,
+    "pdf_end": 94,
+    "pages": 7,
+    "chars": 4925,
+    "images": 3
+  },
+  {
+    "chapter": 7,
+    "title": "Three Drives Pattern",
+    "file": "ch07.txt",
+    "pdf_start": 95,
+    "pdf_end": 100,
+    "pages": 6,
+    "chars": 3367,
+    "images": 7
+  },
+  {
+    "chapter": 8,
+    "title": "Morning Trade and Positioning",
+    "file": "ch08.txt",
+    "pdf_start": 101,
+    "pdf_end": 111,
+    "pages": 11,
+    "chars": 10142,
+    "images": 9
+  },
+  {
+    "chapter": 9,
+    "title": "Market Efficiency Paradigm & Institutional Order Flow",
+    "file": "ch09.txt",
+    "pdf_start": 112,
+    "pdf_end": 138,
+    "pages": 27,
+    "chars": 24384,
+    "images": 25
+  },
+  {
+    "chapter": 10,
+    "title": "Fair Value Gap",
+    "file": "ch10.txt",
+    "pdf_start": 139,
+    "pdf_end": 154,
+    "pages": 16,
+    "chars": 11564,
+    "images": 15
+  },
+  {
+    "chapter": 11,
+    "title": "ICT Killzones and Sessions",
+    "file": "ch11.txt",
+    "pdf_start": 155,
+    "pdf_end": 180,
+    "pages": 26,
+    "chars": 16630,
+    "images": 28
+  },
+  {
+    "chapter": 12,
+    "title": "Daily Bias & Consolidation Hurdles",
+    "file": "ch12.txt",
+    "pdf_start": 181,
+    "pdf_end": 214,
+    "pages": 34,
+    "chars": 22166,
+    "images": 42
+  },
+  {
+    "chapter": 13,
+    "title": "Power Of 3 & New York PM Session Opportunities",
+    "file": "ch13.txt",
+    "pdf_start": 215,
+    "pdf_end": 265,
+    "pages": 51,
+    "chars": 31133,
+    "images": 65
+  },
+  {
+    "chapter": 14,
+    "title": "Implementing Economic Calendar Events With The Open",
+    "file": "ch14.txt",
+    "pdf_start": 266,
+    "pdf_end": 300,
+    "pages": 35,
+    "chars": 24609,
+    "images": 33
+  },
+  {
+    "chapter": 15,
+    "title": "Market Structure For Precision Technicians",
+    "file": "ch15.txt",
+    "pdf_start": 301,
+    "pdf_end": 331,
+    "pages": 31,
+    "chars": 15187,
+    "images": 48
+  },
+  {
+    "chapter": 16,
+    "title": "Multiple Setups Inside Trading Session",
+    "file": "ch16.txt",
+    "pdf_start": 332,
+    "pdf_end": 382,
+    "pages": 51,
+    "chars": 30615,
+    "images": 78
+  },
+  {
+    "chapter": 17,
+    "title": "Intermarket Relationships & Intermarket Analysis",
+    "file": "ch17.txt",
+    "pdf_start": 383,
+    "pdf_end": 398,
+    "pages": 16,
+    "chars": 9439,
+    "images": 35
+  },
+  {
+    "chapter": 18,
+    "title": "FOMC, NFP Study",
+    "file": "ch18.txt",
+    "pdf_start": 399,
+    "pdf_end": 405,
+    "pages": 7,
+    "chars": 5656,
+    "images": 2
+  },
+  {
+    "chapter": 19,
+    "title": "Model Diagrams",
+    "file": "ch19.txt",
+    "pdf_start": 406,
+    "pdf_end": 467,
+    "pages": 62,
+    "chars": 29990,
+    "images": 66
+  },
+  {
+    "chapter": 20,
+    "title": "Daily Rebalance Theory",
+    "file": "ch20.txt",
+    "pdf_start": 468,
+    "pdf_end": 476,
+    "pages": 9,
+    "chars": 3137,
+    "images": 15
+  },
+  {
+    "chapter": 21,
+    "title": "View Price with Institutional Perception",
+    "file": "ch21.txt",
+    "pdf_start": 477,
+    "pdf_end": 481,
+    "pages": 5,
+    "chars": 3267,
+    "images": 10
+  },
+  {
+    "chapter": 22,
+    "title": "General Range Trading Rules",
+    "file": "ch22.txt",
+    "pdf_start": 482,
+    "pdf_end": 491,
+    "pages": 10,
+    "chars": 6069,
+    "images": 9
+  },
+  {
+    "chapter": 23,
+    "title": "New Week/Day Opening Gap (NWOG/NDOG)",
+    "file": "ch23.txt",
+    "pdf_start": 492,
+    "pdf_end": 496,
+    "pages": 5,
+    "chars": 4076,
+    "images": 5
+  },
+  {
+    "chapter": 24,
+    "title": "Liquidity Void and Fair Valuation",
+    "file": "ch24.txt",
+    "pdf_start": 497,
+    "pdf_end": 507,
+    "pages": 11,
+    "chars": 10582,
+    "images": 8
+  },
+  {
+    "chapter": 25,
+    "title": "How to Use Day of the Week and Time of Day",
+    "file": "ch25.txt",
+    "pdf_start": 508,
+    "pdf_end": 514,
+    "pages": 7,
+    "chars": 4762,
+    "images": 10
+  },
+  {
+    "chapter": 26,
+    "title": "Daily Templates",
+    "file": "ch26.txt",
+    "pdf_start": 515,
+    "pdf_end": 522,
+    "pages": 8,
+    "chars": 5281,
+    "images": 8
+  },
+  {
+    "chapter": 27,
+    "title": "Previous Day High and Low as a Liquidity Pool",
+    "file": "ch27.txt",
+    "pdf_start": 523,
+    "pdf_end": 536,
+    "pages": 14,
+    "chars": 10290,
+    "images": 16
+  },
+  {
+    "chapter": 28,
+    "title": "Hours of Operation",
+    "file": "ch28.txt",
+    "pdf_start": 537,
+    "pdf_end": 546,
+    "pages": 10,
+    "chars": 3438,
+    "images": 9
+  },
+  {
+    "chapter": 29,
+    "title": "Core Content - ICT Block Types",
+    "file": "ch29.txt",
+    "pdf_start": 547,
+    "pdf_end": 616,
+    "pages": 70,
+    "chars": 42281,
+    "images": 101
+  },
+  {
+    "chapter": 30,
+    "title": "Breakaway Gaps and the Redelivered Rebalanced PD Array",
+    "file": "ch30.txt",
+    "pdf_start": 617,
+    "pdf_end": 621,
+    "pages": 5,
+    "chars": 2353,
+    "images": 6
+  },
+  {
+    "chapter": 31,
+    "title": "Central Bank Dealers Range",
+    "file": "ch31.txt",
+    "pdf_start": 622,
+    "pdf_end": 626,
+    "pages": 5,
+    "chars": 4111,
+    "images": 5
+  },
+  {
+    "chapter": 32,
+    "title": "High Probability Daytrade Setups",
+    "file": "ch32.txt",
+    "pdf_start": 627,
+    "pdf_end": 659,
+    "pages": 33,
+    "chars": 21721,
+    "images": 34
+  },
+  {
+    "chapter": 33,
+    "title": "Quarterly Shifts & IPDA Data Ranges",
+    "file": "ch33.txt",
+    "pdf_start": 660,
+    "pdf_end": 671,
+    "pages": 12,
+    "chars": 8061,
+    "images": 20
+  }
+]

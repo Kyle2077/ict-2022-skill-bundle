@@ -1,0 +1,137 @@
+
+<<<PDFPAGE 399 | images=0>>>
+295
+Chapter 18
+第十八章
+<<<PDFPAGE 400 | images=0>>>
+296
+FOMC, NFP Study
+FOMC，NFP研究
+• FOMC days: The Federal Open Market Committee (FOMC) is the committee
+that sets interest rates in the United States. FOMC meetings are held eight
+timesperyear,andthedayofthemeetingisoftenataboodayfortrading.This
+isbecausetheFOMC’sdecisionscanhaveasignificantimpactonthemarket,
+andtradersmaybemorelikelytomakeimpulsivedecisionsonthesedays.
+FOMC·戴斯:联邦公开市场委员会(FOMC)是设定美国利率的委员会。FOMC会
+议每年举行八次，会议当天通常是交易的禁忌日。这是因为FOMC的决定会对
+市场产生重大影响，交易者在这几天可能更容易做出冲动的决定。
+• Non-farmpayroll(NFP)days:TheNFPreportisamonthlyreportthatmeasures
+thenumberofjobsaddedtotheUSeconomy.NFPreportsarereleasedonthe
+firstFridayofeverymonth,andtheycanalsobetaboodaysfortrading.This
+is because the NFP report can have a significant impact on the market, and
+tradersmaybemorelikelytomakeimpulsivedecisionsonthesedays.
+非农就业(NFP)日:《NFP报告》是一份月度报告，衡量美国经济新增的就业岗
+位数量。NFP报告在每个月的第一个星期五发布，这也可能是交易的禁忌日。
+这是因为NFP报告可能会对市场产生重大影响，交易者可能更容易在这些天做
+出冲动的决定。
+WhyAvoid Thursday&FridayofNonFarmPayroll(NFP)Weeks?
+为什么避开周四和周五的非农工资(NFP)周？
+ICT recommends avoiding trading on Thursday and Friday during non-farm
+payroll(NFP)week.Thisisbecausethereisalotofheavymanipulationthatgoeson
+thatweek,andthemarkettends tobereallyunfavorable.ICTadvises thatasanew
+developingstudent,itisimportanttoknowthatthosemarketenvironmentsarenot
+thesameastheweekafterNFP.There’salotofwaitandseetypeconditions,andyou
+canhurtyourself.DuringNFPweek,themarketislikelytoconsolidate,gyratearound
+inasmall,meaningless,aimlessrange,waitingforthenewstodrop.Therefore,itis
+notagoodideatotradeduringthistime.
+ICT建议避免在NFP非农就业周的周四和周五进行交易。这是因为那一周有很多严重
+的操纵，市场往往非常不利。ICT建议，作为一名发展中的新生，了解这些市场环境
+与NFP会议后的一周不同是很重要的。有很多等待和观望类型的条件，你可能会伤害
+自己。在NFP周期间，市场可能会巩固，在一个小的，无意义的，无目的的范围内旋
+转，等待消息下降。因此，在这段时间进行交易并不是一个好主意。
+• Increasedvolatility:Thesedaysoftenseeincreasedvolatilityinthemarkets,
+<<<PDFPAGE 401 | images=0>>>
+297
+波动性增加:最近市场波动性增加，
+whichcanmakeitdifficulttotradeprofitably.
+这使得交易难以盈利。
+• Liquidityissues:Liquiditycanbeanissueonthesedays,asmanytradersare
+hesitanttotradeinvolatilemarkets.
+流动性问题:这些天流动性可能是一个问题，因为许多交易者在波动的市场中犹
+豫不决。
+• Thepotentialforfalsemoves:Thesedayscanoftenseefalsemoves,whichcan
+traptradersintotakinglosingtrades.
+虚假波动的可能性:这些天经常可以看到虚假波动，这可能会让交易者陷入亏损
+交易。
+ICT also advises avoiding trading London open after FOMC events that create
+whipsaw.
+ICT还建议避免在FOMC事件后交易伦敦股市。
+• Manualinterventionbytheinstitutions.
+机构的人工干预。
+• SeekanddestroyprofileonThursday(Friday)expected.
+预计在周四(周五)寻找并销毁个人资料。
+<<<PDFPAGE 402 | images=1>>>
+298
+• Afterlargeexpansionmove.
+在大规模扩张之后。
+• FridayswhenThursdaysmetHTFobjective.
+周四遇上HTF目标的周五。
+• Highresistanceliquidityconditions:
+高阻力流动性条件:
+Whenpriceisconstantlymovingupanddowninarangeon DXY,wewanttosee
+whatside ofthemarketwhenitcomes toFuturesmoveseasierormorefreely.Pair
+thatupwithMarketStructure,Narrativeand/orBias.Itisveryimportanttoidentify
+theMarketsConditionand act accordingly. Sometimes stayingonthe sidelinesand
+speculatingisthebestthingtodo.Sometimespricemightnotfollowtheserulesand
+thatcreateshighresistanceliquidityruns.
+当价格在DXY上不断上下波动时，我们希望看到期货市场的哪一面波动更容易或更自
+由。将其与市场结构、叙事和/或偏见联系起来。识别市场状况并采取相应的行动是非
+常重要的。有时候保持观望和猜测是最好的选择。有时价格可能不遵循这些规则，这
+造成了高阻力的流动性挤兑。
+Thinkofhighresistanceasanareathatwasalreadyinducedsothemarkethasless
+incentivetoreturnwhilelowresistanceiswhereuntouchedliquidityrests(sequence
+
+<<<PDFPAGE 403 | images=0>>>
+299
+ofhigherlowsandlowerhighs).
+将高阻力视为一个已经被诱导的区域，因此市场返回的动力较小，而低阻力则是未被
+触及的流动性所在的位置(较高的低点和较低的高点的序列)。
+• Precisionwillbeskewed.
+精度会有偏差。
+• PDarraysmaynotbeasreliableasnormallywould.
+PD阵列可能不像通常那样可靠。
+<<<PDFPAGE 404 | images=1>>>
+300
+Taboo Trading Days and Market Manipulation
+禁忌交易日和市场操纵
+Intheworldoftrading,therearecertaindaysthatareconsideredtaboofortrading.
+Thesearedayswhenmarketconditionscanbeunpredictableandpotentiallyvolatile.
+在交易的世界里，有些日子被认为是交易的禁忌。如今，市场状况不可预测，而且可
+能会出现波动。
+OneexampleofatabootradingdayisaMondayfollowinganon-farmpayrollreport.
+Non-farmpayrollreportsarereleasedonthefirstFridayofeverymonthandprovide
+importantdataonemploymenttrendsintheUnitedStates.Ifthereisnoholidayin
+thebeginningoftheweekorpriortoWednesday,Mondayscanbeparticularlyvolatile
+duetoincreasedmovementinthemarket.
+禁忌交易日的一个例子是非农就业报告发布后的周一。非农就业报告在每月的第一个星
+期五发布，提供美国就业趋势的重要数据。如果在一周的开始或周三之前没有假期，由
+于市场波动增加，周一可能会特别不稳定。
+Another taboo trading day is when there is a holiday on Monday, Tuesday,
+or Wednesdayofanon-farmpayrollweek.Inthiscase,ThursdaysandFridaysafterthe
+non-farmpayrollreleasebecomethefocusfortrading,asmarketmovementscanbe
+significantduringthesedays.
+另一个禁忌交易日是非农就业周的周一、周二或周三有假日。在这种情况下，非农就
+业数据发布后的周四和周五成为交易的焦点，因为在这两天市场波动可能会很大。
+Analyzing Market Manipulation During Significant Economic
+Reports
+分析重大经济报告中的市场操纵
+<<<PDFPAGE 405 | images=0>>>
+301
+Marketmanipulationisacommonoccurrenceduringsignificanteconomicreports.
+OneexampleofthisistheFOMCevent.TheFOMCeventisatwo-stageeventthattakes
+placeat2o’clockintheafternoon.Thefirstrunaftertheeventisoftenconsidereda
+fakemove,designedtolureinunsuspectingtraders.Itisimportanttobeawareofthis
+manipulationandnotgetcaughtupintheinitialrun.
+市场操纵是重大经济报告中常见的现象。这方面的一个例子是FOMC事件。FOMC赛事
+分为两个阶段，在下午2点举行。事后的第一次运行通常被认为是假的，旨在吸引不知
+情的交易者。重要的是要意识到这种操纵，不要在最初的运行中被抓住。
+During the FOMC event, it is common for the market to move in the opposite
+directionduring the conference portion.This can becompared toa tsunami,where
+thewatermovesawayfromthebeachbeforethebigwavehits.Similarly,themarket
+maymoveinonedirectioninitiallybeforereversingduringtheconferenceportion.It
+iscrucialnottobecaughtupinthesebigmovesandtobeawareofthemanipulation
+thatcanoccurduringtheseevents.
+在FOMC会议期间，市场通常会在会议期间反向波动。这可以与海啸相提并论，在海
+啸中，在大浪袭来之前，海水会远离海滩。类似地，在会议部分反转之前，市场最初
+可能向一个方向移动。至关重要的是，不要被这些大动作所套牢，并意识到在这些事
+件中可能发生的操纵。

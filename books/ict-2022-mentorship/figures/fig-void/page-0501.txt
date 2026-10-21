@@ -1,0 +1,13 @@
+397
+Now you expect the price to completely fill the void, sometimes it happens instantly,
+but sometimes it first goes higher, deceiving traders, and then completely fills it, as in
+the example above.
+现在你期望价格完全填补空白，有时它会立即发生，但有时它会先走高，欺骗交易
+者，然后完全填补，就像上面的例子一样。
+When price goes with gap so aggressively, we know there is a good chance that
+price will go further up. We can place a limit order to buy at the level of this gap.
+当价格与差距如此之大时，我们知道价格很有可能会进一步上涨。我们可以在这个缺
+口水平下限价单买入。
+Consolidation
+合并
+When price moves in defined trading range (i.e. Consolidation) there is going to be

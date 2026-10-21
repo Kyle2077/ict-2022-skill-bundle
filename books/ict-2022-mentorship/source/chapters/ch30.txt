@@ -1,0 +1,62 @@
+
+<<<PDFPAGE 617 | images=0>>>
+373
+Chapter 30
+第三十章
+Breakaway Gaps and the Redelivered Rebalanced PD
+Array
+分离间隙和重新交付的再平衡PD阵列
+credittotheMMXMTrader
+MMXM交易商的信用
+A Breakaway Gap refers to a gap in price action that occurs after a period
+of consolidation.It signifies a significant shift in market sentiment and often marks
+thebeginningofanewtrend.Ontheotherhand,aBalancedPriceRangereferstoa
+portionofpriceactionthathasexperiencedbothbuyingandsellingpressure,resulting
+inaperiodofequilibrium.
+突破缺口是指经过一段时间的盘整后，价格行为出现的缺口。它标志着市场情绪的重
+大转变，通常标志着新趋势的开始。另一方面，均衡价格区间指的是经历了买卖压力
+的一部分价格行为，导致一段时间的均衡。
+The Redelivered Rebalanced PD array is defined as a price range that has
+重新交付的重新平衡PD阵列被定义为具有以下特征的价格范围
+experiencedbothbuyingandsellingpressure,resultinginabalancedmarket.
+经历了买卖双方的压力，导致市场平衡。
+AbullishBalancedPriceRangebydefinitionisaportionofpriceactionthathas
+根据定义，看涨均衡价格区间是价格行为的一部分
+deliveredbuyside->sellsideandthenbuysideagain.
+交付买方->卖方，然后再交付买方。
+A bullish Balanced Price Range is a portion of price action that demonstrates a
+specificpattern ofmovement: up,down,and thenupagain. Thisindicates a period
+of buying pressure, followed by selling pressure, and then another surge in buying
+activity.
+看涨均衡价格区间是价格行为的一部分，它展示了一种特定的运动模式:上涨，下跌，
+然后再次上涨。这表明有一段时间的买入压力，接着是卖出压力，然后又是一波买入
+活动。
+Toputitsimply,aBearishRDRBispricedeliveredUP,DOWN&UPAGAIN.
+简单地说，看跌的RDRB是价格上涨，下跌，再上涨。
+AbearishBalancedPriceRangebydefinitionisaportionofpriceactionthathas
+<<<PDFPAGE 618 | images=0>>>
+374
+根据定义，看跌均衡价格范围是价格行为的一部分，它具有
+deliveredsellside->buysideandthensellsideagain.
+交付卖方->买方，然后再交付卖方。
+AbearishBalancedPriceRangeisaportionofpriceactionthatfollowsaspecific
+patternofsellside,buyside,andsellsideagain.Thispatterncanbesummarizedas
+“down,up,anddownagain.”Itiscalledabalancedpricerangebecauseitrepresents
+aperiodofequilibriumbetweenbuyersandsellers,wherebothsideshavehadtheir
+chancetoinfluencetheprice.
+看跌均衡价格区间是价格行为的一部分，遵循特定的卖出方、买入方、再卖出方模
+式。这种模式可以概括为“下降，上升，再下降。”之所以称之为均衡价格区间，是因
+为它代表了买方和卖方之间的一段均衡时期，在此期间，双方都有机会影响价格。
+Toputitsimply,aBearishRDRBispricedeliveredDOWN,UP&DOWNAGAIN.
+简单地说，看跌的RDRB是价格下跌，再上涨，再下跌。
+<<<PDFPAGE 619 | images=2>>>
+375
+TheFVGwillstayopenbecausethereisabalancedpricerangeabove/belowit.The
+RedeliveredRebalancedPDArray.ThisFVGthatwillstayopenisaBreakawayGap.
+FVG将保持开放，因为在它上面/下面有一个平衡的价格区间。重新交付的再平衡PD阵
+列。这个将保持开放的FVG是一个脱离的缺口。
+<<<PDFPAGE 620 | images=3>>>
+376
+
+<<<PDFPAGE 621 | images=1>>>
+377

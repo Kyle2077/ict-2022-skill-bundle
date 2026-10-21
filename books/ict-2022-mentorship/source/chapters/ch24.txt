@@ -1,0 +1,264 @@
+
+<<<PDFPAGE 497 | images=0>>>
+393
+Chapter 24
+第二十四章
+Liquidity Void and Fair Valuation
+流动性缺失与公平估价
+Fair ValuationisonlyfortheMarketMakerandnotforthetrader.
+Whenanalyzingcurrentpriceactionaskyourself:
+公平估价只适用于做市商，不适用于交易商。当分析当前价格行为
+时，问问自己:
+• IspriceaFairValueforMarketMakerstogobuyin?
+对于做市商来说，价格是一个公平的买入价格吗？
+• IspriceaFairValueforMarketMakerstosellin?
+对于做市商来说，价格是一个公平的卖出价格吗？
+Whenpricereturns backtoanareaofFairValuethatisafairvaluefortheMarket
+Makertoeithersellorbuyat.MarketMakershavetodealintermsofFairValuation
+fortheir short and longpositions.They alsohave todothesame Fair Valuationfor
+theirexistsonbothsidesofthemarketplace.
+当价格回升时背部到一个公允价值区域，该区域是做市商卖出或买入的公允价值。做
+市商必须对他们的空头和多头头寸进行公平估价。他们还必须对他们在市场两边的存
+在进行同样的公平估价。
+OnhighertimeframesalwaysaskyourselfwheredoestheMarketMakerviewFair
+Value?
+在更高的时间框架内，总是问自己做市商在哪里看待公允价值？
+ToascertainFairValuelookforthreethings:
+要确定公允价值，需要考虑三个因素:
+1. Findthetotalmacrorangeoflargerpricemove(PremiumorDiscount).
+找出较大价格变动(溢价或折价)的总宏观范围。
+2. WhereistheEquilibriumpricepoint(ofthelargerpricemove)relativetothe
+mostrecenttradingrangehighandlow?
+相对于最近交易区间的高低点,(较大价格波动的)均衡价格点在哪里？
+3. Where are the reference points that Market Makers will aim for? (FVGs,
+<<<PDFPAGE 498 | images=0>>>
+394
+LiquidityVoids,Orderblocks).
+做市商会瞄准的参考点在哪里？(fvg、流动性空白、订单冻结)。
+Equilibrium
+平衡
+Equilibriumisthe50%(ormiddlepoint)linebetweenaswinghighandaswing
+low.
+平衡是波动高点和波动低点之间的50%(或中点)线。
+MarkouttheEquilibriumonthecurrenttradingrange.ThendrawtheEquilibrium
+onthenextlargesttradingrange.Andthenext.Etc.IsthecurrentpriceinaDiscount
+orPremiuminallormanyofthem?Ispriceinthelowestorhighestthird?
+标出当前交易区间的平衡点。然后在下一个最大的交易区间画出均衡。下一个。等
+等。目前的价格是全部还是大部分都是打折还是溢价？价格是最低还是最高的三分之
+一？
+When price is at Equilibrium you need to refer to where the most recent price
+swingtookplace.BecauseatEquilibrium(orFairValue)pricecangoeitherdirection.
+Theeasiestwaytodeterminethemostprobablenextdirectionisfindingwheremarket
+structurebrokemostrecently:
+当价格处于均衡时，你需要参考最近价格波动发生的地方。因为在均衡(或公允价值)
+时，价格可以向两个方向变动。确定最有可能的下一个方向的最简单方法是找到市场
+结构最近被打破的地方:
+Did price break a swing high most recently or did price break a swing low most
+recently?Alsonoticewhatpartofthebigoverallrangepriceisin.Ispriceisthelower
+part,upperpart,ornearthemiddle?
+价格最近打破了一个波动高点还是价格最近打破了一个波动低点？还要注意价格在大
+的整体范围的哪一部分。价格是低的部分，高的部分，还是接近中间？
+<<<PDFPAGE 499 | images=0>>>
+395
+PayattentiontothebodiesofthecandlewhenpriceisaroundEquilibrium.Does
+thebodiesofthecandlesstayononesideofEquilibriumwhilethewickscrossit?This
+giveshintsthatpricemayreverseafterthewicksgoacrosstheEquilibrium.
+当价格接近平衡时，注意蜡烛体。当烛芯穿过平衡时，蜡烛的主体会停留在平衡的一
+边吗？这暗示价格可能会在灯芯穿过平衡后反转。
+Liquidity Voidiswhen pricemakesasuddenmovementinonedirectionovera
+largerange(comparedtorecentcandlesize)inashortamountoftime.
+流动性空白价格在短时间内在一个大范围内(与最近的蜡烛线相比)突然向一个方向移
+动。
+Liquidity voids occur when price moves sharply in one direction, leaving large
+candlesthathavelittletradingactivityaspricemovesinonedirection.Eventually,the
+pricewillreturntoclosetheliquidityvoidlater.
+当价格朝一个方向剧烈波动时，就会出现流动性空洞，当价格朝一个方向波动时，大
+蜡烛几乎没有交易活动。最终，价格会在晚些时候回归，填补流动性空白。
+Liquidityvoidsarelong-bodycandleswherethepricehasonlybeensetoneway,
+sometimeswithasmallgapbetweenthelargercandles.
+流动性空洞是长蜡烛线，价格只有一个方向，有时大蜡烛线之间有一个小间隙。
+Thecandlesarecharacterizedbylargebeefybodieswithtinywicks:
+这些蜡烛的特点是大而结实的蜡烛体带有细小的蜡烛芯:
+• ALiquidityVoidmeanspricespentverylittletimetradingatthoseprices.
+流动性空意味着价格在这些价格上花的时间很少。
+LiquidityVoidcharacteristics:
+流动性无效特征:
+Whenprice isontheothersideoftheLiquidityVoid(afterjustcreatingit)then
+theLiquidityVoidisconsideredFairValueandtheMarketwillwanttocomebackto
+itbecausetherewasverylittletradinginit.Butpricedoesn’thavetotradebacktothe
+LiquidityVoidimmediately.
+当价格在流动性空白的另一边时(在刚刚创造流动性空白之后)，那么流动性空白被认
+为是公允价值，市场会想要回到它，因为交易很少。但是价格并不需要立即回到流动
+性空白。
+TheLiquidityVoidisFairValuetotheMarketMakersbecausethealgorithmseeks
+to rebalance inefficiently traded price ranges (which is the definition of a Liquidity
+Void).
+流动性空白对做市商来说是公允价值，因为该算法寻求重新平衡低效交易的价格范围
+(这是流动性空白的定义)。
+Liquidity Void Trading: Whenprice trades back into aLiquidityVoidexpect
+<<<PDFPAGE 500 | images=0>>>
+396
+price to wick up and down as price fills the Liquidity Void. This is because Market
+Makers are selling their long positions or buying back their short positions in the
+rangeoftheLiquidityVoidthatwasaccumulatedbeforehand.
+流动性无效交易:当价格交易回到流动性空白时，预计价格会随着价格填补流动性空白
+而上下波动。这是因为做市商在事先积累的流动性空白范围内卖出他们的多头头寸或
+回购他们的空头头寸。
+OncetheLiquidityVoidisfilledinlookforfartherup/down(fartherinapremium
+ordiscount)FairValueGapsorICTOrderblockswhereMarketMakerswilllookto
+offsettheirpositions,theygotontheotherendofthepremiumvsdiscountmove.
+一旦填补了流动性空白，寻找进一步上升/下降(溢价或折价)的公允价值差距或ICT订
+单块，做市商将在这些地方寻求抵消他们的头寸，他们就处于溢价与折价变动的另一
+端。
+Let’stakealookanexamplebelow,theliquidityvoidwillbefilledinthefutureby
+abearishpricemovethatwillcovertheentirerangeandwhenthishappens,theprice
+willbebalancedasthepricewillbeofferedonthebuysideandonthesellside.
+让我们看看下面的例子，流动性空白将在未来被覆盖整个范围的价格下跌填补，当这
+种情况发生时，价格将平衡，因为价格将在买方和卖方提供。
+<<<PDFPAGE 501 | images=4>>>
+397
+Nowyouexpectthepricetocompletelyfillthevoid,sometimesithappensinstantly,
+butsometimesitfirstgoeshigher,deceivingtraders,andthencompletelyfillsit,asin
+theexampleabove.
+现在你期望价格完全填补空白，有时它会立即发生，但有时它会先走高，欺骗交易
+者，然后完全填补，就像上面的例子一样。
+When price goes with gap so aggressively, we know there is a good chance that
+pricewillgofurtherup.Wecanplacealimitordertobuyatthelevelofthisgap.
+当价格与差距如此之大时，我们知道价格很有可能会进一步上涨。我们可以在这个缺
+口水平下限价单买入。
+Consolidation
+合并
+Whenpricemovesindefinedtradingrange(i.e.Consolidation)thereisgoingtobe
+
+<<<PDFPAGE 502 | images=0>>>
+398
+当价格在规定的交易范围内变动(即盘整)时，将会出现
+Equilibrium:
+平衡:
+• EquilibriuminitselfisFairValue.
+均衡本身就是公允价值。
+• Lookforpricetocontinuetradinginthedirectionofthestrongmoveoutofa
+consolidation.
+寻找价格继续朝着走出盘整的强势方向交易。
+<<<PDFPAGE 503 | images=1>>>
+399
+Ifweseeexpansionthenweknowthatpriortotheexpansionwasconsolidation.
+如果我们看到扩张，那么我们知道扩张之前是整合。
+Butwedon’tknowhowlongpricewillstayinaconsolidation.
+但是我们不知道价格会在盘整中持续多久。
+Market Makers
+做市商
+TheMarketmoves:
+市场变动:
+• Frombuystopstosellstopsandsellstopstobuystops.
+从买入止损到卖出止损，从卖出止损到买入止损。
+• FromFairValuetoDiscount,DiscounttoPremium,PremiumtoFairValue
+Theonlyreasonwhypriceisallowedtobedeliveredathigherpricesisbecausethe
+从公允价值到贴现，贴现到溢价，溢价到公允价值价格被允许以更高的价格交付的
+唯一原因是因为
+MarketMakersarenetlongandit’sintheirinterestinpricetogohigher.Itdoesn’t
+matterhowmanyRetailtradersbuyorsell.ThepriceisgoingtobesetbytheMarket
+MakersandtheyaregoingtodothingstolinetheirownpocketsandnotRetailtraders.
+做市商是净多头，价格上涨符合他们的利益。多少散户买多少卖不重要。价格将由做
+市商设定，他们将做些事情来中饱私囊，而不是散户。
+It takes a perspective shift (remember the market efficiency paradigm that ICT
+taught)toviewthingsfromtheSmartMoney’sperspectiveandnotwhatRetaillogic
+teaches.
+这需要一个视角的转变(记住ICT教授的市场效率范式),从精明资金的角度而不是零售
+逻辑教授的角度来看待事情。
+Priceactionisnotrandom.MarketMakersspecificallymovepricetowherethey
+wantittogoandMarketMakerscontrolthereasonwhypricegoesinadirection.This
+iswhyifyoumessupatradeormissamove,don’tworryaboutit.Themarketwillgive
+youanotherchancealmosteveryday.Becauseeverythingrepeats!Becauseeverything
+iscontrolledbySmartMoney(i.e.MarketMakers).
+价格行为不是随机的。做市商专门将价格移动到他们想要的位置，做市商控制价格走
+向的原因。这就是为什么如果你搞砸了一笔交易或者错过了一步棋，不要担心。市场
+几乎每天都会再给你一次机会。因为一切都在重复！因为一切都是由聪明的钱(即做市
+商)控制的。
+
+<<<PDFPAGE 504 | images=3>>>
+400
+Onthechartabove,thepricehasbrokenthroughtheprevioushigh(breakingthe
+structure)andreturnedtotheEquilibriumzone.Beeninthisareaforalongtime.This
+isalreadyanindicator.Thepricecanstayhereinconsolidationforacertainamountof
+time,butwedon’tknowhowlongthepricewillstayhere.Also,ifwetakealargerange
+markedinblue,wecanconcludethatthepriceisintheoversoldzonenow(discount
+zone).
+在上图中，价格已经突破前期高点(打破结构)，回到均衡区。在这个地区已经很久了。
+这已经是指标了。价格可以在此盘整一段时间，但我们不知道价格会在此盘整多久。
+同样，如果我们取一个用蓝色标记的大范围，我们可以得出结论，价格现在处于超卖
+区(折价区)。
+Basedonthis,wedecidewherethepriceismorelikelytogo-shortorlong?Ivote
+forlong.
+基于此，我们决定价格更有可能走向哪里——做空还是做多？我投长票。
+Notice,wereturnedtotheEquilibriumzoneofasmall impulse,which maybea
+reasonformarketmakerstoopenlongs.
+注意，我们回到了小冲动的均衡区，这可能是做市商开多的一个理由。
+Downcandlerightbeforetheupmovethroughtheshort-time-high-bullishOB.
+Therefore,thepricecomesbackdown,reachesOBalongwithequilibrium.
+在上涨穿过短期高点看涨OB之前，蜡烛线下跌。因此，价格回落，随着均衡到达
+<<<PDFPAGE 505 | images=0>>>
+401
+OB。
+Thatis,wehaveahighprobabilitythatthemarketwillgofromthediscountzone
+tothepremiumzone.
+也就是说，我们有很大的概率，市场将从贴现区到溢价区。
+Weshouldconsiderthefollowingcoupleofthings:
+我们应该考虑以下几件事:
+• Overallrangewetrade.
+我们交易的全部范围。
+• Equilibrium,relativetothelastformedrange.
+平衡，相对于最后形成的范围。
+• Liquidityvoidsandliquiditypoolsaboveoldhighs/lows.
+旧高点/低点上方的流动性空洞和流动性池。
+<<<PDFPAGE 506 | images=0>>>
+402
+TheeasiestwaytounderstandtheInstitutionalOrderFlowistounderstandthat
+themarketsare moving from buy stops to sell stops, from sell stops to buy
+stops.
+理解机构订单流最简单的方法是理解市场从买入止损点转移到卖出止损点，从卖出止
+损点转移到买入止损点。
+FromFairValueto=>Discount,toDiscountto=>Premium,toPremiumto=>Fair
+Value.
+从公允价值到=>折扣，到折扣到=>溢价，到溢价到=>公允价值。
+The market moves between these three breakpoints: we have a Discount, or
+aPremium,oraFairValue.
+市场在这三个断点之间移动:我们有折扣，或溢价，或公允价值。
+AllofthistogethergivesuscluesastowhatweareseeingintermsofMarketMaker
+(MM)activities:theyareaccumulating,manipulating,ordistributing.
+所有这些都给了我们一些线索，让我们知道我们在做市商(MM)活动方面看到了什么:
+他们在积累、操纵或分配。
+FairValueinDiscount-MMbuy.
+FairValueinPremium-MMsell.
+折扣中的公允价值-MM购买。溢
+价中的公允价值-MM出售。
+Thinkintermsofwherewearenowinrelationtothecurrentrange.Areweatthe
+bottom?Arewenearthelowofthecurrentrange?DoweconsiderEquilibrium?Having
+determinedthepriceinthecurrenttradingranges,wecanseewhereMMwillincrease
+theprice.Sowhenanexpansionoccurs,weknowthattherewasaconsolidationprior
+tothatexpansion.
+想想我们现在相对于当前产品系列的位置。我们在底部吗？我们接近当前范围的下限
+了吗？我们考虑均衡吗？在当前交易范围内确定价格后，我们可以看到MM将在哪里
+提价。所以当一次扩张发生时，我们知道在那次扩张之前有一次整合。
+AfterasharpruninPrice,thelargecandlesthatformaretheleastefficientlytraded
+areasintherange.SuddenrunsinPricewillleaveporousPriceActionthattendstofill
+inatalatertime.Thesetinygapscanbeviewedsometimesbyopeninga1minuteor
+5-minutechart.ThisisdescribedasavoidofmarketliquidityorLiquidityVoid.
+在价格大幅上涨后，形成的大蜡烛线是交易效率最低的区域。价格的突然上涨会留下
+漏洞百出的价格行为，这些行为往往会在以后填补。这些微小的差距有时可以通过打
+开1分钟或5分钟的图表来观察。这被称为市场流动性空白或流动性空白。
+Fair Valuation is when price trades back inside its current range and return
+tolevelsitrecentlymovedfrom–usuallyanorderblockforexample.Smartmoney
+<<<PDFPAGE 507 | images=0>>>
+403
+tendstounloadlongsinthisareaandatthesametimeestablishnewshortsorvice
+versa. This makes it a good location to either take profits from or enter into a new
+position.
+公平估价是指价格回到当前范围内，回到最近的水平，例如通常是订单块。精明的投
+资者倾向于在这一领域抛售多头，同时建立新的空头，反之亦然。这使得这是一个很
+好的位置，要么从利润或进入一个新的位置。
+FairValueGapiswhenpriceleavesaspecificlevelandhasonlyasmallsectionof
+priceactionthatisseenasonedirectional.Thesecanpresentasverygoodareasfor
+profittakingornewsetups.
+公允价值差距是指价格离开特定水平，只有一小部分价格行为被视为单向的。这些可
+以作为获利回吐或新的设置非常好的领域。

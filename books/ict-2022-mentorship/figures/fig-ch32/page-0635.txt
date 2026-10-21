@@ -1,0 +1,20 @@
+391
+below that with 15 points.
+如果你用第二次回报交易卖出止损，那就是我们下跌的时候，然后它又下跌一次，取
+消了卖出止损；你的止损点必须低于15点。
+Again that one is if you don’t see any move right away after MNO. If it’s only been
+a straight down move and then it goes down one more time below the low, it formed
+initially your stop has to be 15 points below that if you’re buying that as a turtle soup.
+同样，如果你在MNO之后看不到任何动作。如果只是直线下跌，然后再一次跌破低点，
+那么你的止损点必须在低点以下15个点，如果你买的是海龟汤的话。
+Assume we have a 50 points (ES/SP500) ADR over the last 5 days, take 25 points
+(ES/SP500) minus the Asian range low. Whatever that price is that’s what your stop
+loss has to be.
+假设我们在过去5天有50个点(SP500)的ADR，用25个点(SP500)减去亚洲范围的低
+点。不管价格是多少，这就是你的止损。
+Taking Profits In Buy Daytrades
+在买入日交易中获利
+Always try to take something off in gain at 10-15 points (ES/SP500).
+Look to Scale something off every 2 STD of the Asian Range or CBDR.
+总是试着在10-15点的时候拿掉一些东西(SP500)。看看亚洲范围或
+CBDR的每两个标准的尺度。

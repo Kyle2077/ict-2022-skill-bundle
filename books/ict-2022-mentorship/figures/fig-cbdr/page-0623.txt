@@ -1,0 +1,22 @@
+379
+买入交易则相反。预计藐视发生在周一，周二，
+and Wednesday.
+还有周三。
+Sometimes price will go a little bit above/below the flout.
+有时价格会比实际价格高/低一点。
+To put it simple, measure the number of points from the low to high of 14:00 –
+20:00 NY Time range. For a sell trade, the high of the day will form at same number
+of points above the 14:00 – 20:00 NY Time range (1 deviation). For example, if the
+flout range is 15 points (ES/SP500), the high of the day will form at 15 points (ES/
+SP500) above the flout. Target or low of the day will form at 15 times 2 below the flout
+(2 deviations ), that will be 30 points (ES/SP500) below the 14:00 – 20:00 NY Time
+range.
+简单来说，测量14:00–20:00 NY时间范围内从低到高的点数。对于卖出交易，当天
+的高点将在纽约时间范围14:00-20:00以上的相同点数形成(1个偏差)。例如，如果浮
+动区间是15点(SP500 ),当天的高点将在浮动区间上方15点(SP500)。一天的目标或低
+点将形成在15倍于2的低点(2个偏差)，这将比纽约时间范围14:00–20:00低30个点
+(SP500时间)。
+For a buy trade is the opposite of the above. The ideal high/low of the day will
+因为买入交易与上述相反。一天中理想的高/低价格将
+form at 1 deviation above/below the flout but it can go up to 2 deviations for Reversal
+形态高于/低于浮动1个偏差，但它可以上升到反转的2个偏差

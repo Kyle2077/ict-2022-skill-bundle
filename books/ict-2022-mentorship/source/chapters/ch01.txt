@@ -1,0 +1,237 @@
+
+<<<PDFPAGE 14 | images=1>>>
+14
+Chapter 1
+第一章
+Introduction to Intraday Trading and Price Action
+日内交易和价格行为介绍
+Intradaytrading,alsoknownasdaytrading,involvesbuyingandsellingfinancial
+instrumentswithinthesametradingday.Unlikelong-termpositiontrading,intraday
+trading focuses on taking advantage of short-term price fluctuations to make quick
+profits.
+日内交易，也称为日间交易，涉及在同一个交易日内买卖金融工具。与长期持仓交易
+不同，日内交易侧重于利用短期价格波动快速获利。
+Whychooseintradaytradingoverothertradingstyles?Herearesomeadvantages
+toconsider:
+为什么选择日内交易而不是其他交易方式？以下是一些需要考虑的优势:
+1. Quick Decision-Making: Intraday traders are able to make quick decisions
+basedonreal-timemarketdata.Thisallowsthemtocapitalizeonshort-term
+marketmovementsandpotentiallygenerateprofitswithinasingletradingday.
+快速决策:日内交易者能够根据实时市场数据做出快速决策。这使他们能够利用
+短期市场波动，并有可能在一个交易日内产生利润。
+2. Flexibility:Intradaytradingoffersflexibilityintermsoftimecommitment.As
+anintradaytrader,youcanchoosethehoursthatsuityourscheduleandstill
+activelyparticipateinthemarket.
+
+<<<PDFPAGE 15 | images=1>>>
+15
+灵活性:日内交易在时间承诺方面提供了灵活性。作为一个日内交易者，你可以
+选择适合你的时间表的时间，仍然积极参与市场。
+3. LowerCapitalRequirements:Intradaytradingcanbedonewithsmallercapital
+comparedtolong-termpositiontrading.Thisisparticularlytruewhentrading
+microaccountsorusingleveragedproductslikeCFDs.
+更低的资本要求:与长期头寸交易相比，日内交易可以用更少的资本完成。在交
+易小额账户或使用差价合约等杠杆产品时尤其如此。
+The Demo Account Approach
+模拟账户方法
+Oneofthekeyaspectsofbecomingasuccessfultraderisgainingexperienceand
+honingyourskills.Thisiswhereademoaccountcanbeincrediblyvaluable.Ademo
+accountallowsyoutotradeinasimulatedenvironmentusingvirtualmoney,providing
+you with a risk-free opportunity to practice your trading strategies and familiarize
+yourselfwiththeplatform.
+成为成功交易者的一个重要方面是获得经验和磨练技巧。这就是一个模拟账户的价值
+所在。模拟账户允许您在模拟环境中使用虚拟货币进行交易，提供你有一个无风险的
+机会来练习你的交易策略和熟悉自己的平台。
+Whenyouuseademoaccount,youhavetheopportunitytolearnandapplyanalysis
+conceptswithoutthepressureofrealfinancialrisk.Thiscanhelpyoudevelopasolid
+foundationofknowledgeandskillsthatwillultimatelymakeyouabettertrader.
+当你使用模拟账户时，你有机会学习和应用分析概念，而没有真实金融风险的压力。
+这可以帮助你建立坚实的知识和技能基础，最终使你成为更好的交易者。
+Sometradersmayfeeloverwhelmedbythevastamountofinformationavailable
+tothem.Ademoaccountallowsyoutofocusonspecifictradingmodelsorconcepts,
+helping you avoid analysis paralysis and allowing you to make more informed
+
+<<<PDFPAGE 16 | images=0>>>
+16
+decisions.
+一些交易者可能会被大量的信息淹没。模拟账户让你专注于特定的交易模型或概念，
+帮助你避免分析瘫痪，让你做出更明智的决定。
+Why Some Traders Struggle with Demo Trading
+为什么有些交易者纠结于演示交易
+While demo trading offers numerous benefits, it is not without its challenges.
+Understandingthesechallengescanhelpyounavigatethemeffectivelyandmakethe
+mostofyourdemotradingexperience.
+虽然演示交易有很多好处，但也有挑战。理解这些挑战可以帮助你有效地应对它们，
+充分利用你的演示交易经验。
+One common challenge traders face when using a demo account is maintaining
+discipline. It’s important to treat your demo account as if it were a live account,
+followingyourtradingplanandstickingtoyourstrategies.Thisdisciplinewillcarry
+overintolivetradingandcontributetoyourlong-termsuccess.
+交易者在使用模拟账户时面临的一个普遍挑战是保持纪律。重要的是把你的模拟账户
+当成一个真实账户，遵循你的交易计划，坚持你的策略。这个原则将延续到实时交易
+中，并有助于你的长期成功。
+Another challenge is the temptation to rush into live trading without sufficient
+practice and preparation. A demo account allows you to gain experience and build
+confidence before risking real money. It’s crucial to take the time to learn and
+understandtheconceptsandstrategiesbeforetransitioningtolivetrading.
+另一个挑战是在没有充分练习和准备的情况下贸然进行现场交易的诱惑。模拟账户可
+以让你在拿真钱冒险之前积累经验，树立信心。在过渡到实时交易之前，花时间学习
+和理解概念和策略是至关重要的。
+Some traders may questionthe effectiveness of demo trading, believing that the
+skillsandstrategieslearnedinasimulatedenvironmentmaynottranslatewelltolive
+trading.However,thisskepticismcanbeaddressedbyunderstandingthepurposeand
+approachofdemotrading.
+一些交易者可能会质疑演示交易的有效性，认为在模拟环境中学到的技巧和策略可能
+无法很好地应用到实际交易中。然而，这种怀疑可以通过理解演示交易的目的和方法
+来解决。
+Demotradingallowsyoutotestandrefineyourtradingstrategiesinacontrolled
+environment.Byconsistentlyachievingpositiveresultsinyourdemotrades,youcan
+gainconfidenceinyourabilitiesandincreasethelikelihoodofsuccessinlivetrading.
+演示交易允许你在一个受控的环境中测试和完善你的交易策略。通过在演示交易中持
+续取得积极的结果，你可以对自己的能力有信心，增加在现场交易中成功的可能性。
+<<<PDFPAGE 17 | images=0>>>
+17
+It’simportanttorememberthattheprimarygoalofdemotradingisnottomake
+money, but rather tolearnand practice.The profitsorlosses youmakeinademo
+account may not accurately reflect what you would experience in a live account.
+Instead,focusonrefiningyourskillsandstrategies.Tomakethemostofyourdemo
+tradingexperience,it’simportanttoapproachitwithacommitmenttolearningand
+followinginstructions.
+记住演示交易的主要目标不是赚钱，而是学习和练习，这很重要。您在模拟账户中的
+盈利或亏损可能无法准确反映您在真实账户中的情况。相反，专注于完善你的技能和
+策略。为了最大限度地利用你的演示交易经验，重要的是学习并遵循指导。
+Pay close attention to the concepts and strategies being taught and strive to
+understand them visually. Avoid overcomplicating your analysis and focus on key
+levelsandindicatorsthatmakesensetoyou.Simplifyingyourapproachcanleadto
+betterdecision-making.
+密切关注正在教授的概念和策略，并努力从视觉上理解它们。避免让你的分析过于复
+杂，专注于对你有意义的关键水平和指标。简化你的方法可以带来更好的决策。
+Remember that demo trading is a stepping stone to live trading. Use this
+opportunitytograduallybuildyourskillsandconfidence,justasyouwouldprogress
+throughdifferentlevelsofeducation.Withtimeandconsistenteffort,youcandevelop
+thenecessaryskillstotradesuccessfullyinliveaccounts.
+记住演示交易是现场交易的敲门砖。利用这个机会逐步建立你的技能和信心，就像你
+将通过不同层次的教育取得进展一样。随着时间的推移和不断的努力，你可以发展必
+要的技能，成功地在帐户中交易。
+Remember,practicemakesperfect,anddemotradingprovidestheperfectplatform
+forthatpractice.
+记住，熟能生巧，演示交易为这种练习提供了完美的平台。
+The Advantages of Short-Term Trading
+短线交易的优势
+Short-term trading, also known as intraday trading, involves making quick
+decisionsandcapitalizingonshort-livedmarketopportunities.
+短线交易，也称为日内交易，包括快速决策和利用短暂的市场机会。
+One of the key advantages of intraday trading is the abilitytotake advantage of
+frequent setups. Unlike longer time frames, where setups may be scarce, intraday
+trading provides ample opportunities for traders to identify potential trades. ICT
+emphasizesthatbylearninghowtotake5handles(ameasureofpricemovement)out
+ofamarketliketheE-miniS&P,traderscangraduallybuildtheirtradingskillsand
+profits.
+<<<PDFPAGE 18 | images=0>>>
+18
+日内交易的一个关键优势是能够利用频繁的设置。不像长时间内，设置可能是稀缺的，
+日内交易为交易者提供了充足的机会，以确定潜在的交易。ICT强调，通过学习如何
+从E-miniS&P这样的市场中取出5点(衡量价格变动的指标)，交易者可以逐步建立他们
+的交易技能和利润。
+Additionally,hehighlightstheaccessibilityofintradaytrading.Eveniftradersdo
+nothavethecapitaltotradefull-sizedcontracts,theycanoptformicroaccounts.This
+flexibilityallowstraders tostart withsmaller initial margins and gradually scaleup
+theirtradingactivities.
+此外，他强调了日内交易的可及性。即使交易者没有资金来交易完整的合约，他们也
+可以选择小额账户。这种灵活性允许交易者从较小的初始利润开始，逐步扩大他们的
+交易活动。
+ApplyingIntradayTradingTechniquestoDifferentTimeFrames
+应用日内交易技术在不同的时间框架
+Intraday trading techniques can be applied to various time frames, providing
+traders with the flexibility to adapt their strategies to different market conditions.
+WhileICTprimarilyfocusesonintradaytrading,heassuresusthattheconceptshe
+teaches can be scaled up to longer time frames. ICT emphasizes the importance of
+visually understanding the concepts he teaches, enabling traders to simplify their
+analysisandfocusonkeyelementsthatmakesense.
+日内交易技术可以应用于不同的时间框架，为交易者提供了适应不同市场条件的灵活
+性。虽然ICT主要关注日内交易，但他向我们保证，他教授的概念可以扩展到更长的
+时间范围。ICT强调直观理解他教授的概念的重要性，使交易者能够简化他们的分析，
+专注于有意义的关键元素。
+<<<PDFPAGE 19 | images=0>>>
+19
+Improving Understanding of Price Action
+提高对价格行为的理解
+Theultimategoalofthismentorshipistoimproveourunderstandingofpriceaction.
+ICT assures us that we will learn concepts that repeat frequently in the market,
+allowingustoidentifysetupswithcommoncharacteristics.Whilethesetupsmaynot
+beidentical,ICTencouragesustotrustourfamiliaritywithsimilarpatterns.
+这种指导的最终目标是提高我们对价格行为的理解。ICT保证我们将学习市场上经常
+重复的概念，使我们能够识别具有共同特征的设置。虽然设置可能不尽相同，但ICT
+鼓励我们相信自己对相似模式的熟悉程度。
+It is important tonote that thismentorship is not about providingtrade setups.
+Instead, ICT will draw our attention to potential setups before they occur, allowing
+us to study them and apply the concepts they teach. This approach emphasizes the
+importanceofdisciplineandpersonalresponsibilityintrading.
+值得注意的是，这种指导不是提供交易设置。相反，ICT将在潜在的设置出现之前吸
+引我们的注意力，使我们能够研究它们并应用它们教授的概念。这种方法强调交易中
+纪律和个人责任的重要性。
+Throughoutthismentorship,ICTaimstoguideusfrombeingyearnerstobecoming
+structuredlearners.Byfollowingtheprocessanddedicatingourselvestolearning,we
+canprogressfromunderstandingtheconceptstoimplementingthemeffectivelyand
+becomingearnersinthetradingworld.
+在整个辅导过程中，ICT旨在引导我们从渴望型学习者转变为结构化学习者。通过遵循
+这个过程并致力于学习，我们可以从理解概念进步到有效地实施它们，并成为交易世
+界的赢家。
+Realistic Expectations and Individual Growth
+现实期望和个人成长
+Trading is a unique and personal experience that requires individuals to grow
+andgothroughalearningprocess.Itisimportanttomanageyourexpectationsand
+understand that becominga successfultrader takestimeand effort.Asourmentor,
+ICTcannotspeedupthisprocessforus,butheisoptimisticaboutourpotential.
+交易是一种独特的个人经历，需要个人成长和经历一个学习过程。重要的是管理你的
+期望，明白成为一个成功的交易者需要时间和努力。作为我们的导师，ICT无法为我
+们加快这一进程，但他对我们的潜力持乐观态度。
+Itisimportanttorecognizethatnoteveryonewillbeabletoeffectivelyimplement
+thestrategiesandtechniquesICTteaches.Someindividualsmaytrytotakeshortcuts
+orbelievethatcertainstepsarenotnecessary. However, it is vital to understand
+<<<PDFPAGE 20 | images=0>>>
+20
+that failure to follow the recommended actions may result in reduced
+results.
+重要的是要认识到，不是每个人都能够有效地实施ICT教授的策略和技术。有些人可
+能试图走捷径，或者认为某些步骤是不必要的。但是，重要的是要明白，不遵循建议
+的行动可能会导致效果下降。
+Remember,tradingisboththeeasiestandsometimesthemostchallengingthing
+youwilleverdo.Itrequiresdedication,discipline,andawillingnesstolearnandadapt.
+记住，交易是你做过的最简单的事情，有时也是最有挑战性的事情。它需要奉献精
+神、纪律以及学习和适应的意愿。
+Commitment and Discipline in Trading
+交易中的承诺和纪律
+Intheworldoftrading,commitmentanddisciplinearekeyfactorsthatcangreatly
+impactyoursuccess.
+在交易的世界里，承诺和纪律是影响你成功的关键因素。
+WhenyougraduatedfromUniversity,youhavealreadydemonstratedyourability
+tounderstandcomplexideasandfollowinstructions.Thesamelevelofdisciplineand
+commitmentisrequiredintrading.Itisimportanttoapproachtradingwithamindset
+ofcontinuouslearning,practice,andadherencetotheprinciplestaught.
+当你大学毕业的时候，你已经展示了你理解复杂想法和遵循指示的能力。交易也需要
+同样的纪律和承诺。重要的是带着不断学习、练习和坚持原则的心态去交易。
+ICT mentions the concept of “analysis paralysis” and how it can hinder traders’
+decision-makingprocess.Thisisacommonchallengefacedbymanytraders,especially
+thosewhoarejuststartingout.Toovercomethis,itiscrucialtofollowinstructions
+andcompleteassignedtasksdiligently.
+ICT提到了“分析瘫痪”的概念，以及它如何阻碍交易者的决策过程。这是许多交易者面
+临的共同挑战，尤其是那些刚刚起步的交易者。为了克服这一点，遵循说明是至关重要
+的并努力完成分配的任务。
+<<<PDFPAGE 21 | images=0>>>
+21
+Trading is not something that can be approached casually. It requires focus,
+attention, and the ability to prioritize your time effectively. Understanding the
+challenges of balancing trading with other responsibilities will help you develop
+strategiestomanageyourtimeefficientlyandensurethatyouareabletofullycommit
+toyourtradingjourney.
+交易不是可以随便接近的东西。它需要专注、注意力和有效安排时间的能力。理解平
+衡交易和其他责任的挑战将帮助你制定有效管理时间的策略，并确保你能全身心地投
+入交易之旅。
+In order to succeed in trading, discipline and commitment are paramount. IIITC
+highlights the importance of respecting the sharp edges of the knowledge and tools
+provided. This serves as a reminder that trading is not a game or a hobby, but a
+seriousendeavorthatrequiresdisciplineandresponsibility.
+为了在交易中成功，纪律和承诺是最重要的。信通技术强调尊重所提供的知识和工具
+的优势的重要性。这提醒我们，交易不是游戏或爱好，而是需要纪律和责任的严肃努
+力。

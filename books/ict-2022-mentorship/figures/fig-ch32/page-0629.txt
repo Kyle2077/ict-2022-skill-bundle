@@ -1,0 +1,12 @@
+385
+When Daily and or 4h direction is Bearish:
+当日线和或4h方向看跌时:
+1.
+Use Previous Day’s High to Low for Retracement Entries.
+使用前一天的最高价到最低价进行回撤。
+2. Use Previous Day’s NY Session High to Low for Retracement Entries.
+使用前一天纽约时段的高点至低点进行回撤。
+3. Use Previous Day’s High for Buy Stop Raid to accumulate shorts.
+使用前一天的高点买入止损来累积空头。
+4. Focusing on the anticipated move from HTF Premium to Discount PD Arrays.
+重点关注从HTF溢价到折价PD阵列的预期转变。

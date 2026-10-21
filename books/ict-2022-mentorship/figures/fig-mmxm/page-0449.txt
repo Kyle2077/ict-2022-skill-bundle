@@ -1,0 +1,20 @@
+345
+2. The second thing we want to look for is if a higher timeframe level will be in
+close proximity to one of the point range levels.
+我们要寻找的第二件事是，一个更高的时间框架水平是否会非常接近其中一个
+点范围水平。
+Once the buy program is completed, we can start taking measurements to assess
+how far the sell program can potentially deliver price.
+一旦购买计划完成，我们就可以开始进行测量，以评估出售计划可能在多大程度上实
+现价格。
+If we take the swing low, which is the last swing low before the reversal and we take
+the swing high, this is our manipulation swing that ran the buyside liquidity above this
+high and into our higher timeframe level.
+如果我们把波动降到低点，这是反转前的最后一个低点，我们把波动提到高点，这就
+是我们的操纵波动，使买方流动性高于这个高点，进入我们更高的时间框架水平。
+This occurs after the final stage of re-accumulation and it tricks buyers into longs.
+The market moves explosively in this direction. This is known as the manipulation leg
+of the SMR. This will form an intermediate term swing with a short-term high to the
+left and a short-term high to the right.
+这发生在再积累的最后阶段，它欺骗买家做多。市场朝着这个方向爆炸性地发展。这
+被称为SMR的操纵腿。这将形成一个中期摆动，短期高点向左，短期高点向右。

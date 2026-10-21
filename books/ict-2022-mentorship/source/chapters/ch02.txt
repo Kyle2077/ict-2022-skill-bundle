@@ -1,0 +1,328 @@
+
+<<<PDFPAGE 22 | images=0>>>
+22
+Chapter 2
+第二章
+Elements To A Trade Setup
+交易设置的要素
+Microcontractsallowtraderstotradewithasmalleramountofcapital,makingit
+moreaccessibleforthosewhomaynothavetheresourcestotradefullcontracts.
+小额合约允许交易者用更少的资金进行交易，这让那些没有资源进行全额合约交易的
+人更容易获得。
+In the context of futures index trading, a micro contracts can be an excellent
+startingpointforhoningyourtradingskillsandgainingexperienceinthemarket.
+在期货指数交易的背景下，微型合约可以成为磨练你的交易技巧和获得市场经验的绝
+佳起点。
+While there are various trading strategies out there, it is important to note that
+thismentorshipwillnotfocusonhigh-frequencytradingstrategies.Instead,wewill
+explore a more comprehensive approach to futures index trading, emphasizing the
+importance of understanding market structure, identifying setups, and executing
+tradeswithprecision.
+虽然有各种各样的交易策略，但重要的是要注意，这种指导不会专注于高频交易策
+略。相反，我们将探索一种更全面的期货指数交易方法，强调理解市场结构、识别设
+置和精确交易的重要性。
+Remember, as we progress through this mentorship, it is crucial to engage in
+backtestingandtrial-and-errortorefineyourtradingskills.Consistencyandtheability
+to find profitable moves in the market are key goals to strive for. So, let’s dive into
+theworldoffuturesindextradingandexploretheexcitingopportunitiesitpresents!
+记住，随着我们在这个指导过程中的进展，进行回溯测试和反复试验来完善你的交易
+技巧是至关重要的。一致性和在市场中找到有利可图的举措的能力是努力的关键目标。
+所以，让我们潜入期货指数交易的世界，探索它带来的令人兴奋的机会！
+<<<PDFPAGE 23 | images=2>>>
+23
+
+<<<PDFPAGE 24 | images=0>>>
+24
+Analyzing Weekly Candle Movements and Swing Highs/Lows
+分析每周蜡烛线的移动和波动的高点/低点
+Weeklycandlemovementscanprovidevaluableinsightsintothemarketbiasand
+helptradersmakeinformedtradingdecisions.
+周线蜡烛图可以提供对市场偏差的有价值的见解，帮助交易者做出明智的交易决定。
+Hereareafewkeypointstoconsider:
+以下是一些需要考虑的要点:
+1. Foundation of a Trading Model: Weekly candle movements form the
+foundationofatradingmodel.Weneedtohaveaclearunderstandingofwhat
+we are looking for in order to identify profitable setups. The goal is to
+findsetupsthatarenotlimitedtosmallpricemovementsbuthavethepotential
+forlargergains.
+交易模式的基础:每周的蜡烛线运动是交易模型的基础。我们需要清楚地了解我
+们在寻找什么，以便确定有利可图的设置。目标是找到不局限于小的价格波动，
+但有更大收益潜力的设置。
+2. Independent Thinking: We should aim to develop independent thinking
+and not rely on black box systems or signal services. By understanding the
+rules and processes of analyzing weekly candle movements, we can become
+self-sufficientandmaketradingdecisionsbasedontheirownanalysis.
+独立思考:我们应该致力于发展独立思考，而不是依赖于黑箱系统或信号服务。
+通过了解分析周蜡烛线运动的规则和过程，我们可以变得自给自足，并根据自
+己的分析做出交易决策。
+3. Clean and Precise Charts: Analyzingweeklycandlemovementsallowsus
+tohavecleanandprecisecharts,freefromunnecessarynoiseanddistortion.
+干净和精确的图表:分析每周的蜡烛线运动可以让我们得到清晰精确的图表，避
+免不必要的噪音和失真。
+Understanding Swing Highs and Lows on the Daily Chart
+理解日线图上的波动高点和低点
+Swing highs and lows on the daily chart are important indicators that help
+us identifypotentialreversal points and determine the strength of a trend. Here are
+somekeypointstounderstand:
+日线图上的波动高点和低点是帮助我们识别潜在反转点和确定趋势强度的重要指标。
+以下是一些需要理解的要点:
+1. Imbalance and Efficient Pricing: Swing highs and lows represent areas
+<<<PDFPAGE 25 | images=0>>>
+25
+of imbalance in the market. A swing high occurs when the price reaches
+a peakandstartstodecline,indicatinga potential reversal from a bullish trend.
+Conversely,aswinglowoccurswhenthepricereachesatroughandstartsto
+rise, indicating a potential reversal from a bearish trend. These
+imbalancesneedtobeefficientlypricedandbookedbythealgorithm.
+不平衡和有效定价:波动的高点和低点代表市场的不平衡区域。当价格达到最高
+点并开始下降时，就出现了波动高点，这表明看涨趋势可能发生逆转。相反，
+当价格到达低谷并开始上涨时，出现了摆动低点，表明熊市趋势可能逆转。这
+些不平衡需要通过算法有效地定价和记账。
+2. Precision and Delivery: Swinghighs and lowsdemonstrateprecision and
+delivery in price movements. Each candle’s high to low range represents
+aninefficientlydeliveredpricemove.
+精度和交付:波动的高点和低点证明了价格运动的精确性和传递性。每根蜡烛线
+从高到低的区间代表了一个低效率的价格变动。
+3. Learning from Mistakes: It’s important to acknowledge that we will not
+alwaysmakeperfectdecisions.Therewillbetimeswhentradesareleftonthe
+tableormistakesaremade.However,byconsistentlyanalyzingswinghighsand
+lowsand learningfrompast experiences, traderscan improve theirdecision-
+makingprocessandincreasetheirchancesofsuccess.
+从错误中学习:承认我们不会总是做出完美的决定是很重要的。有时候，交易会
+被搁置在桌子上，或者会犯错误。然而，通过持续分析波动的高点和低点，从
+过去的经验中学习，交易者可以改善他们的决策过程，增加他们成功的机会。
+<<<PDFPAGE 26 | images=1>>>
+26
+How to Use Weekly Candle Movements and Swing Highs/Lows
+in Trading Decisions
+如何在交易决策中使用周线蜡烛图和波动高点/低点
+Nowthatweunderstandthesignificanceofweeklycandlemovementsandswing
+highs/lows, let’s explore how to use these indicators to make informed trading
+decisions.Hereareafewstrategiestoconsider:
+现在我们已经了解了周线蜡烛线和波动高点/低点的重要性，让我们来看看如何使用这
+些指标来做出明智的交易决定。以下是一些可以考虑的策略:
+1. Identifying Reversal Points:Byanalyzingswinghighs/lows,wecanidentify
+potentialreversalpointsinthemarket.Thiscanhelpthemdeterminewhento
+enterorexitatrade,maximizingtheirprofitpotential.
+识别反转点:通过分析波动高点/低点，我们可以识别市场中潜在的反转点。这
+可以帮助他们决定何时进入或退出交易，最大化他们的利润潜力。
+2. Confirming Market Bias: Weekly candle can provide insights into the
+overallmarketbias.Byanalyzingthesize,directionofweeklycandles,wecan
+confirmwhetherthemarketisbullishorbearish.Thisinformationcanguide
+theirtradingdecisionsandhelpthemalignwiththeprevailingtrend.
+确认市场偏见:周线蜡烛图可以提供对整体市场偏差的洞察。通过分析周线蜡烛
+线的大小和方向，我们可以确认市场是看涨还是看跌。这些信息可以指导他们
+的交易决策，并帮助他们顺应流行趋势。
+<<<PDFPAGE 27 | images=0>>>
+27
+3. Setting Stop Loss and Take Profit Levels: Swinghighsandlowscanbe
+usedtoseteffectivestoplossandtakeprofitlevels.Traderscanplacetheirstop
+loss orders above swing highs in a bearish trend and below swing lows in
+abullishtrend.Thishelpstominimizelossesandprotectprofits.
+设置止损和止盈水平:波动的高点和低点可以用来设置有效的止损和止盈。交易
+者可以在熊市趋势中将止损单置于波动高点之上，在牛市趋势中将止损单置于
+波动低点之下。这有助于最大限度地减少损失和保护利润。
+So,byincorporatingthesestrategiesintotheirtradingapproach,wecanleverage
+thepowerofweeklycandlemovementsandswinghighs/lowstoimprovetheirtrading
+outcomes.
+因此，通过将这些策略整合到他们的交易方法中，我们可以利用每周蜡烛线的力量和
+波动的高点/低点来改善他们的交易结果。
+Remember, practice and experience are key to mastering these techniques.
+Analyzing weekly candle movements and swing highs/lows requires patience,
+discipline,andacommitmenttocontinuouslearning.
+记住，实践和经验是掌握这些技巧的关键。分析每周的蜡烛线运动和波动的高点/低点
+需要耐心、纪律和持续学习的承诺。
+<<<PDFPAGE 28 | images=0>>>
+28
+Institutional Swing Points
+机构摇摆点
+Therearemainly2typesofinstitutionalswingpoints,namelystoprunsandfailure
+swings.Thesearethemostpowerfulandmostdynamic.
+主要有两种类型的机构摆动点，即停止运行和失败摆动。这些是最强大和最有活力
+的。
+Stop Runs: The market trades to a key level or just short of it – but fails to
+immediatelyreactindicatinganotherrundeeperbeforeareversal.Afterthereversal
+停止运行:市场交易到一个关键水平或略低于该水平，但未能立即做出反应，表明在反
+转前会有另一轮更深的运行。逆转之后
+–theopportunityisbesttakenwhentheshort-termMarketStructurebreakingpoint
+is retested. First run on stops in an intermediate term price swing is ideal – smart
+moneywilllooktounseattheaggressivetrailingstops.
+机会最好在短期市场结构断点再次测试时抓住。中期价格波动中的第一次止损是理想
+的——聪明的钱会寻找激进的跟踪止损。
+Stop run or turtle soup-highest,mostprobabletradingcondition,youwant
+tobelookingforthisone.
+停止运行还是甲鱼汤-最高，最有可能的交易条件，你要寻找这一个。
+• The market trades to a key level or just short of it - but fails to immediately
+react-indicatinganotherrundeeperbeforeareversal.
+市场交易到一个关键水平或略低于该水平，但未能立即做出反应，这表明在反
+转之前还有一次更深的运行。
+• Afterthereversal-theopportunityisbesttakenwhentheshort-termMarket
+Structurebreakingpointisretested.
+反转后——机会最好在短线市场结构断点重新测试时抓住。
+Identifying high liquidity levels is important for successful trades using
+the Turtle Soup. It is not enough to simply trade above any old high or
+below any old low. Traders must focus on levels of liquidity where there is
+a significant amount of buying or selling pressure.
+识别高流动性水平对成功的甲鱼汤交易很重要。仅仅在任何旧高点之上或旧低点之下
+交易是不够的。交易者必须关注存在大量买入或卖出压力的流动性水平。
+Analyzingchartstospotoldhighswithhighliquidity:
+分析图表以发现高流动性的旧高点:
+• Look for order blocks: Order blocks are areas on the chart where there is
+a significant concentration of orders. These areas often indicate high
+<<<PDFPAGE 29 | images=0>>>
+29
+liquiditylevels.
+寻找订单块:订单块是图表上订单非常集中的区域。这些区域通常表明流动性水
+平较高。
+• Identifyfairvaluegaps:Fairvaluegapsoccurwhenthereisapricedifference
+between the current market price and the fair value price. These gaps can
+provideinsightsintoliquiditylevelsandpotentialmarketmovements.
+确定公允价值差距:当当前市场价格和公允价值价格之间存在价格差异时，就会
+出现公允价值差距。这些差距可以提供对流动性水平和潜在市场走势的洞察。
+• Considerhighertimeframes:Analyzinghighertimeframes,suchas15-minute
+or 1-hour charts, can give us a broader perspective on liquidity levels. Look
+for patterns and confluences across multiple time frames to strengthen your
+analysis.
+考虑更高的时间框架:分析更高的时间框架，如15分钟或1小时图表，可以让我
+们对流动性水平有更广阔的视角。寻找跨越多个时间框架的模式和交汇点，以
+加强你的分析。
+• Payattentiontorelativeequallows:Relativeequallowsoccurwhenthemarket
+reaches similar price levels multiple times. These lows indicate a potential
+supportlevelandcanbeusedasareferenceforsellingaboveoldhighs.
+注意相对等量低点:当市场多次达到类似的价格水平时，就会出现相对等量低
+点。这些低点表明了一个潜在的支撑位，可以作为在旧高点上方卖出的参考。
+<<<PDFPAGE 30 | images=2>>>
+30
+
+<<<PDFPAGE 31 | images=1>>>
+31
+Thisisoneofthemostpowerful,significantpricepatternsandyouneedtolearn
+the characteristics about where it forms. ICT loves this pattern because he can see
+whenit’sforming.Hecanseewhenit’sjustfallingshortofalevelandwherepricewill
+gotoanticipateonemoredrivelower/higher.
+这是最强大、最重要的价格模式之一，你需要了解它形成的特征。ICT喜欢这种模式，
+因为他能看到它何时形成。他能看到什么时候价格会跌到某个水平，以及价格会跌到
+哪里，从而预测价格会进一步下跌/上涨。
+It’simportantthatyouhavetheinstitutionalreferencepointsmarkedoutonyour
+chart so that you can anticipate these patterns unfolding before they actually do.
+Otherwiseyou’llbesurprised bythesethings.Andsecond,youhavetogointoyour
+ownchartslookingforthissothatyoulearntotrusttheinstitutionalreferencepoints
+asinpointswherepriceactuallygoestoreverse.
+在你的图表上标出制度参考点是很重要的，这样你就可以在这些模式发生之前预测到
+它们的发展。否则你会对这些事情感到惊讶。第二，你必须进入你自己的图表寻找这
+一点，这样你就学会相信机构参考点，因为在这些点上价格实际上会反转。
+Whatisthispattern?Marketmakesahigherhigh,fails(falsebreakaboveoldhigh/
+belowoldlow),thenbreakdownandhasarejectionatthehighs.
+这是什么格局？市场创造了一个更高的高点，失败了(假突破旧高点/旧低点)，然后下
+跌，在高点被拒绝。
+In a selling scenario: generally the market will rally up to resistance or down to
+support(soaPDarraylikeabearishOB,Breaker,liquidityvoids,MB,(fairvalue)gap
+oranoldloworhighlowpreviousdayorweek)itwillfirstfailtoreachthatleveland
+<<<PDFPAGE 32 | images=0>>>
+32
+breakalittlelowerandthenitrallieshigherabovetheSTH.Thatshorttermhighwill
+getmanytraderscaught.Whenweseepricehoverbelowakeyinstitutionalreference
+point,weanticipatepricetradingtothemtothepointoralittlebitintothem.
+在卖出场景中:通常市场会反弹至阻力或下跌至支撑(因此，PD阵列像看跌OB、
+Breaker、流动性空洞、MB、(公允价值)缺口或前一天或前一周的旧低点或高低点)它
+将首先无法达到该水平，并向下突破一点点，然后反弹至高于某物的位置。这个短期
+高点会让很多交易者被套牢。当我们看到价格徘徊在一个关键的机构参考点以下时，
+我们预计价格交易会达到该点或稍微接近该点。
+<<<PDFPAGE 33 | images=1>>>
+33
+Defining Institutional Swing Points:
+确定机构摇摆点:
+Themarkettradestoakeylevelorjustshortofit-butfailstoimmediatelyreact-
+indicatinganotherrundeeperbeforeareversal.
+市场交易到一个关键水平或略低于该水平，但未能立即做出反应，这表明在反转之前还有
+一次更深的运行。
+After the reversal - the opportunity is best taken when the short-term Market
+Structurebreakingpointisretested.
+反转后——机会最好在短线市场结构断点重新测试时抓住。
+FirstrunonstopsinaMarketinanintermediatetermpriceswingisideal-smart
+moneywilllooktounseattheaggressivetrailingstops.
+在中期价格波动的市场中第一次运行止损是理想的——聪明的钱会寻找激进的跟踪止损。
+Theredtriangleoftenbecomesthewick.Wedon’twantpricetohangaroundthere,
+wewantanimmediatereactionaway(V-shape).
+红三角经常成为灯芯。我们不希望价格徘徊在那里，我们希望立即做出反应(V型)。
+Howtotradethis?
+这个怎么交易？
+• Likeaninstitutionaltraderandsellrightatthetopaspricetradesthroughthe
+STH/STL.Whenyouanticipatethispatterntoform,you’llhaveyourhighest
+probable entries for all your set-ups because it’s the deepest discount buy/
+deepestpremiumsell.Itwillfeelscarytosellaboveanoldhighorbuybelowan
+oldlowbutthat’sbecauseyouhaven’tpracticedenough.Youhaven’tseenthe
+
+<<<PDFPAGE 34 | images=0>>>
+34
+effectsoflookingatinstitutionalorderflowfromaHTFperspective.Youhave
+topracticeandbuildconfidence.
+像机构交易者一样，当价格通过STH/STL交易时，在顶部卖出。当你预期这种
+模式形成时，你将有你所有设置的最高可能的条目，因为这是最大的折扣买入/
+最大的溢价卖出。在旧高点以上卖出或在旧低点以下买入会让人感到害怕，但
+那是因为你练习得不够。你还没有看到从HTF的角度看制度秩序流的影响。你
+必须练习并建立自信。
+• Youcanwaitforpricetomakeamarketstructurebreakandbuy/sellwhenprice
+returnstothebreakerwiththestopatorabovethehigh/low(redtriangle).We
+alreadyhadastoprunsothere’snoreasonforthathigh/lowwhereyourstop
+istogettakenout.
+你可以等待价格打破市场结构，当价格回到破折号时买入/卖出，止损位于或高
+于高/低(红色三角形)。我们已经进行了止损运行，因此没有理由在那么高/低的
+位置取消止损。
+<<<PDFPAGE 35 | images=2>>>
+35
+
+<<<PDFPAGE 36 | images=1>>>
+36
+Failure Swing
+故障摆动
+Failure Swings: The market trades through a key level initially but fails to
+immediatelycontinue–afterrejectingthenewpricelevel–themarketretracesonly
+to attempt to stage another drive to retest the new price level. After the reversal,
+the opportunityis best takenwhen theinitial key level is retested orafter a market
+structurebreakingpointretested.
+故障摆动:市场最初通过一个关键水平交易，但无法立即继续——在拒绝新的价格水平
+后——市场回撤只是为了试图再次测试新的价格水平。反转后，最好在重新测试初始
+关键水平或重新测试市场结构转折点后抓住机会。
+Weaimforbreakerswingpoints,buttheydon’talwaysoccur.Wedon’tknowifit
+willgiveabreakerbeforewegettheswingfailure.Ifthestoprun/turtlesoupdoesn’t
+occur,westillhaveatradingopportunityintheformofafailureswingpattern.The
+bluelineisaPDarray.Youwanttoseepricemoveawayfromitaggressively(V-shape)
+andtrytocomedown/upagainbutfailandbreakashort-termlow/high.
+我们的目标是断路器摆动点，但它们并不总是发生。我们不知道在挥杆失败之前它是
+否会给出一个断路器。如果止损/海龟汤没有出现，我们仍然有一个失败摆动模式的交
+易机会。蓝线是PD阵列。你想看到价格积极地远离它(V型)，试图再次下跌/上涨，但
+失败了，打破了短期的低点/高点。
+<<<PDFPAGE 37 | images=1>>>
+37
+• Themarkettradesthroughakeylevelinitiallybutfailstoimmediatelycontinue
+市场最初通过关键水平交易，但无法立即继续
+- after rejecting the new Price Level - the market retraces only to attempt to
+stageanotherdrivetoretestorovertakethenewPriceLevel.
+-在拒绝新的价格水平后-市场回撤只是为了试图再次测试或超越新的价格水
+平。
+• After the reversal the opportunity is best taken when the initial key level
+isretested.OrafteraMarketStructurebreakingpointisretested.
+反转后，最好在重新测试初始关键水平时抓住机会。或者在市场结构转折点被
+重新测试之后。
+
+<<<PDFPAGE 38 | images=1>>>
+38
+Stop Hunts and Market Manipulation
+停止狩猎和市场操纵
+Stophunts,alsoknownasstop-losshuntingormarketmanipulation,areacommon
+occurrenceinfinancialmarkets.Theyrefertodeliberateactionstakenbylargemarket
+participants to trigger stop-loss orders placed by other traders. This manipulation
+createsatemporaryspikeinprice,causingthesestop-lossorderstobeexecuted,and
+oftenresultinginarapidreversalofthemarket.
+止损狩猎，也称为止损狩猎或市场操纵，是金融市场中常见的现象。它们指的是大型
+市场参与者故意采取行动，触发其他交易员发出的止损单。这种操纵造成了价格的暂
+时飙升，导致这些止损订单被执行，并经常导致市场的快速逆转。
+The impact of stop hunts can be significant. Traders who have placed stop-loss
+orders at specific price levels to limit their losses find themselves being forced
+out of their positions due to the sudden market movement. This can lead to
+increased volatility and can create opportunities for those who initiated the stop
+huntstoprofitfromthesubsequentpricereversal.
+停止狩猎的影响可能是巨大的。在特定价格水平下止损单以限制损失的交易者发现自
+己由于突然的市场波动而被迫平仓。这可能导致波动性增加，并为那些发起止损的人
+创造机会，从随后的价格反转中获利。

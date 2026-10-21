@@ -1,0 +1,9 @@
+142
+Then the market moves to Reversal. A classic scenario for a London opening.
+When the market goes down, taking stops and then it expands again - Expansion.
+Until what time? - Until 5am NY.
+然后市场走向反转。伦敦开幕式的经典场景。当市场下跌时，止损，然后再次扩张-膨
+胀。直到什么时候？-直到纽约时间早上5点.
+Between 5:00 AM and 8:00 AM EST, during this time frame, the market will return
+to Consolidation.
+在美国东部时间早上5:00到8:00之间，在这段时间内，市场将回到合并.

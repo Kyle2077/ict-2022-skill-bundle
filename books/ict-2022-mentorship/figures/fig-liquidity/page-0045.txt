@@ -1,0 +1,10 @@
+45
+7. Trendline - liquidity behind the trendline: All liquidity accumulates on highs
+and lows and that liquidity is not going to be taken immediately. It remains so
+that after taking a large position, the price moves freely and renews the key
+high of the structure. All liquidity at the bottom acts as a magnet for price In
+the future, the trader can see the formation of equal EQLs.
+趋势线——趋势线背后的流动性:所有的流动性都是在高点和低点积累起来的，
+这些流动性不会马上被取走。在持有大量头寸后，价格会自由波动，并刷新该
+结构的关键高点。底部的所有流动性都像磁铁一样吸引着未来的价格，交易者
+可以看到相等的EQL的形成。

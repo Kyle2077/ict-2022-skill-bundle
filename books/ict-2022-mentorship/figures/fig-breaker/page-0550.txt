@@ -1,0 +1,14 @@
+446
+新的HH或LL形成之后，形成了一个突破。
+Bullish and Bearish Breaker Block
+看涨和看跌突破块
+Let’s analyze the bullish and bearish breaker blocks separately:
+让我们分别分析看涨和看跌的突破块:
+Before a Bullish Breaker can form in the market, liquidity needs to be taken. To
+change the direction of the trend in the market, an impulsive update of the low
+is required, and to continue the uptrend, an impulsive grab of liquidity from the HL
+level is required. After the price moves in the opposite direction, an impulsive
+breakout of the OB should be expected.
+以前牛市破坏者可以在市场上形成，流动性需要采取。为了改变市场趋势的方向，需
+要对低点进行脉冲式更新，为了继续上升趋势，需要从HL水平脉冲式地抓住流动性。
+在价格向相反的方向移动后，OB的脉冲突破是可以预期的。

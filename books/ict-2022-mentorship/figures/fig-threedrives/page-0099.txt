@@ -1,0 +1,11 @@
+71
+Look for 3 “impulses” + reversal.
+寻找3个“冲动”+反转。
+Anticipate the Stop Hunt if we do not see the 3 Drives Pattern. Study how price
+reacts when it takes out a recent Short-term highs. If the price is not pressing higher
+similar to a 3 Drives pattern, anticipate a Stop Hunt.
+如果我们看不到3驱动模式，预计停止狩猎。研究价格在突破近期高点时的反应。如
+果价格没有像3驱动模式那样上涨，就应该止损买入。
+Then we look for a Displacement that prints a FVG. And we place our Entry at the
+Fair Vale Gap.
+然后我们寻找能印出FVG的位移。我们把入场点设在FVG。

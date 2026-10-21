@@ -1,0 +1,13 @@
+52
+taking stop losses and triggering new buy and sell orders into the market.
+接受止损，并在市场中触发新的买卖订单。
+The more liquidity accumulates above a significant price level, the more likely that
+liquidity will be taken. Where price consistently bounces from the level of support or
+the level of resistance several times, there is a huge number of stops of some players
+and orders in the opposite direction of other players. It is important to focus on finding
+such places, as you can find great entries after liquidity is collected. The more bounces,
+the better.
+在重要价格水平之上积累的流动性越多，就越有可能被吸收。当价格从支撑位或阻力
+位持续反弹几次时，一些玩家有大量的止损，其他玩家有相反方向的订单。重点寻找
+这样的地方很重要，因为你可以在流动性收集后找到很棒的交易机会。弹跳越多越
+好。

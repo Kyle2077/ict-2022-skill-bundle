@@ -1,0 +1,104 @@
+
+<<<PDFPAGE 622 | images=1>>>
+378
+Chapter 31
+第31章
+Central Bank Dealers Range
+中央银行交易商范围
+TheCentralBanksDealingRange occursfrom14:00-20:00 NYTimeanditwill
+continueintoAsiansession.
+中央银行的交易范围发生在纽约时间14:00-20:00，并将持续到亚洲市场。
+Byusing1hchart,markthehighandlowof14:00–20:00NYTime(markthe
+bodyofthecandlesandignorethewicks).
+通过使用1h图表，标记纽约时间14:00–20:00的高点和低点(标记蜡烛体，忽略灯
+芯)。
+Markthemiddleoftherange(sellerswillbebelowthemiddleoftherangeand
+buyerswillbeaboveit).
+标记范围的中间(卖家将低于范围的中间，买家将高于范围的中间)。
+Drawthedeviationsofabovetherangeandbelowtherangeandextendhorizontal
+linesateverydeviation.
+画出高于范围和低于范围的偏差，并在每个偏差处延伸水平线。
+Foraselltradeexpectahighat1deviationabovetheflout.Afterhighismade,the
+marketwillfall2deviationsbelowtheflout.ConsiderthehightoforminLondon.
+对于卖出交易，预期高点在1以上。在高点形成后，市场将下跌2个偏差。想想在伦敦形成
+的高潮。
+Forabuytradeistheopposite.ExpecttheflouttooccurbetweenMonday,Tuesday,
+
+<<<PDFPAGE 623 | images=0>>>
+379
+买入交易则相反。预计藐视发生在周一，周二，
+andWednesday.
+还有周三。
+Sometimespricewillgoalittlebitabove/belowtheflout.
+有时价格会比实际价格高/低一点。
+Toput itsimple, measure thenumberof pointsfromthe lowtohigh of 14:00 –
+20:00NYTimerange.Foraselltrade,thehighofthedaywillformatsamenumber
+ofpointsabovethe14:00–20:00 NYTimerange(1deviation).Forexample,if the
+flout range is 15 points (ES/SP500), thehigh of the day will format 15 points(ES/
+SP500)abovetheflout.Targetorlowofthedaywillformat15times 2belowtheflout
+(2deviations),thatwillbe30points(ES/SP500)belowthe14:00–20:00NYTime
+range.
+简单来说，测量14:00–20:00NY时间范围内从低到高的点数。对于卖出交易，当天
+的高点将在纽约时间范围14:00-20:00以上的相同点数形成(1个偏差)。例如，如果浮
+动区间是15点(SP500),当天的高点将在浮动区间上方15点(SP500)。一天的目标或低
+点将形成在15倍于2的低点(2个偏差)，这将比纽约时间范围14:00–20:00低30个点
+(SP500时间)。
+Forabuytradeistheoppositeoftheabove.Theidealhigh/lowofthedaywill
+因为买入交易与上述相反。一天中理想的高/低价格将
+format1deviationabove/belowthefloutbutitcangoupto2deviationsforReversal
+形态高于/低于浮动1个偏差，但它可以上升到反转的2个偏差
+<<<PDFPAGE 624 | images=3>>>
+380
+marketprofile(LondonClose/NewYorkopenreversal–earlier inthisbook).
+市场概况(伦敦收盘/纽约开盘反转——本书前面)。
+Theidealtakeprofitis2deviationsbutitcangoupto3.
+理想的止盈是2个偏差，但也可以达到3个偏差。
+ForahighprobabilityLondonNormalProtractionsellday,theCBDRshouldbe
+less than 20 points(ES/SP500), and the Asian session range shouldbe between 10
+to15points(ES/SP500).Themarketcanmoveonetotwostandarddeviationsofthe
+CBDRduringtheprotractionarystageorJudasSwing.
+对于高概率的伦敦正常延期卖出日，CBDR应小于20点(SP500东部时间)，亚洲时段
+范围应在10至15点之间(SP500东部时间)。在持续阶段或犹大摆动期间，市场可以移
+动一到两个CBDR的标准差。
+TheCBDRalsocanbeusedtoidentifypotentialtradingopportunitiesandmarket
+CBDR也可以用来识别潜在的交易机会和市场
+movementsduringspecifictimeperiods.
+特定时间段内的移动。
+Highimpactnewswillcauselargerstandarddeviationstobereached.TheCBDR
+ishelpfulwithanticipating theLODorHODselection.
+高影响新闻将导致达到更大的标准差。CBDR有助于预测LOD或HOD选择。
+UsingtheCBDRismoreaccurateTuesday–Thursday.Thatiswhereweseemost
+ofthevolumeoftheweek.ThisdoesnotmeanitcouldnotoccuronMonday.
+
+<<<PDFPAGE 625 | images=1>>>
+381
+周二到周四使用CBDR更准确。这是我们看到本周大部分交易量的地方。这并不意味
+着它不会发生在星期一。
+
+<<<PDFPAGE 626 | images=0>>>
+382
+Themarketismorelikelytoexpand 4standarddeviationisgoingtobeonvery
+highimpactnews.Orpricecangotothe4thdeviationtocreateaNewYorkSession
+marketreversalprofile.
+市场更有可能扩大4标准差将是非常高的影响消息。或者价格可以到第4个背离，创建
+一个纽约市场反转剖面。
+Wecanusethewicksaswell;ICTpreferstouseonly bodies.Justbecauseweuse
+thebodies,westillmustlookatthewickrangeseverytime.Wecan’tusetheCBDR
+criteriafordaytradingonthisday,wecanlookatscalping.
+我们也可以使用灯芯；ICT更喜欢只用身体。仅仅因为我们使用身体，我们仍然每次
+都必须看灯芯范围。这一天，我们不能用CBDR标准进行日内交易，我们可以看看刷
+单。
+The daily candle is around 40-50 points(ES/SP500) generally. We must have a
+bias,whatwillthenext3dayslikelydo,what’sthepriceis likelygoingtodothisweek,
+whereweare atseasonally,whereweatquarterly,dowehaveaquarterlyshift,dowe
+haveIPDAPDarraysthathaven’tbeenmetyet?
+日线蜡烛一般在40-50点左右(SP500)。我们必须有一个偏差，未来3天可能会做什么，
+本周价格可能会做什么，我们在哪里季节性，我们在哪里季度，我们有一个季度转移，
+我们有IPDAPD阵列还没有满足吗？
+So,ifwecomeintoapremiumarrayonthedailyandweexpectbearishness price,
+then we can look at London open for 1-2 or maybe 3 standard deviations higher to
+createthehigh of theday.Alsoadd seasonal tendencytoit.Whenweblend allthis
+together,itbecomeshigherprobability.
+因此，如果我们进入一个日溢价阵列，我们预计价格看跌，那么我们可以看看伦敦开
+盘价高出1-2或3个标准差，以创造当天的高点。还要加上季节性的倾向。当我们把所
+有这些融合在一起，它就变成了更高的概率。

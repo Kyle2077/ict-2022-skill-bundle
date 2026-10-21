@@ -1,0 +1,87 @@
+
+<<<PDFPAGE 468 | images=0>>>
+364
+Chapter 20
+第二十章
+<<<PDFPAGE 469 | images=2>>>
+365
+Daily Rebalance Theory
+日常再平衡理论
+As I mentioned above, seasonal trends are periods of the year when markets or
+particularassetclasseswillmostlikelymove.Historically,theyhaveledtolargeprice
+fluctuations. AnexampleisthatMayisusuallythemonthwhenthemarketdropsfor
+indexfuturesandstocks.
+正如我上面提到的，季节性趋势是一年中市场或特定资产类别最有可能变动的时期。
+从历史上看，它们曾导致价格大幅波动。一个例子是，5月通常是股指期货和股票市
+场下跌的月份。
+<<<PDFPAGE 470 | images=2>>>
+366
+
+<<<PDFPAGE 471 | images=1>>>
+367
+Don’tpredictloworhigh,youwillonlylosemoney!
+不要预测低或高，你只会亏钱！
+The algorithms work on New York time , and it starts at midnight. Markets are
+controlledanddrivenbyalgorithms.At08:30NewYorktime,thetimecomeswhen
+thealgorithmstartslookingforliquidity.
+算法在纽约时间起作用，从午夜开始。市场是由算法控制和驱动的。纽约时间08:30，
+算法开始寻找流动性的时间到了。
+Thestockmarketopensat09:30NewYorktime.Inthe1-hourtimeframebetween
+股票市场在纽约时间09:30开盘。在1小时内
+08:30and09:30weexpectbearishsentimenttomovehighertofindshortsetups.
+08:30和09:30我们预计看跌情绪将上升，以寻找做空机构。
+At09:30it’stimeformanipulationanditcreatesasmallopportunitywhenitlooks
+likethemarketisgoingtodosomething.Butingeneral,thisistheoppositeofwhatit
+lookslikeonthechart,andretailtradersseethisasabreakout,meaningthattheprice
+isrising.
+在09:30是操纵的时间，当市场看起来要做些什么时，它创造了一个小机会。但总的
+来说，这与图表上看起来的相反，散户将此视为突破，意味着价格在上涨。
+Whenwearebearish,wearesayingthatthemarketwillrisetothepremiumzone.
+当我们看跌时，我们是在说市场将上涨到溢价区。
+Foroneoftworeasons:
+有两个原因:
+<<<PDFPAGE 472 | images=0>>>
+368
+1. TaketheoldhighorhighstotakeBSLsothatthesmartmoneycancompete
+withthemontheirshortpositions.
+采取旧的高点或高点采取BSL，以便聪明的钱可以在他们的空头头寸上与他们
+竞争。
+2. TheyaregoingtosellonthesebuystopsinordertothenbuycheaperSSL.This
+他们将在这些购买站点上销售，以便购买更便宜的SSL。这
+wouldbetheirpoolofliquiditytooffset/allocateshortpositions.
+将成为他们抵消/分配空头头寸的流动性池。
+Intheexample15-minutechartbelow,weseeagreatrunofthe“power3”setup.
+At08:30thepricerisesabovetheBSLandthisiswhatwehavecalledaJudasswing/
+manipulation.
+在下面的15分钟图表示例中，我们看到“power3”设置运行良好。在08:30，价格上升
+到BSL以上，这就是我们所说的犹大摆动/操纵。
+<<<PDFPAGE 473 | images=2>>>
+369
+
+<<<PDFPAGE 474 | images=1>>>
+370
+Immediate Rebalance
+立即重新平衡
+An immediate rebalance occurs when the market quickly adjusts to a new price
+level, often after an imbalance or inefficiency in price action. It typically happens
+withinashorttimeframe,suchaswithinafewcandles,andcanresultinarapidprice
+movement.
+当市场迅速适应一个新的价格水平时，通常是在价格行动失衡或效率低下之后，立即
+出现再平衡。它通常发生在短时间内，如几根蜡烛，并可能导致快速的价格运动。
+An immediate rebalance, as explained by ICT, occurs when the market reprices
+backtoaspecificpricelevel,suchasaweeklygaplow,andthenquicklyfailstocontinue
+inthat direction.This canbe seen whenthemarket movesupthrougha level,then
+downthroughit,andattemptstotestitagainbutfailsimmediately.
+正如ICT所解释的，当市场重新回到特定的价格水平，如周缺口低点，然后很快无法
+继续朝着这个方向发展时，就会发生立即的再平衡。当市场向上通过一个水平，然后
+向下通过这个水平，并试图再次测试它，但立即失败时，就可以看到这一点。
+<<<PDFPAGE 475 | images=1>>>
+371
+
+<<<PDFPAGE 476 | images=6>>>
+372
+For example, if a candle’s high is immediately followed by a trade down to that
+candle’shigh,itwouldbeconsideredanimmediaterebalance.Thisquickadjustment
+canbelikerocketfuel,causingthepricetotakeoffrapidly.
+例如，如果一根蜡烛的高点之后立即交易到该蜡烛的高点，这将被视为立即重新平
+衡。这种快速调整就像火箭燃料一样，会导致价格快速上涨。

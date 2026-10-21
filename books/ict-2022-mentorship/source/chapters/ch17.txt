@@ -1,0 +1,257 @@
+
+<<<PDFPAGE 383 | images=4>>>
+279
+Chapter 17
+第十七章
+Intermarket Relationships & Intermarket Analysis
+市场间关系和市场间分析
+ForthemostparttheDXYandtheESmoveinbroadlyoppositedirections.Stocks
+intheS&P500,justlikegoldandoil,arepricedinUSD.WhentheUSDisincreasing
+invalue,ittakesfewerUSdollarstobuyassetspricedinUSdollars…sothepricesof
+thoseassetstendtofall.
+在大多数情况下，DXY和ES的运动方向大致相反。标准普尔500的股票，就像黄金和
+石油一样，以美元定价。当美元升值时，购买以美元定价的资产需要更少的美元……
+因此这些资产的价格往往会下跌。
+TherearealsotimeswhentheS&P500andtheUSdollarbothmoveuptogether.
+也有标准普尔500和美元一起上涨的时候。
+Theseareusuallytimesofeconomicrecovery…wheneverythingisgoingright.
+这通常是经济复苏的时候……一切都进展顺利的时候。
+
+<<<PDFPAGE 384 | images=8>>>
+280
+
+<<<PDFPAGE 385 | images=1>>>
+281
+US Dollar Index
+美元指数
+DXY an index of the value of the US dollar against other currencies, which was
+createdbyJPMorganin1973.
+DXY美元对其他货币价值的指数，由JP摩根于1973年创立。
+TheDXYisessentiallyameasureofthevalueoftheUSdollarrelativetoabasketof
+othermajorcurrencies,includingtheeuro,yen,pound,andCanadiandollar.Assuch,
+itcanprovidevaluableinsightsintoglobaleconomictrendsandinvestorsentiment.
+DXY本质上是衡量美元相对于一篮子其他主要货币的价值，包括欧元、日元、英镑和
+加元。因此，它可以为全球经济趋势和投资者情绪提供有价值的见解。
+Thus, given the presence of the euro, the dollar index contains currencies
+representedby24states.
+因此，考虑到欧元的存在，美元指数包含了由24个国家代表的货币。
+The correlation between the Dollar Index (DXY) and indices can be explained
+美元指数(DXY)和指数之间的相关性可以解释
+throughtherisk-onandrisk-offscenarios.
+通过风险开启和风险关闭场景。
+WhentheDollarIndexismovinghigher(risk-off),itusuallyindicatesthatforeign
+currenciesandindexfutureshavemorefreedomtodropandhaveahardtimerallying
+higher.Ontheotherhand,whentheDollarIndexismovinglower(risk-on),itsupports
+theriseofindicesandforeigncurrencies.
+当美元指数走高(避险)时，通常表明外币和指数期货有更大的下跌自由，很难反弹走
+高。另一方面，当美元指数走低时(风险)，它支持指数和外币的上涨。
+Why is this happening?
+为什么会这样？
+ThegrowthoftheUSdollarindexcausesadecreaseinthepriceofassetsindollar
+
+<<<PDFPAGE 386 | images=0>>>
+282
+pairs, while the drop and consolidation of the index causes assets in dollarpairs to
+strengthen,therefore,ES/NQ/YM.begintogrow.
+美元指数的增长导致美元对资产价格的下跌，而指数的下跌和整固导致美元对资产的
+走强，因此，ES/NQ/YM。开始成长。
+TherearethreescenariosforthebehavioroftheDXYandthereactionofES/NQ/
+YM:
+DXY的行为和ES/NQ/YM的反应有三种情况:
+1. Scenario#1-DXYfalls,ES/NQ/YMrises.
+场景#1-DXY下跌，ES/NQ/YM上涨。
+2. Scenario#2-DXYrises,ES/NQ/YMfalls.
+场景#2-DXY上升，ES/NQ/YM下降。
+3. Scenario#3-DXYconsolidates,ES/NQ/YMrises.
+情景#3-DXY盘整，ES/NQ/YM上涨。
+<<<PDFPAGE 387 | images=4>>>
+283
+TraderswhoareabletounderstandthecorrelationbetweentheDXYandindices
+canusethisknowledgetoidentifypotentialtradingopportunities.Forexample,asI
+mentioned above,if the DXYis trendinghigher whiletheES istrending lower,this
+may suggest that investors are becoming more risk-averse and moving away from
+equities.Traderswhorecognizethistrendmaybeabletotakeshortpositionsinthe
+ES(YM,NQ,etc.),anticipatingfurtherdownside.
+能够理解DXY和指数之间的相关性的交易者可以利用这种知识来识别潜在的交易机
+会。例如，正如我上面提到的，如果DXY趋势上升，而ES趋势下降，这可能表明投资
+者越来越厌恶风险，正在远离股票。认识到这一趋势的交易者可以在ES(YM、NQ等)
+建立空头头寸。)，预期进一步下行。
+Ontheotherhand,iftheDXYistrendinglowerwhiletheESistrendinghigher,
+thismayindicatethatinvestorsarebecomingmorebullishonequitiesandwillingto
+takeonmorerisk.Traderswhorecognizethistrendmaylookforlongopportunitiesin
+theES.
+另一方面，如果DXY趋势较低，而ES趋势较高，这可能表明投资者越来越看好股票，
+并愿意承担更多风险。认识到这一趋势的交易者可能会在es中寻找做多机会。
+<<<PDFPAGE 388 | images=1>>>
+284
+
+<<<PDFPAGE 389 | images=4>>>
+285
+Seasonal Tendencies
+季节性趋势
+“Thereisatimetogolong.Thereisatimetogoshort.Andthereisatimetogo
+“有一段时间要走很长。有做空的时候。还有一段时间要走
+fishing.”
+钓鱼。"
+-JesseLivermore.
+Seasonaltendenciesarenotabsolute,buttheycanserveasaroadmaporatreasure
+杰西·利弗莫尔。季节性趋势不是绝对的，但它们可以作为路线图或宝藏
+map,givingtradersanideaofwhattonormallyexpectinpriceactionduringaspecific
+timeofyear.Theyarebasedonhistoricaldataandcanhelptradersanticipatemarket
+movements, but they should not be relied upon entirely, as market conditions and
+otherfactorscaninfluencetheactualoutcome.
+地图，给交易者一个在一年的特定时间里通常预期价格行为的概念。它们基于历史数
+据，可以帮助交易者预测市场走势，但不应该完全依赖它们，因为市场条件和其他因
+素会影响实际结果。
+Seasonaltendenciescanbeusefulforfuturesandforextrading,butit’simportant
+to remember that they are not guarantees and should be used in conjunction
+withotheranalysistoolsandtechniques.
+季节性趋势对期货和外汇交易很有用，但重要的是要记住，它们不是保证，应该与其
+他分析工具和技术结合使用。
+Seasonal trends: This is not a panacea. If your analysis is consistent with the
+seasonaltrend,thenyouwilltradethemostprobabilisticmodels.
+季节性趋势:这不是灵丹妙药。如果你的分析与季节趋势一致，那么你会交易概率最大
+的模型。
+
+<<<PDFPAGE 390 | images=4>>>
+286
+December – January
+12月至1月
+Inthelastandfirstmonthsofthecalendaryear,allmarketstendtobeinastateof
+consolidation with the least favorable price behavior for the formation of trading
+patterns.Suchpriceactionisdictatedprimarilybythebusyscheduleofholidaysand
+bankholidays,whenliquidityleavesthemarkets.Duringtheseperiods,mosttraders
+takevacationsorspendmoretimeobservingandtestingnewtradingpatterns.
+在日历年的最后一个月和第一个月，所有市场都倾向于处于盘整状态，价格行为对交
+易模式的形成最不利。这种价格行为主要是由节假日和银行假日的繁忙安排所决定的，
+此时流动性离开市场。在这些时期，大多数交易者休假或花更多的时间观察和测试新
+的交易模式。
+February – April
+二月至四月
+Since February, markets have come out of consolidation, moving and trending,
+whichsuggestsmorefavorablepriceaction.Thisisduetothefactthatsmartcapital
+enters the market in large volumes. During these periods, the market has the most
+optimalandHIGHLYprobabilistictradingmodels.
+自2月以来，市场走出了盘整、移动和趋势，这表明价格走势更加有利。这是由于聪
+明的资本大量进入市场。在这些时期，市场有最佳和高概率的交易模型。
+
+<<<PDFPAGE 391 | images=4>>>
+287
+May – August
+五月至八月
+The popularsaying “Sell in May and go away” is justified by the fact that smart
+capitaltakesprofitsonitspositionsbeforethesummerperiodoflowvolatility.Asa
+result,themarketformsadownwardtrendandsubsequentconsolidationduringthe
+so-called“summerdepression”.Duringtheseperiods,mostprofessionaltraderstake
+vacations,especiallyinAugust.
+流行的说法“在5月份卖出，然后离开”是合理的，因为聪明的资本在夏季低波动期之前
+获利了结。因此，市场在所谓的“夏季萧条”期间形成下跌趋势和随后的盘整。在这些
+时期，大多数职业交易者都会休假，尤其是在八月。
+September - November
+9月至11月
+In the last quarter of the year, the market starts moving again. While the stock
+market tends to go up. During these periods, most professional traders are actively
+trading.Thenanewcyclebegins.
+在一年的最后一个季度，市场再次开始波动。而股市往往会上涨。在这些时期，大多
+数专业交易者都在积极交易。然后新的循环开始了。
+
+<<<PDFPAGE 392 | images=3>>>
+288
+EUR/USD
+
+<<<PDFPAGE 393 | images=0>>>
+289
+欧元/美元
+<<<PDFPAGE 394 | images=0>>>
+290
+Asyoucanseefromthechart,therehavebeenseveralfairlystabletrendsforthe
+EUR/USDpairovertheyears:
+正如你从图表中看到的，欧元/美元多年来有几个相当稳定的趋势:
+1. TheEurotypicallyformsabottominmid-Februaryandthenmoveshigherinto
+mid-March.Apullbackthenoccursthenweseeanotherclimbintotheendof
+April.
+欧元通常在2月中旬形成底部，然后在3月中旬走高。然后会有一个回调，然后
+我们会看到另一次攀升，一直持续到四月底。
+2. AnotherlowinJunewhichclimbsintolateJuly/earlyAugust.
+6月份的另一个低点攀升至7月底/8月初。
+3. UsuallyadeclinefromearlyAugusttoearlySeptember.
+通常是从八月初到九月初的下降。
+4. Early to late September is a good time for the Euro, and then usually sees a
+declineinearlyOctober.
+9月初至9月底是欧元的好时机，然后通常会在10月初出现下跌。
+5. After October our averages diverge which means the signals are less concise
+and less reliable. It is recommended to be aware of data inconsistencies that
+happen for some timeframes that do not allow for definitive observations to
+maketradingdecisions.
+10月份以后，我们的平均值出现了背离，这意味着信号不那么简洁，也不那么
+可靠。建议注意某些时间框架内发生的数据不一致，这些时间框架不允许进行
+明确的观察来做出交易决策。
+GBP/USD
+英镑/美元
+Since the pounds have been trading against the US dollar for the longest time,
+there is quite convincing data on the seasonal trends of trading this pair in Forex.
+UnlikeJPY,thereisadirectlinkbetweenGBPfuturesandthecorrespondingForex.
+由于英镑对美元的交易时间最长，因此在外汇交易中英镑对美元的季节性趋势方面有
+相当令人信服的数据。与日元不同，英镑期货与相应的外汇之间有直接联系。
+<<<PDFPAGE 395 | images=1>>>
+291
+Allowing some generalization, here are the most compelling seasonal trends for
+thispairofcurrencies:
+允许进行一些概括，以下是这两种货币最引人注目的季节性趋势:
+
+<<<PDFPAGE 396 | images=0>>>
+292
+1. The Pound typically forms a bottom in early to late March and then moves
+higherintotheendofApril.
+英镑通常在3月初至3月末形成底部，然后在4月底走高。
+2. EarlyMaytomid-Mayisusuallyabearishtime.
+五月初至五月中旬通常是熊市。
+3. Abottomtypicallyformsagaininmid-Mayweseeamovehigherintoearly
+August.
+底部通常会在五月中旬再次形成，我们会在八月初看到一个更高的走势。
+4. PriceusuallypeakearlyinAugustanddeclineintoearlySeptember.
+价格通常在8月初达到最高点，然后在9月初下降。
+5. Averages re-align to form a top in early November and the price slides
+intomid-to-lateNovember.Afterthistheaveragesdivergeagain.
+平均线在11月初重新排列形成顶部，价格在11月中下旬下滑。此后，平均值再
+次偏离。
+Dollar Index
+美元指数
+Thefirsttimeframeslookedatarethe5,10and15yearseasonaltrends.Therefore,
+weareonlylookingforcommonpointswhereallthreetimeframesbottomortopat
+similartimesoftheyear.
+第一个时间框架是5年、10年和15年的季节性趋势。因此，我们只寻找三个时间框架
+在一年中相似的时间触底或触顶的共同点。
+Bylookingatmultipletimeframes,andfindingcommonalities,wecanextractthe
+通过观察多个时间框架，并找到共同点，我们可以提取
+strongestDollarIndexseasonaltrends.
+最强劲的美元指数季节性趋势。
+<<<PDFPAGE 397 | images=1>>>
+293
+Overthethreetimeframesstudiedwecanextractthecommonalitiestofindusual
+通过对三个时间段的研究，我们可以从中提取出共性，找到规律
+tendenciesintheUSDoverthelast5,10and15years:
+过去5年、10年和15年的美元走势:
+1. Startoftheyeartomid-Februaryhasanupwardbias.
+年初至二月中旬有向上的倾向。
+2. TypicallytopsoutinthemiddleofFebruaryanddeclinesintomid-March.
+通常在二月中旬达到顶峰，然后下降到三月中旬。
+3. LasthalfofMarchisusuallystrongandthensellsoffintolateApril.
+三月的后半月通常是强劲的，然后在四月下旬抛售。
+
+<<<PDFPAGE 398 | images=0>>>
+294
+4. BeginningtomiddleofMayisastrongtimefortheUSD,butthenfallsintoa
+short-termlowbytheendofMay.
+5月初至5月中旬是美元的强势时期，但随后在5月底跌至短期低点。
+5. EndofMaytoMid-Junemayseesomepriceappreciation.
+五月底到六月中旬，价格可能会有所上涨。
+6. MiddleofJuneusuallymarksashort-termhighandtheUSDdeclinesintothe
+endofJuly.
+6月中旬通常标志着短期高点，美元下跌至7月底。
+7. RallyfrombeginningofAugusttoearlySeptember.
+8月初至9月初反弹。
+8. EarlyNovembertolate-Novemberseesarise.
+11月初至11月底会有所上升。
+9. LateDecemberisabearishtime.
+12月下旬是一个熊市。

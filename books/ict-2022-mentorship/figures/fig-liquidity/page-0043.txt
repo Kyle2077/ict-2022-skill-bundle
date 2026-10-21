@@ -1,0 +1,25 @@
+43
+To help you better understand what liquidity is, I have drawn some simple diagram.
+It illustrates why we refer to certain levels as “liquidity”. The point is not that
+the models themselves are liquidity, but that when a certain price model appears,
+liquidity is attracted at key levels and price points.
+为了帮助你更好地理解什么是流动性，我画了一些简单的图表。它解释了为什么我们
+称某些水平为“流动性”。重点不是模型本身就是流动性，而是当某个价格模型出现时，
+流动性在关键水平和价格点被吸引。
+In the figure above, the zones marked in blue are the places where liquidity
+在上图中，蓝色标记的区域是流动性
+accumulates. This is where most trading systems place buy, sell and stop loss orders.
+积累。这是大多数交易系统下单买入、卖出和止损的地方。
+So what is the use of liquidity for us traders? Good question. Liquidity helps us
+determine where the price is likely to go next. You can learn to trade only using one
+liquidity levels. It’s not difficult, but the risks and potential profits will not be so
+attractive. In order to get a high-quality trading idea, using the liquidity, you need to
+apply the market structure on the HTF, order blocks and Premium/Discount zones
+(we will talk about it later in this book). This helps to understand what kind of liquidity
+will attract the price and where we should enter into the trade and where we should
+exit.
+那么，流动性对交易员有什么用？好问题。流动性帮助我们确定价格下一步可能走
+向。你可以学习只使用一种流动性水平来交易。不难，但是风险和潜在利润不会那么
+吸引人。为了获得高质量的交易理念，利用流动性，你需要在HTF、订单块和溢价/折
+价区应用市场结构(我们将在本书后面讨论)。这有助于理解什么样的流动性会吸引价
+格，我们应该在哪里进入交易，我们应该在哪里退出。

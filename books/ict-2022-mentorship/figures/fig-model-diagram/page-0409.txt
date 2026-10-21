@@ -1,0 +1,26 @@
+305
+2. Price reverses direction and creates a Fair Value Gap (FVG) with Displacement
+(Displacement must exist. This signifies there is Institutional sponsorship to
+the move).
+价格反转方向，并通过置换(置换必须存在)产生公允价值缺口(FVG)。这表明有
+机构支持这一举措)。
+3. Swing (high or low) must be exactly horizontal to one of the three
+candles in the FVG. This swing is now a Market Structure Shift (MSS):
+秋千(高或低)必须与FVG中的三根蜡烛之一保持水平。这种转变现在是一种市
+场结构转变(MSS):
+a. The Swing High/Low can occur either before the liquidity grab or afterwards.
+Either way is valid.
+高/低波动可能发生在流动性紧缩之前或之后。任何一种方式都是有效的。
+4.
+Draw
+a
+50%
+Fibonacci line
+(two
+options):
+画一条50%斐波纳契线(两个选项):
+a. Start at swing that took liquidity to a swing on the other side of the FVG.
+从swing开始，将流动性带到FVG另一边的swing。
+b. Start at a prominent swing after liquidity taken swing to a swing on the other
+side of the FVG
+从一个显著的摆动开始，在流动性被吸走后，摆动到FVG的另一边

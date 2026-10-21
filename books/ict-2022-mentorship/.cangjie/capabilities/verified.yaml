@@ -1,0 +1,765 @@
+schema_version: 1
+bundle_id: bundle.ict-2022-mentorship
+book:
+  title: 开启ICT 2022导师计划的成功之门 / Unlocking Success in ICT 2022 Mentorship
+  author: "LumiTraders (source: Michael J. Huddleston / Inner Circle Trader, 2022 Mentorship)"
+  source_pack: src-ict2022
+  baseline_tag: pdf-2023-12-31-671p
+entry:
+  name: ict-intraday-playbook
+  description: ICT 2022 导师计划日内交易方法论的单一入口手册：以时间（Killzone/时段节奏）、价格（流动性与 PD Arrays）、结构（MSS/FVG/Displacement）三轴读取机构订单流，提供盘前过滤、价位锚、偏向判定、入场与风控的完整检查单与计算口径；不含投资建议，全部参数按原书口径标注品种与时区限制。
+  core_principles:
+    - 时间先于价格：先查时段窗口与禁忌日，再看任何形态
+    - 价格只做两件事：重新平衡不平衡或寻求流动性（ERL/IRL 交替）
+    - 结构必须带位移：无位移的突破不算 MSS，无位移本身是反向信号
+    - 折价买入溢价卖出：不在旧高之上买、不在旧低之下卖
+    - 不是每天都有交易：硬门不过即空仓
+  out_of_scope:
+    - 不提供投资建议或收益承诺；原书方法论无统计回测支持
+    - 不覆盖加密货币等 24/7 品种的时段适配
+    - 不处理跨品种点数换算（原书仅 ES 标定）
+  stop_conditions:
+    - 缺关键输入（日历、K线、锚数据）时先询问，不猜值
+    - 禁忌日/硬门失败时输出不交易并停止下游能力
+    - 时段口径存疑（夏令时）时显式声明约定后再执行
+promotion_budget: 8
+router_entry:
+  name: ict-2022-mentorship-router
+  description: "ICT 2022 导师计划蒸馏产物的来源路由入口：按意图把请求路由到 28 张能力卡（流动性/DOL、MSS、PD Array 词典、OTE、Turtle Soup、NY Scalp、SMT、Top Down 等），未单独晋级的能力经此入口可达，保证无能力失联。"
+capabilities:
+  - capability_id: cap.ict2022.session-taboo-filter
+    revision: 1
+    status: active
+    slug: session-taboo-filter
+    title: 交易时段与禁忌日过滤
+    importance: critical
+    importance_rationale: 映射 task-01（错时段交易是全书首要亏损警告）；纯计算零主观，每日盘前必用
+    one_liner: 先查五 Killzone 窗口与禁忌日/亚洲区间硬门，再允许任何入场分析
+    intents: [今天几点可以交易, 现在是哪个时段, 今天有FOMC/NFP能不能做, 亚洲区间很宽还能做伦敦剧本吗]
+    keywords: [killzone, session, 时段, 伦敦开盘, 纽约开盘, FOMC, NFP, 禁忌日, 亚洲区间, taboo day]
+    also_read: [cap.ict2022.po3-amd-state-machine, cap.ict2022.high-probability-entry-risk]
+    card: cards/session-taboo-filter.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 回答"现在/今天能不能交易、按哪个时段剧本"：五 Killzone 时间窗（纽约时间）、事件回避清单、亚洲区间阈值硬门、新闻前10分钟禁交易。触发词：时段/killzone/session/几点交易/新闻日/FOMC/NFP/亚洲区间。不回答方向与价位（→ daily-bias-checklist / daily-static-anchors）。
+      tags: [time-filter, checklist, intraday]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch11 PDF p.155-180; Ch4 p.82-83; Ch9 p.116; Ch12 p.196
+    promotion:
+      destination: promoted
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 每日盘前必调用；触发与路由入口可分（入口不答纯时段问题）
+  - capability_id: cap.ict2022.daily-static-anchors
+    revision: 1
+    status: active
+    slug: daily-static-anchors
+    title: 每日静态价位锚计算
+    importance: critical
+    importance_rationale: 映射 task-03；全部下游能力共用坐标系，口径统一价值最高
+    one_liner: 盘前算出 PDH/PDL、NMO/NYO、Asian range、CBDR 中点等不随盘中变化的参考线
+    intents: [把今天关键价位列出来, 亚洲区间多宽, CBDR中点在哪, 盘前准备]
+    keywords: [PDH, PDL, 前日高低, 午夜开盘, NMO, NYO, Asian range, CBDR, 锚, anchors, premarket]
+    also_read: [cap.ict2022.daily-bias-checklist, cap.ict2022.high-probability-entry-risk]
+    card: cards/daily-static-anchors.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 盘前静态价位锚计算器：固定字段输出 pdh/pdl/nmo/nyo/asian_high/asian_low/asian_range_width/cbdr_high/cbdr_low/cbdr_mid/cbdr_width/filter_verdict/timezone；锚值计算与品种无关（非ES仅 filter_verdict=not_applicable）；Asian 10-15点/CBDR<20点(ES) 过滤标记。触发词：关键价位/盘前/PDH PDL/亚洲区间/CBDR/anchors。只算线不判方向。
+      tags: [calculation, premarket, levels]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch10 PDF p.152-153; Ch11 p.156-166; Ch32 p.630
+    promotion:
+      destination: promoted
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 纯数值可机械断言，评测友好
+  - capability_id: cap.ict2022.liquidity-dol-state-machine
+    revision: 1
+    status: active
+    slug: liquidity-dol-state-machine
+    title: 流动性分类与 DOL 识别
+    importance: high
+    importance_rationale: 映射 task-04；"下一目标"是偏向与入场的公共上游
+    one_liner: ERL 与 IRL 交替：扫完旧高低下一站是不平衡，回补完不平衡下一站是旧高低
+    intents: [扫完这个低点下一目标是什么, 这里是外部还是内部流动性, 价格会先去哪个水平]
+    keywords: [liquidity, BSL, SSL, DOL, draw on liquidity, ERL, IRL, 流动性, 止损簇, 磁吸]
+    also_read: [cap.ict2022.daily-bias-checklist, cap.ict2022.fvg-three-candle]
+    card: cards/liquidity-dol-state-machine.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 流动性七分类与 DOL（下一磁吸目标）状态机：标注 ERL/IRL，按交替规则与 HTF order flow 输出下一目标类型/方向/价位区间；内建"不在破旧高买/破旧低卖、多弹跳水平视为将被扫"检查项。触发词：流动性/BSL SSL/DOL/扫完去哪/ERL IRL。不判幅度时间。
+      tags: [state-machine, liquidity, target]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch3 PDF p.39-79; Ch9 p.127-128; Ch12 p.184-185,200
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: false, independent_reuse: true, independent_eval: true}
+      notes: 运行依赖图表标注输入，常与偏向/入场同请求出现，降为路由卡防双触发
+  - capability_id: cap.ict2022.daily-bias-checklist
+    revision: 1
+    status: active
+    slug: daily-bias-checklist
+    title: 日线偏向判定检查清单
+    importance: critical
+    importance_rationale: 映射 task-02；一切入场的方向前提，遗漏后果=逆向日
+    one_liner: 折溢价位置→DOL 同向核对→PDH/PDL 反应修正→SMT 可选确认，输出带依据链的偏向
+    intents: [今天偏多还是偏空, 我的多头想法还成立吗, 价格在溢价还是折价, 均衡区怎么办]
+    keywords: [daily bias, 日线偏向, 偏多偏空, premium, discount, equilibrium, 溢价, 折价, 均衡]
+    also_read: [cap.ict2022.liquidity-dol-state-machine, cap.ict2022.smt-divergence-confirm, cap.ict2022.daily-static-anchors]
+    card: cards/daily-bias-checklist.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 日线偏向检查清单：HTF dealing range 折溢价定位→下一 DOL 同向核对→PDH/PDL 触及反应修正→（可选）SMT 确认；均衡区直接输出观望；输出带依据链与失效条件，禁止无证据翻转。触发词：daily bias/今天方向/偏多偏空/溢价折价/均衡。不答时段与价位。
+      tags: [checklist, bias, decision]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch12 PDF p.181-210; Ch9 p.128-132; Ch32 p.628-631
+    promotion:
+      destination: promoted
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 盘前高频独立意图
+  - capability_id: cap.ict2022.mss-displacement-gate
+    revision: 1
+    status: active
+    slug: mss-displacement-gate
+    title: MSS/结构突破有效性判定
+    importance: high
+    importance_rationale: 映射 task-05；入场确认门，假突破过滤
+    one_liner: 越位+有力收盘+留下FVG+叙述自洽才算有效 MSS；无位移=反向信号
+    intents: [这次突破算结构转变吗, 为什么这次突破是假的, 有没有位移]
+    keywords: [MSS, BMS, market structure shift, displacement, 位移, 结构突破, 假突破]
+    also_read: [cap.ict2022.fvg-three-candle, cap.ict2022.ict-2022-model]
+    card: cards/mss-displacement-gate.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 结构突破有效性布尔门：越位对象→位移代理（有力收盘+留下FVG）→叙述核对，三态输出（有效/无效/无位移反向信号）。触发词：MSS/结构突破/displacement/位移/假突破。只判有效性，不判目标与挂单位。
+      tags: [boolean-gate, structure]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch4 PDF p.80-83; Ch10 p.143-144
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 满足五判据但为预算与触发竞争降级：常作为入场族子步骤被调用
+  - capability_id: cap.ict2022.fvg-three-candle
+    revision: 1
+    status: active
+    slug: fvg-three-candle
+    title: FVG 三蜡烛判定
+    importance: critical
+    importance_rationale: 映射 task-06；主入场/目标/位移证据工具，OHLC 纯计算
+    one_liner: 三蜡烛空档即 FVG：bearish=[c3高,c1低]，bullish=[c1高,c3低]，抵消即非 FVG
+    intents: [这里有没有FVG, 缺口区间在哪, 这个FVG算好FVG吗]
+    keywords: [FVG, fair value gap, 公允价值缺口, 三蜡烛, imbalance, 不平衡, 回补]
+    also_read: [cap.ict2022.mss-displacement-gate, cap.ict2022.liquidity-dol-state-machine]
+    card: cards/fvg-three-candle.md
+    resources: [resources/figures/fvg-p0147/page-0147.png, resources/figures/fvg-p0147/figure-notes.md]
+    visual_evidence:
+      - figure_id: fig-fvg-p0147
+        source_id: src-ict2022
+        source_sha256: c072988322c073be09a95858fc5ec571c12af388fce9f093e6655ffc58b3bd7d
+        pdf_page: 147
+        printed_page: "119"
+        image: resources/figures/fvg-p0147/page-0147.png
+        notes: resources/figures/fvg-p0147/figure-notes.md
+        review_status: reviewed
+    frontmatter:
+      description: FVG 三蜡烛检测器：对连续三蜡烛输出 bearish/bullish 空档区间（bearish=[c3高,c1低]、bullish=[c1高,c3低]）、空档存在性排除（c3高<c1低 / c3低>c1高，即p.141抵消表述）、最佳形态标注（流动性被扫后）；附已核查原书图证。触发词：FVG/fair value gap/三蜡烛/imbalance/缺口区间。只识别不定挂单档。
+      tags: [pattern, calculation, entry-zone]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch10 PDF p.139-154 (图 p.147 书 p.119 reviewed)
+    promotion:
+      destination: promoted
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 高频独立意图+可机械评测
+  - capability_id: cap.ict2022.pd-array-block-dictionary
+    revision: 1
+    status: active
+    slug: pd-array-block-dictionary
+    title: PD Array/Block 类型识别词典
+    importance: high
+    importance_rationale: 映射 task-07 识别层；入场位分类口径统一
+    one_liner: 七类 Block 各有结构指纹与有效性条件；MB=失败摆动、BB=成功摆动
+    intents: [这根蜡烛是OB还是Breaker, 这个块还有效吗, MB和BB怎么分]
+    keywords: [order block, OB, breaker, mitigation, rejection, propulsion, vacuum, PD array, 订单块, mean threshold]
+    also_read: [cap.ict2022.ote-entry-zone, cap.ict2022.fvg-three-candle]
+    card: cards/pd-array-block-dictionary.md
+    resources: [resources/figures/breaker-p0555/page-0555.png, resources/figures/breaker-p0555/figure-notes.md]
+    visual_evidence:
+      - figure_id: fig-breaker-p0555
+        source_id: src-ict2022
+        source_sha256: c072988322c073be09a95858fc5ec571c12af388fce9f093e6655ffc58b3bd7d
+        pdf_page: 555
+        printed_page: "451"
+        image: resources/figures/breaker-p0555/page-0555.png
+        notes: resources/figures/breaker-p0555/figure-notes.md
+        review_status: reviewed
+    frontmatter:
+      description: PD Array/Block 分类器：OB/Breaker/Mitigation/Rejection/Propulsion/Vacuum 的结构指纹、有效性条件（四条件、50%中点、双层流动性）与置信标注；附已核查 breaker 图证。触发词：order block/OB/breaker/mitigation/PD array/块有效性。只分类不排序不挂单。
+      tags: [classification, entry-zone]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch29 PDF p.547-616 (图 p.555 书 p.451 reviewed); Ch9 p.131-134
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 满足判据但预算降级：多作为入场族识别子步骤
+  - capability_id: cap.ict2022.high-probability-entry-risk
+    revision: 1
+    status: active
+    slug: high-probability-entry-risk
+    title: 高概率入场检查清单与止损止盈参数
+    importance: critical
+    importance_rationale: 映射 task-08+task-07 执行层；全书唯一成体系风控数值，遗漏后果=无纪律交易
+    one_liner: 硬门（方向/CBDR/Asian/禁忌/回撤门）不过不交易；入场八类枚举；止损六档止盈七路查表
+    intents: [今天按清单能不能做, 这单止损放几点, 止盈怎么分批, 9点没回撤还做吗]
+    keywords: [checklist, 止损, stop loss, 止盈, take profit, 分批, 风险, high probability, 入场清单]
+    also_read: [cap.ict2022.daily-bias-checklist, cap.ict2022.session-taboo-filter, cap.ict2022.ote-entry-zone]
+    card: cards/high-probability-entry-risk.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: Ch32 执行与风控器：盘前硬门（HTF方向+CBDR<20+Asian10-15+非禁忌+NY回撤门）→入场候选八类枚举→止损六档/止盈七路查表（ES标定）→纪律提示（不急移止损）。触发词：入场清单/止损/止盈/分批/今天做不做/几点止损。非ES降级为结构枚举。
+      tags: [checklist, risk-management, execution]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch32 PDF p.627-658
+    promotion:
+      destination: promoted
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 风控意图独立且高频
+  - capability_id: cap.ict2022.ny-scalp-nine-step
+    revision: 1
+    status: active
+    slug: ny-scalp-nine-step
+    title: NY Scalp 九步流程
+    importance: medium
+    importance_rationale: 映射 task-08 子集；NY 时段专用剧本，含放弃门
+    one_liner: 伦敦确认后 7:00 起等 7-10 点回撤，9:00 前未形成即放弃；形成则 62% Fib 入场
+    intents: [纽约开盘能追吗, 回撤到哪儿进, 9点没回撤还做吗]
+    keywords: [NY scalp, 纽约时段, 剥头皮, 回撤入场, 62%, 9点前, retest high of day]
+    also_read: [cap.ict2022.session-taboo-filter, cap.ict2022.ote-entry-zone]
+    card: cards/ny-scalp-nine-step.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: NY 时段剥头皮九步：确认伦敦方向→7:00(纽约)起监控回撤→9:00 前无7-10点(ES)回撤即放弃→达标62%Fib顺势入场→目标重测日高/前日高。触发词：NY scalp/纽约时段/回撤入场/62%/9点前。仅限该剧本，全天计划→high-probability-entry-risk。
+      tags: [execution, scalp, intraday]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch32 PDF p.655-658
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: false, independent_eval: true}
+      notes: 场景窄（仅NY时段+伦敦已确认日），预算降级
+  - capability_id: cap.ict2022.ict-2022-model
+    revision: 1
+    status: active
+    slug: ict-2022-model
+    title: ICT 2022 Model 六步执行流程
+    importance: critical
+    importance_rationale: 映射 task-07 集成流程；把全部概念串成单一可核对序列
+    one_liner: 扫流动性→位移FVG→MSS→50%Fib→FVG位置→折价限价；新闻日叠加9步观察与5/10点风控
+    intents: [按2022模型现在第几步, 扫完高点等什么信号, 新闻日解禁后怎么找设置]
+    keywords: [2022 model, 六步, ICT model, news embargo, buy side oriented, sell side oriented, displacement FVG MSS]
+    also_read: [cap.ict2022.mss-displacement-gate, cap.ict2022.fvg-three-candle, cap.ict2022.ote-entry-zone]
+    card: cards/ict-2022-model.md
+    resources: [resources/figures/model-p0407/page-0407.png, resources/figures/model-p0407/figure-notes.md]
+    visual_evidence:
+      - figure_id: fig-model-p0407
+        source_id: src-ict2022
+        source_sha256: c072988322c073be09a95858fc5ec571c12af388fce9f093e6655ffc58b3bd7d
+        pdf_page: 407
+        printed_page: "303"
+        image: resources/figures/model-p0407/page-0407.png
+        notes: resources/figures/model-p0407/figure-notes.md
+        review_status: reviewed
+    frontmatter:
+      description: ICT 2022 Model 六步执行链：扫主要流动性→反向位移留FVG→摆动点与FVG蜡烛对齐=MSS→50%Fib→FVG位于均衡/流动性侧→FVG内限价；新闻日叠加前10分钟禁交易与PD arrays失效序列、ES 5/10点风控；步骤2/3缺失即判停（status=stop_step2/3）。附已核查模型图证。触发词：2022 model/六步/模型第几步/新闻日设置/buy side oriented/CPI NFP后怎么找设置。也覆盖新闻事件后的设置查找（时段可否另见 session-taboo-filter）。
+      tags: [execution-model, sequence]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch19 PDF p.406-410 (图 p.407 书 p.303 reviewed); Ch9 p.116-118; Ch32 p.628-631
+    promotion:
+      destination: promoted
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 集成意图独立（"按模型走到哪步"）
+  - capability_id: cap.ict2022.ote-entry-zone
+    revision: 1
+    status: active
+    slug: ote-entry-zone
+    title: OTE 入场区计算
+    importance: high
+    importance_rationale: 映射 task-07 入场档；统一 Fib 锚定方向防画反
+    one_liner: 位移后按方向锚定 Fib，输出 0.62-0.79 区与 0.705 甜蜜点作限价带
+    intents: [回撤到哪儿挂单, 0.705是什么, 挂单区算一下]
+    keywords: [OTE, optimal trade entry, "0.62", "0.79", "0.705", 甜蜜点, fib 回撤, 挂单区]
+    also_read: [cap.ict2022.pd-array-block-dictionary, cap.ict2022.high-probability-entry-risk]
+    card: cards/ote-entry-zone.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: OTE 计算器：确认位移→按方向锚定摆动高低→输出0.62/0.705/0.79三档与区间；明示价格可能仅回撤50%、"80%有效"为作者未验证声明。触发词：OTE/0.62/0.79/0.705/甜蜜点/fib回撤/挂单区。只算区间不判块有效性。
+      tags: [calculation, entry-zone]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch9 PDF p.131-132; Ch32 p.655
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 满足判据但预算降级：多与入场族同请求出现
+  - capability_id: cap.ict2022.turtle-soup-entry
+    revision: 1
+    status: active
+    slug: turtle-soup-entry
+    title: Turtle Soup/Stop Run 与 Failure Swing 入场
+    importance: high
+    importance_rationale: 映射 task-07 入场族；作者称最高概率条件
+    one_liner: 扫止损后V型收回→短期结构断点回测入场；无扫掠则走 failure swing 备选路径
+    intents: [刚扫了前低能反手吗, turtle soup怎么挂单, 没有stop run只有假突破怎么办]
+    keywords: [turtle soup, stop run, 扫止损, 假突破, 反手, failure swing, 三重确认, V型]
+    also_read: [cap.ict2022.mss-displacement-gate, cap.ict2022.liquidity-dol-state-machine]
+    card: cards/turtle-soup-entry.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 扫掠反手入场族：确认关键水平止损扫掠→V型收回核验→主路径（MSS断点回测/水平处反向限价买sell stops）+三重确认（FVG+MSS+流动性池）→备选路径 failure swing；扫后延续不收回即判停不反手。触发词：turtle soup/stop run/扫止损/假突破/反手/failure swing。
+      tags: [entry-model, reversal]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch2 PDF p.22-38; Ch12 p.197-198; Ch29 p.592-596
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 满足判据但预算降级：与 MSS/FVG 触发词重叠度高
+  - capability_id: cap.ict2022.po3-amd-state-machine
+    revision: 1
+    status: active
+    slug: po3-amd-state-machine
+    title: PO3/AMD 节奏状态机
+    importance: high
+    importance_rationale: 映射 task-09；回答"等还是进"的节奏层
+    one_liner: 积累→操纵→分配；盘整后只能接扩张；确认需MSS+回到NMO另一侧；新闻日改写Judas时间表
+    intents: [现在是操纵还是真突破, Judas什么时候出现, 周三还在跌要不要停手]
+    keywords: [PO3, power of three, AMD, accumulation, manipulation, distribution, Judas swing, 操纵, 阶段]
+    also_read: [cap.ict2022.session-taboo-filter, cap.ict2022.mss-displacement-gate]
+    card: cards/po3-amd-state-machine.md
+    resources: [resources/figures/po3-p0224/page-0224.png, resources/figures/po3-p0224/figure-notes.md]
+    visual_evidence:
+      - figure_id: fig-po3-p0224
+        source_id: src-ict2022
+        source_sha256: c072988322c073be09a95858fc5ec571c12af388fce9f093e6655ffc58b3bd7d
+        pdf_page: 224
+        printed_page: "142"
+        image: resources/figures/po3-p0224/page-0224.png
+        notes: resources/figures/po3-p0224/figure-notes.md
+        review_status: reviewed
+    frontmatter:
+      description: PO3/AMD 节奏状态机：按星期+纽约时刻与日线阶段窗口表（20-00积累/00-05操纵/05-08小盘整/08-08:30回撤/08:30-10扩张或反转/10-12反转/16收盘盘整；阶段窗口≠Killzone会话窗）给出预期阶段；Manipulation→Expansion 需 MSS+NMO 侧确认否则标未确认；新闻例外（8:30有新闻则9:30无Judas）；周三低点后继续下跌当日停手。触发词：PO3/AMD/Judas/现在哪一阶段/操纵/周线节奏。附已核查模板图证。
+      tags: [state-machine, rhythm, intraday]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch13 PDF p.215-265 (图 p.224 书 p.142 reviewed)
+    promotion:
+      destination: promoted
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 节奏意图独立（"现在哪一幕"）
+  - capability_id: cap.ict2022.smt-divergence-confirm
+    revision: 1
+    status: active
+    slug: smt-divergence-confirm
+    title: SMT 背离确认工具
+    importance: medium
+    importance_rationale: 映射 task-10 过滤子项；作者明令只作确认
+    one_liner: 相关品种在预定水平的极值裂缝=对既有想法的绿灯/红灯，绝不单独入场
+    intents: [ES和NQ背离了吗能进吗, SMT怎么用]
+    keywords: [SMT, divergence, 背离, ES NQ, EUR GBP, BTC ETH, DXY, 裂缝, green light]
+    also_read: [cap.ict2022.daily-bias-checklist]
+    card: cards/smt-divergence-confirm.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: SMT 背离比对器：配对品种在关键水平未同步新高/新低=看跌/看涨裂缝；强制用法门（已有想法+预定水平），否则输出仅观察；记录比对时间框架（原书未规定）。触发词：SMT/背离/divergence/ES NQ/EUR GBP/裂缝/确认。绝不单独成信号。
+      tags: [confirmation, cross-asset]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch12 PDF p.186-192
+    promotion:
+      destination: router
+      gate: {independent_intent: false, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 独立意图弱（依附既有想法），判据1不过→router
+  - capability_id: cap.ict2022.top-down-workflow
+    revision: 1
+    status: active
+    slug: top-down-workflow
+    title: Top Down 分析与 15m→5m 执行工作流
+    importance: medium
+    importance_rationale: 映射 task-11；防分析瘫痪与帧错配的顺序协议
+    one_liner: 月周日定局→4H/1H划折溢价→15m标注→只在5m入场；8:30-12:00执行、11:00前建仓目标
+    intents: [今天按什么顺序看盘, 该看哪个时间框架, 分析太多理不清]
+    keywords: [top down, 多时间框架, 看盘顺序, 盘前流程, 15m, 5m, timeframe, 工作流]
+    also_read: [cap.ict2022.daily-bias-checklist, cap.ict2022.session-taboo-filter, cap.ict2022.fvg-three-candle]
+    card: cards/top-down-workflow.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 每日顺序协议：月/周/日偏向与流动性池→4H/1H dealing range 折溢价→15m 关键高低/未回补FVG/Killzone预期猎取位→执行窗切5m精确入场（禁止降1m找理由）；输出各帧结论+5m触发条件+建仓目标时间。触发词：top down/看盘顺序/盘前流程/时间框架/15m 5m。
+      tags: [workflow, multi-timeframe]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch2 PDF p.22-27; Ch6 p.88-94; Ch9 p.121; Ch32 p.627,642-643
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: false}
+      notes: 输出为顺序协议、断言弱，判据5边缘→router
+  - capability_id: cap.ict2022.market-structure-hierarchy
+    revision: 1
+    status: active
+    slug: market-structure-hierarchy
+    title: 市场结构层级判定（STL/ITL/LTL）
+    importance: high
+    importance_rationale: 补已知缺口 nr-10（Ch15 逐页细读）；为 MSS/偏向提供结构分量上游
+    one_liner: STL 两侧邻居更高/更低逐级升为 ITL/LTL；破 ITL/ITH 才算 BMS/MSB；ITH→LTL 锚 Fib 投射 -2.0 STDV
+    intents: [这次破的是哪一级结构, 现在趋势的ITL/LTL在哪, 破位后目标投射到哪儿]
+    keywords: [market structure, 结构层级, STL, ITL, LTL, STH, ITH, LTH, BMS, MSB, -2.0 STDV, rebalanced ITH]
+    also_read: [cap.ict2022.mss-displacement-gate, cap.ict2022.daily-bias-checklist]
+    card: cards/market-structure-hierarchy.md
+    resources: [resources/figures/structure-p0319/page-0319.png, resources/figures/structure-p0319/figure-notes.md]
+    visual_evidence:
+      - figure_id: fig-structure-p0319
+        source_id: src-ict2022
+        source_sha256: c072988322c073be09a95858fc5ec571c12af388fce9f093e6655ffc58b3bd7d
+        pdf_page: 319
+        printed_page: "215"
+        image: resources/figures/structure-p0319/page-0319.png
+        notes: resources/figures/structure-p0319/figure-notes.md
+        review_status: reviewed
+    frontmatter:
+      description: 递归结构层级标注器：STL/STH→ITL/ITH→LTL/LTH 升级规则、突破分量分级（破ITL/ITH=BMS/MSB）、持仓验证（up-close蜡烛压制）、ITH→LTL 锚 Fib -2.0 STDV 目标投射；附已核查层级图证。触发词：结构层级/STL ITL LTL/BMS MSB/重大突破/-2.0 STDV。不判位移（→mss-displacement-gate）。
+      tags: [structure, hierarchy, calculation]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch15 PDF p.301-331 (图 p.319 书 p.215 reviewed)
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 满足五判据但 pack 预算已满（8），single 模式下经路由可达；split-on-evidence 可后续提升
+  - capability_id: cap.ict2022.mmxm-state-machine
+    revision: 1
+    status: active
+    slug: mmxm-state-machine
+    title: MMXM/MMBM 做市商模型状态机
+    importance: high
+    importance_rationale: ref-01 升级为可执行能力（Ch19 逐页细读给出 SMR/Calibration/象限可判定条件）
+    one_liner: 盘整→Buy Program(BDR象限)→Manipulation Swing→SMR(Type1/2,需FVG)→Sell Program(SDR)；terminus=point-range+2-2.5STD+HTF汇合
+    intents: [现在是buy program还是sell program, SMR确认了吗Type几, 这轮分配terminus大概在哪]
+    keywords: [MMXM, MMBM, market maker model, buy program, sell program, SMR, BDR, SDR, measuring gap, calibration, terminus, distribution cycle]
+    also_read: [cap.ict2022.mss-displacement-gate, cap.ict2022.ict-2022-model, cap.ict2022.pd-array-block-dictionary]
+    card: cards/mmxm-state-machine.md
+    resources: [resources/figures/mmxm-p0427/page-0427.png, resources/figures/mmxm-p0427/figure-notes.md, resources/figures/mmxm-p0441/page-0441.png, resources/figures/mmxm-p0441/figure-notes.md]
+    visual_evidence:
+      - figure_id: fig-mmxm-p0427
+        source_id: src-ict2022
+        source_sha256: c072988322c073be09a95858fc5ec571c12af388fce9f093e6655ffc58b3bd7d
+        pdf_page: 427
+        printed_page: "323"
+        image: resources/figures/mmxm-p0427/page-0427.png
+        notes: resources/figures/mmxm-p0427/figure-notes.md
+        review_status: reviewed
+      - figure_id: fig-mmxm-p0441
+        source_id: src-ict2022
+        source_sha256: c072988322c073be09a95858fc5ec571c12af388fce9f093e6655ffc58b3bd7d
+        pdf_page: 441
+        printed_page: "337"
+        image: resources/figures/mmxm-p0441/page-0441.png
+        notes: resources/figures/mmxm-p0441/figure-notes.md
+        review_status: reviewed
+    frontmatter:
+      description: 做市商买卖模型状态机：Initial Consolidation→Buy Program(BDR 25%象限+Measuring Gap)→Manipulation Swing→SMR(Type1/Type2，需位移+时间+扩张腿FVG)→Sell Program(SDR)→calibrated terminus（NQ 5/10/15/20、ES 2/5/7/10 point-range 与 2-2.5 STD 与 HTF level 汇合）；附已核查 BDR/SMR 图证。触发词：MMXM/MMBM/buy program/sell program/SMR/BDR SDR/calibration/terminus。
+      tags: [state-machine, market-maker, sequence]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch19 PDF p.419-467 (图 p.427/p.441 reviewed); Ch3 p.64-66
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 满足五判据但 pack 预算已满；single 经路由可达
+  - capability_id: cap.ict2022.three-drives-pattern
+    revision: 1
+    status: active
+    slug: three-drives-pattern
+    title: 三驱模式识别
+    importance: medium
+    importance_rationale: Ch7 独立模式；流动性耗尽计数与 Stop Hunt 判别，现有能力未覆盖
+    one_liner: 三脉冲朝 HTF 阵列=流动性耗尽；三驱后等位移FVG入场；非推进式突破=Stop Hunt 预期
+    intents: [这是三驱吗第几驱了, 三驱完了等什么入场, 这次突破是三驱还是stop hunt]
+    keywords: [three drives, 三驱, impulse, 流动性耗尽, 三推, stop hunt 判别]
+    also_read: [cap.ict2022.mss-displacement-gate, cap.ict2022.fvg-three-candle, cap.ict2022.turtle-soup-entry]
+    card: cards/three-drives-pattern.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 三驱模式计数器：HH+HL/LL+LH 三脉冲识别、第三驱超第一驱极值核验、推进式=三驱 vs 单针=Stop Hunt 判别、三驱后位移+FVG 入场、第三驱未达POI强反转=强信号标记。触发词：three drives/三驱/第几驱/impulse/流动性耗尽。不判位移有效性（→mss-displacement-gate）。
+      tags: [pattern, structure]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch7 PDF p.95-100
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: false, independent_eval: true}
+      notes: 场景较窄（三驱识别），router
+  - capability_id: cap.ict2022.monday-range-procedure
+    revision: 1
+    status: active
+    slug: monday-range-procedure
+    title: Monday Range 与区间界定流程
+    importance: medium
+    importance_rationale: Ch22 周初专属剧本+通用区间四法；含放弃条件，独立可执行
+    one_liner: 周一只造区间；一侧被扫+收回区间→MSS入场→目标对面；HTF不明50%止盈；亚洲幅度分流双叙事
+    intents: [这周区间怎么用, 区间高低点该取哪个, 亚洲走了趋势今天剧本变吗]
+    keywords: [monday range, 周一区间, range trading, 区间高低点, 亚洲趋势还是盘整, session bias, midrange]
+    also_read: [cap.ict2022.session-taboo-filter, cap.ict2022.daily-static-anchors]
+    card: cards/monday-range-procedure.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 周初区间剧本：区间边界四法（引发横扫极值/同侧扫前/EQH EQL/前期高低以midrange对齐）→周一观察门→一侧被扫+收回区间事件门→MSS入场目标对面→HTF不明50%止盈；亚洲≤10-15pt vs >15pt 双叙事分流与 Asia→London→NY 链式bias。触发词：monday range/周一区间/区间交易/区间高低点怎么定。
+      tags: [procedure, range, weekly]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch22 PDF p.482-491
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: false, independent_eval: true}
+      notes: 每周一次频率，router
+  - capability_id: cap.ict2022.ipda-data-range-builder
+    revision: 1
+    status: active
+    slug: ipda-data-range-builder
+    title: IPDA 数据范围构建器
+    importance: medium
+    importance_rationale: ref-05/06 落实为可计算构建器（Ch33 逐页细读）；周度上游输入
+    one_liner: 日线仅工作日取20/40/60日高低+窗内PD Arrays+60日切半折溢价；结构转变后20/40/60天窗口提示
+    intents: [未来几周算法参考哪些价位, 20/40/60日范围怎么画, 结构转变后多久有大波动]
+    keywords: [IPDA, data range, 20 40 60 天, 回溯, quarterly shift, 季度轮换, 切半, lookback]
+    also_read: [cap.ict2022.daily-bias-checklist, cap.ict2022.top-down-workflow]
+    card: cards/ipda-data-range-builder.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: IPDA 数据范围构建器：仅日线+排除周末，20/40/60 工作日回溯窗高低点与窗内 PD Arrays 清单、60日范围切半折溢价阵列、结构转变后 20/40/60 天设置窗口提示、长影线旧高低→Rejection Block 口径；附作者警告（单独不给买卖点）。触发词：IPDA/data range/20 40 60天/回溯/季度轮换/切半。
+      tags: [calculation, weekly, context]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch33 PDF p.660-671
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 满足判据但预算已满；周度频率较低
+  - capability_id: cap.ict2022.afternoon-hours-playbook
+    revision: 1
+    status: active
+    slug: afternoon-hours-playbook
+    title: 下午与跨时段剧本
+    importance: medium
+    importance_rationale: Ch8+Ch28 落实 9:30 后全天时段剧本；纠正午餐追趋势错误
+    one_liner: AM造参照/Lunch非趋势日反转/PM识别HH-LL与PM低点下SSL被扫有利/15:40-15:50加速；下午三策略含Measured Move
+    intents: [下午按哪个剧本做, 午餐能追早盘吗, PM时段等什么信号, 尾盘加速几点]
+    keywords: [afternoon, PM session, lunch, 午餐, measured move, "13:30", "15:40", opening range, 午后]
+    also_read: [cap.ict2022.session-taboo-filter, cap.ict2022.ny-scalp-nine-step]
+    card: cards/afternoon-hours-playbook.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 9:30 后时段剧本查表：AM 09:30-12:00 造参照、Lunch 12:00-13:30 非趋势日反转/趋势日延续、PM 13:30-16:00 HH/LL 与看涨时PM低点下SSL被扫有利、15:40/15:50 加速窗、9:30后30分钟Opening Range、London Raid 条件；下午三策略（延续/反转/Measured Move 1:1）。触发词：下午/PM session/lunch/午餐/measured move/13:30/15:40。
+      tags: [time-filter, playbook, intraday]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch8 PDF p.107-111; Ch28 p.537-546
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: false, independent_eval: true}
+      notes: 时段子剧本，router
+  - capability_id: cap.ict2022.daily-templates-playbook
+    revision: 1
+    status: active
+    slug: daily-templates-playbook
+    title: 日内模板剧本
+    importance: medium
+    importance_rationale: ref-04 落实（Ch26 逐页细读）；四模板带数值门槛与5分钟判停门
+    one_liner: 四剧本匹配：Classic(周一二/7-12pt/11:00前/12:00锁5-7pt)、Reversal、Range Rally、Consolidation Raid(5分钟拒绝门)
+    intents: [今天像哪种剧本, 开盘先涨了还追吗, 消息砸下去又拉回来按哪个模板做]
+    keywords: [daily template, 今天剧本, classic buy day, 反转日, 新闻日模板, consolidation raid, 5分钟规则]
+    also_read: [cap.ict2022.session-taboo-filter, cap.ict2022.high-probability-entry-risk]
+    card: cards/daily-templates-playbook.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 日内剧本匹配器：Classic Buy/Sell Day（周一二、支撑距7-12pt(ES)、超12pt等纽约、趋势至11:00 EST、12:00前锁5-7pt、开盘先涨不追）、Reversal（伦敦极值+NY反转，监控4-5am/7-8am）、Range to NY Open Rally（新闻日破London lows后反弹）、Consolidation Raid（消息破盘整扫止损→真方向；消息后5分钟无拒绝=离场）。触发词：daily template/今天剧本/classic buy day/反转日/consolidation raid。
+      tags: [playbook, template, intraday]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch26 PDF p.515-522
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: false, independent_eval: true}
+      notes: 剧本匹配需早盘形态，router
+  - capability_id: cap.ict2022.dxy-seasonal-filter
+    revision: 1
+    status: active
+    slug: dxy-seasonal-filter
+    title: DXY 联动与季节性过滤器
+    importance: low
+    importance_rationale: ref-03 落实（Ch17 逐页细读）；作者三重免责，仅作先验加权
+    one_liner: DXY三场景联动+月度季节结构，只输出确认/冲突/中性标记与免责声明，不单独产生结论
+    intents: [这个季节对ES/欧元偏多偏空, DXY盘整对指数意味什么]
+    keywords: [DXY, 美元指数, 季节性, seasonal, risk on off, 跨市场, intermarket, 月份规律]
+    also_read: [cap.ict2022.daily-bias-checklist, cap.ict2022.smt-divergence-confirm]
+    card: cards/dxy-seasonal-filter.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 跨市场先验过滤器：DXY-指数三场景（跌→指数涨/涨→指数跌/盘整→指数涨，含复苏期同涨例外）+ EURUSD/GBPUSD/DXY 月度季节转折结构查表；输出确认/冲突/中性标记并强制附作者免责（not absolute/guarantees/panacea）。触发词：DXY/美元指数/季节性/seasonal/risk on off/跨市场。不单独产生交易结论。
+      tags: [filter, cross-market, seasonal]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch17 PDF p.383-398
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: false, independent_eval: false}
+      notes: 先验层、断言弱，router
+  - capability_id: cap.ict2022.opening-range-cpe
+    revision: 1
+    status: active
+    slug: opening-range-cpe
+    title: Opening Range 投影与 CPE
+    importance: medium
+    importance_rationale: Ch14 独立可计算投影工具；dealing range 成立判定的前置
+    one_liner: Projection=Open+HOD、Range=Projection−Open、下方1:1偏离带；CPE=开盘价附近聪明钱挂单区；开盘区间两侧被take=dealing range成立
+    intents: [今天开盘区间投影多少下方空间多大, 错过开盘入场在哪补, dealing range成立了吗]
+    keywords: [opening range, 开盘区间, 投影, CPE, close proximity, 1:1 deviation, dealing range]
+    also_read: [cap.ict2022.daily-static-anchors, cap.ict2022.po3-amd-state-machine]
+    card: cards/opening-range-cpe.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 开盘价投影尺：Opening Range Projection=Open+HOD、Range=Projection−Open、开盘价下方1:1对称偏离带；CPE（开盘价上方/接近区）作为错过入场与加仓的 FVG/Imbalance/Raid 聚集区；开盘区间两侧均被take=dealing range 成立判定；并输出9:30后30分钟Opening Range（Ch28口径，标注来源页防混用）。触发词：opening range/开盘区间/投影/CPE/1:1 deviation/dealing range成立。
+      tags: [calculation, intraday, levels]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch14 PDF p.276-283; Ch28 p.538
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 满足判据但预算已满；与 anchors 触发词相邻，router 防双触发
+  - capability_id: cap.ict2022.order-flow-formation-gate
+    revision: 1
+    status: active
+    slug: order-flow-formation-gate
+    title: Order Flow 形成门
+    importance: medium
+    importance_rationale: Ch16 方向持续性门；位于 MSS 与入场族之间，含"OF区不可直接入场"关键警告
+    one_liner: 三条件（破结构/取对侧止损/创同向新极值对）齐=OF形成；回调退出OF区=激活；OF区本身禁入场
+    intents: [MSS后这个新方向成立了吗, order flow形成了吗激活了吗, OF区能直接进吗]
+    keywords: [order flow, OF 形成, 机构订单流方向, 激活, institutional order flow]
+    also_read: [cap.ict2022.mss-displacement-gate, cap.ict2022.market-structure-hierarchy, cap.ict2022.pd-array-block-dictionary]
+    card: cards/order-flow-formation-gate.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 方向持续性门：MSS 后核对看跌/看涨 OF 三条件（破结构或沿趋势攫流动性/取对侧止损/创同向新极值对）→确认（突破内部对侧流动性触及同向POI）→激活（回调退出OF区）；内建警告 OF 区本身止损过大禁止直接入场、指向 OF 内 OB。触发词：order flow/OF形成/机构订单流方向/激活。不判单次突破（→mss-displacement-gate）。
+      tags: [gate, order-flow, direction]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch16 PDF p.338-343
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 满足判据但预算已满；与 mss 触发相邻，router
+  - capability_id: cap.ict2022.nwog-ndog-anchors
+    revision: 1
+    status: active
+    slug: nwog-ndog-anchors
+    title: NWOG/NDOG 动态缺口锚
+    importance: medium
+    importance_rationale: ref-05 子项落实（Ch23 逐页细读+图核）；周/日级动态公允价值锚
+    one_liner: 周五17:00收-周日18:00开(纽约,RTH,5m)区间=NWOG，CE=50%；NDOG=17:00-18:00日级；上缺口支撑下缺口阻力；≥3聚集=震荡；Event Horizon=相邻NWOG中点
+    intents: [这周NWOG在哪CE多少, 缺口当支撑还是阻力, 好几个缺口叠一起意味什么]
+    keywords: [NWOG, NDOG, 周缺口, 日缺口, opening gap, CE, consequent encroachment, event horizon, 缺口回填]
+    also_read: [cap.ict2022.daily-static-anchors, cap.ict2022.fvg-three-candle]
+    card: cards/nwog-ndog-anchors.md
+    resources: [resources/figures/nwog-p0494/page-0494.png, resources/figures/nwog-p0494/figure-notes.md]
+    visual_evidence:
+      - figure_id: fig-nwog-p0494
+        source_id: src-ict2022
+        source_sha256: c072988322c073be09a95858fc5ec571c12af388fce9f093e6655ffc58b3bd7d
+        pdf_page: 494
+        printed_page: "390"
+        image: resources/figures/nwog-p0494/page-0494.png
+        notes: resources/figures/nwog-p0494/figure-notes.md
+        review_status: reviewed
+    frontmatter:
+      description: 跨日/跨周缺口锚计算器：最近≥5个NWOG（周五17:00收-周日18:00开，纽约时间，RTH-only，5m图）高低与CE(50%)、当日NDOG(17:00-18:00)、Event Horizon（相邻NWOG中点）、上缺口=支撑/下缺口=阻力、≥3聚集=区间震荡标记；附已核查NWOG图证。触发词：NWOG/NDOG/周缺口/日缺口/CE/event horizon/缺口回填。不输出回填概率。
+      tags: [calculation, levels, weekly]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch23 PDF p.492-496 (图 p.494 书 p.390 reviewed)
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: true, independent_eval: true}
+      notes: 满足判据但预算已满；与 anchors 相邻，router 防双触发
+  - capability_id: cap.ict2022.institutional-perception-model
+    revision: 1
+    status: active
+    slug: institutional-perception-model
+    title: 机构感知区间模型（Breaker 独立模型）
+    importance: medium
+    importance_rationale: Ch21 独立可运行区间反转模型；含铁律顶层约束
+    one_liner: range-bound市：BSL被扫→最后一根down-close蜡烛=bearish breaker→突破后回踩卖→止损breaker上方→低于SSL出场；SMT仅汇合
+    intents: [区间市扫完前高在哪空, breaker standalone怎么用, EQH被扫了能反手吗]
+    keywords: [institutional perception, breaker 模型, 区间反转, EQH 被扫, last down close candle, 回踩卖出]
+    also_read: [cap.ict2022.pd-array-block-dictionary, cap.ict2022.smt-divergence-confirm, cap.ict2022.turtle-soup-entry]
+    card: cards/institutional-perception-model.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 区间市独立反转模型：profile门（仅range-bound）→BSL/EQH被扫后定位bearish breaker（发动扫掠的最后down-close蜡烛）→价格突破后回踩卖出→止损breaker上方或just above的bearish OB→低于SSL出场；SMT背离仅EQH上方汇合确认；顶层铁律不追旧高买/旧低卖。触发词：institutional perception/breaker模型/区间反转/EQH被扫/回踩卖出。
+      tags: [entry-model, range, reversal]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch21 PDF p.477-481
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: false, independent_eval: true}
+      notes: 场景限定range-bound，router
+  - capability_id: cap.ict2022.ict-atm-method
+    revision: 1
+    status: active
+    slug: ict-atm-method
+    title: ICT ATM 方法（60分钟 Stop-Hunt 模式）
+    importance: medium
+    importance_rationale: Ch19 独立模式；60m 图专用，Breaker 回踩入场，与2022 Model/Turtle Soup 不重叠
+    one_liner: 1H关键高形成时破前短期低→回踩该被破低点→突破取2个STL后Breaker回踩入场；止损关键高/Breaker；止盈第二STL外
+    intents: [1H关键高扫完低点后怎么接, ATM模式现在第几步, breaker回踩入场用哪个模型]
+    keywords: [ATM, atm method, 60分钟, 1H stop hunt, key high, breaker 回踩, 两个短期低点]
+    also_read: [cap.ict2022.pd-array-block-dictionary, cap.ict2022.ict-2022-model]
+    card: cards/ict-atm-method.md
+    resources: []
+    visual_evidence: []
+    frontmatter:
+      description: 60分钟图 stop-hunt 回踩模式：Key High/Low 形成伴随对侧短期摆动被突破→（理想：Key High前一对swing highs被打破）→回踩被破摆动点→突破取得2个STL/STH→Breaker Block回调入场；止损=Key High或Breaker、止盈=第二STL/STH之外；作者明示需配上下文narrative。触发词：ATM/atm method/60分钟/1H stop hunt/key high/breaker回踩。
+      tags: [entry-model, 60m, stop-hunt]
+    source_evidence:
+      - source_id: src-ict2022
+        location: Ch19 PDF p.415-418
+    promotion:
+      destination: router
+      gate: {independent_intent: true, independent_contract: true, independent_run: true, independent_reuse: false, independent_eval: true}
+      notes: 60m 专用场景，router

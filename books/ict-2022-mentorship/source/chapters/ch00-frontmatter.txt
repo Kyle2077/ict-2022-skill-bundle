@@ -1,0 +1,414 @@
+UNLOCKING SUCCESS IN
+ICT 2022 MENTORSHIP
+开启ICT 2022导师计划
+的成功之门
+THE SMART MONEY
+GUIDE TO THE FULL
+IICT DAY TRADING
+MODEL
+完整ICT日交易模型的
+聪明资金指南
+（精翻第三稿）
+The market is always teaching you
+something, so be a student of the game.
+市场总是在教你一些东西，所以做这个游戏的
+学生。
+-ICTTitle:UnlockingSuccessinICT2022Mentorship:TheSmartMoneyGuidetoTheFullICTDay
+标题:开启ICT2022导师计划的成功之门:完整ICT日的智能理财指南
+TradingModelbyLumiTraders
+LumiTraders的交易模型
+Nopartofthisbookmaybereproduced,storedinaretrievalsystem,ortransmittedinanyform
+orbyanymeans,electronic,mechanical,photocopying,recording,orotherwise,withouttheprior
+writtenpermissionofthepublisher,exceptforbriefquotationsembodiedincriticalreviewsand
+未经出版商的事先书面许可，不得以任何形式或手段(电子、机械、影印、录音或其他方式)复制、在
+检索系统中存储或传播本书的任何部分，除非在评论和
+certainothernoncommercialusespermittedbycopyrightlaw.
+版权法允许的某些其他非商业用途。
+FirstEdition:2023
+版:2023年
+Disclaimer:Theinformationprovidedinthisbookisforeducationalandinformationalpurposes
+only.Itisnotintendedtobeasubstituteforprofessionaladvice.Theauthorandpublisherdisclaimany
+liabilityforanydecisionsmadebasedontheinformationprovidedinthisbook.
+免责声明:本书中提供的信息仅用于教育和信息目的。它不是用来代替专业建议的。作者和出版商对基
+于本书提供的信息所做的任何决定不承担任何责任。
+The information and concepts presented in this book are solely my interpretation of ICT (Inner
+CircleTrader)concepts,whichwereoriginallyauthoredandcreatedbyMichaelJ.Huddleston(Inner
+CircleTrader).ItisimportanttoclarifythatIdonotclaimownershipoftheseconceptsandrecognizes
+Michael J. Huddleston as their originalsource. SMC (Smart Money Concepts) and ICT concepts are
+synonymousandoriginatefromthesameauthor,MichaelJ.Huddleston.
+本书中的信息和概念仅仅是我对ICT(内圈交易者)概念的解释，这些概念最初是由Michael J.
+Huddleston(内圈交易者)创作的。重要的是要澄清，我不主张这些概念的所有权，并承认迈克尔j赫德
+尔斯顿是他们的原始来源。SMC(智能资金概念)和ICT概念是同义词，出自同一位作者Michael J.
+Huddleston。UNLOCKING SUCCESS IN
+开启成功之门
+ICT 2022 MENTORSHIp:
+ICT 2022导师计划:
+THE SMART
+聪明钱
+MONE
+Y
+GUIDE TO THE FULL ICT
+完整ICT
+DAY TRADING MODEL
+日交易模型指南Table of Contents
+目录
+Disclaimer.............................................................................................................3
+Introduction.........................................................................................................4
+GeneralTerminology..........................................................................................6
+Chapter1...............................................................................................................8
+Introduction to Intraday Trading and Price Action
+Chapter2.............................................................................................................13
+Elements To A Trade Setup
+Chapter3............................................................................................................23
+Introduction to Liquidity in Trading
+Chapter4............................................................................................................47
+Market Structure Shifts
+Chapter5............................................................................................................49
+How London Session Highs and Lows Can Provide Valuable In-
+sights
+Chapter6.............................................................................................................51
+Intraday Order Flow & Understanding The Daily Range
+Chapter7.............................................................................................................55
+Three Drives Pattern
+Chapter8............................................................................................................59
+Morning Trade and Positioning
+Chapter9............................................................................................................66
+Market Efficiency Paradigm & Institutional Order Flow
+Chapter10..........................................................................................................82
+Fair Value Gap
+Chapter11...........................................................................................................92
+ICT Killzones and Sessions
+Chapter12........................................................................................................108
+Daily Bias & Consolidation Hurdles
+Chapter13.........................................................................................................129
+Power Of 3 & New York PM Session Opportunities
+Chapter14.........................................................................................................159
+Implementing Economic Calendar Events With The Open
+Chapter15........................................................................................................180
+Market Structure For Precision TechniciansChapter16........................................................................................................200
+Multiple Setups Inside Trading Session
+Chapter17.........................................................................................................231
+Intermarket Relationships & Intermarket Analysis
+Chapter18........................................................................................................242
+FOMC, NFP Study
+Chapter19........................................................................................................245
+Model Diagrams
+Chapter20.......................................................................................................282
+Daily Rebalance Theory
+Chapter21........................................................................................................288
+View Price with Institutional Perception
+Chapter22........................................................................................................291
+General Range Trading Rules
+Chapter23........................................................................................................297
+New Week/Day Opening Gap (NWOG/NDOG)
+Chapter24.......................................................................................................300
+Liquidity Void and Fair Valuation
+Chapter25........................................................................................................306
+How to Use Day of the Week and Time of Day
+Chapter26........................................................................................................310
+Daily Templates
+Chapter27.........................................................................................................315
+Previous Day High and Low as a Liquidity Pool
+Chapter28........................................................................................................323
+Hours of Operation
+Chapter29.......................................................................................................328
+Core Content – ICT Block Types
+Chapter30........................................................................................................371
+Breakaway Gaps and the Redelivered Rebalanced PD Array
+Chapter31.........................................................................................................375
+Central Bank Dealers Range
+Chapter32........................................................................................................378
+High Probability Daytrade Setups
+Chapter33........................................................................................................397
+Quarterly Shifts & IPDA Data Ranges
+季度轮换和IPDA数据范围6
+Disclaimer
+免责声明
+Thecontentsofthisbook areintendedforeducationalpurposes only.This book
+doesnotprovidefinancialadvice,nordoesitmakeanyspecificrecommendationsfor
+financialdecisions.
+这本书的内容仅用于教育目的。本书不提供财务建议，也不对财务决策提出任何具体建
+议。
+Theinformationandconceptspresentedinthisbookaresolelymyinterpretation
+ofICT(InnerCircleTrader)concepts,whichwereoriginallyauthoredandcreatedby
+MichaelJ.Huddleston(InnerCircleTrader).
+本书中的信息和概念仅仅是我对ICT概念的解释，这些概念最初是由Michael J.
+Huddleston(内圈交易者)创作的。
+For a more comprehensive and detailed understanding of these concepts, it
+isrecommendedthatreadersrefertoMichaelJ.Huddleston’soriginalworkavailable
+onhisYouTubechannel(TheInnerCircleTrader)andTwitter.
+为了更全面和详细地了解这些概念，建议读者参考迈克尔·j·哈德斯顿(Michael J.
+Huddleston)在其YouTube频道(TheInnerCircleTrader)和Twitter上的原著。
+Theconceptsdiscussedinthisbookmayalsobetaughtelsewhereandmayhave
+本书中讨论的概念也可以在其他地方教授
+beengivendifferentnames.
+被赋予了不同的名字。
+It is important to clarify that I do not claim ownership of these concepts and
+recognizes Michael J. Huddleston as their original source. SMC (Smart Money
+Concepts) and ICT concepts are synonymous and originate from the same author,
+MichaelJ.Huddleston.
+重要的是要澄清，我不主张这些概念的所有权，并承认迈克尔j赫德尔斯顿是他们的原
+始来源。SMC(智能资金概念)和ICT概念是同义词，出自同一位作者Michael J.
+Huddleston。
+Readersareurgedtoexercisetheirownjudgmentandseekprofessionalfinancial
+advice when making investment or trading decisions. I am not responsible for any
+financial actions or decisions made by readers based on the information contained
+herein.Mypurposeissolelytoprovideeducationalinsightsandperspectivesonthese
+concepts,andanyimplementationoftheseideasisdoneatthereader’sowndiscretion
+andrisk.
+建议读者在做出投资或交易决定时，运用自己的判断力，寻求专业的金融建议。我不
+对读者根据本文所含信息做出的任何财务行为或决定负责。我的目的仅仅是提供关于
+这些概念的教育见解和观点，这些观点的任何实施都由读者自行决定和承担风险。7
+Introduction
+介绍
+MichaelHuddleston,alsoknownasInnerCircleTrader,isalegendaryforextrader,
+the“fatherofsmartmoney”andaproponentofthe“conspiracytheory”thattrading
+marketsarenotfree,andallpricesarecontrolledbyamarketmaker.
+迈克尔·哈德斯顿(MichaelHuddleston)，又名内圈交易员(InnerCircleTrader)，是一
+位传奇的外汇交易员，是“聪明钱之父”，也是“阴谋论”的支持者，该理论认为交易市场
+不是自由的，所有价格都由一个做市商控制。
+Withawealthofknowledgespanning33enlighteningchapters,thisbookisyour
+roadmaptobecomingasavvytrader.
+这本书包含了33个启发性章节的丰富知识，是你成为精明交易者的路线图。
+In this extensive mentorship book, you’ll embark on a journey that delves into
+theveryheartoftrading,fromthefundamentalconceptstotheadvancedstrategies
+employed by seasoned traders. Chapter by chapter, you’ll explore the followingkey
+areas:
+在这本内容丰富的指导书中，你将踏上深入交易核心的旅程，从基本概念到经验丰富
+的交易者采用的高级策略。一章接一章，您将探索以下关键领域:
+• Chapters 1 through 3provideasolidfoundation,introducingyoutointraday
+trading,priceaction,tradesetupelements,andthecriticalconceptofliquidity
+intrading.
+第1章到第3章提供一个坚实的基础，向你介绍日内交易，价格行为，交易设置
+要素，以及交易中流动性的关键概念。
+• Chapters 4 to 11 dive deep into the nuances of market structure, London
+sessioninsights,orderflowanalysis,andvarioustradingpatternssuchasthe
+ThreeDrivesPatternandICTKillzones.
+第4至11章深入探究市场结构的细微差别、伦敦会议见解、订单流分析以及各
+种交易模式，如三驱动模式和ICT狩猎地带。
+• Chapters 12 to 15 focus on daily biases, consolidation hurdles, economic
+calendarevents,andprecisionmarketstructuretechniques.
+第12至15章关注每日偏差、整合障碍、经济日历事件和精确的市场结构技术。
+• Chapters 16 to 22revealmultiplesetupswithintradingsessions,intermarket
+relationships, and the impact of major events like FOMC and NFP on your
+tradingdecisions.
+第16至22章揭示交易时段内的多重设置，市场间的关系，以及FOMC和NFP等8
+重大事件对你的交易决策的影响。
+• Chapters 23 to 30 introduce you to strategies related to new week/day
+openings, liquidity voids, and utilizing the institutional perspective in your
+trading.
+第23至30章向你介绍与新的一周/一天开仓、流动性空白以及在交易中利用机
+构观点相关的策略。
+• Chapters 31 to 33takeyoutoanevenhigherlevel,discussingcentralbank
+dealers’ranges,high-probabilitydaytradesetups,andquarterlyshifts
+第31至33章带你到一个更高的层次，讨论中央银行交易者的范围，高概率日交
+易设置，和季度转移
+Throughoutthisbook,you’llalsofindvaluableinsightsonusingvarioustechniques,
+from economic calendar events and daily templates to institutional perception and
+corecontentblocktypes.
+在本书中，你还会发现关于使用各种技术的有价值的见解，从经济日历事件和每日模
+板到机构认知和核心内容块类型。
+With each chapter building upon the knowledge gained in the previous one,
+每章都建立在前一章所学知识的基础上，
+you’ll gradually become proficient in navigating the intricacies of intraday trading.
+你会逐渐精通复杂的日内交易。9
+Bythetimeyou reachthefinal chapter,you’llhave awell-roundedunderstandingof
+how to make informed trading decisions, manage risks effectively, and capitalize on
+opportunitiesintheever-evolvingworldoffinancialmarkets.
+当你读到最后一章时，你将全面了解如何做出明智的交易决策，有效管理风险，并在不
+断发展的金融市场中抓住机遇。
+The“UnlockingSuccessinICT2022Mentorship:TheSmartMoneyGuidetoThe
+Full ICT Day Trading Model by LumiTraders” is not just a book; it’s your mentor,
+guiding you through the maze of smart money trading concepts and equipping you
+withtheskillsandknowledgeneededtoexcelinthisdynamicfield.Whetheryou’rea
+novicelookingtostartyourtradingjourneyoranexperiencedtraderseekingtorefine
+yourstrategies,thisguideisaninvaluableresourcethatwillempoweryoutonavigate
+themarketswithconfidenceandprecision.
+《开启ICT2022导师计划的成功:完整ICT日交易模型智能资金指南》不仅仅是一本书；
+它是你的导师，引导你通过智能货币交易概念的迷宫，并为你提供在这个动态领域取
+得成功所需的技能和知识。无论你是一个开始交易之旅的新手，还是一个寻求完善策
+略的经验丰富的交易者，这份指南都是一份无价的资源，它会让你自信而准确地驾驭
+市场。
+Bytheendofthisbook,youwillhaveasolidfoundationintheInnerCircleTrader
+concept and be equipped with the knowledge and skills you need to navigate the
+complex world of institutional order flow analysis and achieve your financial goals.
+Whether you are trading for income, growth, or speculation, this book will provide
+youwiththetoolsyouneedtosucceedintheworldofInnerCircleTrading.Let’sget
+started!
+到本书结束时，你将有一个坚实的基础，在内圈交易者的概念，并配备了你需要的知
+识和技能，以导航复杂世界的机构订单流分析，并实现您的财务目标。无论你是为了
+收入、成长还是投机而交易，这本书都将为你提供在圈内交易中取得成功所需的工具。
+我们开始吧！10
+General Terminology 通用术语
+AD (A/D)------------------------------------Accumulationand/orDistribution
+积累和/或分布
+ADR--------------------------------------------AverageDailyRange
+平均每日范围
+AKZ--------------------------------------------AsianKillZone
+亚洲狩猎区
+AMD-------------------------------------------Accumulation,Manipulation,Distribution
+积累、操纵、分发
+BB----------------------------------------------BreakerBlock
+断裂块
+BE-----------------------------------------------Break-Even
+收支平衡
+BG----------------------------------------------BreakawayGap
+分离间隙
+BISI--------------------------------------------BuysideImbalanceSellSideInefficiency
+买方不平衡，卖方效率低下
+BMS--------------------------------------------BreakofMarketStructure
+市场结构的断裂
+BoS---------------------------------------------BreakofStructure
+结构断裂
+BPR--------------------------------------------BalancedPriceRange
+平衡价格范围
+BSL---------------------------------------------BuysideLiquidity
+买方流动性
+CE-----------------------------------------------ConsequentEncroachment
+结果侵蚀
+CBDR------------------------------------------CentralBankDealersRange
+中央银行交易商范围
+DD----------------------------------------------Drawdown
+减少
+DH/DL----------------------------------------DailyHigh/DailyLow
+每日最高/每日最低
+DOL--------------------------------------------DrawonLiquidity
+取出流动性
+EQH/EQL------------------------------------EqualHighs/EqualLows
+同等高/同等低
+FVG--------------------------------------------FairValueGap
+公允价值差距
+HH----------------------------------------------HigherHigh
+更高高点
+HL----------------------------------------------HigherLow
+更高低点
+HOD-------------------------------------------HighofDay11
+一天的高潮
+HOW-------------------------------------------HighofWeek
+一周最高价
+HRLR------------------------------------------HighResistanceLiquidityRun
+高阻力流动性
+HTF--------------------------------------------HigherTimeFrame
+更高的时间框架
+IFVG-------------------------------------------InversionFVG
+反转FVG
+IOF---------------------------------------------InstitutionalOrderFlow
+机构订单流
+IOFED-----------------------------------------InstitutionalOrderFlowEntryDrill
+机构订单流输入演练
+IPDA-------------------------------------------InterbankPriceDeliveryAlgorithm
+银行间价格传递算法
+ITH---------------------------------------------Intermediate-TermHigh
+中期高点
+ITL----------------------------------------------Intermediate-TermLow
+中期低点
+KZ---------------------------------------------- KillZone
+杀伤区
+LC-----------------------------------------------LondonClose
+伦敦收盘
+LCKZ------------------------------------------LondonCloseKillZone
+伦敦近距离杀伤区
+LH----------------------------------------------LowerHigh
+更低高点
+LL-----------------------------------------------LowerLow
+更低低点
+LO---------------------------------------------- LondonOpen
+伦敦开盘
+LOD--------------------------------------------LowofDay
+一天的低点
+LOW-------------------------------------------LowofWeek
+一周的低点
+LOKZ------------------------------------------LondonOpenKillZone
+伦敦开盘杀伤区
+LRLR------------------------------------------LowResistanceLiquidityRun
+低阻力流动性
+LTF---------------------------------------------LowerTimeFrame
+较低的时间框架12
+LTH--------------------------------------------Long-TermHigh
+长期高点
+LTL---------------------------------------------Long-TermLow
+长期低点
+LQ---------------------------------------------- Liquidity
+资产流动性
+LV-----------------------------------------------LiquidityVoid
+流动性空白
+MB----------------------------------------------MitigationBlock
+缓解块
+MG----------------------------------------------MeasuringGap
+测量间隙
+MM---------------------------------------------Market-Maker
+做市商
+MS----------------------------------------------MarketStructure
+市场结构
+MMXM----------------------------------------MarketMakerBuy/SellModel
+做市商买入/卖出模式
+MSS--------------------------------------------MarketStructureShift
+市场结构转变
+MT----------------------------------------------MeanThreshold
+平均阈值
+NDOG-----------------------------------------NewDayOpeningGap
+新一天开盘缺口
+NFP-------------------------------------------- Non-FarmPayrollreport
+非农工资报告
+NMO-------------------------------------------NYMidnightOpeningPrice
+纽约午夜开盘价
+NYO--------------------------------------------NewYorkOpen
+纽约开盘
+NYOKZ---------------------------------------NewYorkOpenKillZone
+纽约开盘杀伤区
+NWOG----------------------------------------NewWeekOpeningGap
+新一周开盘缺口
+OB----------------------------------------------OrderBlock
+订单块
+OF-----------------------------------------------OrderFlow
+订单流
+OP----------------------------------------------OpeningPrice
+开盘价
+OTE--------------------------------------------OptimalTradeEntry
+最佳交易入口
+PA-----------------------------------------------PriceAction
+价格行为
+PDH--------------------------------------------PreviousDayHigh13
+前一天高点
+PDL--------------------------------------------PreviousDayLow
+前一天低点
+PO3---------------------------------------------PowerofThree
+PO3
+RB----------------------------------------------RejectionBlock
+拒绝块
+RDRB------------------------------------------RedeliveredRebalancedPDArray
+重新递送的再平衡PD阵列
+RR (R/R, R:R)-----------------------------Risk/RewardratioorReward/Riskratio
+风险/回报比率或回报/风险比率
+RHO--------------------------------------------ReturntoOriginorReturntoOB
+返回原点或返回订单块
+SB-----------------------------------------------SilverBullet
+银弹
+SIBI--------------------------------------------SellsideImbalanceBuysideInefficiency
+卖方失衡买方低效
+S&D--------------------------------------------Seekanddestroy
+寻找并摧毁
+SH----------------------------------------------SwingHigh
+波动高点
+SL-----------------------------------------------StopLoss
+止损
+SMT--------------------------------------------SmartMoneyTool
+智能资金工具
+SMT DIV-------------------------------------SMTDivergence
+SMT发散
+STH--------------------------------------------Short-TermHigh
+短期高点
+STL---------------------------------------------Short-TermLow
+短期低点
+TA (T/A)--------------------------------------TechnicalAnalysis
+技术分析
+TF-----------------------------------------------TimeFrame
+时间框架
+TP-----------------------------------------------Take-Profit
+止盈
+TS-----------------------------------------------TurtleSoup
+甲鱼汤
+TZ-----------------------------------------------TimeZone
+时区
+VI-----------------------------------------------VolumeImbalance
+成交量不平衡

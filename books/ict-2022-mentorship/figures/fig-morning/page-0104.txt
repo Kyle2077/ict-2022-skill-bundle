@@ -1,0 +1,6 @@
+76
+during a sell day, traders may consider taking profits or closing their sell positions.
+These price levels can also be used as reference points for setting stop-loss orders to
+manage risk.
+例如，如果一项资产的价格在某个交易日达到8:30开盘或午夜开盘，交易员可能会考
+虑获利了结或平仓。这些价格水平也可以用作设置止损单以管理风险的参考点。

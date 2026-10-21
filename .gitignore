@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 原书 PDF 原件（不得入库）
+*.pdf
+!dist/**/*.pdf
+
+# 敏感个人文件（股票分析等，永不入库）
+*友阿*
+*588710*
+_qlgy*
+_sr_*
+handover*
+选股指标*
+*.db
+
+# 临时与工作残留
+.skill-staging/
+tmp/
+*.log
+.staging-run-*/

@@ -1,0 +1,22 @@
+455
+Bearish Breaker – a bearish range or down-close candle in the most recent swing
+Low prior to an Old High being violated. It becomes valid once stops are taken above
+aprevious high and breaks below the swing low that contains the breaker candle.
+看跌者–在旧高点被突破之前，最近的低点出现熊市或下跌趋势。一旦止损点位于前一
+个高点之上，并且跌破包含蜡烛线的摆动低点，它就有效了。
+To identify bearish breakers, traders must first identify a failed bullish order block.
+This happens when liquidity is taken to the upside, later causing the bullish order
+block to fail. Once identified, traders can take advantage of these bearish breakers by
+entering the market and taking advantage of price reversals. Below is an example of a
+Bearish Breaker.
+为了识别看跌者，交易者必须首先识别失败的看涨订单块。这种情况发生在流动性上
+升时，随后导致看涨订单块失效。一旦确定，交易者可以通过进入市场和利用价格反
+转来利用这些看跌突破。下面是一个看跌突破者的例子。
+Key Elements – High – Low – Higher High – Lower Low.
+关键要素–高–低–更高的高–更低的低。
+“Higher High” acts as a stop run, indicating that the price is likely to go lower.
+Similarly, the “Lower Low” plays a significant role. When the price closes below this
+level, it signifies a strong indication that the price intends to continue its downward
+movement.
+“更高的高”作为止损运行，表明价格可能会走低。同样，“低低”也起着重要的作用。
+当价格收盘低于这一水平，它标志着一个强烈的迹象，价格打算继续下跌。

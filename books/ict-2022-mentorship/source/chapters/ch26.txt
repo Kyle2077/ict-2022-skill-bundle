@@ -1,0 +1,125 @@
+
+<<<PDFPAGE 515 | images=0>>>
+411
+Chapter 26
+第二十六章
+<<<PDFPAGE 516 | images=2>>>
+412
+Daily Templates
+每日模板
+THE LONDON SWING TO NEW YORK OPEN / LONDON CLOSE
+REVERSAL (REVERSAL MARKET PROFILE)
+伦敦波动到纽约开盘/伦敦收盘反转(反转市场概况)
+
+<<<PDFPAGE 517 | images=0>>>
+413
+ThebullishversionofthistemplatealwaysbeginslikeaClassicBuytemplatewith
+adeclinebelowtheopeningpricebeforepricestartsrallying.Oncepricedrops,abuy
+entryforms,priceralliestoahighertimeframePointofInterest(POI),e.g.,abearish
+order block (OB),into a Fair ValueGap (FVG),etc. If this happensduring the New
+Yorksession,itindicatesaclassicmarketreversal.
+这个模板的看涨版本总是像经典的买入模板一样，在价格开始反弹之前下跌到开盘价
+以下。一旦价格下跌，买入进入形成，价格反弹到更高的时间框架点(POI)，例如，看
+跌订单块(OB)，进入公允价值缺口(FVG)等。如果这种情况发生在纽约时段，那就预
+示着典型的市场反转。
+The template is used to either reach for a bearish order block on a higher time
+frame,foraturtlesoupraidortoclosearange.Onabullishdayitwillfirstcreatean
+initiallowofthedayduringtheLondonsession,runupandcreatethehighoftheday
+duringtheNewYorksessionaroundtheLondonClose,thenrunbackdownandclear
+theinitiallowthatwascreatedduringtheLondonsession.Ideallyitcanpanoutafter
+themarketisinexhaustionbasedonthehighertimeframe’sdominanttrend.
+该模板用于在更高的时间框架内建立看跌订单，进行海龟汤交易，或者结束交易范
+围。在看涨日，它将首先在伦敦时段创造一天的初始低点，在伦敦收盘时在纽约时段
+上涨并创造一天的高点，然后回落并清除伦敦时段创造的初始低点。理想情况下，它
+可以在市场枯竭后，基于更高的时间框架的主导趋势而实现。
+The strategy involvesmonitoringthe market duringthe last hourof the London
+tradingsession(4-5am)andthefirsthouroftheNewYorktradingsession(7-8am).
+During this time, traders look for signs of a trend reversal, such as a break of
+key support or resistance levels or a shift in trading volume. If a reversal is
+identified, traders will enter a position in the opposite direction of the prevailing
+trend.
+该策略包括在伦敦交易时段的最后一个小时(凌晨4-5点)和纽约交易时段的第一个小时
+(早上7-8点)监控市场。在此期间，交易者寻找趋势反转的迹象，如关键支撑位或阻力
+位的突破或交易量的变化。如果发现反转，交易者将进入与主流趋势相反的位置。
+Oneofthekeyadvantagesofthisstrategyisthatitallowstraderstotakeadvantage
+ofthemomentumcreatedbytheoverlapbetweentheLondonandNewYorksessions.
+Thiscanresultinarapidaccelerationinpricemovement,whichcanbeprofitableif
+thetraderisabletoenterandexittheirpositionattherighttime.
+这种策略的一个关键优势是，它允许交易员利用伦敦和纽约时段重叠所创造的势头。
+这可能导致价格运动的快速加速，如果交易者能够在正确的时间进出他们的头寸，这
+可能是有利可图的。
+However,therearealsosomerisksassociatedwiththisstrategy.Forexample,ifthe
+marketdoesnotreverseasexpected,tradersmayfindthemselvesinalosingposition.
+Additionally,theincreasedvolatilityduringtheoverlapbetweentheLondonandNew
+<<<PDFPAGE 518 | images=0>>>
+414
+Yorksessionscanalsoresultinsuddenpricespikesorgaps,whichcanbedifficultto
+predictandmayresultinunexpectedlosses.
+然而，这种策略也存在一些风险。例如，如果市场没有像预期的那样反转，交易者可
+能会发现自己处于亏损状态。此外，伦敦和纽约时段重叠期间的波动性增加也可能导
+致价格突然飙升或出现缺口，这可能难以预测，并可能导致意外损失。
+<<<PDFPAGE 519 | images=2>>>
+415
+The Classic Buy or Sell Day Template
+经典的买入或卖出日模板
+Thisisthebesttemplatetomakemoneysinceitisawiderangetrendingdaythat
+unfolds mostly on Monday, Tuesday and latest on Wednesday during the
+London session.TheNewYorksessionwilleventuallygivearetracementtocontinue
+withthetrendthatwassetduringtheLondonsession.Thedailyrangewilllastfor7to
+8hoursoncetheprofileisestablished.
+这是赚钱的最佳模板，因为这是一个大范围的趋势日主要在周一、周二，最迟在周三
+伦敦时段展开。纽约时段最终会给出一个回撤，延续伦敦时段设定的趋势。一旦轮廓
+建立，日线范围将持续7到8小时。
+
+<<<PDFPAGE 520 | images=0>>>
+416
+Mostlyitwillgivearallyordropfromthedailyopeningpricetotheloworhighof
+thedayduringtheLondonsession.Thetrendusuallylastsinto11:00EST.
+大多数情况下，它会在伦敦时段从每日开盘价反弹或下跌至当天的低点或高点。这种
+趋势通常会持续到美国东部时间11:00。
+<<<PDFPAGE 521 | images=2>>>
+417
+Onaclassicbuyday,alwaysbuywhenthemarketdropsattherighttimeoftheday
+atkeysupportlevel(buybelowtheopeningprice).
+在典型的买入日，当市场在关键支撑位下跌时买入(低于开盘价)。
+Onabuyday,ifpricestartsbytradingabovetheopeningprice,donotfallforthat
+andwaitforittotradebelowtheopeningprice.
+在买入日，如果价格以高于开盘价开始交易，不要上当，等待价格低于开盘价。
+Thedistancefromtheopenpricetosupportwillbe7–12points(ES/SP500)on
+average.If the movefromopen price tosupport in Londonsession is morethan 12
+points,waitforNewYorktrade.Ifyoucan’ttradeLondonsession,youcantradeNew
+YorksessiontogetinsyncwithLondontrade.Alwaystakesmallprofitof5–7points
+(ES/SP500)by12:00.
+从开盘价到支撑位的距离平均为7-12点(SP500)。如果在伦敦市场从开盘价到支撑位
+的移动超过12点，等待纽约交易。如果你不能交易伦敦时段，你可以交易纽约时段，
+与伦敦交易同步。在12:00之前，始终要有5-7个点的小利润(ES/SP500)。
+RANGE TO NEW YORK OPEN/LONDON CLOSE RALLY
+从纽约公开赛到伦敦拉力赛
+This pattern will unfold most often during the NFP, FOMC and Interest Rates
+Announcements.Themarketwillbeoriginallyinconsolidation.
+这种模式最常出现在NFP、FOMC和利率宣布期间。市场最初将处于盘整之中。
+BeforetheNewspricewillbreakLondonLowsandrallyafterNewsRelease.
+消息发布前，价格将打破伦敦低点，消息发布后反弹。
+
+<<<PDFPAGE 522 | images=2>>>
+418
+CONSOLIDATION RAID ON NEWS RELEASE
+新闻发布上的合并突袭
+This pattern will unfold most often during the NFP, FOMC and Interest Rates
+Announcements:
+这种模式最常出现在NFP、FOMC和利率公告期间:
+• Afteropeningprice,marketwillconsolidatebeforetheNews.
+开盘价后，市场将在消息公布前盘整。
+• DuringtheNewsreleasespricewilldroptoinducetradersandtakestops(this
+move might not be that big below the consolidation but it has to break
+theconsolidation).
+在新闻发布期间，价格将下跌，以诱导交易者和止损(这一举动可能不会大到盘
+整以下，但它必须打破盘整)。
+• Afterclearingthestopsandinducing,pricewillmoveintotruedirection.
+YouhavetoidentifyKeysupportlevelororderblockbelowtheconsolidation.
+在清除止损和诱导后，价格将进入真正的方向。你必须确定盘整下方的关键支
+撑位或订单块。
+Seeifpricewillrejectatsupport/resistancewithin5minutesafterNewsrelease,if
+itwon’trejectthenleavethetradebecauseyoumightbewronginyouranalysis.
+看看价格是否会在新闻发布后的5分钟内拒绝支持/阻力，如果不会拒绝，那么离开交
+易，因为你的分析可能是错误的。

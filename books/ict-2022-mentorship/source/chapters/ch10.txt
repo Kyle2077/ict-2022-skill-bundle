@@ -1,0 +1,274 @@
+
+<<<PDFPAGE 139 | images=0>>>
+111
+Chapter 10
+第十章
+Fair Value Gap
+公允价值差距
+Fair Value Gap - is a range in Price Delivery where one side of the Market
+LiquidityisofferedandtypicallyconfirmedwithaLiquidityVoidontheLowerTime
+Frame Charts in the same range of Price. Price can actually“gap” tocreate a literal
+vacuum of Trading thus posting an actual Price Gap. It occurs when price leaves a
+specific level where there’s less trading activity seen and only has a one-directional
+pricemovement.
+公允价值差距-是一个价格交付范围，其中提供了市场流动性的一方，通常在同一价格
+范围的较低时间框架图上确认为流动性空白。价格实际上可以“跳空”来创造一个实际
+的交易真空，从而公布一个实际的价格差距。当价格离开一个特定的水平，交易活动
+减少，只有一个方向的价格运动时，就会发生这种情况。
+FVGsare an entrypoint,a target,and ameans tomeasure shiftin sentiment as
+Priceshiftsfrombuytosellprogramorshiftfromselltobuyprograms.
+fvg是一个切入点、一个目标，也是一种手段，用来衡量价格从买入转为卖出或从卖出
+转为买入时的情绪变化。
+LiquidityVoid-isarangeinpricewhereonesideofthemarketliquidityisshown
+inwideorlongone-sidedrangesorcandles.Itoccurswhenthemarketaggressively
+moves away from a consolidation, creating a void of buy-side liquidity. This means
+thatverylittlebuyingtookplaceduringthepricemovement.Thenatureofaliquidity
+voidisthat,withahighprobability,thepricewilleventuallymovebackupandtrade
+overthesamepricelevelsthatwerepreviouslyvoidofliquidity.
+流动性空白-是一个价格范围，其中市场流动性的一侧显示为宽或长的单边范围或蜡烛
+线。当市场激进地脱离盘整，造成买方流动性的空白时，就会出现这种情况。这意味
+着在价格变动期间很少发生购买。流动性空白的本质是，价格很有可能最终会回升，
+并在之前缺乏流动性的相同价格水平上交易。
+<<<PDFPAGE 140 | images=2>>>
+112
+Fair Value Gaps are created within a three-candle sequence and are commonly
+visualizedonthechartasalargecandlewhoseneighboringcandles’upperandlower
+wicksdonotfullyoverlapthelargecandle.Thereasonwhyatradermightbeinterested
+inwheretheseFVGsoccurissimplythattheimbalancecreatedbythemcanbecomea
+magnetforpriceinthefuture.
+公允价值缺口是在三根蜡烛线序列中创建的，通常在图表上显示为一根大蜡烛线，其
+相邻蜡烛线的上下灯芯与大蜡烛线不完全重叠。交易者可能对这些fvg发生的地方感兴
+趣的原因很简单，因为它们造成的不平衡可能成为未来价格的磁石。
+
+<<<PDFPAGE 141 | images=1>>>
+113
+TheillustrationbelowdoesnotdepictaFairValueGap,asthepreviouscandle’s
+highlevelhascounterbalanced thelowlevelofthethirdcandle.Thispriceactionis
+consideredtobebalanced.
+下图没有描述公允价值差距，因为前一根蜡烛线的高水平抵消了第三根蜡烛线的低水
+平。这种价格行为被认为是平衡的。
+*FVG (Fair Value Gaps) is a candle in which there is an impulse, where an
+insufficiently large volume is traded with a lack of liquidity. This caused a sharp
+momentumwithoutconsolidations.
+*FVG(公允价值差距)是一个有推动力的蜡烛，在缺乏流动性的情况下交易量不够大。
+这造成了没有整合的强劲势头。
+Animpulsemovementcanbetriggeredbylargeordersofonebigplayer.Themarket
+makerseized alltheliquidity,causingittobescarceformostotherplayers.Since a
+certainnumberoforderswithintheimbalanceofamajorplayerremainsunfilled,the
+marketreturnsandclosesthiszone.
+一个大玩家的大订单可以触发一个冲动动作。做市商攫取了所有的流动性，导致流动
+性对于大多数其他参与者来说是稀缺的。由于在主要参与者的不平衡状态下，一定数
+量的订单仍然没有完成，市场返回并关闭这个区域。
+FairValueGaps(FVGs)canbefoundonalltimeframesandtherearenumerous
+trading strategies that can be implemented using them. In this example, we will
+focus on utilizing FVGs for trend continuation after a significant impulsive move.
+Aspreviouslymentioned,wecananticipatethepricetoreturntotheseFVGsbefore
+continuinginthesamedirectionastheimpulsemove.Traderscantakeadvantageof
+thisbywaitingforthepricetoreachtheFVGareaofinterestandthenenteringatrade,
+targetingtrendcontinuation.
+公允价值差距(fvg)可以在所有时间框架中找到，并且有许多交易策略可以使用它们来
+实施。在本例中，我们将重点关注在重大脉冲波动后利用FVGs进行趋势延续。如前所
+述，我们可以预测价格在继续沿着与冲动相同的方向移动之前回到这些fvg。交易者可
+以利用这一点，等待价格到达FVG感兴趣的区域，然后开始交易，目标是趋势延续。
+
+<<<PDFPAGE 142 | images=1>>>
+114
+Displacement is alocationinprice wheresomeone witha lotof moneycomes
+into the marketplace with a strong conviction to move price higher or lower very
+quickly.Displacementischaracterizedbystrongandquickpricemovementthatleave
+behindFairValueGaps.
+排水量是一个价格位置，在这个位置上，有很多钱的人带着强烈的信念进入市场，使
+价格快速上升或下降。置换的特点是强劲和快速的价格变动，留下公平的价值差距。
+
+<<<PDFPAGE 143 | images=0>>>
+115
+Again, a displacement candle is a candle that breaks through a previous high or
+low.When there is displacement over structure, it means that the price has broken
+throughakeylevelofsupportorresistance.Conversely,alackofdisplacementoccurs
+whenthepricefailstobreakthroughaprevioushighorlow.Identifyingdisplacement
+isimportantbecauseitcansignalatrendreversalorcontinuation.
+再说一次，位移蜡烛线是指突破之前高点或低点的蜡烛线。当结构出现位移时，意味
+着价格突破了关键的支撑位或阻力位。相反，当价格未能突破前一个高点或低点时，
+就会出现位移不足。识别位移很重要，因为它可以预示趋势的逆转或延续。
+To identify displacement, look for aggressive moves and closes below a low
+or above a high. In a bullish trend, look for lows taken without displacement as
+potential longentries. In a bearish trend, lookforfailures to displace over highs as
+potentialshortentries.
+要确定位移，寻找激进的移动，在低点以下或高点以上收盘。在看涨趋势中，寻找没
+有位移的低点，作为潜在的多头进场。在熊市趋势中，寻找取代高点的失败，作为潜
+在的空头进场。
+Forexample,ifthepricebreaksbelowalowbutimmediatelymovesbackintothe
+range,itisnotadisplacementcandle.Ontheotherhand,iftherearelargeaggressive
+candlesdown,thatisdisplacementoverstructure.
+例如，如果价格跌破低点，但立即回到区间，它不是位移蜡烛线。另一方面，如果有
+大的侵略性蜡烛线向下，这是位移超过结构。
+Let’s consider short trade: to use displacement for short entries, traders should
+lookforashort-termlowandwaitforanaggressivebreakbelowit.Thisbreakshould
+beaccompaniedbylargeandaggressivecandlesthatclosebelowthestructure.This
+indicatesthatthemarketislikelytocontinuemovinglower.
+让我们来考虑短期交易:为了使用置换进行短期交易，交易者应该寻找一个短期低点，
+并等待其下方的积极突破。这种打破应该伴随着巨大的和侵略性的蜡烛，关闭在结构
+之下。这表明市场可能会继续走低。
+However,it’simportanttowaitfordisplacementbeforeenteringatrade.Ifthere
+isnodisplacementandthemarketimmediatelymovesbackintotherange,it’sbestto
+waitforaclearersignal.
+然而，重要的是在交易前等待位移。如果没有位移，市场立即回到区间，最好等待更
+明确的信号。
+Lack ofdisplacementcanalsobeasignalforlongentries,asitindicatesthatthe
+marketislikelytocontinuemovinghigher.
+缺乏位移也可能是多头入场的信号，因为它表明市场可能会继续走高。
+Examples of short entries using displacement include waiting for a break below
+aprevioushighorashort-termlow.Tradersshouldalsolookforfairvaluegapsand
+<<<PDFPAGE 144 | images=0>>>
+116
+breakersaspotentialshortentrypoints.It’simportanttowaitfordisplacementover
+structuretoconfirmtheshortentrysignal.
+使用位移进行短线交易的例子包括等待跌破前期高点或短期低点。交易者也应该寻找
+公允价值差距和断路器作为潜在的短期进场点。重要的是等待位移超过结构，以确认
+短期进入信号。
+***Thekeytakeawayisthatdisplacementcanbeausefulsignalforshortentries,
+***关键的一点是，位移对于短线交易来说是一个有用的信号，
+butit’simportanttowaitforconfirmationbeforeenteringatrade.***
+但是在交易前等待确认是很重要的。***
+Lack of Displacement
+缺少位移
+Lackofdisplacementiswhenthereisnolargeaggressivecandlewithacloseinside
+ahighorlow.Itisimportanttoidentifylackofdisplacementintradingbecauseitcan
+giveyouentriestogetlongorshort.Herearesometipstoidentifylackofdisplacement:
+缺少位移是指在高点或低点附近没有大的攻击性蜡烛线。在交易中识别缺乏位移是很
+重要的，因为它能给你做多或做空的机会。以下是一些识别缺乏位移的提示:
+• Whentryingtogetintoatrendonthebuysideofthecurve,lookforlowstaken
+withoutdisplacement.Thesecangiveyouentriestogetlong.
+当试图进入曲线的买方趋势时，寻找没有位移的低点。这些可以给你多头进
+场。
+Whenonthesellsideofthecurve,lookforfailuretodisplaceoverhighs.Thesecan
+beyourshortentries.
+当在曲线的卖方时，要寻找高点上方的失败位移。这些都可以成为你的空头入场点。
+If you fail to displace lower in a bullish trend or want price to go in one direction,
+lookatthoseasyourlongentries.
+如果您未能在看涨趋势中将价格压低，或希望价格朝一个方向发展，则可将其视为多头
+进场。
+<<<PDFPAGE 145 | images=0>>>
+117
+It’simportanttorememberthatlackofdisplacementcanbejustasimportantas
+displacementintrading.
+重要的是要记住，在交易中，缺乏替代和替代一样重要。
+1. Lookforlowstakenwithoutdisplacementwhentryingtogetintoatrendona
+buysideofthecurve.Thiscangiveyouentriestogetlong.
+当试图在曲线的买方进入趋势时，寻找没有位移的低点。这可以让你的条目变
+长。
+2. Whenyou’reonthesellsideofthecurve,lookforafailuretodisplaceover
+highs.Thiscanbeyourshortentry.
+当你在曲线的卖出端时，寻找一个取代高点的失败点。这可以是你的短条目。
+3. Back test these strategies on your charts to see how they work in different
+在图表上对这些策略进行回溯测试，看看它们在不同的情况下是如何工作的
+marketconditions.
+市场状况。
+Herearesomeexamplesoflongentriesusinglackofdisplacement:
+以下是使用缺少位移的长条目的一些示例:
+Ifpricetakealowandnoticethattherearenolargeaggressivecandlesdownand
+pricemovesbackintotherangeimmediately,thiscanbeagoodentrytogetlong.
+如果价格走低，注意到没有大蜡烛线下跌，价格立即回到区间，这是做多的好机会。
+Ifpricefailtodisplacelowerwhenabullishtrendorwantstokeepgoinghigher,
+lookatthoseforlongentries.
+如果在看涨趋势下价格没有下跌，或者想继续上涨，看那些多头进场。
+It’simportanttowaitforlackofdisplacementbeforeenteringatrade.Thiscanhelp
+youavoidfalsebreakoutsandensurethatyou’reenteringthemarketattherighttime.
+Remember to always back test your strategies and lookforpatterns in your charts
+beforemakinganytrades.
+重要的是，要等到没有位移时再交易。这可以帮助你避免假突破，确保你在正确的时
+间进入市场。记住，在做任何交易之前，一定要测试你的策略，寻找图表中的模式。
+The Bearish ICT FVG:
+悲观的FVG信息和通信技术:
+• TheInstitutionalOrderFlowpatternisbasedonthe3-candleformation.
+机构订单流模式基于三蜡烛形态。
+• TheOptimalformationoftheBearishFVGwillbefoundafterarunintoBSL.
+<<<PDFPAGE 146 | images=0>>>
+118
+熊市FVG的最佳形态将在运行BSL后找到。
+• Typicallyfoundjustaboveasinglepricehighormultiplepricehighsinarelative
+basis(doubletop).
+通常在一个相对价格高点或多个相对价格高点之上(双顶)。
+<<<PDFPAGE 147 | images=1>>>
+119
+Understanding the Three-Candle Formation
+理解三根蜡烛的形成
+1. Candle1:Thiscandlerepresentsthehighofthefairvaluegap.Itisimportantto
+notethatthelowofthiscandlewillbethestartingpointforthefairvaluegap.
+蜡烛线1:这根蜡烛线代表公允价值差距的高点。需要注意的是，这根蜡烛的低
+点将是公允价值差距的起点。
+2. Candle2:Thiscandleiswherethefairvaluegapisformed.Itisthecandlethat
+separatesthehighandlowofthefairvaluegap.Tradersshouldpayattention
+tothepriceactionwithinthiscandle.
+蜡烛2:这根蜡烛就是公允价值差距形成的地方。是蜡烛区分了公允价值差距的
+高低。交易者应该注意蜡烛线内的价格变化。
+3. Candle3:Thiscandlerepresentsthelowofthefairvaluegap.Itisimportantto
+notethatthehighofthiscandlewillbetheendingpointforthefairvaluegap.
+蜡烛3:这根蜡烛代表公允价值差距的低点。需要注意的是，这根蜡烛的高点将
+<<<PDFPAGE 148 | images=0>>>
+120
+是公允价值差距的终点。
+TheBearishMarketStructure:TheMarketwillseePriceDeliverarallyabovethe
+OldHigh/Highs,thenquicklyshiftlower.
+看跌的市场结构:市场将看到价格在旧高点上方反弹，然后迅速走低。
+<<<PDFPAGE 149 | images=2>>>
+121
+The Bullish ICT FVG:
+看涨ICT FVG:
+• TheInstitutionalOrderFlowpatternisbasedonthe3-candleformation.
+机构订单流模式基于三蜡烛形态。
+• TheOptimalformationoftheBullishFVGwillbefoundafterarunintoSSL.
+多头FVG的最佳形态将在进入SSL后被发现。
+• Typicallyfoundjustbelowasinglepricelowormultiplepricelowsinarelative
+basis(doublebottom).
+通常在一个单一价格低点或多个相对价格低点(双底)的下方。
+<<<PDFPAGE 150 | images=1>>>
+122
+1. Candle1:Thiscandlerepresentsthelowofthefairvaluegap.Itisimportantto
+notethatthelowofthiscandlewillbethestartingpointforthefairvaluegap.
+蜡烛线1:这根蜡烛线代表公允价值差距的低点。需要注意的是，这根蜡烛的低
+点将是公允价值差距的起点。
+2. Candle2:Thiscandleiswherethefairvaluegapisformed.Itisthecandlethat
+separatesthelowandhighofthefairvaluegap.Tradersshouldpayattention
+tothepriceactionwithinthiscandle.
+蜡烛2:这根蜡烛就是公允价值差距形成的地方。是蜡烛区分了公允价值差距的
+高低。交易者应该注意蜡烛线内的价格变化。
+3. Candle3:Thiscandlerepresentsthehighofthefairvaluegap.Itisimportant
+tonotethatthelowofthiscandlewillbetheendingpointforthefairvaluegap.
+蜡烛3:这根蜡烛代表公允价值差距的高点。需要注意的是，这根蜡烛线的低点
+将是公允价值差距的终点。
+TheMarketwillseePriceDeliverarallybelowtheOldLow/Lows,thenquickly
+shifthigher.
+市场将看到价格在旧低点下方反弹，然后迅速走高。
+<<<PDFPAGE 151 | images=2>>>
+123
+TheBullishMarketStructure:TheMarketwillseePriceDeliveradeclinebelow
+theOldLow/Lows,thenquicklyshifthigher.
+看涨的市场结构:市场将看到价格跌破旧低点，然后迅速走高。
+At 8:30 AM we are looking for a stop run to occur.
+在上午8:30，我们正在寻找一个停止运行发生。
+Before 8:30 AM look for a potential liquidity pool for price to raid.
+上午8:30之前，寻找潜在的流动性池，以便价格突袭。
+We are looking at 8:30 AM due to the News Embargo Lifts.
+由于新闻解禁，我们将在早上8:30开始。
+Equity market opens at 9:30 AM. This creates surge in volatility.
+股票市场上午9:30开盘。这导致波动性激增。
+Many times surge in volatility creates a Judas Swing.
+很多时候，波动性的激增造成了假动作。
+<<<PDFPAGE 152 | images=2>>>
+124
+1. When you are bullish and MNO price is lower than NYO price -> use
+NYO. Whenyouarebullishandwearetrading below MNO and NYO is still
+belowMNO,thenweareinaheavydiscountedarea.
+当你看涨时，MNO价格低于NYO价格->使用NYO。当你看涨时，我们的交易
+价格低于MNO，而NYO的交易价格仍低于MNO，那么我们就处于严重折价区。
+2. Whenyouarebearish andMNOprice ishigher thanNYOprice ->useNYO.
+WhenyouarebearishandwearetradingaboveMNOandNYOisstillabove
+MNO–heavypremiumarea.
+
+<<<PDFPAGE 153 | images=0>>>
+125
+当你看跌MNO价格高于NYO价格时->使用NYO。当你看跌时，我们在MNO上
+方交易，而NYO仍在MNO上方——高溢价区域。
+<<<PDFPAGE 154 | images=3>>>
+126

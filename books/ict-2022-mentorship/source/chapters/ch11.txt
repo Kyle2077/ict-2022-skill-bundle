@@ -1,0 +1,426 @@
+
+<<<PDFPAGE 155 | images=1>>>
+127
+Chapter 11
+破产重组保护
+ICT Killzones and Sessions
+ICT死亡地带和会话
+THE IMPORTANCE OF TIME
+时间的重要性
+“Algorithmictheoryisbasedontimeandprice,pricelevelsareuselessuntilTime
+is considered, Time is of no use unless Price is at a key PD array. Blendingthe two
+yieldastonishingresultsandprecision.”–ICT.
+“算法理论是基于时间和价格的，除非考虑时间，否则价格水平是无用的，除非价格处
+于关键的PD阵列，否则时间是无用的。将两者相结合会产生惊人的结果和精确度。”
+信息和通信技术。
+First,youneedtoknowwhatakillzoneis.Tounderstandeverything,youneedto
+knowthat,evenifforexisopen24haday,peoplearoundtheworlddonottradeas
+much,thethreemostimportantlocationsareLondon,NewYork,andAsia,considering
+thejetlagbetweenthem,theydon’ttradeatthesametime,wecallthemomentwhen
+theyindividuallytrade“sessions”.Killzonesarebasedonthat,theyarethetimeswhen
+sessionsoverlap,andwhenthereisthemostvolume.
+首先，你需要知道什么是杀戮地带。要了解一切，你需要知道，即使外汇每天24小时
+开放，世界各地的人们也不会交易那么多，三个最重要的地点是伦敦、纽约和亚洲，
+考虑到他们之间的时差，他们不会在同一时间交易，我们将他们单独交易的时刻称为
+
+<<<PDFPAGE 156 | images=0>>>
+128
+“会话”。Killzones基于此，它们是会话重叠的时间，也是容量最大的时间。
+Thereare5killzone:
+有5个杀伤区:
+1. Londonopen,from02:00to05:00am
+伦敦公开赛，从凌晨02:00到05:00
+2. New-Yorkopen,from07:00to10:00am
+纽约公开赛，上午07:00到10:00
+3. Londonclose,from10:00amto12:00pm
+伦敦打烊，从上午10:00到晚上12:00
+4. CentralBankDealersRange,from14:00to20:00
+央行交易商范围，从14:00到20:00
+5. Asia,from20:00to00:00NYLocaltime.
+亚洲，纽约当地时间20:00至00:00。
+<<<PDFPAGE 157 | images=1>>>
+129
+Asia Killzone
+亚洲杀手区
+TheAsianRangedeterminesthedirectionalbiasorlikelydirectionforthemajority
+of the London & NY sessions. Where the money is positioned in Asian dictates the
+profit release on the trading day. Typically, Asian session trades counter the NY
+sessiondirectioninacorrectivebounce.TheAsianTradingSessionextendsbeyond
+theMidnighthourinNYTime.
+亚洲区间决定了伦敦和纽约大部分时段的方向偏差或可能方向。资金在亚洲的位置决
+定了交易日的利润释放。通常，亚洲市场的交易与纽约市场的方向相反，都是一种修
+正性反弹。亚洲交易时段延长至纽约时间午夜之后。
+Currencypairs AUD, NZDand JPYarebestsuitedforthistimeofday.USDpairs
+orcrossesarenotactiveatthistimeofday.
+货币对澳元,新西兰元和日元（JapaneseYen）最适合一天中的这个时候。美元对或
+交叉在一天中的这个时间是不活跃的。
+AUDJPYModel:
+AUDJPY模型:
+Ifwearebullish,wewanttoseea15mswinglowgetrunbetween8pm–12amEST
+forTurtleSoupLong.
+如果我们看涨，我们希望看到在美国东部时间晚上8点到12点之间运行15米的低点，
+做多海龟汤。
+Ifwearebearish,wewanttoseea15mswinghighgetrunbetween8pm–12am
+ESTforTurtleSoupShort.
+如果我们看跌，我们希望看到海龟汤空头在美国东部时间晚上8点到12点之间运行15
+米的高点。
+
+<<<PDFPAGE 158 | images=2>>>
+130
+
+<<<PDFPAGE 159 | images=2>>>
+131
+Most of the time Asia Killzone usually consolidation. Consolidation
+containsmanycluesastohowthedailyrangewilldevelopthroughouttheremainder
+ofthetrading.
+大多数时候亚洲杀伤区通常是盘整的。盘整包含了许多线索，显示了在余下的交易
+中，日线将如何发展。
+TheopenofthedayandtheAsianrangecanhelpdeterminethefurthermovement
+oftheasset’spriceduringtheday.
+
+<<<PDFPAGE 160 | images=0>>>
+132
+当天的开盘价和亚洲价格区间有助于确定资产价格在一天内的进一步走势。
+During a downtrend,itisbesttoconsidershortpositionsinthepremiumzone
+abovetheNYMidnightopeningpriceand/orattheupperborderoftheAsiansession.
+在...期间下降趋势，最好考虑纽约午夜开盘价以上溢价区和/或亚洲时段上限的空头头
+寸。
+<<<PDFPAGE 161 | images=1>>>
+133
+WhenthehighoftheAsiansessionisupdatedandatestofthepointofinterest(POI)
+of the higher timeframe (HTF) occurs, this often indicates a continuation of the
+bearishtrend.
+当亚洲时段的高点被更新，并且对更高时间框架(HTF)的兴趣点(POI)进行测试时，这
+通常表明熊市趋势的延续。
+Onanuptrend,itisbesttoconsiderlongpositionsinthediscountzonebelowthe
+NYMidnightopeningpriceand/oratthelowerborderoftheAsiansession.Whenthe
+lowoftheAsiansessionisupdatedandatestofthepointofinterest(POI)ofthehigher
+timeframe(HTF)occurs,thisoftenindicatesacontinuationofthebullishtrend.
+在上升趋势中，最好考虑在纽约午夜开盘价以下的折扣区和/或亚洲时段的下边界做
+多。当亚洲时段的低点被更新，并且对更高时间框架(HTF)的兴趣点(POI)进行测试时，
+这通常表明牛市趋势的延续。
+AtthestartoftheAsiansession,short-termchangesinmarketsentiment occur,
+andlessexperiencedtradersmayenterpositionsagainstthegeneralpricedirection,
+carriedawaybythemomentum.
+在亚洲时段开始时，市场情绪会发生短期变化，经验不足的交易者可能会被动量冲昏
+头脑，逆着总体价格方向建仓。
+Usually,weextendAsiaSessionTrendlinetothe11am.
+通常，我们将亚洲市场趋势线延长到上午11点。
+The height of the range = Highest High and Lowest Low between the 8pm
+toMidnighthour.Thewidthoftherangeisthedurationof8pmtoMidnightNYTime.
+范围的高度=晚上8点到午夜之间的最高价和最低价。范围的宽度是纽约时间晚上8点
+到午夜的持续时间。
+
+<<<PDFPAGE 162 | images=0>>>
+134
+Implementing the Asian range
+实施亚洲系列
+TheAsianrangecanbeveryindicativeofthefutureintradaypricemovement.When
+wehavedirectionalbiasAsiaisyourcontexttoframethemarket’slikelyintentions.
+Oftenconsolidationbeforeintradaypriceswing.Initselftherangeisnothingmagical
+butifyouhaveastorylineonwhatyouexpectpricetodoitisunbelievablyhelpful.ICT
+learnedaboutthisfromChrisLori.
+亚洲的波动幅度很能说明未来的日内价格走势。当我们有方向性偏好时，亚洲是你框
+定市场可能意图的背景。通常在盘中价格波动前盘整。这个系列本身并没有什么神奇
+之处，但是如果你有一个关于你期望普莱斯做什么的故事情节，它会有难以置信的帮
+助。ICT从ChrisLori那里了解到这一点。
+<<<PDFPAGE 163 | images=1>>>
+135
+CharacteristicsAsianrange:
+特性亚洲系列:
+Time:ICTsays20:00-00:00NYTime.
+时间:ICT说纽约时间20:00-00:00。
+Howtodrawtherange?ICTdrawstherangefromthehighesthightillthelowest
+lowduringthattimewindow.There’salotofvoodoowhatyoucandowiththisrange,
+it can takeyou tothe highest andthe lowestpip of theday, but ICT teaches that in
+privatementorship.
+范围怎么画？ICT在该时间窗口内绘制了从最高价到最低价的区间。你可以用这个范
+围做很多巫术，它可以带你到一天中最高和最低的点，但ICT在私人导师中教授这一
+点。
+<<<PDFPAGE 164 | images=2>>>
+136
+Ifwehaveaverynarrowrange,thatsetsupahugeopportunityofthealgogoinginto
+atrendingmodel.Themanipulationwilleitherbetotheupside,takingthebuyorders
+(bearishdailyexpansion)orthedownside,takingthesellordersbeforeexpandingup
+(bullishdailyclose).
+如果我们有一个非常窄的范围，这就为算法进入趋势模型提供了一个巨大的机会。操
+纵要么是向上，接受买入订单(看跌的每日扩张)，要么是向下，在扩张前接受卖出订
+单(看涨的每日收盘)。
+Utilizationinbullishconditions:
+看涨条件下的利用率:
+Extend theAsian rangehighandlowintothefuture. When price retraces to
+Asian range high, we can anticipate institutional buying.
+将亚洲范围从高到低延伸到未来。当价格回撤至亚洲区间高点时，我们可以预期机构
+买入。
+<<<PDFPAGE 165 | images=1>>>
+137
+
+<<<PDFPAGE 166 | images=2>>>
+138
+Utilizationinbearishconditions:
+熊市条件下的利用率:
+Extend theAsian rangehighandlowintothefuture. When price retraces to
+Asian range low, we can anticipate institutional selling.
+将亚洲范围从高到低延伸到未来。当价格回撤至亚洲区间低点时，我们可以预期机构
+抛售。
+ThereasonwhyIwouldratherplaytheAsiaRangethanthecontinuationisalso
+the fact,that you rarely often see Asia having more than 15 points(ES/SP500) and
+having a slight trend, but still taking out both ends of the range before any further
+direction.
+我宁愿选择亚洲区间而不是延续区间的原因也是事实，你很少经常看到亚洲超过15点
+(ES/SP500)并有轻微的趋势，但仍然在任何进一步的方向之前采取区间的两端。
+Theplan:Youwaitforonesidetogettakenoutwithintherangeof1-2Standard
+Deviations,thenlookforreversals(ideallybackinsidetheAsiaRange)andenterafter
+abreakinstructuretargetingtheoppositeside.
+计划是:你等待一方在1-2个标准差的范围内出局，然后寻找反转(理想情况下回到亚洲
+范围内)，并在结构突破后进入另一方。
+DependingonyourDailyBiasyoucanoftenleavearunner:
+根据你的日常偏好，你可以经常离开跑步者:
+Forexample,youtakeoutsay80%attheoppositesideoftherange,putyourStop
+Lossatyourentryandleavearunnertargeting1-2StandardDeviationsaway.
+例如，你在区间的另一端取出80%，在进场时设置止损，让跑步者瞄准1-2个标准差。
+
+<<<PDFPAGE 167 | images=0>>>
+139
+London Killzone
+伦敦杀戮地带
+TheKeyTimestomonitoris2amto5amNYTime.
+监控的关键时间是纽约时间凌晨2点到5点。
+WhydopeoplelovetheLondonsession?Asiatendstoaccumulateliquiditywithin
+orarounditsrange,thefurtherawaythemorevolatilityinthemarketincreases.When
+trading opens in Frankfurt or London, a huge volume of orders enters the market.
+Thiscreatesidealtradingconditions,especiallyforthoselookingtocapitalizeonlarge
+intradaymoves.
+为什么人们喜欢伦敦会议？亚洲倾向于在区间内或区间附近积累流动性，区间越远，
+市场波动性越大。当法兰克福或伦敦开市时，大量订单进入市场。这创造了理想的交
+易条件，尤其是对于那些希望利用盘中大幅波动获利的人。
+The London Trading Session extends beyond the 5am to 7am in NY Time. The
+London Session typically creates the Low of the day when the market is primarily
+BullishandtheHighofthedaywhenBearish.
+伦敦交易时段超过纽约时间早上5点到7点。伦敦时段通常在市场主要看涨时创造一天
+中的低点，在市场看跌时创造一天中的高点。
+WhentheMarketispoisedtotradeHigherontheDailytimeframe,wecanfocus
+on the London Session to post the Low of the Trading Day. If the Daily is posed to
+trade Lower – we can focus onthe London Session to post the High of the Trading
+Day. Measure the London session range to right before the NY open the extreme
+high and low.If were bearish then that range is going to help find the next trading
+day retracement up. During the protractionary state, that move up is going to be a
+retracementintothatLondonsessionrangefromLondongoingintothebeginningof
+NY,so2amto7am.
+当市场准备在每日时间框架内交易走高时，我们可以关注伦敦时段，以发布交易日的
+低点。如果日线图显示交易走低，我们可以关注伦敦时段，以发布交易日的高点。在
+纽约开盘前测量伦敦时段的最高价和最低价。如果我们看跌，那么这个范围将有助于
+找到下一个交易日的回撤。在长期状态下，上涨将是伦敦时段的回撤，从伦敦到纽约，
+凌晨2点到7点。
+BUY:RaidStopsthenshootforSupport.GoalistodialinontheLowofthedayto
+golongfrom.
+购买:突袭停止，然后射击寻求支援。目标是在一天的低点做多。
+FirstobjectiveafterLondonOpenistoraidAsianHighstops.
+伦敦开盘后的第一个目标是突袭亚洲高点。
+After stops are taken out, price moves lower testing key support levels & OTE.
+<<<PDFPAGE 168 | images=0>>>
+140
+FromLondonOpentoClose,theDailyRangeisputinandyoushouldnotusetight
+trailingstops.BuybelowopeningpriceandbelowAsianSessionSwingLow.
+止损取消后，价格下跌测试关键支撑位&注。从伦敦开盘到收盘，日线区间已经建
+立，你不应该使用紧密的跟踪止损。低于开盘价和低于亚洲时段的低价买入。
+<<<PDFPAGE 169 | images=3>>>
+141
+Sell:GoalistodialinontheHighofthedaytogoshortfrom.Firstobjectiveafter
+LondonOpenistoraidAsianLowstops.
+卖出:目标是在当天的高点做空。伦敦开盘后的第一个目标是突袭亚洲低点。
+Afterstopsaretakenout,pricemoveshighertestingkeyresistancelevels&OTE.
+FromLondonOpentoClose,theDailyRangeisputinandyoushouldnotusetight
+trailingstops.SellaboveopeningpriceandaboveAsianSessionSwingHigh.
+止损被取消后，价格上涨测试关键阻力位&注。从伦敦开盘到收盘，日线区间已经建
+立，你不应该使用紧密的跟踪止损。卖出价格高于开盘价，高于亚洲时段的高点。
+TurtlesoupistheinitialfakeoutoutsideAsianrangebeforetherealJudasswingto
+thekeysupport/resistancelevel.AfterturtlesouptheJudasswingwillbeginandbreak
+AsianSessionHigh/Lowtothekeysupport/resistance,onthemovetokeysupport/
+resistanceanticipatepricetoretestthebrokenAsianrangebutsometimestheremight
+beaminortonopullbacktotheAsianrange(refertotheICTBuyandSellModel).
+在真正的犹大摆动到关键的支撑/阻力位之前，海龟汤是亚洲范围之外的第一个假目
+标。海龟汤后，犹大摆动将开始，打破亚洲时段的高点/低点至关键支撑/阻力，在向
+关键支撑/阻力移动的过程中，预计价格将重新测试打破的亚洲范围，但有时可能会出
+现小幅回调至亚洲范围(参考ICT买卖模型)。
+Key support/resistance can be Higher Time frame Support/Resistance, Higher
+TimeFrameOrderBlock,PreviousDayHigh/Low,PreviousWeekHigh/Low,Week
+Open,NewDayOpen,PreviousDayNewYorkHigh/Low.
+关键支撑/阻力可以是更高的时间框架支撑/阻力、更高的时间框架订单块、前一天高/
+低、前一周高/低、周开盘、新一天开盘、前一天纽约高/低。
+<<<PDFPAGE 170 | images=0>>>
+142
+WHEN TO AVOID LONDON OPEN
+何时避开伦敦公开赛
+SomeofobviousReasons:
+一些显而易见的原因:
+• Interestrateannouncement
+利率公告
+• KeySpeeches
+主要演讲
+• Holidaytrading
+假日交易
+• GlobalandEconomicevents
+全球和经济事件
+• WeeklyRangeobjectiveachieved
+实现每周产品系列目标
+<<<PDFPAGE 171 | images=0>>>
+143
+Occasionally:IftheAsiansessionrangeisover15-20points(ES/SP500),waitfor
+NewYorktradetobesafe.
+偶尔:如果亚洲时段范围超过15-20点(东/SP500)，等待纽约交易安全。
+New York Killzone
+纽约杀戮地带
+Thekeytimesare7amto10amEST.
+关键时间是美国东部时间早上7点到10点。
+HighorLowofthedaycanbeformedinNewYorkopentoo.NewYorksessionis
+theeasiestonetotradeasLondonsessionhigh/lowalreadyinplace.ConsiderHTF
+Premise.
+一天的高点或低点也可以在纽约公开赛上形成。纽约时段是最容易交易的时段，因为
+伦敦时段的高/低已经到位。考虑HTF前提。
+The majority of time, this session will trade in sync with Higher Time Frame
+direction.ConsiderLondonandAsiansessionhighsandlows(pricemightbounceoff
+theselevels).Mostofthetimeprice willtradetothedirectionofthemovethatwas
+establishedinLondonsession.Expectapullbacktothehighorlowthatwasformedis
+London,mostofthetimepricewillretesttheselevelsastheymayactasliquiditypool.
+大多数时候，这个时段将与更高的时间框架方向同步交易。考虑伦敦和亚洲市场的高
+点和低点(价格可能会从这些水平反弹)。大多数情况下，价格会朝着伦敦市场确定的
+方向波动。除了回调到伦敦形成的高点或低点，大多数时候价格会重新测试这些水平，
+因为它们可能充当流动性池。
+TheNYSessiontypicallyhastwopotentialscenarios–continuationofLondon’s
+Moveoracompletereversalonthedailydirection.
+纽约时段通常有两种潜在的情况——伦敦走势的延续或日线方向的完全逆转。
+If the low of the day is formed in the London session, the uptrend continues in
+NewYorkandthetradingrangeisexitedatthenextbearishpointofinterest(POI)or
+upperliquidityzone(sellstops).Toenterashortposition,anticipatethehighofthe
+dailyrange.
+如果当天的低点是在伦敦市场形成的，上涨趋势将在纽约继续，交易区间将在下一个
+看跌点(POI)或流动性上限区域(卖出止损)退出。要进入空头头寸，预测日线区间的高
+点。
+IfthehighofthedayisformedintheLondonsession,thenthedowntrendinNew
+York continues and the trading range is exited to the next bullish point of interest
+(POI)ortothelowerliquidityzone(buystops).Toenteralongposition,considerthe
+lowofthedailyrange.
+如果当天的高点是在伦敦时段形成的，那么纽约的下跌趋势将继续，交易区间将退出
+<<<PDFPAGE 172 | images=0>>>
+144
+到下一个看涨点(POI)或较低的流动性区域(止损)。要进入多头仓位，考虑日线范围的
+低点。
+If in the Asian and London sessions the price was in a narrow range and
+accumulatedliquidityontopofadowntrendorfrombelowonanuptrend,thenthere
+willprobablybealiquiditywithdrawalfromthisrangeintheNewYorksession.This
+canleadtoahighofthedayonadowntrendoralowofthedayonanuptrend,and
+thenmoveintheoppositedirection.
+如果在亚洲和伦敦会议价格在一个狭窄的范围内，并在下降趋势的顶部或上升趋势的
+底部积累了流动性，那么在纽约市场可能会有流动性从这个范围撤出。这可能导致下
+跌趋势中的一天高点或上涨趋势中的一天低点，然后向相反的方向移动。
+<<<PDFPAGE 173 | images=1>>>
+145
+Ifaday’slowwasformedattheLondonsession,wecanexpectthebeginningofan
+upwardmoveinNewYork,aswellastheformationofasignificantlow,fromwhere
+furtherpricemovementwillbegin.
+如果一天的低点是在伦敦时段形成的，我们可以预计在纽约开始向上移动，以及形成
+一个明显的低点，从这里开始进一步的价格运动。
+If the high of the day was formed at the London session, then at the New York
+sessionwecanexpectthebeginningofadownwardmove,aswellasanexitfromthe
+dailyrangeandtheopportunitytoopenashortpositionusingabearishOB.
+如果当天的高点是在伦敦时段形成的，那么在纽约时段，我们可以预期向下移动的开
+始，以及从每日范围的退出和使用看跌OB建立空头头寸的机会。
+Continuation:
+延续:
+Continuationofthemovementiseasiertotrade.Forthis,youneedtobesurein
+thedirectionoftheday.IfthemarketisBullish-wewillseeLowformedinLondon.
+IfthemarketisBearish-wewillseeHighformedinLondon.Itisworthwaitingfor
+a pullback during the NYsession and gettingconfirmation to enterpositions in the
+directionofLondon.
+运动的延续更容易交易。为此，你需要确定当天的方向。如果市场看涨，我们将在伦
+敦看到低点。如果市场是熊市，我们将在伦敦看到高点。值得在纽约时段等待回调，
+并得到确认进入伦敦方向的头寸。
+BasedontheanalysisofEScharts,NYoftenreturnstothemostobviouszone,itis
+<<<PDFPAGE 174 | images=0>>>
+146
+besttolookforaFVG,BB,orOBonthe5/15mchart.
+基于ES图的分析，NY经常回到最明显的区域，最好在5/15m图上寻找FVG，BB，或
+者OB。
+<<<PDFPAGE 175 | images=3>>>
+147
+
+<<<PDFPAGE 176 | images=2>>>
+148
+New York Session Reversal
+纽约时段反转
+KnowingtheHigherTimeframePDArraysandtheIPDADataRangesthemarket
+is presentlyrespecting -scenarios can beoutlined inouranalysis. Ifthere is a HTF
+DiscountArraythatisbelowthemarketpricebuthasyettobemet-thedayittrades
+downintoitduringLondon’smoveandcrossesovertoNewYorkOpen-thisisclassic
+NewYorkSessionReversalconditions.
+了解了市场目前所关注的更高时间段的PD阵列和IPDA数据范围，我们可以在分析中
+概述各种情况。如果有一个HTF折扣数组低于市场价，但还没有被满足——在伦敦移
+动的那一天，它交易到它，并穿越到纽约开放——这是典型的纽约时段反转条件。
+UnlesstheNYsessionopensupatapremiumarrayordiscountarrayontheHTF,
+NYwillalwaysbeexpectedtobeacontinuationofLondon.ThatchangesifLondon
+tradesdownlowerandthencrossesintoNewYorkOpenandNewYorktradesintoa
+HTFdiscountarray.
+除非纽约时段以HTF的溢价或折价开盘，否则纽约将永远是伦敦的延续。如果伦敦交
+易走低，然后进入纽约开市，纽约交易进入HTF贴现阵列，这种情况就会改变。
+Ifwe’retradingatalevelthatweexpecttobebearishanditdoesthisduringNY,
+expectareversal.
+如果我们的交易水平是我们预期的熊市水平，而在纽约期间确实如此，那就等着反转
+吧。
+Thecharacteristicsaresimple,butyouneedtostudyitoverandoveragain.Have
+<<<PDFPAGE 177 | images=0>>>
+149
+theHTFPDarraysonyourchart,andthenyouwon’tbeblindsidedandyou’llseeit
+coming.
+特点很简单，但是需要你反复研究。在你的图表上有HTFPD阵列，然后你就不会措
+手不及，你会看到它的到来。
+<<<PDFPAGE 178 | images=3>>>
+150
+London Close Killzone
+伦敦近距离杀戮地带
+Asarule,atthecloseoftheLondonsession,acorrectivemovementcanbeobserved
+afterthepricehasreacheditstargetsinNewYork.
+作为一项规则，在伦敦市场收盘时，在价格达到纽约的目标后，可以观察到一个修正
+运动。
+Inthecaseofadowntrend,whenthepriceisinabullishpointofinterest(POI)or
+asignificantpoolofliquidityhasbeenwithdrawn,youshouldlookforafalsebreakout
+onthe5-minutetimeframetoopenalongposition.
+在下跌趋势的情况下，当价格处于看涨兴趣点(POI)或大量流动性被收回时，你应该寻
+找5分钟时间框架上的假突破，以建立多头头寸。
+Ifthereisanuptrend,thenwhenthepriceisinthebearishpointofinterest(POI)
+or when a significant liquidity pool is removed, it is necessary to look for a false
+breakoutonthe5-minutetimeframetoenterashortposition.
+如果有上升趋势，那么当价格处于看跌点(POI)时，或者当重要的流动性池被移除时，
+有必要在5分钟时间框架上寻找假突破，以进入空头头寸。
+<<<PDFPAGE 179 | images=0>>>
+151
+LondonClosecanbeusedforintradayreversalsonLargeRangeDaysforscalps.
+Thelargerangedaythatexceedsits5ADRtendstoretraceabout20%ofitstotaldaily
+rangeat10:00amtoNoonNYtime.
+伦敦收盘时可以用于大范围日的日内反转。超过5ADR的大范围日倾向于在纽约时间
+上午10:00到中午回撤其总日范围的20%。
+Importance Characteristics of London Close Killzone
+伦敦近距离杀伤区的重要特征
+ItisimportanttounderstandthatLondonCloseKillzonecancontinuetomovein
+NYandevenLondonduringNYlunchhours.
+重要的是要明白伦敦近距离杀伤区可以在纽约甚至伦敦午餐时间继续移动。
+What was the main movement of the Day or the Week may change during the
+一天或一周的主要运动是什么
+<<<PDFPAGE 180 | images=3>>>
+152
+LondonClose.Thatis,thisperiodoftimecanshow areversalinthemarket.
+伦敦收盘。也就是这段时间可以表现出行情的反转。
+Inlongertermconditions,theLondonClosecanbring aMarketReversalthatcan
+leadtoaseriesofdaysofone-sideddirection.Thisisbestdeterminedwiththeuseof
+theWeeklyTemplatesandstudyofthecurrentMarketStructure.
+从长期来看，伦敦股市收盘可能带来市场反转，导致连续几天的单边走势。这最好通
+过使用周线模板和研究当前市场结构来确定。
+Everything mentioned in New Yorkreversals, thesame appliestoLondonclose.
+TheLondonclosecanbeasweepoftheNewYorksessionreversal1lasttimeandthen
+itreallytakesoff.
+在纽约提到的一切都会逆转，这同样适用于伦敦收盘。伦敦股市收盘时可能会横扫纽
+约股市，然后真正开始上涨。
+IfyouexpectaNYOreversalbutthenLondonclosetakesoutNYOandisstillinthe
+HTFPDarraythenyoucanstillgetin.
+如果你预计NYO会反转，但伦敦收盘时NYO出局，而你仍在HTFPD阵列中，那么你
+仍可以进入。

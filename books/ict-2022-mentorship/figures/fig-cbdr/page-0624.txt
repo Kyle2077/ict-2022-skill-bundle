@@ -1,0 +1,21 @@
+380
+market profile (London Close/New York open reversal – earlier in this book).
+市场概况(伦敦收盘/纽约开盘反转——本书前面)。
+The ideal take profit is 2 deviations but it can go up to 3.
+理想的止盈是2个偏差，但也可以达到3个偏差。
+For a high probability London Normal Protraction sell day, the CBDR should be
+less than 20 points (ES/SP500), and the Asian session range should be between 10
+to 15 points (ES/SP500). The market can move one to two standard deviations of the
+CBDR during the protractionary stage or Judas Swing.
+对于高概率的伦敦正常延期卖出日，CBDR应小于20点(SP500东部时间)，亚洲时段
+范围应在10至15点之间(SP500东部时间)。在持续阶段或犹大摆动期间，市场可以移
+动一到两个CBDR的标准差。
+The CBDR also can be used to identify potential trading opportunities and market
+CBDR也可以用来识别潜在的交易机会和市场
+movements during specific time periods.
+特定时间段内的移动。
+High impact news will cause larger standard deviations to be reached. The CBDR
+is helpful with anticipating the LOD or HOD selection.
+高影响新闻将导致达到更大的标准差。CBDR有助于预测LOD或HOD选择。
+Using the CBDR is more accurate Tuesday – Thursday. That is where we see most
+of the volume of the week. This does not mean it could not occur on Monday .

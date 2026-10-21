@@ -1,0 +1,17 @@
+337
+The ideal reversal pattern we are looking for is a type one reversal where we make
+a higher high and then break below an old swing low.
+我们正在寻找的理想反转模式是第一种反转，在这种反转中，我们创造了一个更高的
+高点，然后跌破一个旧的低点。
+For extra confirmation, we want to look at a correlated asset class and we want to
+see an SMT divergence between the two. When asset one makes a higher high, we look
+for a correlated asset class to make a lower high. If they are inversely correlated, then
+we would look for one to make a higher high and its correlated pair to make a higher
+low.
+为了进一步确认，我们想看看相关的资产类别，我们希望看到两者之间的SMT背离。
+当资产一创造更高的高点时，我们寻找相关的资产类别来创造更低的高点。如果它们
+是反向相关的，那么我们将寻找一个做更高的高点，而它的相关对做更高的低点。
+We would only refer to this type of reversal pattern if it’s correlated asset was
+showing an SMT divergence by posting a higher high.
+只有当相关资产通过发布更高的高点显示出SMT背离时，我们才会参考这种反转模
+式。

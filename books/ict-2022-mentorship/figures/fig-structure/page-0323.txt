@@ -1,0 +1,20 @@
+219
+We now have a bias and that’s bullish. Keep in mind that not every day a setup will
+be delivered and every day the bias is both directions. You have to decide what it is that
+you’re trading and you want the bias that you are holding to line up with price action,
+you can’t force price action to do what you want it to do, you want to get in sync.
+我们现在有一个偏向，这是乐观的。请记住，并不是每天都会有设置交付，而是每天
+都有双向偏差。你必须决定你交易的是什么，你希望你持有的偏见与价格行为一致，
+你不能强迫价格行为做你希望它做的事情，你希望同步。
+During the Killzone (time!) you wait for the key support level to be hit (as in the
+example below) and you look for a market shift there (based on the highest of the 3
+timeframes) in the form of either a stop run or a failure swing (cc month 5 episode 5)
+and after that market shift happened you look for an entry on the lowest timeframe.
+在杀戮地带期间(时间！)你等待关键支撑位被触及(如下例所示),你在那里寻找止损或
+失败波动形式的市场变化(基于3个时间框架中的最高值),在市场变化发生后，你在最
+低时间框架寻找进场点。
+After MSS and you’ve found your entry, you can use standard deviations for
+target projections. Once we break that ITL, we can use the fib standard deviations to
+determine price targets from this consolidation.
+在MSS和你找到你的条目后，你可以用标准差来预测目标。一旦我们打破ITL，我们
+可以使用纤维标准差来确定价格目标。

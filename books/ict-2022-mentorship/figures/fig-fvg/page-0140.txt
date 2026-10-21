@@ -1,0 +1,9 @@
+112
+Fair Value Gaps are created within a three-candle sequence and are commonly
+visualized on the chart as a large candle whose neighboring candles’ upper and lower
+wicks do not fully overlap the large candle. The reason why a trader might be interested
+in where these FVGs occur is simply that the imbalance created by them can become a
+magnet for price in the future.
+公允价值缺口是在三根蜡烛线序列中创建的，通常在图表上显示为一根大蜡烛线，其
+相邻蜡烛线的上下灯芯与大蜡烛线不完全重叠。交易者可能对这些fvg发生的地方感兴
+趣的原因很简单，因为它们造成的不平衡可能成为未来价格的磁石。

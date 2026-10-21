@@ -1,0 +1,622 @@
+
+<<<PDFPAGE 627 | images=1>>>
+383
+Chapter 32
+第三十二章
+High Probability Daytrade Setups
+高概率日内交易设置
+Whatmakesasetup“worthwhile”:
+什么使得设置“值得”:
+• LargeinstitutionsandbanksanalyzechartsonDay=>Week=>MonthTFs.
+大型机构和银行在日=>周=>月TFs分析图表。
+• WedeterminepricelevelsthatcorrespondtotheInstitutionalOrderFlow.This
+iskey.
+我们确定对应于机构订单流的价格水平。这是关键。
+• HTFsformslowlyandallowenoughtimeforplanning.
+Whatcanwedotoreducetheriskofatrade?
+htf形成缓慢，需要足够的时间进行规划。我们能做什么来
+降低交易的风险？
+• HTFputsalotofemphasisonprice,sowefocusonit.
+HTF非常重视价格，所以我们关注价格。
+• Theconditionsthatprovideasetuponahigher timeframecanberefinedona
+提供更高时间框架设置的条件可以在
+LTF.
+LTF。
+
+<<<PDFPAGE 628 | images=0>>>
+384
+• MovingthelevelsoftheHTFtotheLTFisimportantsowecanreduceourrisk
+(stops).
+将HTF的仓位转移到LTF是很重要的，这样我们可以降低风险(止损)。
+TheHighestImportanceisplacedontheHTFDailyor4hdirection.
+WhenDailyandor4hdirectionisBullish:
+最重要的是HTF日线或4h方向。当日线和或4h方向看涨时:
+1. UsePreviousDay’sLowtoHighforRetracementEntries.
+使用前一天的低点到高点进行回撤。
+2. UsePreviousDay’sNYSessionLowtoHighforRetracementEntries.
+使用前一天纽约时段的低点到高点进行回撤交易。
+3. UsePreviousDay’sLowforSellStopRaidtoaccumulationlongs.
+使用前一天的低点止损卖出，累积多头。
+4. FocusingontheanticipatedmovefromHTFDiscounttoPremiumPDArrays.
+关注从HTF折扣到高级PD阵列的预期转变。
+<<<PDFPAGE 629 | images=6>>>
+385
+WhenDailyandor4hdirectionisBearish:
+当日线和或4h方向看跌时:
+1. UsePreviousDay’sHightoLowforRetracementEntries.
+使用前一天的最高价到最低价进行回撤。
+2. UsePreviousDay’sNYSessionHightoLowforRetracementEntries.
+使用前一天纽约时段的高点至低点进行回撤。
+3. UsePreviousDay’sHigh forBuyStopRaidtoaccumulate shorts.
+使用前一天的高点买入止损来累积空头。
+4. FocusingontheanticipatedmovefromHTFPremiumtoDiscountPDArrays.
+重点关注从HTF溢价到折价PD阵列的预期转变。
+
+<<<PDFPAGE 630 | images=0>>>
+386
+When Do We Need to look to buy?
+我们什么时候需要购买？
+• IdeallyinseasonallyBullishperiodsoftheyear.*Notrequired.
+最理想的是在一年中的季节性牛市时期。*不需要。
+• WhenthecurrentQuarterornewQuarterisexpectedBullish.
+当当前季度或新季度预期看涨时。
+• AftertheDailycharthasreactedpositivelyonaDiscountPDArray.
+在日线图对折价PD阵列做出积极反应之后。
+• WhenPricehasaclearunobstructedpathtoanopposingPremiumArray.
+当价格有一个清晰通畅的路径到一个对立的溢价阵列时。
+• TheIdealDaysoftheWeekbuyingMonday,Tuesday,andWednesday.
+一周中最理想的日子是周一、周二和周三。
+• RefertotheCBDRanddetermineifitislessthan20points(ES/SP500)ideally.
+参考CBDR，并确定它是否理想地小于20点(ES/SP500)。
+• DeterminetheAsianRangebeina10-15points(ES/SP500)rangeaheadof
+FrankfurtOpen.
+确定亚洲区间在法兰克福开市前10-15点(东/SP500)范围内。
+• Buyingbetween2:00amto4:00amESTseekingLOD.
+在美国东部时间凌晨2:00到4:00之间购买，寻找LOD。
+• Buy1-2STDofCBDRandorAsianRangecoupledwithDiscountPDArray.
+购买1-2个标准的CBDR和/或亚洲产品系列，并搭配折扣PD系列。
+• Timeframetoexecuteon5or15mchart
+在5米或15米图上执行的时间范围
+FVGbelowashort-termlowfrompreviousdaysNYsessionobviouslyhastoline
+upwithotherthingsaswell,liketheCBDR,Asianrangeetc.Andtimeofday,during
+Londonopen.
+FVG低于前几天的短期低点，纽约时段显然也需要与其他因素保持一致，如CBDR，
+亚洲范围等。在伦敦开盘期间。
+IfwehaveralliedrightafterMNOanddidn’tgetanyretracementthenat2:00am
+如果我们在MNO之后立即上涨，并且在凌晨2:00没有任何回撤
+ESTwebuythefirstbullishorderblockontheretracementona15mor5mtimeframe.
+我们在15米或5米的时间框架内买入回撤的第一个看涨订单块。
+<<<PDFPAGE 631 | images=0>>>
+387
+Where do we look to buy?
+我们去哪里买？
+• UnderAsianRangeplus2-5points(ES/SP500).
+低于亚洲幅度加2-5点(东/SP500)。
+• FVGbelowaShort-termlowfromPreviousDay’sNYSession.
+FVG跌破前一天纽约时段的短期低点。
+• BullishOBbelowaShort-termloweitherPreviousDayortoday.
+看涨OB低于前一天或今天的短期低点。
+• 1STDwithanyDiscountPDArrayinLondonKillzone.
+伦敦Killzone任何折扣PD阵列的1个标准。
+• InsidetheProtractionlowerpost12:00amto2:00amESTwithPDArray.
+美国东部时间凌晨12:00至2:00，延长下部柱内，PD阵列。
+• FillingLiquidityVoidthatcompletesunderaShort-termlow.
+填补在短期低点下完成的流动性空白。
+• Ifafterrallypost12:00am–Buythe1stretraceinto5or15m+OB.
+如果在12:00点反弹后——在第一个回撤买入5或15m+OB。
+• 1-2STDinAsianRangecoupledwithDiscountPDArray.
+亚洲范围内1-2个标准，配有折扣PD阵列。
+• IfShort-termlowistakenouttwicewithnobuysidetaken–buytheTurtle
+Soup.
+如果短期低点被回吐两次，而买方没有回吐，那就买海龟汤。
+<<<PDFPAGE 632 | images=4>>>
+388
+MeasuretheLondonsessionrangetorightbeforetheNewYorkopentheextreme
+highandlow,that’simportanttoknowbeforetheNewYorksession:ifwerebearish
+then that range is going to help find the next trading day retracement up. During
+theprotractionarystate,thatmoveupisgoingtobearetracementintothatLondon
+sessionrangefromLondongoingintothebeginningofNewYork,so2amto7am.
+在纽约开盘前测量伦敦时段的范围，这是纽约时段前必须知道的:如果我们看跌，那么
+这个范围将有助于找到下一个交易日的回撤。在长期状态下，这种上升将是伦敦时段
+的回撤，从伦敦到纽约的开始，凌晨2点到7点。
+Also,measuretheNewYorksessionrangehighandlow,thatwillalsomanytimes
+givethesetupframeforthenextday’shighorlow,therewillbearetracementinside
+thatrange.
+此外，测量纽约时段的高点和低点，这也将多次为第二天的高点或低点提供设置框
+架，在该范围内将有一个回撤。
+Look for the previous day’s high and low to lookfor stop raids, generally you’re
+goingtoseethosescenariosoccurwhenthereisanendtoamostrecentmove,inother
+wordswhenwe’veseenseveraldaysgoupitsgoingtogoupintoapremiumarrayand
+it’sprobablygoingtotradeaboveanoldhighthenlookforabuystoprunthereand
+
+<<<PDFPAGE 633 | images=0>>>
+389
+thengoshortthenextday,viceversawhenthemarkethasbeentradinglowerintoa
+discountarrayandwelookforthemarkettotradedownbelowapreviousday’slow
+thenbuythesellstopsandusethatasadaytrade.
+寻找前一天的高点和低点，寻找止损点，通常你会看到这些情况发生在最近的走势结
+束时，换句话说，当我们看到连续几天上涨时，它将进入溢价阵列，它可能会交易到
+旧高点上方，然后在那里寻找止损点，然后第二天做空， 反之亦然，当市场交易跌破
+折扣时，我们期待市场交易跌破前一天的低点，然后买入止损，并将其作为日内交
+易。
+<<<PDFPAGE 634 | images=1>>>
+390
+Placing Stop Losses In Buy Daytrades?
+在买入日交易中设置止损？
+WhateveryouuseastheinitialStoploss -DoNotRushto move it.
+不管你用什么作为最初的止损点，不要急着移动它。
+I have utilized the ES (E-mini S&P 500) as an example to explain this topic.
+However,pleasenotethatwhenapplyingthesepointstoyourowntradingstrategy,
+makenecessaryadjustmentsbasedontheinstrumentsandassetsyouuseinyourtrades.
+我利用ES(E-mini 标准普尔500)作为例子来解释这个话题。但是，请注意，在将这些
+要点应用于您自己的交易策略时，请根据您在交易中使用的工具和资产进行必要的调
+整。
+If you are Trading the CBDR overlap with PDA - Stop is 15 points (ES/SP500)
+under.IfyouareTradingaRunundertheAsianRange-Stopis20(ES/SP500)points
+under.IfyouareTradingANYSellStopRaid-15points(ES/SP500)underthelow/
+entry.
+如果你交易的是CBDR和PDA的重叠，止损点在15点(东SP500)以下。如果你在亚洲范
+围内交易，止损点在20点以下(SP500)。如果你正在交易任何止损Raid - 15点
+(ES/SP500)以下的低点/进场。
+IfyouareTradingthe1stretracementinto+OB-5points(ES/SP500)underLOD.
+IfyouareTrading2ndreturnforSellStops-15points(ES/SP500)undertheLOD.
+如果你在LOD下交易第一个回撤至+OB-5点(ES/SP500)。如果你交易的是第二个回
+报，卖出止损LOD下15点(SP500)。
+IfyouareTradinganyothersetupnotdescribedabove-use50%ADRofthelast5
+dayssubtractedfromtheAsianRangeLow.
+如果你交易的是上面没有描述的其他设置，使用过去5天的50%ADR从亚洲范围低点
+减去。
+Ifyouaretrading2ndreturnforsellstops,that’swhenwehaveamovelowerand
+thenit movesloweronemoretimeandtakesoutthesellstops;yourstophastobe
+
+<<<PDFPAGE 635 | images=0>>>
+391
+belowthatwith15points.
+如果你用第二次回报交易卖出止损，那就是我们下跌的时候，然后它又下跌一次，取
+消了卖出止损；你的止损点必须低于15点。
+Againthatoneisifyoudon’tseeanymoverightawayafterMNO.Ifit’sonlybeen
+astraightdownmoveandthenitgoesdownonemoretimebelowthelow,itformed
+initiallyyourstophastobe15pointsbelowthatifyou’rebuyingthatasaturtlesoup.
+同样，如果你在MNO之后看不到任何动作。如果只是直线下跌，然后再一次跌破低点，
+那么你的止损点必须在低点以下15个点，如果你买的是海龟汤的话。
+Assumewehavea50points(ES/SP500)ADRoverthelast5days,take25points
+(ES/SP500)minustheAsianrangelow.Whateverthatpriceisthat’swhatyourstop
+losshastobe.
+假设我们在过去5天有50个点(SP500)的ADR，用25个点(SP500)减去亚洲范围的低
+点。不管价格是多少，这就是你的止损。
+Taking Profits In Buy Daytrades
+在买入日交易中获利
+Alwaystrytotakesomethingoffingainat10-15 points(ES/SP500).
+LooktoScalesomethingoffevery2STDoftheAsianRangeorCBDR.
+总是试着在10-15点的时候拿掉一些东西(SP500)。看看亚洲范围或
+CBDR的每两个标准的尺度。
+<<<PDFPAGE 636 | images=1>>>
+392
+Take something off at the Previous Day’s High +2 - 7 points (ES/SP500). Take
+somethingoffat50%ofthePriceRangeyouaretradinginside1h.Takeorhave60-
+80%offat5dayADRprojections.
+在前一天的高点+2-7点(ES/SP500)拿掉一些东西。在1小时内，以你交易价格范围的
+50%的价格止损。在5天ADR预测中获得或享有60-80%的折扣。
+IftradinghigherthanPreviousTradingWeekHigh-takesomethingoff.Iftrading
+higherthanPreviousMonthHigh-takesomethingoff.
+如果交易高于前一个交易周的高点——拿掉一些东西。如果交易高于上个月的高点——
+拿掉一些东西。
+InTimeOfDay-scaleoutat5:00amNYTimeaportion.InTimeOfDay-scale
+outatShortTermHighpriorto7:00amNYO.InTimeOfDay-scaleoutat10:00am
+to11:00amNYtimeinrally.
+在一天中的某个时间——在任何时间的早上5:00扩展一部分。一天中的时间-在NYO时
+间早上7:00之前的短期高点扩大规模。一天中的时间-在拉力赛中的任何时间上午
+10:00到11:00进行扩展。
+IdeallyanyoftheabovescenarioscoupledwithaPremiumPDArray.
+理想情况下，上述任何一种情况都可以与高级PD阵列结合使用。
+When Do We Need to Look to Short?
+我们什么时候需要看淡？
+• IdeallyinseasonallyBearishperiodsoftheyear.*Notrequired.
+
+<<<PDFPAGE 637 | images=0>>>
+393
+最理想的是在一年中季节性熊市时期。*不需要。
+• WhenthecurrentQuarterornewQuarterisexpectedBearish.
+当当前季度或新季度预期为熊市时。
+• AftertheDailycharthasreactedpositivelyonaPremiumPDArray.
+在日线图对溢价PD阵列做出积极反应之后。
+• WhenPricehasaclearunobstructedpathtoanopposingDiscountArray.
+当价格有一条通向相反折扣系列的畅通无阻的路径时。
+• TheIdealDaysoftheWeekselling Monday,Tuesday,andWednesday.
+一周中理想的销售日是周一、周二和周三。
+• RefertotheCBDRanddetermineifitislessthan20points(ES/SP500)ideally.
+参考CBDR，并确定它是否理想地小于20点(ES/SP500)。
+• DeterminetheAsianRangebeina10-15points(ES/SP500)rangeaheadof
+FrankfurtOpen.
+确定亚洲区间在法兰克福开市前10-15点(东/SP500)范围内。
+<<<PDFPAGE 638 | images=0>>>
+394
+• Shortingbetween2:00amto4:00amESTseekingHOD.
+在美国东部时间凌晨2:00到4:00做空。
+• Sell1-2STDofCBDRandorAsianRangecoupledwithPremiumPDArray.
+销售1-2个标准的CBDR和/或亚洲产品系列，搭配高级PD系列。
+• Timeframetoexecuteon5or15mchart.
+在5米或15米图上执行的时间范围。
+Where Do We Look to Short?
+我们在哪里寻找短路？
+• AboveAsianRangeplus2-5points(ES/SP500).
+高于亚洲范围加2-5点(东/SP500)。
+• FVGaboveaShort-termhighfromPreviousDay’sNYSession.
+FVG高于前一天纽约时段的短期高点。
+• BearishOBaboveaShort-termhigheitherPreviousDayortoday.
+在前一天或今天的短期高点以上看跌。
+• 1STDwithanyPremiumPDArrayinLondonKillzone.
+伦敦Killzone中任何高级PD阵列的1个标准。
+• InsidetheProtractionhigherpost12:00amto2:00amESTwithPDArray.
+美国东部时间上午12:00至2:00，在延长的更高的柱子内，带有PD阵列。
+• FillingLiquidityVoidthatcompletesaboveaShort-termhigh.
+填补短期高点以上的流动性空白。
+• Ifafterdroppost12:00am–Buythe1stretraceinto5or15m-OB.
+如果在12:00后下跌，买入5或15米的第一个回撤线。
+• 1-2STDinAsianRangecoupledwithPremiumPDArray.
+亚洲范围内的1-2标准配置，配有高级PD阵列。
+• IfShort-termhighistakenouttwicewithnodownside–sellTurtleSoup.
+如果短期高点被剔除两次而没有下跌，卖出海龟汤。
+<<<PDFPAGE 639 | images=2>>>
+395
+
+<<<PDFPAGE 640 | images=0>>>
+396
+Placing Stop Losses In Short Daytrades
+在短线交易中设置止损
+WhateveryouuseastheinitialStopLoss -DoNotRushmovingit.
+不管你用什么作为最初的止损点，不要急着移动它。
+If you are Trading the CBDR overlap with PDA - Stop is 15 points (ES/SP500)
+above.Ifyouare TradingaRunabovetheAsian Range -Stopis20points(SP500)
+above.IfyouareTradingANYBuyStopRaid-15points(ES/SP500)abovethehigh/
+entry.
+如果你交易的是CBDR和PDA的重叠，止损点在15个点以上。如果你在亚洲范围内交
+易，止损点在20点(SP500)以上。如果你正在交易任何止损Raid-15点(ES/SP500)以
+上的高点/进场。
+IfyouareTradingthe1stretracementinto-OB-5points(ES/SP500)aboveHOD.
+IfyouareTradingsecondreturnforBuyStops-15points(ES/SP500)abovetheHOD.
+如果你把第一个回撤点交易到HOD上方的-OB-5点(ES/SP500)。如果你用第二次回
+报去买止损点——比HOD高15点(SP500)。
+IfyouareTradinganyothersetupnotdescribedabove-use50%ADRofthelast5
+daysaddedtotheAsianRangeHigh.
+如果你交易的是上面没有提到的其他设置，使用过去5天50%的ADR加到亚洲范围高
+点。
+Taking Profits In Short Daytrades
+在短线交易中获利
+Alwaystrytotakesomethingoffingainat10-15 points(ES/SP500).
+LooktoScalesomethingoffevery2STDoftheAsianRangeorCBDR.
+总是试着在10-15点的时候拿掉一些东西(SP500)。看看亚洲范围或
+CBDR的每两个标准的尺度。
+Take something off at the Previous Day’s Low - 2 - 7 points (ES/SP500). Take
+somethingoffat50%ofthePriceRangeyouaretradinginside1h.Takeorhave60-
+80%offat5dayADRprojections...Always.
+在前一天的低点-2-7点(SP500)脱一些东西。在1小时内，以你交易价格范围的50%
+的价格止损。在5天ADR预测中获得或享受60-80%的折扣...一直都是。
+IftradinglowerthanPreviousTradingWeekLow-takesomethingoff.Iftrading
+如果交易低于前一个交易周的低点-拿掉一些东西。如果交易
+lowerthanPreviousMonthLow-takesomething.
+比上个月低-拿点东西。
+<<<PDFPAGE 641 | images=1>>>
+397
+InTimeOfDay-scaleoutat5:00amNYTimeaportion.InTimeOfDay-scaleout
+atShortTermLowpriorto7:00amNYO.InTimeOfDay-scaleoutat10:00amto
+11:00amNYtimeindecline.
+在一天中的某个时间——在任何时间的早上5:00扩展一部分。在一天中的时间-在NYO
+时间早上7:00之前的短期低点扩大规模。一天中的时间-在上午10:00到上午11:00的任
+何时间进行扩展。
+
+<<<PDFPAGE 642 | images=1>>>
+398
+NYOcouldbeareversal,oraretracementintotheCMEopening,sowewanttosee
+NYO可能是一个反转，或者是CME开盘的一个回撤，所以我们想看看
+profittakingaheadof7:00amEST.
+美国东部时间上午7:00之前获利回吐。
+***Don’ttrytopicktopsandbottoms.
+***不要试图选择顶部和底部。
+The1st questionis,what is thecurrent market narrative? What isit likelygoing
+todonow?Isitgoingupforstopsorlowerforstops? Isitgoinghigher orlowerto
+rebalance?
+第一个问题是，当前的市场叙事是什么？现在它可能会做什么？它是向上停还是向下
+停？再平衡是走高还是走低？
+Aswehavealreadydiscussed,everytimepricerebalancesaFVGthatswingthat
+didthatisanITH/ITL.Typically,anITLwillhaveahigherSTLtotheleftandright.
+Between2STHwillbeanITH.UsemarketstructurewithinaHTFpremise.
+正如我们已经讨论过的，每次价格重新平衡FVG时，这样做的波动就是ITH/ITL。通
+常情况下，ITL在左侧和右侧会有较高的STL。在两个某物之间将是一个ITH。在HTF
+前提下使用市场结构。
+YoucangohuntingforFVGsintheITHlegwhiletheSTHisinthemakingtothe
+rightoftheITHandundertheITH.MarkeverythingontheTFyou’retradingon,don’t
+gotoolowthat’sanoverkillDailyFVG->1hstructure->15mentriesforexample.
+当某物正在ITH的右边和ITH下面形成的时候，你可以去ITH段寻找fvg。在你交易的
+TF上标记所有东西，不要太低，那是过度的每日FVG->1h结构->1500万条目。
+LTH and LTL is generally going to be linked to a daily chart. The daily chart is
+whatinstitutionsandbanksworkoffof.Dailyisthemostimportant,biasisfoundoff
+dailylimityourforecasttoa5daytimehorizon.Abreakabove/belowanITH/ITLis
+asignificantbreakinmarketstructure.DrawFIBfromLTLtoITHwhenbearish,-1.5
+isastandarddeviation.Causethat’swheretheswingstarts.
+LTH和LTL通常与日线图联系在一起。日线图是机构和银行工作的依据。每日是最重
+<<<PDFPAGE 643 | images=0>>>
+399
+要的，偏差是每日限制你的预测到5天的时间范围。高于/低于ITH/ITL是市场结构的
+重大突破。看跌的时候从零担到ITH拉FIB，-1.5是标准差。因为那是摇摆开始的地
+方。
+<<<PDFPAGE 644 | images=1>>>
+400
+IftheITH isnothigherthan2 STHthatmeans themarket isweak/bearishvice
+versaforbullish.
+如果ITH不高于2，这意味着市场疲软/看跌，反之则看涨。
+In bearish conditions, all up close candles should be respected vice versa when
+bullish.Ifthatdoesn’thappen,it’sonlyallowedifthere’saSTHaboveit,thenit’slikely
+aliquiditygrab.
+在熊市条件下，所有的蜡烛线都应该被尊重，反之亦然。如果这种情况没有发生，只
+有在上面有某种东西时才允许，那么这很可能是一场流动性危机。
+Thehigh/lowthatrebalancesaFVGshouldnotgettakenout,otherwiseyoumight
+havethewrongbias.
+重新平衡FVG的高点/低点不应该被去掉，否则你可能会有错误的偏见。
+TheITH/ITLshouldn’tbeviolated,it’sakeyhigh/lowiftheITH/ITLgetsbroken
+waitonthesidelinesandobserver.Ifyouthinkpricecangoeitherwayandhaveno
+clear bias then that’s low probability, if you can see it clearly go in 1 direction then
+that’shighprobability.
+ITH/ITL不应该被违反，这是一个关键的高/低，如果ITH/ITL被打破，等待在场边和
+观察员。如果你认为价格可以往任何一个方向走，没有明显的偏差，那么这是低概率，
+如果你能清楚地看到它往一个方向走，那么这是高概率。
+<<<PDFPAGE 645 | images=1>>>
+401
+
+<<<PDFPAGE 646 | images=1>>>
+402
+High Probability Scalps
+高概率头皮
+Focus:
+重点:
+• Learn directionalbiasforHTFinstitutionalsponsorship.
+了解HTF机构赞助的方向偏差。
+• Determinehighestprobabletimesoftheday.
+确定一天中最有可能的时间。
+• Framinghighprobabilitysetupsforrunsonliquidity.
+构建流动性挤兑的高概率模型。
+• 5–10points(ES/SP500)swings.
+5-10点(SP500)的波动。
+• Therewillbetimesscalpingsetupswilloverlapwithlongertermconditions.
+有时，刷单设置会和长期条件重叠。
+• Runningoutpreviousday’shighs/lows:
+用尽前一天的高点/低点:
+• Targetingbuystopsabovepreviousday’shighor1/2daysago:Always
+goingtobelookingprevious3daysasyourrange(countingcurrentday
+asday1).
+目标止损高于前一天的高点或1/2天前:总是将前3天视为你的范围(将当
+天算作第1天)。
+• Reason for 3 days is because every swing high / low consists of 3
+individualbars.
+3天的原因是因为每一个高/低波动都由3根独立的棒线组成。
+1hCHART:
+1h图表:
+1. Highlightedindividualdailyhighs+lows.
+突出显示个人每日高点+低点。
+2. UseDailyTFtodeterminebias.
+使用每日TF来确定偏差。
+3. UseH1TFtolookfordrawsonliquidity.
+使用H1TF寻找流动性。
+
+<<<PDFPAGE 647 | images=0>>>
+403
+If we are bullish - seek to run previous day(s) highs / old high (vice versa
+forbearishness):
+如果我们看涨-寻求运行前一天的高点/旧高点(反之为看跌):
+1. Knownasdrawnonliquidity(DOL).
+被称为提取流动性(DOL)。
+2. Goingtobeintheformofbuysideliquidityorbuystops.
+会以买方流动性或买入止损的形式出现。
+3. Marketwillbedrawntothatlevelanddipintoliquiditypool.
+市场将被吸引到这一水平，并进入流动性池。
+Anyofthe3candlesforswingpointscanbeupordownclose.Formationismost
+important-only3candlesneededtoformthispattern:
+摆动点的三根蜡烛中的任何一根都可以上下靠近。队形是最重要的——只需要3支蜡烛就能
+形成这个图案:
+• Dailyswinglowshouldhavethemiddlecandlebeingthelowestlowandhigher
+lowstotheleftandright.
+日线波动低点应该是中间的蜡烛线是最低的低点，左边和右边是更高的低点。
+• Daily swing high should have the middle candle being the highest high and
+lowerhighstotheleftandright.
+日线波动高点应该是中间的蜡烛线是最高的高点，左边和右边是较低的高点。
+Bullishscenario:
+看涨情景:
+Onlyinterestedinlookingforadailyswinglowafteradailyswinghighhasbeen
+broken:
+只对在日线波动高点被打破后寻找日线波动低点感兴趣:
+1. Oncethehighesthighofthedailyswinghighistradedthrough-thisindicates
+bullishmomentum.
+一旦日波动高点的最高价被交易通过，这表明看涨的势头。
+2. Waitforaswinglowtoformtoshowoversoldconditions.
+等待低点形成，显示超卖状态。
+3. Afteraswinglowforms,wewaitforthelastswingcandleofthe3tobeviolated
+totheupside->Weplaythepullbackandtargetpreviousday(s)highs.
+在摆动低点形成后，我们等待3根摆动蜡烛线中的最后一根向上突破->我们回
+调并瞄准前一天的高点。
+<<<PDFPAGE 648 | images=0>>>
+404
+Bearishscenario:
+看跌情景:
+Onlyinterestedinlookingforadailyswinghighafteradailyswinglowhasbeen
+broken:
+只对在日线波动低点被打破后寻找日线波动高点感兴趣:
+1. Oncethelowestlowofthedailyswinglowistradedthrough-thisindicates
+bearishmomentum.
+一旦日波动低点的最低点被交易通过，这表明熊市的势头。
+2. Waitforaswinghightoformtoshowoverboughtconditions.
+等待高点形成，显示超买状态。
+3. Afteraswinghighforms,wewaitforthelastswingcandleofthe3tobeviolated
+tothedownside->Weplaythepullbackandtargetpreviousday(s)lows.
+在一个摆动高点形成后，我们等待3根摆动蜡烛线被向下突破->我们玩回调，
+目标是前一天的低点。
+<<<PDFPAGE 649 | images=2>>>
+405
+SwingLow
+低摆
+
+<<<PDFPAGE 650 | images=1>>>
+406
+SwingHigh
+荡得高
+Implementing daily bias
+实施每日偏差
+*Referringtodailychart
+Bullishscenario:
+*参考日线图看涨场景:
+• Waitforaswinghighonthedailytobebroken=Bullishstage:
+等待日线高点被打破=看涨阶段:
+• Swinghigh=Candlewithlowerhighstobothsides.
+高摆=两边高点较低的蜡烛。
+• Weanticipatebuyingopportunitiesinthefuture.
+我们预计未来会有购买机会。
+• Whenpriceretraces,lookforaswinglowtoformbutdoesnotbreakarecent
+swinglow:
+当价格回撤时，寻找一个形成的摆动低点，但不要突破最近的摆动低点:
+
+<<<PDFPAGE 651 | images=0>>>
+407
+• Swinglow=Candlewithhigherlowstobothsides.
+Swinglow=Candlewithhigherlowstobothsides.
+Whenswinglowforms-anticipatethe3rddailycandlehigh(lastcandleofthe
+swinglowformation)to beraidedortradedthroughthefollowingday:
+当摆动低点形成时——预计第三个日线图高点(摆动低点形成的最后一根蜡烛线)将在第
+二天被突袭或交易:
+• Thecandlethatopensafterthisshouldpreferablyopenbelowthe3rdcandle’s
+high.
+在此之后打开的蜡烛最好在第三根蜡烛的高点以下打开。
+• Lookforpreviousdayhighstoberaidedeachdayuntilaswinghighonthe
+dailyformsorpricereachesakeyS&Rlevel.
+每天寻找前一天的高点，直到日线图或价格的波动高点达到关键的S&R水平。
+<<<PDFPAGE 652 | images=1>>>
+408
+[CircleisswinglowBluelineis3rddailycandleexpectedtoberaidedortradedthrough].
+[圆圈正在摆动，蓝线是第三根日线，预计将被突袭或交易]。
+Bearishscenario
+熊市情景
+• Waitforaswinglowonthedailytobebroken=Bearishstage:
+等待日线低点被打破=熊市阶段:
+• Swinglow=Candlewithhigherlowstobothsides.
+Swinglow=Candlewithhigherlowstobothsides.
+• Weanticipatesellingopportunitiesinthefuture.
+我们预计未来会有销售机会。
+• Whenpriceretraces,lookforaswinghightoformbutdoesnotbreakarecent
+swinghigh:
+当价格回撤时，寻找一个形成的波动高点，但不要突破最近的波动高点:
+• Swinghigh=Candlewithlowerhighstobothsides.
+高摆=两边高点较低的蜡烛。
+Whenswinghighforms-anticipatethe3rddailycandle’s(lastcandleoftheswing
+highformation)lowtoberaidedortradedthroughthefollowingday:
+当摆动高点形成时-预测第三根日线(摆动高点形成的最后一根蜡烛线)的低点，以便在第
+二天进行交易:
+<<<PDFPAGE 653 | images=0>>>
+409
+• Thecandlethatopensafterthisshouldpreferablyopenabovethe3rdcandle’s
+low.
+在此之后打开的蜡烛应该最好在第三根蜡烛的低点以上打开。
+• Lookforpreviousdaylowstoberaidedeachdayuntilaswinglowonthedaily
+formsorpricereachesakeyS&Rlevel.
+每天寻找前一天的低点，直到日线图或价格达到关键的S&R水平。
+<<<PDFPAGE 654 | images=2>>>
+410
+Whendailybiasisbullish:3componentsthatmakeupgenericpriceaction:
+当日线偏向看涨时:构成一般价格行为的3个要素:
+• Accumulationphase-longsorshortsaccumulated.
+累积阶段-累积多头或空头。
+• Manipulation phase - price goes opposite direction to what intended future
+directionwillbe.
+操纵阶段——价格与预期的未来方向相反。
+• Rangeexpansion/Distribution.
+范围扩大/分布。
+
+<<<PDFPAGE 655 | images=0>>>
+411
+Guide:
+指南:
+1. ConfirmLondonsessionwasbullish:
+确认伦敦市场看涨:
+• Measureofbullishnessafteranattempttogolowerwasrejectedandprice
+hasseenarally+Dailybiasbullish.
+在试图走低被拒绝后，看涨的衡量标准，价格出现反弹+日偏差看涨。
+2. Waitfor7amNYtimetostalkforlongs.
+等待纽约时间早上7点，等待时间。
+3. Between7am–9amNYtime,setupwilltypicallyform.
+在纽约时间上午7点到9点之间，通常会进行设置。
+4. After7amNYtime,waitforpriceretracementlower.
+纽约时间上午7点后，等待价格回撤走低。
+5. NYsessionwilltypicallyretracefromaswinghighintradaythatwasformedfor
+dailyhighorashorttermhighduringLondonsession.
+纽约时段通常会从伦敦时段形成的日内高点或短期高点回撤。
+6. Ideallyselectretracementsofatleast7-10points(ES/SP500)lower.
+理想情况下，选择至少低7-10点(SP500)的回撤。
+7. If no retracement of 7-10 points (ES/SP500) forms by 9AM - don’t take
+anything.
+如果上午9点没有7-10点的回撤(SP500),不要做任何交易。
+8. Ifitdoesform-enteron62%fibasitdrops.
+如果它确实形成-在62%纤维下降时进入。
+9. Expectpricetoretesthighofdayorpreviousday’shigh->Lookfortargets1&
+预计价格会再次测试当天的高点或前一天的高点->寻找目标1&
+2onthefib.
+2在光纤上。
+<<<PDFPAGE 656 | images=3>>>
+412
+[ES–5m]
+[ES–5m]
+<<<PDFPAGE 657 | images=1>>>
+413
+Whendailybiasisbearish:3componentsthatmakeupgenericpriceaction:
+当日偏差看跌时:构成一般价格行为的3个因素:
+• Accumulationphase-longsorshortsaccumulated.
+累积阶段-累积多头或空头。
+• Manipulation phase - price goes opposite direction to what intended future
+directionwillbe.
+操纵阶段——价格与预期的未来方向相反。
+• Rangeexpansion/Distribution.
+范围扩大/分布。
+Guide:
+指南:
+1. ConfirmLondonsessionwasbearish:
+确认伦敦时段看跌:
+• Want to see price move above opening price at midnight NY time then
+rejectsandgolower->ShouldanticipateideaofNYsessioncontinuingin
+bearishconditions.
+希望看到纽约时间午夜价格高于开盘价，然后拒绝并走低->应该预见到纽
+约时段继续处于熊市状态的想法。
+2. Waitfor7amNYtimetostalkforshorts.
+等到纽约时间早上7点，去找短裤。
+3. Between7am-9amNYtime,setupwilltypicallyform.
+在纽约时间上午7点到9点之间，通常会形成设置。
+4. After7amNYtime,waitforpriceretracement.
+
+<<<PDFPAGE 658 | images=0>>>
+414
+纽约时间早上7点后，等待价格回撤。
+5. NYsessionwilltypicallyretracefromaswinglowintradaythatwasformedfor
+dailyloworashort-termlowduringLondonsession.
+纽约时段通常会从伦敦时段形成的日内低点或短期低点回撤。
+6. Ideallyselectretracementsofatleast7-10points(ES/SP500)higher.
+理想情况下，选择至少高出7-10个点(ES/SP500)的回撤。
+7. Ifnoretracementof7-10points(ES/SP500)formby9AM-don’ttakeanything.
+如果上午9点前没有7-10点的回撤(SP500),不要做任何交易。
+8. Ifitdoesform-enteron62%fibasitrallies.
+如果它确实形成，在反弹时以62%的纤维进场。
+9. Expect price to retest current low of day or previous day’s low -> Look for
+预计价格将再次测试当天的当前低点或前一天的低点->寻找
+targets1&2onthefib.
+光纤上的1号和2号目标。
+<<<PDFPAGE 659 | images=4>>>
+415
+When to Expect Reversals
+何时会出现逆转
+• WhenH1charttradestoanobviousoldhighoroldlowthathasshownaclear
+willingnesstoreversepricebefore-thiswilllikelyrepeat.
+当H1图表交易到一个明显的旧高点或旧低点时，表明以前有反转价格的明确意
+愿，这可能会重复。
+• Sometimes price will not respect an old high or low and those generic S&R
+levelswillgivewayandweneverknowforsure.
+有时候，价格不会尊重旧的高或低，这些通用的S&R水平将让路，我们永远不
+知道确切的。
+• Farbettertoexpectthemtocauseareactionthannotto->Plentyofmovesand
+priceswingsbetweenthesekeyHTFpricepointstoneverhavetoworryabout
+them.
+期待它们引起反应要比不引起反应好得多->在这些关键的HTF价格点之间有大
+量的移动和价格波动，永远不必担心它们。

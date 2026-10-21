@@ -1,0 +1,28 @@
+390
+Placing Stop Losses In Buy Daytrades?
+在买入日交易中设置止损？
+Whatever you use as the initial Stop loss - Do Not Rush to move it.
+不管你用什么作为最初的止损点，不要急着移动它。
+I have utilized the ES (E-mini S&P 500) as an example to explain this topic.
+However, please note that when applying these points to your own trading strategy,
+make necessary adjustments based on the instruments and assets you use in yourtrades.
+我利用ES (E-mini 标准普尔500)作为例子来解释这个话题。但是，请注意，在将这些
+要点应用于您自己的交易策略时，请根据您在交易中使用的工具和资产进行必要的调
+整。
+If you are Trading the CBDR overlap with PDA - Stop is 15 points (ES/SP500)
+under. If you are Trading a Run under the Asian Range - Stop is 20 (ES/SP500) points
+under. If you are Trading ANY Sell Stop Raid - 15 points (ES/SP500) under the low/
+entry.
+如果你交易的是CBDR和PDA的重叠，止损点在15点(东SP500)以下。如果你在亚洲范
+围内交易，止损点在20点以下(SP500)。如果你正在交易任何止损Raid - 15点
+(ES/SP500)以下的低点/进场。
+If you are Trading the 1st retracement into +OB - 5 points (ES/SP500) under LOD.
+If you are Trading 2nd return for Sell Stops - 15 points (ES/SP500) under the LOD .
+如果你在LOD下交易第一个回撤至+OB - 5点(ES/SP500)。如果你交易的是第二个回
+报，卖出止损LOD下15点(SP500)。
+If you are Trading any other setup not described above - use 50% ADR of the last 5
+days subtracted from the Asian Range Low.
+如果你交易的是上面没有描述的其他设置，使用过去5天的50% ADR从亚洲范围低点
+减去。
+If you are trading 2nd return for sell stops, that’s when we have a move lower and
+then it moves lower one more time and takes out the sell stops; your stop has to be

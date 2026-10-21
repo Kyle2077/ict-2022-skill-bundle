@@ -1,0 +1,6 @@
+453
+An aggressive stop immediately below the breaker block. We will get an excellent
+risk-to-reward ratio. But such a stop will very often taking out. A conservative stop
+rarely attracts price, it is safer, but the risk / reward ratio with this order placement
+is less attractive compared to an aggressive one. Placing a conservative stop at short-
+term low.

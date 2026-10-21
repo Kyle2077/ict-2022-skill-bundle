@@ -1,0 +1,23 @@
+378
+Chapter 31
+第31章
+Central Bank Dealers Range
+中央银行交易商范围
+The Central Banks Dealing Range occurs from 14:00 - 20:00 NY Time and it will
+continue into Asian session.
+中央银行的交易范围发生在纽约时间14:00 - 20:00，并将持续到亚洲市场。
+By using 1h chart, mark the high and low of 14:00 – 20:00 NY Time (mark the
+body of the candles and ignore the wicks).
+通过使用1h图表，标记纽约时间14:00–20:00的高点和低点(标记蜡烛体，忽略灯
+芯)。
+Mark the middle of the range (sellers will be below the middle of the range and
+buyers will be above it).
+标记范围的中间(卖家将低于范围的中间，买家将高于范围的中间)。
+Draw the deviations of above the range and below the range and extend horizontal
+lines at every deviation.
+画出高于范围和低于范围的偏差，并在每个偏差处延伸水平线。
+For a sell trade expect a high at 1 deviation above the flout. After high is made, the
+market will fall 2 deviations below the flout. Consider the high to form in London.
+对于卖出交易，预期高点在1以上。在高点形成后，市场将下跌2个偏差。想想在伦敦形成
+的高潮。
+For a buy trade is the opposite. Expect the flout to occur between Monday, Tuesday,

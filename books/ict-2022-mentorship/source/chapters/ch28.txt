@@ -1,0 +1,107 @@
+
+<<<PDFPAGE 537 | images=0>>>
+433
+Chapter 28
+第二十八章
+<<<PDFPAGE 538 | images=2>>>
+434
+Hours of Operation
+工作时间
+One Setup For Life
+一种生活方式
+PM Session Ranges :
+PM会话范围:
+ThePMsessionisscheduledbetween13:30and16:00EST.
+Duringthiswindow,weaimtoidentifytheHHandtheLL.
+PM会议安排在美国东部时间13:30到16:00之间。在此期间，我们
+的目标是识别HH和LL。
+WhenanalyzingPMRanges,wefocusonRTH(RegularTradingHours),excluding
+anyOvernighttradingactivity.
+在分析PM范围时，我们关注RTH(正常交易时间)，不包括任何隔夜交易活动。
+AftertheOpeningbellringsat9:30EST,wehavea30-minuteperiodknownasthe
+OpeningRange.
+在美国东部时间9:30开市铃响后，我们有30分钟的时间称为开市区间。
+
+<<<PDFPAGE 539 | images=0>>>
+435
+Ifyouhaveabullishoutlook(withaHigherTimeFrameobjectiveabovethemarket),
+andwetookouttheSSLbelowtheLowestLowofthePMsession,itisfavorable.
+如果你有一个看涨的前景(高于市场的更高的时间框架目标)，并且我们在下午时段的最
+低低点以下取出SSL，这是有利的。
+Hint:WecanconsiderthegrabofthePMSessionBSL/SSLasasignificantliquidity
+提示:我们可以将PM会话BSL/SSL的抓取视为重要的流动性
+areathatcanbeutilizedfortheSilverBulletorJudasSwingsetup.
+可用于银弹或犹大挥杆设置的区域。
+<<<PDFPAGE 540 | images=2>>>
+436
+London Session Raid :
+伦敦会议突袭:
+IfwearenotclosetothePMrangeduringthefirst30minutesaftertheOpening
+如果我们在开业后的前30分钟内没有接近PM范围
+Bell,welookfortheLondonSessionRaid.
+贝尔，我们寻找伦敦会议的突袭。
+Thisreferstotherangebetween2:00AMand5:00AM,whichcanbefoundonthe
+
+<<<PDFPAGE 541 | images=0>>>
+437
+ETH(ElectronicTradingHours)chart.
+这是指凌晨2:00到5:00之间的范围，可以在ETH(电子交易时间)图上找到。
+Sofar,thisisourroutine:Duringthefirst30minutesafterthe9:30OpeningBell,
+到目前为止，这是我们的惯例:在9:30开盘后的前30分钟，
+weassessourpositionrelativetothePMorLondonsession.Theremaybearunhigher
+我们评估我们相对于下午或伦敦时段的位置。价格可能会上涨
+<<<PDFPAGE 542 | images=2>>>
+438
+orlower,orthemarketmayconsolidate.
+或者更低，或者市场可能会整合。
+WethenwaitfortheDisplacementbetween10:00AMand11:00AM,whichsets
+thestagefortheSilverBulletsetup.
+然后，我们等待上午10:00到11:00之间的位移，这为银弹设置做好了准备。
+NY Lunch Raid :
+纽约午餐突袭:
+Thisistherangebetweennoonand13:30.
+这是中午到13:30之间的范围。
+Thelunchhourwouldusuallybeaperiodofconsolidation(unlessit’sabigtrend
+
+<<<PDFPAGE 543 | images=0>>>
+439
+day).Manytimes,thepriceactionduringthemorningsessionwouldbecompletely
+reversedduringthistime.
+午餐时间通常是盘整期(除非是大趋势日)。很多时候，早盘的价格走势会在这段时间
+内完全逆转。
+Ifitwasnotatrendingday,themorningsessionwouldcreatethelow,andprice
+wouldrallytowardsthelunchhighsand/ormorninghighs.
+如果不是趋势日，早盘会创造低点，价格会反弹到午餐高点和/或早盘高点。
+<<<PDFPAGE 544 | images=2>>>
+440
+However,ifitwasatrendingday,thepricewouldcontinuefollowingthedirection
+setbythemorningsession.Itwouldkeeprunninginto15:00and16:00,representing
+thefulldailyrange.
+然而，如果是趋势日，价格将继续遵循早盘设定的方向。它将持续运行到15:00和
+16:00，代表完整的每日范围。
+Ifthedaywasbullish,thepricewouldmoveupduringthemorningsession,then
+consolidatebetween12:00and13:00.Intheafternoon,between14:00and16:00,it
+wouldrepeatthesamemoveasinthemorning,butinalowertimeframe.
+如果当天行情看涨，价格将在早盘上涨，然后在12:00至13:00之间盘整。在下午的
+14:00到16:00之间，它会重复与上午相同的动作，但时间范围较短。
+AM Session Ranges :
+AM会话范围:
+
+<<<PDFPAGE 545 | images=0>>>
+441
+Thisistherangebetween9:30and12:00.
+这是9:30到12:00之间的范围。
+Weconsiderthisintheafternoon,sowecanalwaysrefertoitinthesametrading
+我们在下午考虑这一点，所以我们总是可以在同一个交易中参考它
+<<<PDFPAGE 546 | images=1>>>
+442
+day.Inthiscase,memightanticipatingamarketreversalprofileorsomethingtothat
+effect.
+日。在这种情况下，我可能会预期市场反转或类似的结果。
+IfweobserveanelongatedmarketwheretheNYAMSessionofthecurrenttrading
+dayischaracterizedbyconsolidation,andeventhelunchhourshowsconsolidationor
+adirectionalmovement,wecanrefertothetradingactivityoftheprevioussession,
+particularlytheelectronictrading.
+如果我们观察到一个拉长的市场，其中当前交易日的纽约上午时段以盘整为特征，甚
+至午餐时间也显示盘整或方向性运动，我们可以参考前一个交易日的交易活动，特别
+是电子交易。

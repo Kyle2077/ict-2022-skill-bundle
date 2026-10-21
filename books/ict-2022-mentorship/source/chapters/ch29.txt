@@ -1,0 +1,1031 @@
+
+<<<PDFPAGE 547 | images=3>>>
+443
+Chapter 29
+第二十九章
+Core Content – ICT Block Types
+核心内容–ICT块类型
+Breaker Block
+断路器块
+Breakerblockisso-calledanorderblock(OB)brokenbyastrongimpulsewithout
+apullbackreaction.Aprerequisitefortheformationofabreakerblockistobreakthe
+lasthighorlow,dependingonthetrend.
+断路器块是所谓的顺序块(OB),由强烈的脉冲断开，没有拉回反应。形成突破块的先
+决条件是打破最后的高点或低点，这取决于趋势。
+
+<<<PDFPAGE 548 | images=0>>>
+444
+ThepurposeofaBreakerBlockistocreateapricemovementwithmanipulation
+to gather liquidity towards important highs or lows, followed by a breakout in
+theoppositedirection.Duringthisprocess,apopulartradingsetupcalledStopHuntis
+formed. Stop Hunt involves manipulating the price to trigger buystops or sellstops
+orders.
+突破块的目的是通过操纵创造价格运动，将流动性聚集到重要的高点或低点，然后在
+相反的方向突破。在这个过程中，一个流行的叫做止损的交易系统形成了。止损追踪
+包括操纵价格以触发止损单或止损单。
+STOPHUNTisasmartmoneypracticethathappensveryoften.Imaginethis:the
+停止狩猎是一种经常发生的聪明的理财方法。想象一下这个
+<<<PDFPAGE 549 | images=0>>>
+445
+market moves straight toyourstop loss,hits it,and immediately turns in the other
+direction-youarestoppedout.Thenameofallthisistostopthehunt.
+市场直接移动到你的止损点，碰到止损点，然后立刻转向另一个方向——你被止损
+了。这一切都是为了阻止狩猎。
+Smartmoneyusesthismethodtotaketheirpositionsatthepricetheywant,inthe
+bestpossiblewayforthemselves.Bymanipulatingtheprice,theywillforceyoutogo
+inacertaindirection,andthenswallowyourpositionabruptly.Itisworthbeingalert
+iftheliquidityzoneisverylargeandpronounced.Thereisahighchancethatsmart
+moneywilltargetthisparticularzone,especiallyifitisagainstthemaintrend.
+聪明的投资者使用这种方法，以他们想要的价格，以对他们自己最好的方式建仓。通
+过操纵价格，他们会逼迫你往某个方向走，然后硬生生的吞掉你的头寸。如果流动性
+区域非常大且明显，就值得警惕。聪明的投资者很有可能会瞄准这个特殊的区域，尤
+其是如果它与主要趋势相反的话。
+TheBreakerBlockoperatesonasimilarprincipleasOB,butthereactionfromthe
+BBoccursonlyafterastrongimpulsepenetration.OncetheStopHuntmovementhas
+manipulatedliquidityandledtoatrendchange,largecapitaloftenreturnsthepriceto
+thebreakerblockzoneforretesting.Thisisdonetocloseunprofitablepositionsafter
+manipulation.
+断路器块的工作原理与OB相似，但BB的反应仅在强脉冲穿透后发生。一旦止损运动
+操纵了流动性并导致趋势改变，大资金通常会将价格返回到突破区域进行重新测试。
+这样做是为了在操纵后平仓无利可图的头寸。
+To gain a better understanding of the Breaker Block, it is crucial to analyze the
+impulsecandlesonthechartaccurately.Forexample,ifweobservethataBullishor
+BearishOBhasbeenbrokenthrough,takingliquidityfromahighorlowlevel,itmay
+indicateapotentialtrendreversal,whichisknownasaBreakerBlock.
+为了更好地理解断路器块，准确分析图上的脉冲蜡烛线是至关重要的。例如，如果我
+们观察到看涨或看跌的OB被突破，从高或低的水平获取流动性，这可能表明潜在的趋
+势反转，这就是所谓的突破块。
+BUT! Despite its name, a breaker block in trading is not necessarily a reversal
+pattern,itcansignalthecontinuationofatrend.Todeterminethetrendofthemarket,
+youneedtoconsidertheformationofhigherhighs(HH)andhigherlows(HL)fora
+bullishtrendandlowerlows(LL)andlowerhighs(LH)forabearishone.Abreakeris
+formedaftertheformationofanewHHorLLduringanimpulsebreakoutofanorder
+block.
+但是！顾名思义，交易中的突破块不一定是反转形态，它可能是趋势持续的信号。要
+确定市场的趋势，你需要考虑看涨趋势的更高高点(HH)和更高低点(HL)的形成，以
+及看跌趋势的更低低点(LL)和更低高点(LH)的形成。在订单块的脉冲突破过程中，在
+<<<PDFPAGE 550 | images=1>>>
+446
+新的HH或LL形成之后，形成了一个突破。
+Bullish and Bearish Breaker Block
+看涨和看跌突破块
+Let’sanalyzethebullishandbearishbreakerblocksseparately:
+让我们分别分析看涨和看跌的突破块:
+Before a Bullish Breakercanforminthemarket,liquidityneedstobetaken.To
+change the direction of the trend in the market, an impulsive update of the low
+isrequired,andtocontinuetheuptrend,animpulsivegrabofliquidityfromtheHL
+level is required. After the price moves in the opposite direction, an impulsive
+breakoutoftheOBshouldbeexpected.
+以前牛市破坏者可以在市场上形成，流动性需要采取。为了改变市场趋势的方向，需
+要对低点进行脉冲式更新，为了继续上升趋势，需要从HL水平脉冲式地抓住流动性。
+在价格向相反的方向移动后，OB的脉冲突破是可以预期的。
+
+<<<PDFPAGE 551 | images=2>>>
+447
+Before a Bearish Breakerentersthemarket,liquidityistakenfromtheprevious
+trendelement.Ifthetrendisdown,thenthemomentumoccursattheLHlevel,andif
+thetrendchangesfromrisingtofalling,thenthemomentumoccursattheHHlevel.
+以前看跌者进入市场，流动性取自之前的趋势元素。如果趋势是下降的，那么动量出
+现在LH级别，如果趋势从上升变为下降，那么动量出现在HH级别。
+Toconfirmabearishbreaker,youneedtowaitforachangeinthedirectionofprice
+要确认看跌突破，你需要等待价格方向的变化
+movementandanimpulsebreakoutoftheorderblock.
+订单块的移动和脉冲突破。
+Let’sthinkwhybreakerblockswork:
+让我们想一想断路器分块工作的原因:
+First,a major player knocksout stop-losses below a low totakea position.The
+buyers placed their stops there. Which need tobe picked up.That is, a large player
+opensasellpositionbeforethis,justintheplacewherewewillhaveaBreakerBlock,
+initiallyitwasOBinadownwarddirection.
+首先，一个主要的玩家在低点以下敲掉止损，建仓。买家把他们的止损点放在那里。
+需要捡起来。也就是说，一个大玩家在此之前开仓卖出，就在我们将有一个断路器块
+的地方，最初是向下的OB。
+
+<<<PDFPAGE 552 | images=0>>>
+448
+Thereisabreakdownandholdingabovethislow,therebyshowingthesituation
+thateverythingnowwehavethemarketintendstogoinadownwarddirection.Atthis
+point,amajorplayerhassuccessfullyenteredabuypositionbyremovingstops.We
+nolongerhavebuyers,nowtherearesellers.Andthepriceatthismomentgoesinthe
+oppositeupwarddirection.Sellerswillsetstoplossesbeyondasignificanthigh.The
+taskofamajorplayerisnowtotakethesestopsbeyondthehigh.
+有一个击穿，并保持在这个低点之上，从而显示出现在我们所拥有的一切，市场打算
+在一个向下的方向。这时，一个主要的玩家已经成功地通过取消止损进入了买入位置。
+我们不再有买家，现在有卖家。而此时的价格是反方向上涨的。卖方将设置止损超过
+一个明显的高点。一个主要参与者的任务是在高点之外止损。
+<<<PDFPAGE 553 | images=1>>>
+449
+Rightnow,westillhaveOBinthedownwarddirection,uponbreakdown,theprice
+impulsivelybreaksthestructure,itisimportantthatthepricedoesnottrytofightoff
+this OB, otherwise, after the breakdown, we do not consider a BB. So, there was a
+breakdown with a change in the descendingstructure to an ascending one, now we
+haveabreakerblockformedfromtheformerOB.
+现在，我们仍然有向下方向的OB，在击穿时，价格冲动地打破结构，重要的是价格不
+要试图击退这个OB，否则，击穿后，我们不考虑BB。所以，有一个下降结构到上升
+结构的变化，现在我们有一个从以前的OB形成的断路器块。
+Sonowamajorplayerhas2positions,thefirstpositionwasopenedinthebreaker
+blockforshort-itisunprofitable,thesecondpositionwasopenedforlongintheplace
+whereliquiditywastaken.
+因此，现在一个主要玩家有2个位置，第一个位置是在短期内打开的，这是无利可图
+的，第二个位置是在流动性被占用的地方打开的。
+Itisnecessarytoclosetheunprofitablesellposition,sothepricepullsbacktothe
+有必要平仓无利可图的卖出头寸，因此价格回落到
+BBzone.
+BB区。
+
+<<<PDFPAGE 554 | images=1>>>
+450
+
+<<<PDFPAGE 555 | images=2>>>
+451
+BUT!Despiteitsname,abreakerblockintradingisnotalwaysareversalpattern,
+itcan signal thecontinuationof atrend.Todetermine thetrend ofthemarket,you
+needtoconsidertheformationofhigherhighs(HH)andhigherlows(HL)forabullish
+trendandlowerlows(LL)andhighs(LH)forabearishone.Abreakerisformedafter
+theformationofanewHHorLLduringanimpulsebreakoutofanorderblock.
+但是！尽管名字如此，交易中的突破块并不总是反转形态，它可以预示趋势的延续。
+要确定市场的趋势，你需要考虑看涨趋势的更高高点(HH)和更高低点(HL)的形成，
+以及看跌趋势的更低低点(LL)和高点(LH)的形成。在订单块的脉冲突破过程中，在新
+的HH或LL形成之后，形成了一个突破。
+Abullishbreakerblockisformedonadowntrend.Aftertheupwardmomentum,
+speculatorsgolongonthebluezoneretest.
+在下降趋势中形成了看涨突破块。上涨势头过后，投机者在蓝色区域重新做多。
+Bullish Breaker–abullishrangeorup-closecandleinthemostrecentSwing
+HighpriortoanOldLowbeingviolated.Itbecomesvalidoncestopsaretakenbelow
+apreviouslowandbreaksabovetheSwingHighthatcontainsthebreakercandle.
+牛市破坏者–在突破旧低点之前，最近的波动高点中的看涨范围或上涨蜡烛线。一旦
+止损点低于前一个低点，并突破包含蜡烛线的波动高点，它就有效了。
+Toidentifybullishbreakers,tradersmustfirstidentifyafailedbearishorderblock.
+Thishappenswhenliquidityistakentothedownside,latercausingthebearishorder
+blocktofail.Onceidentified,traderscantakeadvantageofthesebullishbreakersby
+enteringthemarketandtakingadvantageofpricereversals.
+为了识别多头破发者，交易者必须首先识别失败的空头订单块。当流动性下降时，就
+会发生这种情况，随后导致看跌订单块失效。一旦确认，交易者可以通过进入市场和
+利用价格反转来利用这些看涨突破。
+Key Elements–Low–High–LowerLow–HigherHigh.
+关键要素–低–高–低–高。
+
+<<<PDFPAGE 556 | images=0>>>
+452
+Thediagramaboveillustratesabullishbreaker,whichoccurswhenabearishorder
+blockfailstoactasaresistancelevelandliquidityistakentothedownside.Thisresults
+inamarketstructurebreak,whichconfirmsthebullishbreaker,allowingpriceaction
+traderstoanticipatethetrendtocontinueinthenewdirection.
+上图显示了看涨突破，当看跌订单块未能成为阻力位，流动性下降时，就会出现这种
+情况。这导致了市场结构的突破，这确认了多头的突破，让价格交易者预测趋势将继
+续向新的方向发展。
+Payclose attentiontothe“Higher High”as itholds great importance. Whenthe
+price closes above this level, it suggests a strong desire for the price to keep rising.
+Similarly,takenoteofthe“LowerLow”becauseitactsasastoprunandimpliesthat
+thepriceislikelytomovehigher.
+密切关注“更高的高点”，因为它非常重要。当价格收盘高于这一水平时，它表明价格
+继续上涨的强烈愿望。同样，注意“低低”，因为它作为止损运行，并暗示价格可能会
+走高。
+<<<PDFPAGE 557 | images=5>>>
+453
+Anaggressivestopimmediatelybelowthebreakerblock.Wewillgetanexcellent
+risk-to-reward ratio. But such a stop will very often taking out. A conservative stop
+rarelyattractsprice,itissafer,buttherisk/rewardratiowiththisorderplacement
+islessattractivecomparedtoanaggressiveone.Placingaconservativestopatshort-
+termlow.
+
+<<<PDFPAGE 558 | images=0>>>
+454
+在制动块正下方积极停止。我们将获得极佳的风险回报比。但是这种停止通常会导
+致。保守的止损很少吸引价格，它更安全，但与激进的止损相比，这种下单的风险/回
+报比没有那么有吸引力。在短期低点保守止损。
+<<<PDFPAGE 559 | images=4>>>
+455
+Bearish Breaker–abearishrangeordown-closecandleinthemostrecentswing
+LowpriortoanOldHighbeingviolated.Itbecomesvalidoncestopsaretakenabove
+aprevioushighandbreaksbelowtheswinglowthatcontainsthebreakercandle.
+看跌者–在旧高点被突破之前，最近的低点出现熊市或下跌趋势。一旦止损点位于前一
+个高点之上，并且跌破包含蜡烛线的摆动低点，它就有效了。
+Toidentifybearishbreakers,tradersmustfirstidentifyafailedbullishorderblock.
+This happens when liquidity is taken to the upside, later causing the bullish order
+blocktofail.Onceidentified,traderscantakeadvantageofthesebearishbreakersby
+enteringthemarketandtakingadvantageofpricereversals.Belowisanexampleofa
+BearishBreaker.
+为了识别看跌者，交易者必须首先识别失败的看涨订单块。这种情况发生在流动性上
+升时，随后导致看涨订单块失效。一旦确定，交易者可以通过进入市场和利用价格反
+转来利用这些看跌突破。下面是一个看跌突破者的例子。
+Key Elements–High–Low–HigherHigh–LowerLow.
+关键要素–高–低–更高的高–更低的低。
+“Higher High” acts as a stop run, indicating that the price is likely to go lower.
+Similarly,the“LowerLow”playsasignificantrole.Whenthepriceclosesbelowthis
+level,itsignifiesastrongindicationthatthepriceintendstocontinueitsdownward
+movement.
+“更高的高”作为止损运行，表明价格可能会走低。同样，“低低”也起着重要的作用。
+当价格收盘低于这一水平，它标志着一个强烈的迹象，价格打算继续下跌。
+
+<<<PDFPAGE 560 | images=1>>>
+456
+Wecanconsideronlybodiestofindabreakerbecausenewscandlecanhavelong
+wicksorregularcandlecanhavesmallbody(inthiscasewecanconsiderbreakeras
+entirecandle).
+我们可以只考虑身体来寻找断路器，因为新闻蜡烛可以有长灯芯或普通蜡烛可以有小
+身体(在这种情况下，我们可以考虑断路器作为整个蜡烛)。
+Advanced Theory On ICT Breaker
+ICT断路器的先进理论
+Toconfirmyourbiasoraddtoexistingpositions,itisessentialtoexplorevarious
+pointsofreference.ICTmentionstheconceptof“orderblocks”andhowtheycanbe
+usedasreferencepointsfortrading.
+为了证实你的偏见或补充现有的立场，探索各种参考点是必不可少的。ICT提到了“订
+单块”的概念以及如何将它们用作交易的参考点。
+These order blocks, also known as ICT Breakers, can be identified by observing
+thehighandlowpointsofagivenrange.Bymeasuringtherangeandanalyzingthe
+gradientswithinit,youcandeterminepotentialentryandexitpoints.
+这些订单块，也称为ICT破坏点，可以通过观察给定范围的高点和低点来识别。通过
+测量范围和分析范围内的梯度，您可以确定潜在的进入点和退出点。
+WhydidIsayorderblockisbreaker?BecauseaBreakerBlockisOBbrokenthrough
+byapowerfulimpulse,withoutbouncingfromit.Themainconditionfortheformation
+ofabreakerblockisthatthehighorlowisbrokendependingonthetrend-thatis,
+thatliquidityistaken.
+为什么我说订单块是断路器？因为断路器块被强大的冲力击穿，而不会反弹。形成突
+破块的主要条件是根据趋势打破高点或低点，也就是说，流动性被占用。
+
+<<<PDFPAGE 561 | images=1>>>
+457
+
+<<<PDFPAGE 562 | images=1>>>
+458
+Ifweexaminethediagramhere,wecanidentifyabearishbreaker.Itisimportant
+to note that this is not a break and retest setup. Instead, it provides a schematic
+understandingofhowliquidityrunsandresultsinarepricinglower.Toeffectivelyuse
+thebreaker,weneedtodeterminethecurrentliquiditylevels.
+如果我们检查这里的图表，我们可以确定一个看跌的突破者。值得注意的是，这不是
+一个中断和重新测试设置。相反，它提供了一个流动性如何运行并导致价格重新走低
+的示意图。为了有效地使用断路器，我们需要确定当前的流动性水平。
+There are twowaysto approach the breaker. Inthis case, it is a bearish breaker
+thatoffersanadditionalentrypointorreferenceforaddingnewshortpositionswhen
+weanticipateamarketdrop.
+有两种方法接近断路器。在这种情况下，当我们预计市场下跌时，它是一个看跌破位
+点，为增加新的空头头寸提供了额外的进场点或参考。
+Thisparticularsetupcapitalizesonpendingorders.Ittakesadvantageofsituations
+wherestopsarehit,followedbyamoveinourfavor,targetingretailtraderswhoseek
+trendcontinuationswithoutconsideringliquidityandmarketnarrative.Thesetraders
+oftenfindthemselvestrappedinunfavorablepositions.
+这种特殊的设置利用了未决订单。它利用止损被击中的情况，然后是对我们有利的走
+势，目标是寻求趋势延续而不考虑流动性和市场叙事的散户。这些交易者经常发现自
+己被困在不利的位置。
+Tofullyunderstandthebreaker,wemustconsidertwostagesofliquidity.
+<<<PDFPAGE 563 | images=0>>>
+459
+为了充分理解断路器，我们必须考虑流动性的两个阶段。
+The first stage involvesshort-term buy-side liquidityabove theshort-term high.
+However,thebreakerpatternseekstoreachhighertimeframebuy-sideliquidity.We
+observethe market’s behavior todetermine if it runs awayfromtheinitial liquidity
+pool.InsidethepricerangefrompointAtopointB,wefindourtarget.
+第一阶段涉及高于短期高点的短期买方流动性。然而，打破模式寻求达到更高的时间
+框架买方流动性。我们观察市场的行为，以确定它是否脱离了初始流动性池。在从A
+点到B点的价格范围内，我们找到了目标。
+Forthismodel,weutilizethepricerangefrompointAtopointB.Oncethemarket
+createsarunandstartstodecline,wecantakeabearishstance.Thismeansweare
+expectinglowerpricesandhavealreadyinitiatedshortpositions.Whenthepriceruns
+above the buy signal, it may not be our largest position. We might scale in with
+a larger portion. For example, if we were trading ES, we would start with six
+contracts
+对于这个模型，我们利用从A点到b点的价格范围。一旦市场形成运行并开始下降，我
+们可以采取看跌的立场。这意味着我们预计价格会下跌，并且已经开始做空。当价格
+运行在买入信号上方时，可能不是我们最大的仓位。我们可能会扩大规模。例如，如
+果我们交易ES，我们将从六份合约开始
+<<<PDFPAGE 564 | images=0>>>
+460
+(ICTusesmini,butweconsidermicrocontracts),addthreemore,andthenaddone
+additionalcontract,resultingina10-lotposition.
+(ICT用的是mini，但是我们考虑的是微合约)，再加三个，然后再加一个合约，结果是
+10手的位置。
+This scaling approach allows us to manage potential drawdowns if the market
+quickly reverses after reaching our initial target. Please note that this method may
+not suit everyone, but it aims to enhance understanding of the breaker pattern and
+counteractmisguidedteachingsprevalentonYouTubeandinvariouscourses.
+如果市场在达到我们的初始目标后迅速逆转，这种扩展方法允许我们管理潜在的提
+款。请注意，这种方法可能不适合每个人，但它旨在加强对断路器模式的理解，并抵
+制YouTube和各种课程中流行的误导性教学。
+AtoBpricerange:BycalculatingtheFibonaccilevelsbasedonthisrange,wecan
+determineourentrypoints.Youtakethatlegfromthehighdowntothelowandlay
+yourFibonaccionit.Takingonestandarddeviationlowerfromthisrangeistheeasiest
+andmoststraightforwardapproachtousingthebreaker.Thisapproachapplieswhen
+weareonthecorrectsideofthetradeandhaveaclearunderstandingofourobjectives
+andtheprevailingmarketconditions.
+从a到B的价格范围:通过计算基于这个范围的斐波纳契水平，我们可以确定我们的进场
+点。你把那条腿从高处拉到低处，把你的斐波纳契曲线放在上面。从这个范围中取一
+个较低的标准偏差是使用破碎机最简单和最直接的方法。当我们站在交易的正确一方，
+并且对我们的目标和主要市场条件有清晰的理解时，这种方法适用。
+Ifyou’reonthebullishsideandinabiggermarket,youdon’tneedittocomedown
+tothislevelandtradebackup.Manytimes,ICTannotatesabreakerandentersata
+lower price before it even breaks out, as he is not a breakout trader or a break and
+retesttrader.
+如果你看多，在一个更大的市场中，你不需要它跌到这个水平，然后交易回来。很多
+时候，ICT会在价格突破前就标记一个破位者，并以更低的价格进场，因为他不是突
+破交易者，也不是破位再测试交易者。
+Now,let’saddresstheconcernofgoingshorthereanditisgoingrightuporhitting
+thestoploss.Ifthathappens,itmeansthetradedidn’tworkout,andyoutakealoss.
+现在，让我们在这里解决做空的问题，它将直接上涨或触及止损。如果发生这种情况，
+意味着交易没有成功，你亏损了。
+However,youcanconsiderwhetheritstillwantstogolower.Ifitdoesandnothing
+haschanged,youcanre-enterwithhalfthepositionsizeofyourfirsttrade.It’snormal
+toexperiencelosingtrades,andyouwon’tbeabletoavoidthem.
+但是，你可以考虑它是否还想再低一点。如果是这样，没有任何变化，你可以用你第
+一笔交易的一半仓位重新进场。经历亏损交易是正常的，你无法避免它们。
+<<<PDFPAGE 565 | images=0>>>
+461
+Ifwe’rebullish,thepatternwe’reobservingcouldindicateareversalorcontinuation
+inanexistingbullmarket.Thiscanbeusedonanintradaybasisacrossdifferenttime
+frames,butit’sessentialtounderstandwhereliquidityexists.Thebestbreakersare
+thosethatengagetwolevelsofsell-sideliquidity,oneattheshort-termlowandanother
+atahighertimeframe.
+如果我们看涨，我们观察到的模式可能表明现有牛市的逆转或延续。这可以在一天内
+不同的时间框架内使用，但是理解哪里存在流动性是很重要的。最好的打破者是那些
+拥有两个级别的卖方流动性的人，一个在短期低点，另一个在更高的时间框架。
+Tomaximizetheeffectivenessofthisapproach,youcancombineitwithahigher
+time frame buy model and compare the standard deviations between points A and
+B with the larger liquidity pool. By understanding the overall market direction and
+utilizingthesepatterns,youcanenhanceyourtradingstrategy.
+为了最大限度地提高这种方法的有效性，您可以将它与更高时间框架的买入模型结合
+起来，并将A点和B点之间的标准差与更大的流动性池进行比较。通过了解整体市场方
+向并利用这些模式，你可以提高你的交易策略。
+<<<PDFPAGE 566 | images=2>>>
+462
+
+<<<PDFPAGE 567 | images=2>>>
+463
+BreakerBlockProjection:WemeasureA-BlegNOTmanipulationleg.Measuring
+ABwecangeteasiestbreadandbutterapproach.Wewanttouse1STDasourtarget.
+断路器块投影:我们测量A-B腿而不是操纵腿。测量AB我们可以得到最简单的面包和黄
+油方法。我们希望使用1STD作为我们的目标。
+To determine entry points, we can use standard deviations based on the A to B
+price leg. Using Fibonacci tools, we can identify areas of interest. For example,
+in theexamplebelow,theonestandarddeviation belowgivesusameasuredmoveof
+4496.50.Thispresentsaneasybreadandbuttersetupforentry.Additionally,wecan
+focus on the up-close candles within this price leg to further refine our buying
+
+<<<PDFPAGE 568 | images=0>>>
+464
+strategy.
+为了确定进场点，我们可以使用基于A到B价格段的标准差。使用斐波那契工具，我们
+可以确定感兴趣的领域。例如，在下面的例子中，下面的一个标准差给出了4496.50
+的测量移动。这是一个简单的入门课程。此外，我们可以关注该价位的近距离蜡烛，
+以进一步完善我们的购买策略。
+ThisapproachiscommonlyseeninICTrecordingswhenhebelievesthattheprice
+willrisebutalsomayexperiencealargerretracement.
+这种方法在ICT记录中很常见，他认为价格会上涨，但也可能经历更大的回撤。
+<<<PDFPAGE 569 | images=2>>>
+465
+We aim for a level 1 standard deviation higher/lower than A to B. Additional
+standarddeviations(2,3,4,etc.)canbeusedifHTFliquiditysupportsit.
+我们的目标是1级标准偏差高于/低于A到b。其他标准偏差(2、3、4等。)可以使用，
+如果HTF流动性支持的话。
+Order Block
+订单块
+
+<<<PDFPAGE 570 | images=0>>>
+466
+AnOrderBlockisacandlestickthatinitiatedamoveduetothemanipulationofthe
+marketmaker.Upmoveordownmovebeganwithit,andthereforealargenumberof
+limitordersofmarketmakersareconcentratedaroundtheOB.
+订单块是由于做市商的操纵而引发移动的烛台。上涨或下跌都是从它开始的，因此做
+市商的大量限价单都集中在OB附近。
+<<<PDFPAGE 571 | images=1>>>
+467
+Thelogicofanorderblockisthatamajorplayermovesthepriceupordownin
+searchofliquidity,actuallyblockingtheirpositionsintheOBareaandmakingthem
+unprofitable.Tocloseatradeinthezoneofinterest,theyneedthepricetoreturnto
+theorderblock,afterwhichitwillcontinuetomoveintheoppositedirection.
+订单阻塞的逻辑是，一个主要参与者为了寻找流动性而抬高或压低价格，实际上阻塞
+了他们在OB区的头寸，使他们无利可图。要在感兴趣的区域结束交易，他们需要价格
+回到订单块，之后价格将继续向相反的方向移动。
+Therearetwotypesoforderblocks:
+订单块有两种类型:
+1. Bullishorderblock:Thisblockisdeterminedbymovedown,followedbyprice
+goingup.
+看涨订单块:该块由向下移动决定，随后价格上升。
+2. Bearishorderblock:Thisblockisdeterminedbymoveupandthenpricegoes
+down.
+看跌订单阻滞:该阻滞由价格上涨和下跌决定。
+Fortraders,orderblocksarenecessaryforplacinglimitordersforentryandsetting
+stoplosses.Itincreasesthewinrate,asithelpstocomplywithriskmanagement,as
+wellastoopenapositionmoreaccurately.Thecorrectnessoftheinputdependson
+thecorrectnessoftheblockdrawing.
+对于交易者来说，订单块是设置限价单和止损所必需的。它提高了胜率，因为它有助
+
+<<<PDFPAGE 572 | images=0>>>
+468
+于遵守风险管理，以及更准确地开立头寸。输入的正确性取决于框图的正确性。
+Why Order Blocks Work?
+为什么顺序块有效？
+OrderBlocksworkbutonlyifyouknowhowtocorrectlyidentifyliquidityinthe
+market. On their own,the order blocks have no practical application, since most of
+themimmediatelybreakwhenactivated(pricecamebacktothatOB).Itisimportant
+tobeabletoinitiallydeterminethedirectionofthemarket,andonlythenlookforan
+entrypoint.
+只有当你知道如何正确识别市场中的流动性时，订单块才会起作用。就其本身而言，
+订单块没有实际应用，因为它们中的大多数在被激活时会立即中断(价格回到OB)。重
+要的是能够初步确定市场的方向，然后才寻找进场点。
+<<<PDFPAGE 573 | images=3>>>
+469
+WhydoesthepricebounceoffOB?OBistheaveragepriceofabigplayer,ifthe
+pricegoesdownbelowthebullishOBorgoesupabovethebearishOB,thenthebig
+playerwillbeataloss.
+OB为什么价格反弹？OB是大玩家的均价，如果价格跌破看涨OB或涨破看跌OB，那
+么大玩家就亏本了。
+OrderBlocksarebasedonthelackofmarketliquidityatthemomentwhensmart
+capitalneedstoopenaposition.Asaresult,themarketmakeropenspositionsinboth
+directions, creating artificial counter liquidity in order to fill the required position
+volumeanddeliverthepriceinthedirectionitneeds.
+
+<<<PDFPAGE 574 | images=0>>>
+470
+订单块是基于在smartcapital需要开仓的时刻市场流动性不足。因此，做市商在两个
+方向上开仓，创造人为的柜台流动性，以填补所需的头寸量，并在需要的方向上传递
+价格。
+<<<PDFPAGE 575 | images=1>>>
+471
+MITIGATIONOFTHEORDERBLOCK
+订单冻结的缓解
+Anorderblock canbeusedbytraders asatoolforopeningaposition,sincethe
+logicofformingsuchamodelincludestheneedtomitigateopenpositions.
+交易者可以使用订单块作为开仓的工具，因为形成这种模型的逻辑包括减轻开仓头寸
+的需要。
+Mitigation-theprocessofclosingunprofitablepositionswithsmartcapital.
+缓解——用聪明的资本平仓无利可图的头寸的过程。
+Since the formation of an order block implies the opening of positions in both
+directions and the subsequent delivery of the price in a specific direction, smart
+moneyisfacedwiththefactthattheystillhaveopenpositionsthatwereusedtofillthe
+mainvolume.Accordingly,aftertheprice has beendelivered and themainposition
+hasbeendistributed,themarketwillmostlikelytrytotesttheorderblock,sincethe
+market maker is interested in closing its unprofitable positions at breakeven - the
+priceswheretheywereopened.
+由于订单块的形成意味着在两个方向上开仓，以及随后在特定方向上的价格交割，聪
+明的资金面临着这样一个事实，即他们仍然有用于填充主要交易量的未平仓。因此，
+在价格已经被交付并且主要头寸已经被分配之后，市场将最有可能尝试测试订单块，
+因为做市商感兴趣的是以盈亏平衡的价格(它们被打开的价格)平仓其无利可图的头寸。
+How to Find Order Blocks
+如何查找订单块
+Orderblocksneedtobelookedfor only at the highs and lowsofthemarket.
+You should immediately understand that these are reversal places, where exactly it
+willform,youcanonlyguessinadvance.Yourtaskistowaitforittoform,andthen
+enterthetradewhentheOBisretested.
+需要寻找订单块只有在高潮和低谷的时候的市场。你要马上明白，这些都是反转的地
+方，具体会在哪里形成，你只能提前猜测。你的任务是等待它形成，然后在OB重新测
+试时进场交易。
+
+<<<PDFPAGE 576 | images=0>>>
+472
+Mean threshold – is 50% levelofthetotalrangeoftheorderblock;weexpect
+pricetorespectthislevel.
+平均阈值–是50%的水平订单块总范围的；我们希望价格尊重这一水平。
+The Order Block is validated when the high of the lowest down-close candle
+orthelowofthehighestup-closecandleistradedthroughbyamorerecentlyformed
+candle.IdeallythebestOBwillnotseethepricetradedownbelowthemidwaypoint
+(mean threshold) of theentire body of the candle (bearish). We do NOT use wicks;
+we measure from the open to the close on the down candle. We use body because
+wicks can contain the pure data as everyone uses different brokers/exchanges this
+canmakewicksunreliableattimesbutitisdiscretionary–wickscanbeused.
+当最低收盘蜡烛线的高点或最高收盘蜡烛线的低点被最近形成的蜡烛线交易时，订单
+块生效。理想情况下，最好的OB不会看到价格交易跌破整个蜡烛线(熊市)的中点(平
+均阈值)。我们不使用灯芯；我们用蜡烛线从开盘到收盘进行测量。我们使用body，
+因为wick可以包含纯数据，因为每个人都使用不同的经纪人/交易所。这有时会使wick
+不可靠，但它是自由决定的-wick可以使用。
+PricemayrunawayfromtheOBifitisvalid.Oftenthereisastrongreactionsoyou
+needtobepatientforittoretraceitsmoveandretesttheOB.Thereisanindication
+如果OB有效，价格可能会偏离OB。通常会有强烈的反应，所以你需要耐心等待它回
+撤并重新测试OB。有迹象表明
+<<<PDFPAGE 577 | images=1>>>
+473
+that there is a displacement in the marketplace. There is also the evidence in price
+actionthatthereisinstitutionalsponsorshipbehindthemove.Displacementmayalso
+leavebehindanotherPOI,theFVG.
+市场上有一种替代。价格走势也有证据表明，这一举动背后有机构的支持。迁移还可
+能留下另一个POI，即FVG。
+Detecting First Order Blocks:
+检测一阶块:
+Break of Previous Momentum: An order block is the highest candlestick in
+thedirectionofthemomentumandoppositetothereversal.Itrepresentsthelastpush
+of candlesticks in the momentum direction. By identifying the break of
+previousmomentum,wecanconfirmthepresenceofanorderblock.
+打破以前的势头:订单块是势头方向上最高的蜡烛线，与反转相反。它代表了烛台在动
+量方向上的最后一次推动。通过识别前期动量的突破，我们可以确认订单块的存在。
+DifferentiatingValidandInvalidOrderBlocks:Validorderblocksarebackedup
+by smart money and liquidity, making them reliable for trading decisions. On the
+other hand, invalid order blocks lack the necessary conditions and should not be
+consideredfortrading.
+区分有效和无效的订单块:有效的订单块由聪明的资金和流动性支持，使它们对于交易
+决策是可靠的。另一方面，无效订单块缺乏必要的条件，不应考虑进行交易。
+Validity of Order Blocks
+订单块的有效性
+Theorderblockisvalidatedwhenthehighofthelowestdownclosecandle(fora
+bullishorderblock)orthelowofthehighestupclosecandleistradedthrough(fora
+bearishorderblock)byamorerecentlyformedcandle.
+当最低收盘蜡烛线的高点(对于看涨订单块)或最高收盘蜡烛线的低点(对于看跌订单块)
+被最近形成的蜡烛线交易通过时，订单块生效。
+
+<<<PDFPAGE 578 | images=1>>>
+474
+Ideallythebestbullishorderblockswillnotseepricetradebelowthemid-pointof
+thedown-closecandle,ortradeabovetheup-closecandleforthebearishorderblock.
+理想情况下，最好的看涨订单块的价格不会低于下跌收盘蜡烛线的中点，或者高于下
+跌订单块的上涨收盘蜡烛线。
+
+<<<PDFPAGE 579 | images=1>>>
+475
+Impactofpricemovementonorderblockvalidity:Orderblocksarethelastpush
+ofcandlesticksinthedirectionofmomentumandoppositetothereversal.Theyserve
+astradetargetsforCentralBanksandalsoindicatetheaccumulationofordersinthe
+market.Thefirstandlastorderblocksinamomentumareconsideredvalid.
+价格变动对订单块有效性的影响:订单块是蜡烛图在动量方向上的最后一次推动，与反
+转相反。它们是央行的交易目标，也显示了市场订单的积累。动量中的第一个和最后
+一个顺序块被认为是有效的。
+Liquidity areas and their significance: Liquidity areas, also known as liquidity
+zones,arewheremarketmakerscollectliquidity.Theseareasarecrucialastheycan
+impactthepricemovement.Byidentifyingtheseareas,traderscangaininsightsinto
+theintentionsofmarketmakersandmakeprofitabletrades.
+流动性区域及其意义:流动性区域，也称为流动性区域，是做市商收集流动性的地方。
+这些领域至关重要，因为它们会影响价格走势。通过识别这些区域，交易者可以洞察
+做市商的意图，进行有利可图的交易。
+When price reaches this area, it collects liquidity before making its next move.
+当价格到达这个区域时，它在下一步行动前收集流动性。
+Retailtradersoftensettheirstopordersinthisarea.
+散户经常在这个区域设置止损单。
+Iusuallyconsiderliquidityareabetween2OBs closetoeachother:
+我通常考虑两个相邻ob之间的流动性区域:
+Validity of order blocks based on liquidity collection: To determine the validity
+of an order block, four conditions must be met. Firstly, the order block should
+be supported by smart money and liquidity. Secondly, it should be the highest
+candlestick in the direction of momentum and opposite to the reversal. Thirdly, it
+should serve as a target for Central Banks. Lastly, it should not have a significant
+
+<<<PDFPAGE 580 | images=0>>>
+476
+correctionafterwards.
+基于流动性收集的订单块的有效性:要确定订单块的有效性，必须满足四个条件。首
+先，订单块应该得到精明资金和流动性的支持。其次，应该是动量方向最高，与反转
+方向相反的烛台。第三，它应该成为各国央行的目标。最后，它不应该有一个重大的
+调整后。
+Entry and Risk:
+进入和风险:
+Whenpriceimpulsivelymovesawayfromthebullish/bearishOB,itmayretrace
+after the displacement which can offer a buying or selling opportunities as price
+returnstotheopenofthebullish/bearishOBcandle.Targetthebuystopsabove/sell
+stopsbelowthemarketplaceasyourfirsttargetprofitorfulltargetprofit.Thelowof
+theBullishOBorhighoftheBearishOBisarelativelysafestoplossplace.
+当价格突然离开看涨/看跌OB时，它可能会在位移后回撤，当价格回到看涨/看跌OB
+蜡烛线的开口时，这可以提供买入或卖出的机会。将高于市场的买入止损点/低于市场
+的卖出止损点作为你的第一个目标利润或全部目标利润。看涨OB的低点或看跌OB的
+高点是相对安全的止损位。
+<<<PDFPAGE 581 | images=2>>>
+477
+Bullish OB:
+看涨OB:
+
+<<<PDFPAGE 582 | images=4>>>
+478
+Bearish OB:
+看跌OB:
+
+<<<PDFPAGE 583 | images=3>>>
+479
+
+<<<PDFPAGE 584 | images=0>>>
+480
+Order Block vs Breaker Block
+订单块与断路器块
+TheLASTBULLISHorBEARISHcandlebeforeanIMPULSEupordown,represent
+OrderBlock.OrderBlocksareonetypeofsupplyanddemandonthemarket,youcan
+expect them toact as a support or resistance dependingon the impulse afterthem.
+OBiswherelargerplayershaveorderssittinginwaitforthepricetoreturntoalevel
+theyareinterestedin,sothat’showtheyact asstrongsupplyordemandareas.The
+last bearish candle before an impulse up is a BULLISH OB. The last bullish candle
+beforeanimpulsedownisaBEARISHOB.BreakerisanOBthatfailstoholdandthe
+pricefinallybreaksthroughit.BULLISHBREAKER,whenabearishOBfailstohold
+asresistanceandthepricejumpsaboveit,weexpectthatareatoactassupportnow
+viceversawithBEARISHBREAKER,whenabullishOBfailstoholdassupportand
+thepricebreaksittothedownside,weexpectthatareatoactasresistancenow.
+上涨或下跌前的最后一根看涨或看跌蜡烛线代表订单阻塞。订单块是市场上供应和需
+求的一种类型，你可以预期它们会作为一种支持或阻力，这取决于它们之后的推动力。
+OB是较大的玩家在等待价格回到他们感兴趣的水平，所以这就是他们如何作为强大的
+供应或需求区。上涨前的最后一根熊市蜡烛线是看涨OB。下跌之前的最后一根看涨蜡
+烛线是看跌的OB。Breaker是一个未能守住，价格最终突破的OB。看涨突破者，当看
+跌OB未能守住阻力，价格跳至该阻力上方时，我们预计该区域现在将成为支撑，反之
+亦然。
+Characteristics of High Probability Order Blocks
+高概率有序块的特征
+• Formingatakeylevel:Highprobabilityorderblockstendtooccuratkeylevels
+inthemarket,suchaspreviousswinghighsorlows,majorliquiditypoollevels,
+orareaswheresignificantbuyingorsellingactivityhastakenplace.
+在关键水平形成:高概率订单块往往出现在市场的关键水平，如以前的波动高点
+或低点，主要的流动性池水平，或发生重大买卖活动的区域。
+OBs push the price into a liquidity pool causing a purge on stops – an up-close
+candlethatpushesthepriceintobuystopswhenbearishoradown-closecandlethat
+pushesthepriceintosellstopswhenbullish.
+OBs将价格推入流动性池，导致止损清除——上涨收盘蜡烛线在看跌时将价格推入买
+入止损，下跌收盘蜡烛线在看涨时将价格推入卖出止损。
+Again,bullishOBsinabuyprogramtosupportthepricehighertoaDOLabove
+marketpriceandbearishOBsinasellprogramtosupportthepricelowertoaDOL
+belowmarketprice.
+<<<PDFPAGE 585 | images=0>>>
+481
+同样，看涨OBs在买入计划中支持价格高于市场价格，看跌OBs在卖出计划中支持价
+格低于市场价格。
+Whenwearebullish,down-closecandleswillactasaroadblocks–whentheprice
+movesdownintoOBandsupportthepricehigher.
+当我们看涨时，下收盘价蜡烛线将充当路障——当价格下跌到OB并支撑价格上涨时。
+Whenwearebearish,up-closecandleswillactasaroadblocks–whentheprice
+movesupintoOBandsupportthepricelower.
+当我们看跌时，近距离蜡烛线将充当路障——当价格上升到OB并支撑价格下降时。
+• Short-termliquiditypool:Bullishorderblockstypicallyformleavingashort-
+term low liquidity pool above them, while bearish order blocks form leaving
+ashort-termhighliquiditypoolbelowthem.Theseliquiditypoolscanbethe
+resultofstoplossordersbeingtriggered.
+短期流动性池:看涨订单块通常在上方形成短期低流动性池，而看跌订单块在下
+方形成短期高流动性池。这些流动性池可能是止损单被触发的结果。
+• Pushingpriceintoliquiditypool:Orderblocksarecreatedwhenpriceispushed
+intoaliquiditypool,causingasurgeinbuyingorsellingactivity.Thiscanbe
+observedthroughup-closecandlesthatpushpriceintobuystopswhenbearish,
+ordown-closecandlesthatpushpriceintosellstopswhenbullish.
+将价格推入流动性池:当价格被推入流动性池时，订单块被创建，导致买入或卖
+出活动激增。这可以通过上涨收盘蜡烛线观察到，上涨收盘蜡烛线在熊市时将
+价格推至买入止损位，或者下跌收盘蜡烛线在牛市时将价格推至卖出止损位。
+<<<PDFPAGE 586 | images=3>>>
+482
+[Weeklychart]
+[周线图]
+
+<<<PDFPAGE 587 | images=2>>>
+483
+Reclaimed Order Block
+回收订单块
+Whenpriceisdroppingandweseealittledisplacementtotheupside,that’ssmart
+moneywithnew accumulationofordersoflongpositions.Thenwhenwegettothe
+HTF PD array that’s where the impulsive price action to the upside starts. A lot of
+people try to get involved in those early rallies while smart money is accumulating
+end,theyendupgettingstoppedout.
+当价格下跌，我们看到一点向上的位移，这是聪明的钱，新的多头订单的积累。然后，
+当我们到达HTFPD阵列时，这就是价格上涨的冲动行为开始的地方。很多人试图参
+
+<<<PDFPAGE 588 | images=0>>>
+484
+与早期的反弹，当聪明的资金积累结束时，他们最终被止损出局。
+Bullish Reclaimed Order Block–isacandleorbarthatwaspreviouslyused
+toBuyPriceandashort-termbounceconfirmsminordisplacement.IntheBuySide
+ofCurve–these“Old”blockswillbereclaimedlongs.
+看涨回收订单块–是先前用于购买价格的蜡烛线或棒线，短期反弹确认轻微位移。在
+曲线的买方——这些“旧”块将被收回做多。
+<<<PDFPAGE 589 | images=4>>>
+485
+Bearish Reclaimed Order Block–isacandleorbarthatwaspreviouslyused
+toSellPriceandashort-termdeclineconfirmsminordisplacement.IntheSellSideof
+Curve–these“Old”blockswillbereclaimedshorts.
+看跌回收订单块–是之前用于卖价的蜡烛线或棒线，短期下跌确认轻微位移。在曲线
+的卖出端——这些“旧”块将被回收为空头。
+Market Maker Buy Model is understanding that the market is going lowerto go
+higher.
+做市商购买模式就是理解市场会越走越低。
+
+<<<PDFPAGE 590 | images=4>>>
+486
+Samegoesfortheopposite,onthebuysideofthecurvesmartmoneystartshedging
+that’swhyyoualreadyseeprematurebearishorderblocksforming.
+反之亦然，在曲线的买方，聪明的钱开始对冲，这就是为什么你已经看到过早的熊市订单
+块形成。
+
+<<<PDFPAGE 591 | images=5>>>
+487
+Mitigation Block
+缓解块
+
+<<<PDFPAGE 592 | images=2>>>
+488
+Factorsfortheformationofmitigationblock:
+形成缓解块的因素:
+1. Noliquiditygrab,i.e.norenewalofthehighorlowbeforetheimpulse. There
+isBreakofStructurebeforeabreakout.
+没有流动性抓取，即没有冲高或冲低之前的更新。突破前有结构的突破。
+2. Impulsebreakdown.
+冲动崩溃。
+A mitigation block is a reversal pattern formedwhen the market fails tomake a
+higher high or lower low. In simple terms, a mitigation block results from a failure
+swingintheforeignmarket.Incontrast,abreakerresultsfromasuccessfulswingin
+themarket.Thismeanspricewillformhigherhighs,collectingBuysideLiquidityon
+previoushighsorforminglowerlows,collectingsell-sideliquidityonpreviouslowsif
+it’sabullishmitigationblock.
+当市场未能创造更高的高点或更低的低点时，缓解块是一种反转形态。简单来说，缓
+解障碍来自于外国市场的失败波动。相比之下，破发源于市场的成功波动。这意味着
+价格将形成更高的高点，在先前的高点收集买方流动性，或形成更低的低点，在先前
+的低点收集卖方流动性，如果这是一个看涨的缓解块。
+Considerabearishexample.Themarketmovesuptoapotentialbearishresistance
+level(oldhigh,oldlow,bearishOB,breaker).
+考虑一个看跌的例子。市场上升到一个潜在的熊市阻力位(旧高点，旧低点，熊市OB，
+破位)。
+<<<PDFPAGE 593 | images=1>>>
+489
+
+<<<PDFPAGE 594 | images=2>>>
+490
+Wearewaitingforconfirmationthattherearesellersatthislevel.
+我们正在等待确认，有卖家在这个水平。
+Thenwaitforthemarkettogoupagainandshowusfurtherinterestinthefall.
+然后等待市场再次上涨，让我们对下跌有进一步的兴趣。
+
+<<<PDFPAGE 595 | images=2>>>
+491
+Asaresult,themarketshowsusthatitreallywantstogolower.
+因此，市场向我们表明，它真的想走低。
+This is an ‘M’ pattern.
+这是一个“M”型。
+Whenweseethatthereisashiftinthemarketstructure,thepricegoesbelowthe
+当我们看到市场结构发生变化时，价格就会低于
+previouslow=>confirmationthatthebigmoneywantstolowertheprice.
+前期低点=>确认大资金想要降低价格。
+Wewillconsidertherangefromashort-termlowtoashort-termhigh.
+我们将考虑从短期低点到短期高点的范围。
+Therewerebuyersinsidethisrange,butnowthesebuyershavegoneunderwater.
+这个范围内曾经有买家，但现在这些买家已经破产了。
+This is Mitigation Block.
+
+<<<PDFPAGE 596 | images=0>>>
+492
+这是缓解块。
+<<<PDFPAGE 597 | images=3>>>
+493
+Assoonaspricetellsusthatthemarketstructureismovingdown,yourattention
+shiftstothatparticularlowinthepriceaction.
+一旦价格告诉我们市场结构正在下降，你的注意力就转移到价格活动中的特别低点。
+Insidethislow,wewillfocusonthelastdowncandlebecausethatiswherethelast
+orderswereplacedbeforetheshortrallyup.
+在这个低点内，我们将关注最后一根蜡烛线，因为这是短线反弹之前的最后一笔订单。
+
+<<<PDFPAGE 598 | images=2>>>
+494
+That is, it is an opportunity for short positions. We can use the same principle
+furtherifwebelievethatthepricewillfallfurthertosomelevelofsupport.
+也就是说是空仓的机会。如果我们认为价格会进一步下跌到某个支撑位，我们可以进一步
+使用同样的原理。
+Wealsonoteashort-termrallyandfocusonthelastdowncandle.
+我们还注意到短期反弹，并关注最后一根下跌蜡烛线。
+Oncepricereachesthesupportlevelweexpect(oldhigh,oldlow,bullishOB,etc.),
+wecloseourtrade.
+一旦价格达到我们预期的支撑位(老高，老低，看涨OB等)。)，我们结束交易。
+Weseehowtheclassicbrokensupportturnsintoresistanceeverytimetheprice
+returnstotheoldlow.Thisiscalled“buyers’remorse”.
+我们看到每次价格回到旧低点时，经典的破支撑是如何变成阻力的。这叫做“买家的懊
+悔”。
+
+<<<PDFPAGE 599 | images=5>>>
+495
+Pricehighsareboughtbylessinformedtradersandsoldbysmartmoney.
+消息不灵通的交易者买入高价，精明的投资者卖出高价。
+ICTusestheactuallowofthedowncandle,notjustthebody,butalsothelowof
+thewick.Theentiredowncandleisamitigationblock.
+ICT使用羽绒蜡烛的实际低点，不仅是蜡烛体，还包括灯芯的低点。整个蜡烛是一个
+缓解块。
+Thus,wecanbeaselleratthelowestpointofthecandle,atthewick.Andourstop
+losscouldbeatthehighestpointofthedowncandlegiventhewick.
+因此，我们可以在蜡烛的最低点，在灯芯处做一个销售者。我们的止损可能在蜡烛线的
+最高点。
+
+<<<PDFPAGE 600 | images=0>>>
+496
+Breaker Block vs Mitigation Block
+断路器块与缓解块
+ABreakerformsahigherhigh,whileaMitigationBlockformsalowerhigh.When
+these unfold, weare lookingfortrading opportunities in the market.A breaker will
+collect Buyside Liquidity on the previous high creating a new higher high, while
+a mitigation block will fail to collect Buyside Liquidity forming higher lows. A
+mitigationblockisaresultofafailureswing.Incomparison,abreakerresultsfroma
+successfulswinginthemarket.
+突破形成一个更高的高点，而缓解块形成一个更低的高点。当这些展开时，我们在市
+场上寻找交易机会。破坏者将收集前一个高点的买方流动性，创造一个新的更高的高
+点，而缓解块将无法收集买方流动性，形成更高的低点。缓解块是故障摆动的结果。
+相比之下，破发源于市场的成功波动。
+Difference between Mitigation Block and Breaker Block – Mitigation
+Block has a failure swing whilst on breakers there is stop run.
+缓解块和断路器块的区别——缓解块有故障摆动，而断路器有停止运行。
+Intheexamplebelow,wecanseewhenpriceactionbreaksdownandreturnsto
+reference point ‘1’, the long positions from the ‘1’ to ‘2’ price swing will have an
+opportunitytomitigatetheirlossthatoccurredwhenpricefellfrom‘2’to‘3’.Thiscan
+lead tonew lowerprice swings toretest ‘3’ or even lowertowards the HTF Support
+levelundermarketprice.
+在下面的例子中，我们可以看到，当价格波动分解并回到参考点“1”时，从“1”到“2”价
+格波动的多头头寸将有机会减轻价格从“2”跌到“3”时发生的损失。这可能导致新的更
+低的价格波动，以测试“3”或甚至低于市场价格的HTF支撑位。
+<<<PDFPAGE 601 | images=1>>>
+497
+[creditto@luciusthe3rd]
+[感谢@luciusthe3rd]
+
+<<<PDFPAGE 602 | images=0>>>
+498
+Rejection Block
+拒绝块
+Everytimeanewhighorlowisformedweanticipatesomesortofrejection,thatis
+每当一个新的高点或低点形成时，我们预期会有某种拒绝，也就是说
+thefirstanticipatorypriceskillsetyoushouldbeworkingonbecauseitisthehardest.
+你应该学习的第一套预期价格技巧是最难的。
+Bearish Rejection Blockis when a High has formed with long wicks on
+thehigh(s)ofthecandlestick(s)andpricereachesupabovethebodyofthecandle(s)to
+runBuySideLiquidityoutbeforepricedeclines.
+看跌剔除块是指在蜡烛线的高点上形成了长灯芯的高点，价格达到蜡烛线上方，在价
+格下跌前耗尽买方流动性。
+Bullish Rejection Block is when a Low has formed with long wick(s) on the
+low(s)ofthecandlesticks)andpricereachesdownbelowthebodyofthecandle(s)to
+runSellSideLiquidityoutbeforepricerallieshigher.
+看涨拒绝块当在蜡烛线的低点形成长蜡烛线的低点时，价格到达蜡烛线的下方，在价
+格回升到更高之前，卖出方的流动性耗尽。
+ThisiswhenwemoveintoaPDarray,inthiscasePremiumarray.It’salsoabull
+这是我们进入PD阵列的时候，在本例中是高级阵列。它也是一头公牛
+flag.Pricedoesnotneedtomakeahigherhightomakeafailureswing.
+旗帜。价格不需要制造更高的高点来制造失败。
+Allyouneedtoknowaboutpriceactionisbasicallytheopenhighlowandclose,and
+ifyoufollowtheswinghighsandlows,andyoucharttheopenhighlowandcloseand
+dealspecificallywiththeopenandclosesyou’llbeabletofigureoutwhatdistribution
+andaccumulationtakesplaceattheseturningpoints.
+所有你需要知道的价格行为基本上是开盘价、最低价和收盘价，如果你跟踪波动的最
+高价和最低价，你绘制开盘价、最低价和收盘价的图表，并特别处理开盘价和收盘
+价，你将能够计算出在这些转折点发生了什么分布和积累。
+While not really focusing on the wicks, they highlight the idea of the pattern
+forming.Instead, lookforthehighest closeoropen at theswinghigh that forms.It
+doesn’t matter if the highest candle closed bullish or bearish. We see the wick as a
+BearishOrderBlock.
+虽然没有真正关注灯芯，但他们强调了图案形成的想法。相反，在形成的波动高点寻
+找最高收盘价或开盘价。最高的蜡烛线收盘是看涨还是看跌并不重要。我们认为灯芯
+是一个看跌订单块。
+This is one of the few times where ICT uses selling on a stop order as an entry
+pattern, you could also immediately enter on the close in this case or wait for it to
+<<<PDFPAGE 603 | images=1>>>
+499
+tradetroughitabit,orlikeICTdoesasellstopwhereittradesabovethecloseandyou
+placeasellstopattheclosetosellitonwhenitgoesbackdownagain.
+这是ICT使用止损单卖出作为进场模式的少数几次之一，在这种情况下，你也可以在
+收盘时立即进场，或者等待它穿过它一段时间，或者像ICT一样，当它在收盘上方交
+易时，你在收盘时设置卖出止损，当它再次下跌时卖出。
+Itcanformovermultiplecandles;it’snotlimitedto1candle.
+它可以在多个蜡烛上形成；不限于1支蜡烛。
+
+<<<PDFPAGE 604 | images=4>>>
+500
+Onabullishrejectionblockit’stheopposite,sowetakethelowestopen(incaseof
+abullishcandle)andthelowestwickandthatisintheoryourbullishorderblock,the
+wick.
+在看涨拒绝块上，情况正好相反，所以我们取最低开盘价(在看涨蜡烛的情况下)和最
+低灯芯，理论上这就是我们的看涨订单块，灯芯。
+The key is it must be a swing low/high that has a wick or wicks.
+关键是它必须是一个有一个或多个灯芯的低/高秋千。
+
+<<<PDFPAGE 605 | images=3>>>
+365
+365
+ExampleofthebearishRejectionBlock.
+看跌拒绝块的例子。
+
+<<<PDFPAGE 606 | images=1>>>
+[creditto@luciusthe3rd]
+[ @luciusthe3rd]
+364
+364
+Tips:
+小贴士:
+Toidentifyrejectionblocks,traderstypicallybeginbyanalyzingpriceactiononthe
+highertimeframecharts,suchasthedailyor4-hourchart.Theylookforareaswhere
+pricehasconsistentlybouncedoffacertainlevelorhasbeenunabletobreakthrough
+acertainlevel.Theselevelsareoftenreferredtoas“keysupportandresistancelevels”.
+为了识别拒绝块，交易者通常从分析较高时间框架图上的价格行为开始，例如日线图
+或4小时图。他们寻找价格持续反弹到某一水平或无法突破某一水平的区域。这些水
+平通常被称为“关键支撑位和阻力位”。
+Once the key levels have been identified, traders will then move down to lower
+time frames, such as the 1-hour or 15-minute chart, to identify potential entry and
+exitpointsfortheirtrades.
+一旦关键水平被确定，交易者将向下移动到更低的时间框架，如1小时图或15分钟图，
+以确定潜在的进场点和出场点。
+Propulsion block
+推进块
+Propulsion Blockisacandleorbarthathaspreviouslytradeddown(up)intoa
+down(up)candleorbullish(bearish)OBandistakingontheroleofpricesupportfor
+higher(lower)pricemovement.
+推进块是一根蜡烛线或棒线，它以前交易向下(向上)变成向下(向上)蜡烛线或看涨(看
+跌)OB，并在较高(较低)价格运动中扮演价格支撑的角色。
+We have a descending candle, which shows the willingness of the price to move
+higher,andthereisacandlethatistradingdirectlyintheOB:
+我们有一根下降的蜡烛线，它显示了价格走高的意愿，还有一根蜡烛线直接在OB中交
+
+<<<PDFPAGE 607 | images=1>>>
+365
+365
+易:
+Thiscandlebecomesapropulsionblock.
+这根蜡烛变成了推进装置。
+
+<<<PDFPAGE 608 | images=3>>>
+[creditto@luciusthe3rd]
+[ @luciusthe3rd] 366
+366
+Thisnewso-calledOBwillbeverysensitive,itshouldneverseethemeanthreshold
+exceeded,50%ofthebody.Mostofthetimeitwilltradebacktothehighofthecandle
+andthenimmediatelywewillseeareaction.
+这种新的所谓的OB将非常敏感，它应该永远不会看到平均阈值超过，50%的身体。大
+
+<<<PDFPAGE 609 | images=0>>>
+367
+367
+多数情况下，它会回到蜡烛线的高点，然后我们会立即看到反应。
+<<<PDFPAGE 610 | images=1>>>
+[creditto@luciusthe3rd]
+[ @luciusthe3rd] 366
+366
+Vacuum Block
+真空块
+Abullishandbearishvacuumblocksare“gaps”createdinpriceactionasaresult
+of some volatile event. The gap is formed due to the “vacuum” of liquidity, directly
+relatedtotheevent.Forexample,NFP[NonfarmPayroll]cancreateavacuumblock
+orsessionopening.
+看涨和看跌真空块是由于一些波动事件而在价格行为中产生的“缺口”。这种差距是由
+于流动性的“真空”而形成的，与事件直接相关。例如，NFP[非农业工资]可以创建一
+个真空块或会议开幕。
+Whentradersseethisgap,theythinkthatpriceswillcontinuetorise.Sometimes
+itwill.
+当交易者看到这个缺口时，他们认为价格会继续上涨。有时候会的。
+Ifthepricehasalreadybeenrisingforseveraldaysorweeks,themarkethasbeen
+inaprolongeduptrend=>thenthisisprobablyanexhaustiongap.Anexhaustiongap
+isessentiallythelastimpulseofamajortrendordirection.
+如果价格已经上涨了几天或几周，市场已经处于持续上涨趋势=>那么这可能是一个
+衰竭缺口。衰竭缺口本质上是主要趋势或方向的最后一次冲击。
+Avacuumblockisbest whenweareinapullback inabullmarketorifwehave
+beeninadownmarketandareexpectingsomebullishnews.Thatis,wewillleavethe
+Discountzone,wherethemarketwaslocated=>weexpecthigherprices.
+当我们在牛市中处于回调时，或者如果我们已经处于下跌市场并期待一些看涨消息
+时，真空块是最好的。也就是说，我们将离开市场所在的折扣区=>我们预计价格会
+更高。
+
+<<<PDFPAGE 611 | images=0>>>
+367
+367
+Itisimportanttorememberthatthisspacebetweenthetwocandlesisimportant.
+There are no trades between these two points => liquidity vacuum. There is a high
+probability that the market will want to come back and close this and deliver both
+buysideandsellside.
+重要的是要记住，这两个蜡烛之间的空间是重要的。这两点之间没有交易=>流动性
+真空。市场很有可能会回来平仓，同时进行买方和卖方交易。
+Andwehavetodetermineifthemarketwillcontinuetomovehigher,leavingthe
+gapopen.Oritwillgobackdownandcloseinthatrange.Ifitdoesn’tcloseintherange
+我们必须确定市场是否会继续走高，留下缺口。否则它将回落并收在这个范围内。如
+果它不在范围内关闭
+=>howfarcanweexpectittocloseandlookforapotentialsetupinsidethatrange.
+=>我们能期望它关闭多远，并在该范围内寻找潜在的设置。
+We would look at the Vacuum Block the same way we would look at any other
+candle.
+我们看真空块的方式和看其他蜡烛一样。
+<<<PDFPAGE 612 | images=2>>>
+368
+Ifthepriceistradinglower,considerscenarios:
+如果价格下跌，考虑以下情况:
+1. Ifwewerewaitingforanupmove,isthereanybullishOBthatwouldmakethe
+gapnotwanttofillcompletely.Wecanexpecttocontinuegoinglong,leaving
+thegapopen.Hereweshouldseeanimmediatebacklash.
+如果我们在等待上涨，是否有任何看涨的OB会使缺口不想完全填补。我们可以
+期待继续做多，留下缺口。在这里，我们应该看到立即反弹。
+2. Ifthepriceistradinglowerandwedon’twanttobuytheOB,let’ssaywehave
+astrongerbeliefthatthepricewilltradeuntiltheverylastupcandlebeforethe
+gap.Thereasonforsuchawait,forexample,dependsonthetimeofday.Ifthis
+isjustthebeginningofNewYork,thenNewYorkwillprobablyfillthegap.If
+thegapwaslateintheevening,itwillmostlikelyleaveagapopen.So,ifthe
+timeofdayallows,thenitwillmostlikelyfillthegap.
+如果价格正在下跌，我们不想买OB，那么我们有更强的信心，价格会一直上涨
+到缺口前的最后一根蜡烛线。例如，等待的原因取决于一天中的时间。如果这
+只是纽约的开始，那么纽约很可能会填补空白。如果缺口在晚上很晚，它很可
+能会留下一个缺口。所以，如果时间允许，它很可能会填补这个空白。
+ThisgapmostoftenoccursduringnewseventsinNewYorkandishighlyunlikely
+tooccurintheLondonsession.
+这种差距通常出现在纽约的新闻活动中，在伦敦时段不太可能出现。
+Ifit’stheendofthedayandthegapremainsopen,thenthiswillgiveusFVGfora
+
+<<<PDFPAGE 613 | images=0>>>
+369
+latertimeandwe’llexpectpricetocomebackherelaterandcloseit.
+如果这是一天的结束，差距仍然开放，那么这将为我们提供一个稍后的FVG，我们期待
+价格稍后回到这里，并关闭它。
+<<<PDFPAGE 614 | images=2>>>
+370
+3. Fullyrebalanced,thiscouldbeabluearrowbuyifweexpecthigherprices.
+完全重新平衡，这可能是一个蓝色箭头购买，如果我们预计价格上涨。
+Whenwecloseagapandseearallyup,wedon’twantthepricetogobackbelow
+thelevelthatclosedthegap.
+当我们关闭一个缺口，看到上涨，我们不希望价格回到关闭缺口的水平以下。
+So,avacuumblockisnothingmorethanabreakoutgap,thatcreatesaliquidity
+vacuum. Not all gaps are filled completely. If we had a bullish OB, the price might
+justwanttocometoitinsidethisgapandthenmovehigher.Inthiscase,asmallgap
+remains,andwecanuseitlaterinourtrade.
+因此，真空块只不过是一个突破缺口，造成了流动性真空。并非所有的间隙都被完全
+填满。如果我们有一个看涨的OB，价格可能只是想在这个缺口内到达它，然后移动得
+
+<<<PDFPAGE 615 | images=0>>>
+371
+更高。在这种情况下，一个小缺口仍然存在，我们可以在以后的交易中使用它。
+Andifwewereexpectingamovetogolongandprice filledthegap,whichmeans
+we had a gap up and then selling and then rallying up, so we had both selling and
+buyinghappeningintheareaofthegap,thentherearenoreasonsforthepricetofall
+belowthislowofthefirstupcandle.
+如果我们预期价格上涨，价格填补了缺口，这意味着我们有一个缺口，然后卖出，然
+后反弹，所以我们在缺口区域有卖出和买入，那么价格没有理由跌破第一根上涨蜡烛
+线的低点。
+<<<PDFPAGE 616 | images=2>>>
+372

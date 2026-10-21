@@ -1,0 +1,816 @@
+
+<<<PDFPAGE 215 | images=0>>>
+133
+Chapter 13
+第十三章
+Power Of 3 & New York PM Session Opportunities
+3的力量&纽约PM会议机会
+Power 3, also known as accumulation, manipulation, and distribution, is a key
+conceptintrading.Itreferstothethreephasesthatthemarketgoesthroughbeforea
+significantpricemove.Let’sbreakdowneachphase:
+幂3，也称为积累、操纵和分配，是交易中的一个关键概念。它指的是市场在重大价
+格变动之前经历的三个阶段。让我们来分解每个阶段:
+1. Accumulation: This is the first phase of Power 3,where market participants
+accumulate positions in anticipation of a future price increase. During this
+phase,pricesmayconsolidateortradeinarangeastraderspositionthemselves
+forthenextmove.
+积累:这是力量3的第一阶段，市场参与者在预期未来价格上涨的情况下积累头
+寸。在这一阶段，随着交易者为下一步行动做准备，价格可能会在一个区间内
+盘整或交易。
+2. Manipulation:ThesecondphaseofPower3involvesmarketmanipulation.In
+thisphase,traderswithlargepositionsusevarioustechniquestoinfluencethe
+priceintheirfavor.Thismanipulationcancreatefalsemovesorfakeruns,such
+astheJudasswing.
+操纵:权力3的第二阶段涉及市场操纵。在这个阶段，持有大量头寸的交易者使
+用各种技术来影响价格，使其对自己有利。这种操作可以产生虚假的移动或虚
+假的运行，如犹大摆动。
+3. Distribution: The final phase of Power 3 is distribution, where market
+participantswhoaccumulatedpositionsinthefirstphasestarttodistributeor
+selltheirholdings.
+分配:Power3的最后一个阶段是分配，在第一阶段积累了头寸的市场参与者开
+始分配或出售他们持有的股票。
+<<<PDFPAGE 216 | images=1>>>
+134
+
+<<<PDFPAGE 217 | images=2>>>
+135
+ThePowerofThree,asdescribedbyInnerCircleTrader(ICT),isatradingconcept
+that encompasses three essential phases in the financial markets: accumulation,
+manipulation,anddistribution.
+内圈交易者(ICT)描述的“三的力量”是一个交易概念，包含金融市场的三个基本阶段:
+积累、操纵和分配。
+PowerOf3are candle/barformationstages thatare relevantforall timeframes,
+especially used with daily and weekly trading ranges, where the opening price is
+consideredtobethebeginningoftheperiod.
+3的幂是与所有时间框架相关的蜡烛线/棒线形成阶段，特别是用于日交易范围和周交
+易范围，开盘价被认为是周期的开始。
+Forintradaytrading,itisenoughforustousetheweeklyanddailypowerofthree,
+butyoushouldalsopayattentiontothemonthlycandlestick,sincepointsofinterest
+onhighertimeframesincreasethechancesofsuccess.
+对于日内交易，我们用周线和日线的三次方就足够了，但是你也应该注意月线，因为
+时间越长，成功的机会就越大。
+WEEKLY POWER OF THREE
+三的周幂
+The logic of the weekly PO3 is useful for building a trading bias (Bias), that
+<<<PDFPAGE 218 | images=0>>>
+136
+is,choosingadirection.
+周线PO3的逻辑对于建立交易偏差(bias)是有用的，也就是选择方向。
+BullishBias:Expectamovebelowtheopeningatthebeginningoftheweek,which
+wouldbeaweeklymanipulation(JudasSwing).
+看涨偏见:预计在本周初低于开盘的波动，这将是一个周操纵(犹大摆动)。
+TheweeklowisusuallyformedbetweenMondayandWednesday,mostoftenon
+TuesdayorWednesday.
+一周低点通常在周一和周三之间形成，最常见的是在周二或周三。
+If the price returns back below the opening level after it left it, then; reversal
+scenarioispossible.
+如果价格在离开开盘价后又回到开盘价以下，那么；逆转情景是可能的。
+<<<PDFPAGE 219 | images=2>>>
+137
+BearishBias
+看跌倾向
+Expect a move above the open at the beginning of the week, which would be
+aweeklymanipulation(JudasSwing).
+预计本周初会有一个高于开盘价的波动，这将是一个周线操作(犹大摆动)。
+TheweeklyhighisusuallyformedbetweenMondayandWednesday,mostoften
+onTuesdayorWednesday.
+周高点通常形成于周一至周三之间，最常见于周二或周三。
+If the price returns back above the opening level after it left it, then a reversal
+scenarioispossible.
+如果价格在离开开盘价后又回到开盘价之上，那么反转就有可能发生。
+
+<<<PDFPAGE 220 | images=0>>>
+138
+DAILY POWER OF THREE
+三的每日幂
+Theopeninglevelisusedtodeterminetheprofitablezoneforopeninglongand
+开仓水平用于确定开仓多头和空头的有利可图区域
+shortpositions.
+空头头寸。
+Manipulation (Judas Swing) - wait for the liquidity capture to complete before
+操纵(犹大摆动)-等待流动性捕获完成之前
+<<<PDFPAGE 221 | images=1>>>
+139
+makingadecision.
+做决定。
+Expansionisamovementfromwhichwetrytobenefit.
+Distributionisanareainwhichwetakeprofits.
+扩张是一种我们试图从中受益的运动。分销是我们获利的领
+域。
+In Accumulation phase, we see consolidation where lot of liquidity is generated
+andthenweseeafakerallytoclearalltheliquidityandmarketshiftsthestructureand
+moves.In order tounderstand that you need tohave directional bias. Forexample,
+“I’m Bullish & I’m waiting for market to go little bit lower and retrace into higher
+timeframepricedeliveryarrayafterclearingliquiditypool(s)andshiftsstructureon
+timeframethatyou’relookingataccordingtoyourowntradingstyle(daytrader,short
+termtraderorscalper).
+在积累阶段，我们看到盘整产生了大量的流动性，然后我们看到一个虚假的反弹清除
+了所有的流动性，市场改变了结构和运动。为了理解这一点，你需要有方向性偏见。
+例如，“我看多&在清理流动性池并根据自己的交易风格(日内交易者、短线交易者或黄
+牛党)改变时间框架结构后，我正在等待市场稍微走低，并回撤至更高的时间框架价格
+交付阵列。
+Accumulationreferstotheinitialphaseofmarketactivity,wherelargeinstitutional
+players, known as “smart money,” strategically accumulate positions. During this
+phase,price action tends tobe range-bound, withlow volatilityand relativelysmall
+price movements. Smart money takes advantage of this period to build substantial
+positionsatfavorableprices,oftenbyabsorbingsellingpressurefromretailtraders.
+
+<<<PDFPAGE 222 | images=0>>>
+140
+积累指的是市场活动的初始阶段，被称为“聪明钱”的大型机构参与者战略性地积累头
+寸。在这一阶段，价格走势往往是有限的，波动性低，价格波动相对较小。精明的投
+资者利用这段时间以有利的价格建立大量头寸，通常是通过吸收散户投资者的抛售压
+力。
+After accumulating their desired positions, smart money moves into the
+Manipulationphase.Here,theycreatedeceptivemarketmovestolureinretailtraders
+andinvestors.Thisphaseinvolvesavarietyoftechniques,suchasfalsebreakouts,stop
+runs,andfakeouts,designedtotraptradersonthewrongsideofthemarket.These
+manipulative tactics induce panic or excitement among retail participants, leading
+themtomakeemotionaltradingdecisions.
+在积累了他们想要的头寸后，聪明的资金进入了操纵阶段。在这里，他们创造欺骗性
+的市场波动来吸引散户和投资者。这一阶段包括各种技术，如假突破、止损和假突破，
+目的是让交易者在错误的市场上被套住。这些操纵策略在散户参与者中引发恐慌或兴
+奋，导致他们做出情绪化的交易决定。
+Oncesmartmoneyhasexecutedtheirdesiredtradesandmanipulatedthemarket,
+thedistributionphasebegins.Duringthisstage,smartmoneystartstounwindtheir
+positions and distribute them to retail traders and investors who are typically late
+一旦精明的投资者执行了他们想要的交易并操纵了市场，分配阶段就开始了。在这一
+阶段，精明的投资者开始平仓，并将其分配给通常会迟到的散户和投资者
+<<<PDFPAGE 223 | images=2>>>
+141
+torecognizethechangeinmarketdynamics.Thepriceactionmayexhibitsignsof
+认识到市场动态的变化。价格波动可能表现出以下迹象
+exhaustionorreversal,assmartmoneytakesprofitsandbeginstoexittheirpositions.
+耗尽或反转，因为聪明的钱获利并开始退出他们的位置。
+The Interbank Price Delivery Algorithm moves from consolidation periods to
+expansionperiodsandin-betweenthesetwoperiodsManipulationwillhappentotake
+outretailbuyorsellstopsbeforetherealexpansionmove.
+银行间价格交割算法从盘整期转向扩张期，在这两个时期之间，操纵将在真正的扩张
+之前取消散户买入或卖出止损。
+Price Equilibrium-Asianrange.
+价格平衡-亚洲系列。
+Manipulation-thiswillalwayshappenthroughsomekindofnewsevent,news
+driver.Duringmanipulationorrightbeforeit.ThisisJudasSwing.
+操纵——这总会通过某种新闻事件，新闻驱动来发生。在操作过程中或之前。这是犹
+大秋千。
+Expansion - In other words, this is when a high or low is formed. It will drop
+before5:00AMNYorgoesupbeforethattime(dependingonthedailydirectionof
+theprice,wewillusethebuydayperspective).ThismeansthattheAsianrangehasa
+slightconsolidationandthenaftermidnightNYthereisadropinprice-amanipulation
+thatmakesafalsemovetothelow.
+膨胀——换句话说，这是高点或低点形成的时候。它将在纽约时间早上5:00之前下跌
+或上涨(取决于价格的每日方向，我们将使用买入日观点)。这意味着亚洲范围有一个
+轻微的盘整，然后在纽约午夜后有一个价格下跌——这是一个错误的向低点移动的操
+作。
+
+<<<PDFPAGE 224 | images=2>>>
+142
+Then the market moves to Reversal. A classic scenario for a London opening.
+Whenthemarketgoesdown,takingstopsandthenitexpands again- Expansion.
+Untilwhattime?- Until 5am NY.
+然后市场走向反转。伦敦开幕式的经典场景。当市场下跌时，止损，然后再次扩张-膨
+胀。直到什么时候？-直到纽约时间早上5点.
+Between5:00AMand8:00AMEST,duringthistimeframe,themarketwillreturn
+to Consolidation.
+在美国东部时间早上5:00到8:00之间，在这段时间内，市场将回到合并.
+
+<<<PDFPAGE 225 | images=1>>>
+143
+Thentherewillbea Retracementpullback,between8:00amand8:30amEST.
+然后会有一个回撤东部时间上午8:00到8:30之间回调。
+Thentherewillbeeithera ReversalintheNYsession,oran Expansion move.
+Therangewillwidenovertherestoftheday,goingupto10:00amor11:00amEST
+thenthe Reversalisback(that’stheLondonclose).
+那么将会有一个反转在纽约会议，或一个扩展移动。该范围将在一天的剩余时间内扩
+大，上升到东部时间上午10:00或11:00，然后反转回来了(这是伦敦收盘)。
+Themarketwillenter Consolidation,endingattheendofthedayaround16:00
+EST.
+市场将进入合并，在美国东部时间16:00左右结束。
+We can see the interbank price delivery algorithm on a daily basis by studying
+these events and viewing them on charts.And we will know what is most likely
+tohappen.
+通过研究这些事件并在图表上查看，我们可以每天看到银行间价格交割算法。我们将
+知道最有可能发生什么。
+
+<<<PDFPAGE 226 | images=1>>>
+144
+
+<<<PDFPAGE 227 | images=1>>>
+145
+Thenextstageisalways Expansion.Thisisnotapullbackandnotareversal.
+下一阶段总是膨胀。这不是回调，也不是逆转。
+Thatis,afterconsolidationthereisalwaysanimpulsemovement.
+也就是说，在盘整之后，总会有一个冲动运动。
+We determine what kind of movement it is and in what direction it is. Once we
+haveanExpansion,wehaveachoice:
+我们确定它是哪种运动，以及它的方向。一旦我们有了扩张，我们就有了选择:
+• theremaybea Retracementpullback(wecanreturntotheorderblockitjust
+left and then make another move upor down,dependingonthe direction in
+whichitmoves).
+可能有一个回撤拉回(我们可以返回到它刚刚离开的订单块，然后根据它移动的
+方向再向上或向下移动一次)。
+• ormaybea Reversal.
+或者也许是反转.
+Onceitreversed,theremightbeanother Expansion move.Itwillthenreturnto
+Consolidation.
+一旦它逆转，可能会有另一个扩展移动。然后，它将回到盘整状态。
+***Again, Consolidationcannotbefollowedby Retracementor Reversal.
+***再次，合并后面不能跟回撤或者反转.
+Consolidation is always followed by Expansion. After Expansion comes
+either Retracementor Reversal.
+合并后面总是跟着膨胀。在...之后膨胀要么来回撤或者反转.
+***Themarket does NOTdo Consolidation -> Expansion -> Consolidation.
+***市场不做合并->扩展->合并.
+It does: Consolidation -> Expansion -> Retracement(beforeorderblock
+andresumptionofmovement)OR Consolidation -> Expansion -> Reversal.
+确实如此:合并->扩张->回撤(在订单阻塞和运动恢复之前)或合并->扩展->冲销。
+<<<PDFPAGE 228 | images=1>>>
+146
+Thereareonlycertainprocessesthatmustoccurinacertainorder.
+Generalstructure:
+只有特定的过程必须以特定的顺序发生。总体结构:
+Consolidation - Asian session -> Expansion -> Reversal - in the London
+sessionbymakingthehighorlowoftheday-> Expansion->Small Consolidation
+合并-亚洲时段-->膨胀->反转-在伦敦时段，以当天的最高价或最低价->膨胀->小合并
+-NewYork-> Retracement-between8-8:30am-> Expansion-> Reversal->
+andagain Consolidation
+-纽约->回撤-上午8点至8点30分-->膨胀->反转->又一次合并
+The same happens with the weekly range:
+周线系列也是如此:
+1. OpeningSunday-Consolidation
+周日开业-合并
+2. Monday-Expansionmove
+周一-扩张行动
+3. Monday/Tuesday-Reversal
+<<<PDFPAGE 229 | images=0>>>
+147
+周一/周二-反转
+4. Otherexpansionmove
+其他扩展移动
+5. Midweek-Consolidation
+周中-合并
+6. ReversalorRetracement
+反转或回撤
+<<<PDFPAGE 230 | images=2>>>
+148
+If bullish then you’re looking for manipulation to happen under the midnight
+openingprice.Whenmanipulationoccurs,thisiswheresmartmoneyisaccumulating
+longpositions.
+如果看涨，那么你在寻找午夜开盘价下的操纵。当操纵发生时，这是聪明的钱积累多
+头头寸的地方。
+Toconfirmthemanipulationmoveyouneedtoseeamarketstructureshift&price
+needstogetbackandstayaboveorbelowthemidnightopeningpricedependingonif
+it’sbullishorbearish.
+为了确认操纵行为，你需要看到市场结构的变化&价格需要回升，并根据是看涨还是
+看跌保持在午夜开盘价之上或之下。
+
+<<<PDFPAGE 231 | images=1>>>
+149
+Ifbearishyou’relookingformanipulationtohappenabovethemidnightopening
+price. When manipulation occurs, this is where smart money is accumulating short
+positions.
+如果看跌，你希望操纵发生在午夜开盘价之上。当操纵发生时，这是聪明的钱积累空
+头头寸的地方。
+Once price is back below or above the midnight opening price you can expect
+distribution/expansionmovetothenextdrawonliquidity.
+一旦价格回到午夜开盘价以下或以上，您可以预期分销/扩张将进入下一个流动性提取
+阶段。
+WealsocanseeitasaconsolidationbeingtheAccumulation,andthenManipulation
+ofthelows,andthenDistributionphasewhenwegobackabovetherange.Why?The
+reasonfortheAccumulationphaseisforthemarketmakerstoenterasmanyorders
+astheywouldlike.
+我们也可以把它看作是一个积累的盘整，然后是对低点的操纵，然后是当我们回到区间
+上方时的分配阶段。为什么？累积阶段的原因是做市商可以输入他们想要的任意多的订
+单。
+Then comes theManipulationphase, herethe market makers aregoing toenter
+thelastbitoftheirorderbeforetakingthepricetotheirtarget,theywillstopallthe
+retailtradersout,floodingthemarketwithmarketorders,whichthemarketmakers
+willbuyoutentirely,anddirectlytakeustotheoppositedirection.
+然后是操纵阶段，在这一阶段，做市商将在价格达到目标之前输入最后一点订单，他
+们将阻止所有散户交易者出局，用市场订单淹没市场，做市商将完全买断这些订单，
+并直接将我们带到相反的方向。
+
+<<<PDFPAGE 232 | images=0>>>
+150
+Howtoapply?Forexample,whenadailycandleopen,ifyouexpectittobebullish,
+thenweshouldstarthuntingliquiditytothedownsideafterdailyopen,andyoucan
+considerpriceoversoldwhileitisunderthedailyopen.
+如何申请？例如，当日线打开时，如果你预计它是看涨的，那么我们应该在日线打开
+后开始向下寻找流动性，当它在日线打开时，你可以考虑价格超卖。
+Then, you will start tolook forpointsof interest (POI) and yourentry model to
+enteralongandlookfortargetsabovethedailyopen.
+然后，你将开始寻找兴趣点(POI)和你的进场模型来做多，并寻找日线上方的目标。
+Oryoucanjustlookforaconsolidation,andthenlookforPOl&targetsbelow&
+abovetheconsolidationtodecide where price isdestined togo,thenbased onthat,
+lookforyourentrymodeloncethemanipulationoccurs.
+或者你可以寻找盘整，然后寻找盘整上下的POl&targets来决定价格的走向，然后在
+此基础上，一旦操纵发生，寻找你的进场模型。
+<<<PDFPAGE 233 | images=2>>>
+151
+Onthe diagramyou see a weeklyfull-bodied candle. On alowertimeframe, this
+willbeasidetrend(pricemovesintherange).
+在图上，你可以看到一根周线饱满的蜡烛。在较低的时间范围内，这将是一个侧面趋
+势(价格在区间内移动)。
+Wewillconsiderthisexamplethroughtheprismofaweeklycandle,soitwillbe
+easiest to understand the logic of this concept. Until distribution begins, the price
+accumulates,thatis,bigcapitalcollectsitsposition.Thisisusuallyshownonthechart
+asasidewaysmove,itcanalsolooklikeadescendingorascendingchannel.Aposition
+canaccumulateforbothlongsandshorts.
+我们将通过周线蜡烛图来考虑这个例子，因此理解这个概念的逻辑是最容易的。直到
+分配开始，价格累积，即大资本收集其位置。这通常在图表上显示为横向移动，也可
+以看起来像下降或上升通道。多头和空头的头寸都可以累积。
+<<<PDFPAGE 234 | images=2>>>
+152
+
+<<<PDFPAGE 235 | images=1>>>
+153
+Thebottomlineiswhereaweekopens,thepricestartstradingneartheopening
+forseveraldays,afterwhichitmovesintheoppositedirectiontomisleadtraders,and
+thefinalstagewillbedistribution.
+底线是一周开盘的地方，价格在开盘附近开始交易几天，之后反方向移动误导交易
+者，最后阶段将是配送。
+*Lookingonlyattheweeklycandle,youwillbeabletopredictthefuturedirection
+oftheprice,atleastfornextweek.
+只看周蜡烛线，你就能预测价格的未来走向，至少下周是这样。
+When the weekly candle opens, we want to see consolidation. After that,
+manipulation, and distribution. In the first days of the opening of the candle, all
+tradingoccursneartheopeningofthecandle.Further,manipulationtakesplace,on
+the weekly timeframe it will look like a wick. The final phase is the expansion and
+closingofthecandle.
+当周线蜡烛线打开时，我们希望看到盘整。之后，操纵和分配。在蜡烛线打开的第一
+天，所有的交易都发生在蜡烛线打开的附近。此外，操纵发生，在每周的时间框架内，
+它看起来像灯芯。最后一个阶段是蜡烛的膨胀和闭合。
+
+<<<PDFPAGE 236 | images=1>>>
+154
+
+<<<PDFPAGE 237 | images=3>>>
+155
+Thebearishexampleworksinexactlythesameway,butinamirrorimage.Wewill
+alsohaveAccumulationneartheopeningofthiscandle.Thentherise,whichisactually
+Manipulation to get traders to trade in the wrong direction. And the last step is
+distribution.Whichwecanunderstandasthedistributionofalargeplayerofhis/her
+positiontoordinaryretailtraders.
+看跌的例子以完全相同的方式工作，但是在镜像中。我们在这根蜡烛的开口附近也会
+有积累。然后是上涨，这实际上是操纵，让交易者在错误的方向交易。最后一步是分
+销。我们可以理解为一个大玩家将他/她的头寸分配给普通散户。
+So,ontheweeklychartabove,wehaveSSL.Also,theprevious2weekshaveequal
+
+<<<PDFPAGE 238 | images=0>>>
+156
+lows-that’sthetarget.Let’sseewhathappenednext.
+所以，在上面的周线图上，我们有SSL。此外，前2周有相同的低点-这是目标。让我
+们看看接下来发生了什么。
+<<<PDFPAGE 239 | images=2>>>
+157
+Newweekopens–pricestartedconsolidating.Afterthat,ittestedEQLandtook
+SSL.
+新的一周开始了，价格开始盘整。之后，它测试了EQL并采用了SSL。
+
+<<<PDFPAGE 240 | images=4>>>
+158
+Aftertheliquiditypoolwastaken,thepricebegantogoup.Thisworksonabsolutely
+allTFs.Seeforyourselfonthechart.
+流动性池拿了之后，价格就开始往上走了。这绝对适用于所有的TF。在图表上自己看。
+AND NOW THE SAME SITUATION, BUT ON THE LTF:
+而现在同样的情况，却发生在LTF:
+
+<<<PDFPAGE 241 | images=6>>>
+159
+Buthereitisimportantthattheaccumulationbeganlastweek,thiscanbeseenon
+the1hrtimeframe.
+但在这里，重要的是上周开始积累，这可以在1小时的时间框架中看到。
+
+<<<PDFPAGE 242 | images=3>>>
+160
+Afterthemanipulation,anaggressivemoveoccurs.Thisisdonesothatnoonecan
+enter and buy longonhighs, and amajor player at this time is sellingthe position.
+Afterthat,greedytraderswhoexperienceFOMOremainintheredagain.
+操纵之后，一个侵略性的举动发生了。这样做是为了不让任何人在高点买入或做多，
+此时一个主要的玩家正在卖出这个位置。在那之后，经历FOMO的贪婪交易者再次亏
+损。
+Openingpriceistheinitialvalueprice–priortoanyimbalance.
+开盘价是任何不平衡之前的初始价值价格。
+
+<<<PDFPAGE 243 | images=0>>>
+161
+Theportionthatmakesrangebetweentheopenandcloseisreferredtoasrange
+expansionandthisisadynamicpriceimbalance.
+在开盘价和收盘价之间形成区间的部分被称为区间扩张，这是一种动态的价格失衡。
+<<<PDFPAGE 244 | images=2>>>
+162
+Openingpricejustaboveitorbelowitwhenwe’rebullish,that’swherelongsare
+accumulated.Who’saccumulatingthoselongpositions?Smartmoney.
+当我们看涨时，开盘价刚好高于或低于它，这就是多头积累的地方。谁在积累那些多
+头头寸？聪明的钱。
+Whenwe’rebullishandwe’reanticipatingabullishrangeexpansiontotheupside
+orhigherclose,wewouldbehuntingamanipulationcycleimmediatelyaftertheopen
+price.Immediatelybelowtheopeningpriceonthedailyrangewhenit’sbullish,this
+initialdropdownisverysignificantbecauseit’sgoingtoengineerwillingpartiestosell
+short.Thatsellingshortwillfloodthemarketwiththecounterpartiestosmartmoney
+wantingtobuyitatadeepdiscount.
+当我们看涨时，我们预计看涨区间会扩大到上涨或更高的收盘价，我们会在开盘价后
+立即寻找操纵周期。当它看涨时，直接低于每日区间的开盘价，这种最初的下跌非常
+重要，因为它将促使愿意卖空的各方。这种卖空行为将使市场充斥着那些希望以较低
+折扣买入的精明投资者。
+
+<<<PDFPAGE 245 | images=1>>>
+163
+
+<<<PDFPAGE 246 | images=1>>>
+164
+Thatmeansthereareindividualswhohaveprobablyalreadyenteredlongpositions
+either at or just recently near the opening price. When the price drops below the
+openingprice,itcanupsettheirlongpositions.Inotherwords,itappearstohittheir
+stop-losslevelsnottofacilitateanewlowerentrybuttoforcethemoutoftheirinitially
+well-placedpositions.
+这意味着有些人可能已经以开盘价或接近开盘价的价格进入多头头寸。当价格跌破开
+盘价时，可以打乱他们的多头头寸。换句话说，触及他们的止损位似乎不是为了让他
+们以更低的价格进场，而是为了迫使他们脱离最初的良好仓位。
+Weareobservingtwoconditionsoccurringsimultaneously:First,whenthemarket
+opens at a price below the prior session’s closing, some bullish traders are getting
+stopped out, even though their positions could have been profitable if the market
+rallied. Second, this situation is inducing a short-term shift in sentiment, turning
+sometradersbearish,astheyseethemarketbreakingbelowshort-termlows.
+我们观察到两种情况同时发生:首先，当市场以低于前一交易日收盘时的价格开盘时，
+一些看涨的交易者被止损出局，尽管如果市场上涨，他们的头寸可能是盈利的。第二，
+这种情况正在引发市场情绪的短期转变，让一些交易员看跌，因为他们认为市场将跌
+破短期低点。
+Thissequenceofeventsnotonlyclearsoutlongpositionsfromtradersusingstop-
+loss orders, but it also tricks some short-sellers into entering their positions at
+unfavorablemoments,duringanoverallbullishmarket.
+这一系列事件不仅清除了使用止损单的交易者的多头头寸，还欺骗了一些卖空者在整
+体看涨的市场中的不利时刻进入他们的头寸。
+Finally, as we interpret this, the manipulation is we’re looking how the market
+makerspairordersbypairingthesesellstopswithsmartmoneybuyinginterest,we
+canseethemanipulationcycleasitreallyisarunbelowtheopeningtoaccumulate
+longpositionsbeforethebigupmove.
+最后，当我们解释这一点时，操纵是我们正在观察做市商如何通过将这些卖出止损与
+
+<<<PDFPAGE 247 | images=1>>>
+165
+精明的资金买入兴趣配对来配对订单，我们可以看到操纵周期，因为它实际上是在开
+盘下方运行，以在大幅上涨之前积累多头头寸。
+
+<<<PDFPAGE 248 | images=0>>>
+166
+Thedistributioncycleinvolvessmartmoneystrategicallypairingtheirlongexits
+bysellingtothosewhoshowpendingbuyinterest.Thependingbuyinterestusually
+manifests as traders looking to buy above a previous high, anticipating a breakout.
+These breakout enthusiasts perceive buying above a previous high as a display
+ofstrength,andtheyarekeenonenteringsuchpositions.
+分销周期包括精明的资金通过出售给那些表现出买入兴趣的人，战略性地将他们的多
+头头寸配对。等待买入的兴趣通常表现为交易者希望在前期高点上方买入，期待突破。
+这些突破爱好者认为在前期高点之上买入是力量的展示，他们热衷于进入这样的位置。
+Atthesametime,smartmoneyaimstoselltheirlongpositionstothesebreakout
+artistswhoarewillingtobuyabovetheoldhigh,ortothoseindividualsattemptingto
+sellshortintradaybuthaveabuystopplacedabovetheintradayhigh.Smartmoney’s
+intentionistorunthepricethroughthatintradayhigh,triggeringthosebuystops,and
+thensellingtheirpositionstothem.
+与此同时，聪明钱的目标是将他们的多头头寸卖给那些愿意在旧高点上方买入的突破
+艺术家，或者那些试图在盘中做空但在盘中高点上方设置了买入止损的个人。Smart
+money的目的是让价格突破盘中高点，触发买入止损，然后将头寸卖给他们。
+Asthetradingdayprogresses,ifwewitnessasubstantialretracementlowerbefore
+the market closes, it suggests an area of distribution. This implies that the smart
+moneyisactivelysellingofftheirpositionstothebreakouttradersandthosewithbuy
+stopsabovetheintradayhigh,therebyeffectivelydistributingtheirholdingstoother
+marketparticipants.
+随着交易日的进行，如果我们在收盘前看到大幅回撤，这表明有一个分布区。这意味
+着精明的投资者正在积极地将他们的头寸出售给突破交易者和那些在日内高点以上止
+损的交易者，从而有效地将他们的头寸分配给其他市场参与者。
+Note, for equities (not Forex) typically when a big run up or down happens we
+oftenseeaconsolidationshortlyafter.Whenpricetakesoutliquidity,itlikestotake
+off,itdiditsjobbytakingpeopleoutofthemarketanditdoesn’twanttogiveretail
+anotherchancetogetbackin,sotheentrieswillbesubtleandsneaky.
+请注意，对于股票(不是外汇)来说，通常当大幅上涨或下跌发生时，我们通常会在不
+久后看到盘整。当价格抽走流动性时，它喜欢起飞，它通过把人们带出市场来完成它
+的工作，它不想再给散户一次机会重返市场，所以进场将是微妙和偷偷摸摸的。
+The typical weekly market maker cycle looks like this:
+典型的每周做市商周期如下所示:
+1. TheweekstartswithatrapmoveonSundaynightorearlyMondaymorning.
+本周开始于周日晚上或周一早上的陷阱移动。
+2. Thefollowsan ‘accumulationphase’and thesettingupofan initialhigh and
+<<<PDFPAGE 249 | images=0>>>
+167
+aninitiallowintheAsiaSession,duringwhichpriceisusuallyheldanarrow
+range.
+接下来是一个“积累阶段”,在亚洲市场形成一个初始高点和一个初始低点，在此
+期间，价格通常保持在一个狭窄的范围内。
+3. The accumulation phase is followed by Judas Swing, an engineered false
+breakoutagainsttherealintentionofthemarketmakerto‘supportorresistance
+levels’toharvesttheretailtraders’entryandstoplossordersthere.Themarket
+makerconsiderstheselevelsas‘liquiditypools’.
+累积阶段之后是JudasSwing，这是一个针对做市商的真实意图而设计的虚假
+突破，即在“支撑或阻力位”收获散户的进场和止损单。做市商将这些级别视为
+“流动性池”。
+4. Nextthemarketmakerinitiatestheactualplannedmarketmove.Thisresults
+intheformationifatrendthatcanbeslowandsteady,oritcouldbeswiftand
+furious.
+接下来，做市商启动实际的计划市场行动。这导致了一种趋势的形成，这种趋
+势可以是缓慢而稳定的，也可以是迅速而激烈的。
+London and New York Sessions: The London and New York trading sessions
+areconsideredthemostactiveandliquidsessionsintheForexandFuturesmarket.
+Duringthesesessions,thereisusuallyalotofvolatilityandpricemovement,which
+cancreatetradingopportunities.
+伦敦和纽约时段:伦敦和纽约交易时段被认为是外汇和期货市场中最活跃和最具流动性
+的时段。在这些时段，通常会有大量的波动和价格变动，这可以创造交易机会。
+AsianSession:TheAsiansessionisgenerallylessactivethantheLondonandNew
+亚洲时段:亚洲时段通常不如伦敦和纽约时段活跃
+<<<PDFPAGE 250 | images=1>>>
+168
+Yorksessions,andpricemovementscanberelativelymuted.However,theremaystill
+be trading opportunities during this session, particularly for traders who focus on
+tradingthemajorcurrencypairs.
+纽约时段，价格波动可能相对温和。然而，在这个时段可能仍然有交易机会，特别是
+对于专注于交易主要货币对的交易者。
+EndofDayTrading:ICTalsorecommendspayingattentiontoend-of-daytrading,
+whichisthelasthouroftheNewYorktradingsession.Duringthistime,theremaybe
+significantpricemovementsastraderscloseoutpositionsbeforetheendoftheday.
+This can create trading opportunities for traders who are looking to enter or exit
+positions.
+日终交易:ICT还建议关注日终交易，这是纽约交易时段的最后一个小时。在此期间，
+由于交易者在当天结束前平仓，价格可能会出现大幅波动。这可以为希望进入或退出
+头寸的交易者创造交易机会。
+MarketOpen:ICTsuggestspayingattentiontothefirst1-2hoursofeachtrading
+session,asthiscanoftensetthetonefortherestofthesession.Tradersshouldlook
+forsignificantpricemovementsandmarketreactionsduringthistime,asthesecan
+providevaluableinformationformakingtradingdecisions.
+开市:ICT建议关注每个交易时段的前1-2个小时，因为这通常会为剩下的时段定下基
+调。交易者应该在这段时间内寻找显著的价格变动和市场反应，因为这些可以为交易
+决策提供有价值的信息。
+OverlappingSessions:Thereareperiodsduringthedaywhentwotradingsessions
+are open at the same time. For example, the overlap between the London and New
+Yorksessionsisusuallyatimeofhightradingactivityandcanprovidegoodtrading
+opportunities.Tradersshouldpayattentiontothebehaviorofthemarketduringthese
+periodsandlookfortradingopportunitiesbasedonthepriceaction.
+重叠时段:一天中有两个交易时段同时开放。例如，伦敦和纽约时段的重叠通常是高交
+易活动的时间，可以提供良好的交易机会。交易者应该关注这些时期的市场行为，并
+
+<<<PDFPAGE 251 | images=0>>>
+169
+根据价格行动寻找交易机会。
+Quiet Periods: There may be times during the day when the market is relatively
+quiet, with little price movement or volatility. For example, the period between the
+closeoftheNewYorksessionandtheopenoftheAsiansessionisoftenaquietperiod.
+Duringthesetimes,tradersmaywanttoavoidtakingnewpositionsandinsteadfocus
+onmanagingexistingpositions.
+平静期:一天中可能会有市场相对平静的时候，价格波动不大。例如，纽约市场收盘和
+亚洲市场开盘之间的这段时间通常是一段平静期。在这些时候，交易者可能希望避免
+建立新的头寸，而是专注于管理现有的头寸。
+EndofWeekTrading:ICTalsosuggestspayingattentiontoend-of-weektrading,
+asthiscanbeatimewhentraderscloseoutpositionsaheadoftheweekend.Traders
+shouldbeawareofpotentialliquidityissuesandincreasedvolatilityduringthistime,
+aswellasthepotentialfor“weekendgaps”whenthemarketreopensonSunday.
+周末交易:ICT还建议关注周末交易，因为这可能是交易员在周末前结清头寸的时候。
+交易者应该注意这段时间潜在的流动性问题和波动性增加，以及周日市场重新开放时
+“周末缺口”的可能性。
+<<<PDFPAGE 252 | images=2>>>
+170
+Weekly Bias - Excellence In Short Term Trading
+周偏差——优秀的短线交易
+MarktheweeklyopeningpriceinyourchartandextenditallthewaytoFriday.
+在你的图表上标出每周的开盘价，一直延伸到周五。
+Leaveitonyourchart.
+把它留在你的图表上。
+• We are looking for a power of three formation on the weekly range, so
+Accumulation(A),Manipulation(M)andDistribution(D).
+我们在寻找周线的三次方形态，即积累(A)，操纵(M)和分配(D)。
+• Lookatthemonthlyandtheweeklychartstoseewhatyouexpect;arewegoing
+tomovehigherorlower?
+看看月线图和周线图，看看你的预期是什么；我们是往高处走还是往低处走？
+• Weeklyhigh/lowisbetweenSundayandWednesday(oftenbeforeNYopen-
+before7AM).OnTuesdayICTisreallyactivelookingatLondonopen,because
+youwanttobuyorsellclosetotheweeklylow/high.
+每周的最高价/最低价在周日和周三之间(通常在纽约开盘前-早上7点前)。周二，
+ICT非常积极地关注伦敦开盘，因为你想在接近每周低点/高点的位置买入或卖
+出。
+WeeklysmartmoneyviewforBullishconditions:
+看涨条件下的每周精明资金观点:
+Weekly low forms between Sunday and Wednesday. Odds increase between
+Tuesday and Wednesday. Focus on Tuesday Low until Wednesday NY. If it doesn’t
+happenonTuesday,anticipateittohappenonWednesday.
+周低点在周日和周三之间形成。周二和周三的几率会增加。关注周二低点，直到周三
+纽约。如果星期二没有发生，那就预期它会在星期三发生。
+IfWednesdayputsinthelowandwegolower,standsidewaysontheday.Stopand
+submittothefactyouarewrong.Itwillhappen,ithappenedtome.
+如果周三出现低点，我们下跌，当天横盘。停下来，承认你错了。它会发生，它发生
+在我身上。
+Example(1htimeframe;wecanseetheentireweeklyrange).
+Purplehorizontalline=Sundayopening.
+示例(1h时间范围；我们可以看到整个一周的范围)。紫色横
+线=周日开盘。
+
+<<<PDFPAGE 253 | images=0>>>
+151
+151
+• We’rebullish,sowewaitforadropdownfromtheweeklyopeningprice(which
+is the Judas Swing). If we rise from the opening, we’re not interested. ICT
+doesn’ttrustthehighsetonMonday,helikestoseetheMonday’srangefirst
+togive him insights. If theweek makes its lowon Monday, he’s missing that
+becausehelikestositonthesidelines.HelooksforlowerlowonTuesdayor
+Wednesdayatsomekeylevel.
+<<<PDFPAGE 254 | images=0>>>
+172
+W
+e
+'
+r
+e
+看
+涨
+，
+所
+以
+我
+们
+等
+待
+从
+周
+线
+开
+盘
+价
+下
+跌
+(
+这
+是
+犹
+大
+摆
+动
+)
+。
+如
+果
+我
+们
+一
+开始就站起来，我们就不感兴趣。ICT不相信周一的高点，他喜欢先看看周一
+的波动范围，以获得洞察力。如果本周在周一跌入低谷，他会错过，因为他喜
+欢袖手旁观。他会在周二或周三的某个关键点位寻找更低的低点。
+<<<PDFPAGE 255 | images=0>>>
+
+<<<PDFPAGE 256 | images=0>>>
+152
+• If we trade above the opening price on Tuesday/Wednesday, he permits
+Wednesday/Thursdayaretracementbacktoweeklyopeningpriceassupport
+beforeexpandinghigher.
+如果我们在周二/周三交易高于开盘价，他允许周三/周四回撤至周线开盘价作
+为支撑，然后继续上涨。
+• IfwetradeabovetheopeningpriceonWednesday,itshouldnotcomedownto
+openingprice.ThealgowantstoexpendawayafterWednesday,becauseitonly
+hasNYopeningtillFridayclose.Ifitdoes,expectconsolidationfortherestof
+theweekorreversal.
+如果我们在周三交易高于开盘价，它不应该下降到开盘价。算法想要在星期三
+之后消耗掉，因为它只有直到星期五关闭的任何开放。如果是这样，预计本周
+剩余时间将出现盘整或反转。
+WeeklysmartmoneyviewforBearishconditions:
+看跌条件下的每周精明资金观点:
+• Weekly high forms between Sunday and Wednesday (often before NY open
+周日和周三之间的周高点(通常在纽约开市前)
+- before 7 AM). Odds increase between Tuesday and Wednesday. Focus on
+Tuesday London Open till Wednesday NY. If it doesn’t happen on Tuesday,
+anticipateittohappenonWednesday.
+-早上7点前)。周二和周三的几率会增加。关注周二伦敦公开赛，直到周三纽
+约。如果星期二没有发生，那就预期它会在星期三发生。
+• Example(1htimeframesowecanseetheentireweeklyrange).Purplehorizontal
+line=Sundayopening.OnTuesdayyouseeequalhighsofFridayandMonday
+tobetaken.
+示例(1h时间框架，以便我们可以看到整个周范围)。紫色横线=周日开盘。周二
+你会看到周五和周一同样高的价格。
+<<<PDFPAGE 257 | images=3>>>
+153
+Notethatwhenpriceexpandsawayfromweeklyopeningprice,itdoesn’tcome
+back.
+注意，当价格远离周线开盘价时，它不会回来。
+
+<<<PDFPAGE 258 | images=0>>>
+154
+Introduction to the Concept of Equilibrium and Discounts/
+Premium in the Market
+介绍市场均衡和折价/溢价的概念
+Another important concept related to Power of 3 is the idea of equilibrium and
+discounts/premiuminthemarket.Let’sexplorethisconcept:
+与3的幂相关的另一个重要概念是市场中的均衡和折扣/溢价的思想。让我们来探讨一
+下这个概念:
+1. Equilibrium: In trading, equilibrium refers to a balanced state where supply
+anddemandarerelativelyequal.Itrepresentsafairvalueforanassetbasedon
+marketdynamics.Understandingtheconceptofequilibriumcanhelptraders
+assesswhetheranassetisovervaluedorundervalued.
+均衡:在交易中，均衡是指供求相对平等的平衡状态。它代表基于市场动态的资
+产公允价值。理解均衡的概念可以帮助交易者评估资产是被高估还是被低估。
+2. Discounts:Whenanassetistradingbelowitsfairvalueorequilibrium,itissaid
+tobe trading at a discount.This presents an opportunityfor traders toenter
+buysinthemarketatafavorableprice.Identifyingdiscountcanhelptraders
+findpotentialbuyingopportunities.
+折价:当一项资产的交易价格低于其公允价值或均衡价格时，我们称之为折价交
+易。这为交易者在市场上以有利的价格买入提供了机会。识别折扣可以帮助交
+易者找到潜在的购买机会。
+3. Premium:Whenanassetistradingaboveitsfairvalueorequilibrium,itissaid
+tobetradingatapremium.Thispresentsanopportunityfortraderstoenter
+sellsinthemarketatafavorableprice.Identifyingpremiumcanhelptraders
+findpotentialsellingopportunities.
+溢价:当一项资产的交易价格高于其公允价值或均衡价格时，我们称之为溢价交
+易。这为交易者提供了一个在市场上以有利的价格卖出的机会。识别溢价可以
+帮助交易者找到潜在的卖出机会。
+“Judas Swing” is a term used in trading to describe a deceptive price
+move intended to shake out retail traders before the market turns in the
+desired direction. This manipulation tactic is commonly employed by
+larger players like institutions and banks to trigger stop-loss orders and
+“犹大摇摆”是交易中的一个术语，用来描述一种欺骗性的价格波动，目的是在市场转
+向预期的方向之前动摇散户。这种操纵策略通常被机构和银行等较大的参与者用来触
+发止损单
+accumulate positions at more favorable prices.
+以更优惠的价格积累头寸。
+<<<PDFPAGE 259 | images=1>>>
+155
+
+<<<PDFPAGE 260 | images=0>>>
+156
+WhenJudasSwingForms–Essentiallyisastopraidthatmanytimestradesinto:
+当犹大摇摆形成时，本质上是一个多次交易的停止突袭:
+1. KeySupportandResistanceLevel
+关键支撑位和阻力位
+2. PreviousHighorLow
+前期高点或低点
+3. Counter-SwingtoFormOTE
+反摆形成OTE
+4. RaidthePreviousWeekHighorLow
+突袭前一周的高点或低点
+5. RaidthePreviousSessionHighorLow
+Raid前一个会话高或低
+6. RaidingIntrasessionofHighandLow.
+在高高低低的季节里突袭。
+1)IftradingLondonOpen,lookforAsianstopstoberaided.
+如果伦敦股市开盘，寻找亚洲止损点。
+2) IftradingNYSession,identify15minsorderflow,thenyouneedtoidentify
+如果在纽约交易，确定15分钟的订单流，那么你需要确定
+BSL/SSLbefore9:30amindices.
+上午9:30之前的BSL/SSL指数。
+Tradingwindowperiodisfrom9:30-10:00amNYtime.
+交易时段为纽约时间上午9:30-10:00。
+Whensignificantmarket-movingnewsisreleasedat8:30am,itoftenmeansthat
+当影响市场的重大消息在早上8:30发布时，通常意味着
+therewon’tbeaJudasSwingat9:30am.
+上午9:30不会有犹大秋千。
+<<<PDFPAGE 261 | images=5>>>
+157
+London Judas Swing
+伦敦犹大秋千
+LookforanAsianrangeinatightconsolidation.
+在紧密盘整中寻找亚洲区间。
+Look foran initialrun-up/run-downthat tripstraders in. At thispoint,buy/sell
+stopsarehit, andtraders are now long/shortona breakout.Wait forthemarket to
+tradedown/upbelow/abovetheAsianrangelow/hightotakethestops.Anticipatea
+sweepofabout5-10points(ES)/20-25points(NQ)or10–20pips.
+寻找让交易者陷入困境的初始上涨/下跌。此时，买入/卖出止损被触及，交易者现在
+在突破时做多/做空。等待市场向下/向上交易，低于/高于亚洲范围的低点/高点，以
+止损。预期大约5-10点(ES)/20-25点(NQ)或10-20点。
+Themovebelow/abovetheopeningpriceistheICTJudasSwing.Thisisabullish/
+bearishJudasSwingandcreatesthelow/highofthedayinsidetheLondonsession.
+低于/高于开盘价的波动是ICT犹大波动。这是一个看涨/看跌的犹大摆动，并在伦敦
+时段创造了当天的低点/高点。
+[LondonJudasSwing]
+[伦敦犹大秋千]
+
+<<<PDFPAGE 262 | images=1>>>
+158
+DuringtheNewYorkSession,therearetwopossiblescenariosforaJudasSwing
+thatweanticipate.
+在纽约时段，我们预计有两种可能的犹大摇摆情景。
+The first scenario occurs at 9:30am. In this case, we are looking for short-term
+SSL/BSLtobetakenout,followedbyanimmediatereversal.AsImentionedearlier,
+theJudasSwinginvolvesafakemove,soafterittakesouttheliquiditylevel,wewant
+toseeareversalrightfromthatpoint.
+第一个场景发生在上午9:30。在这种情况下，我们希望短期SSL/BSL被淘汰，然后立
+即反转。正如我前面提到的，犹大波动包含了一个虚假的波动，所以当它降低了流动
+性水平后，我们希望看到从那个点开始的反转。
+Thesecondscenarioappliesonlywhenwehavenewsat10:00am.Whennewsis
+scheduled for 10:00am, we do not expect to see a Judas Swingat 9:30am. Instead,
+wewaitbetween10:00amand10:10amfortheliquidityleveltobetakenout,giving
+us the Judas Swing, followed by an immediate reversal. Typically, our target is the
+oppositeliquiditylevel.
+第二种情况只适用于我们在上午10:00有新闻的时候。当新闻安排在上午10:00时，我
+们不希望在上午9:30看到犹大摆动。相反，我们在上午10:00到10:10之间等待流动性
+水平消失，给我们犹大摆动，然后立即反转。通常，我们的目标是相反的流动性水
+平。
+It’simportanttonotethatthesescenariosarebasedontheconceptoftheJudas
+SwingasdiscussedbytheInnerCircleTraderorothertraderswhoutilizethisstrategy.
+Aswithanytradingapproach,it’scrucialtoconductthoroughanalysis,managerisks
+effectively,andadaptthestrategytosuityourindividualtradingstyleandgoals.
+值得注意的是，这些情景是基于内圈交易者或其他使用这种策略的交易者讨论的犹大
+摆动的概念。和任何交易方法一样，进行彻底的分析，有效地管理风险，调整策略以
+适应你个人的交易风格和目标是至关重要的。
+
+<<<PDFPAGE 263 | images=0>>>
+159
+[NewYorkJudasSwing]
+[纽约犹大秋千]
+<<<PDFPAGE 264 | images=4>>>
+160
+[NewYorkJudasSwing]
+[纽约犹大秋千]
+<<<PDFPAGE 265 | images=2>>>
+161

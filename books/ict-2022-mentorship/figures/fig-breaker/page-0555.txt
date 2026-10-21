@@ -1,0 +1,27 @@
+451
+BUT! Despite its name, a breaker block in trading is not always a reversal pattern,
+it can signal the continuation of a trend. To determine the trend of the market, you
+need to consider the formation of higher highs (HH) and higher lows (HL) for a bullish
+trend and lower lows (LL) and highs (LH) for a bearish one. A breaker is formed after
+the formation of a new HH or LL during an impulse breakout of an order block.
+但是！尽管名字如此，交易中的突破块并不总是反转形态，它可以预示趋势的延续。
+要确定市场的趋势，你需要考虑看涨趋势的更高高点(HH)和更高低点(HL)的形成，
+以及看跌趋势的更低低点(LL)和高点(LH)的形成。在订单块的脉冲突破过程中，在新
+的HH或LL形成之后，形成了一个突破。
+A bullish breaker block is formed on a downtrend. After the upward momentum,
+speculators go long on the blue zone retest.
+在下降趋势中形成了看涨突破块。上涨势头过后，投机者在蓝色区域重新做多。
+Bullish Breaker – a bullish range or up-close candle in the most recent Swing
+High prior to an Old Low being violated. It becomes valid once stops are taken below
+aprevious low and breaks above the Swing High that contains the breaker candle.
+牛市破坏者–在突破旧低点之前，最近的波动高点中的看涨范围或上涨蜡烛线。一旦
+止损点低于前一个低点，并突破包含蜡烛线的波动高点，它就有效了。
+To identify bullish breakers, traders must first identify a failed bearish order block.
+This happens when liquidity is taken to the downside, later causing the bearish order
+block to fail. Once identified, traders can take advantage of these bullish breakers by
+entering the market and taking advantage of price reversals.
+为了识别多头破发者，交易者必须首先识别失败的空头订单块。当流动性下降时，就
+会发生这种情况，随后导致看跌订单块失效。一旦确认，交易者可以通过进入市场和
+利用价格反转来利用这些看涨突破。
+Key Elements – Low – High – Lower Low – Higher High.
+关键要素–低–高–低–高。

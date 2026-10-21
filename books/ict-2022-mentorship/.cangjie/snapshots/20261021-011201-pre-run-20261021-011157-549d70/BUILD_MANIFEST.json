@@ -1,0 +1,53 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\daily-bias-checklist.md": "d55f78cd99ac90cbbadddcd47d32452cf0ce2a70332a94b61ba37e66e98cdf2f",
+    "references\\capabilities\\daily-static-anchors.md": "a6de4fc48fb57eb6a199a949787ade2c5b7e1259b6d5c8245e694aead775ee7e",
+    "references\\capabilities\\fvg-three-candle.md": "ad05bacfdb9c8570423957e0fb112f85dc7345a6b588a743020b6eed8aabfb41",
+    "references\\capabilities\\high-probability-entry-risk.md": "c6ed6e5bee4a61b1ab93312036f1592ada211ef98597ff3a5efe639c5268e212",
+    "references\\capabilities\\ict-2022-model.md": "890f56809aaf04fd3fdb89949a94a27d289617efe7bbf9adc63a690992b7b88e",
+    "references\\capabilities\\liquidity-dol-state-machine.md": "3ca2e5553e6b4f12a066531346f73f639af66a7ce926cb4f0affde8d3c9d3713",
+    "references\\capabilities\\mss-displacement-gate.md": "0e3c77d88d06f38b86498739cbc7b2fd3ba35e8e42196af40a3071624786edde",
+    "references\\capabilities\\ny-scalp-nine-step.md": "9e4b3b7999b2198f6d4d3c06339154563af871c9c351c687092ce8b5f881d78a",
+    "references\\capabilities\\ote-entry-zone.md": "430d0abf47e0bbf81c4caae22c867d658e46a866b83ab2d4a6b3175006b804d9",
+    "references\\capabilities\\pd-array-block-dictionary.md": "5cca0411a9168ec7d6fad3d49d63da544f147dc967a3aa825e7f0e9e907a5e09",
+    "references\\capabilities\\po3-amd-state-machine.md": "d46c2cdcc6a596f2d3b526b56f2b591af523fd831d245d1c7269b1ac6013526c",
+    "references\\capabilities\\session-taboo-filter.md": "b7ec78bca4f29cc02d4d91749dbe104ab9321d836a05a7554d991ae144ad5907",
+    "references\\capabilities\\smt-divergence-confirm.md": "b36c93a11ffd27dc197e7720cb8a613f7d1666fcff6b765ed160f15c0fcba4f2",
+    "references\\capabilities\\top-down-workflow.md": "c588210bc40ae6ba0703b8dbb2fa079e3c97d0345f260ddd36e144994dcb57a2",
+    "references\\capabilities\\turtle-soup-entry.md": "8d6eb90917e82be756c01d93b0b5719c723073cffeb9f94e863f0f2b2cc369a8",
+    "references\\capability-index.md": "2c3536d3dbba6193dcbf2dff7e76cd337fd0db4940b245d84cb9d129e3e3f200",
+    "references\\cheatsheet.md": "db25c5219c776134176195efd36294863c0aa80c4caacb69d8770163d1f4974d",
+    "references\\glossary.md": "65ff4bb0021f063f7aa607da825861270ebbe799cba7eb101043fbd6190409ae",
+    "references\\overview.md": "35a75bbb6652faca6cc0551c66a318470ca552234dd63856eb918015cbf2a294",
+    "resources\\figures\\breaker-p0555\\figure-notes.md": "88dc753b61ee2387e9d966ba350356e7cf82f6766d7cb3fdb1bafeeafc642b2d",
+    "resources\\figures\\breaker-p0555\\page-0555.png": "9d93aaf2be5969ff9ec9000f6f82d600921b0748a2add7693e225e6b8eb393d1",
+    "resources\\figures\\fvg-p0147\\figure-notes.md": "20eb7c5f8f82d5be15e224093acd5d320c56bb05a271ac252838aa3f742022db",
+    "resources\\figures\\fvg-p0147\\page-0147.png": "2ba2bd33c6d0b8d0a3fb77066261b5bb31ffe4f96b32dc11d418ffb3a34c610c",
+    "resources\\figures\\model-p0407\\figure-notes.md": "aaf29028159e38a566ef67ae4f342b877eda56aacb8306004ff965c401f6e73e",
+    "resources\\figures\\model-p0407\\page-0407.png": "783546b9592c9d86b0517d2d449648d0f2e8a250e5a09a4f2bef1bcc6c594c11",
+    "resources\\figures\\po3-p0224\\figure-notes.md": "9df4b6fb78f710331ec2a635a92569f4355301d2f32c211739a1026605be84ec",
+    "resources\\figures\\po3-p0224\\page-0224.png": "a56768d1ec0a8ab95e26df4d6a120663a652c22a42c5131847736933d599e84f",
+    "SKILL.md": "9d7083a3646790c0ff7eff5de58e910a724e0988238f03213d68ec91134cf70f"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.ict-2022-mentorship",
+  "bundle_sha256": "2fab7bb3aebc0a9a9f98c87ae733195dac94d2d47b0e5f2ccc6b3b4cad975509",
+  "variant": "single",
+  "run_id": "run-20261020-234229-b0952c",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 7,
+    "capability_count": 15,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 7 个晋级 Skill，共 8 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}

@@ -1,0 +1,8 @@
+421
+Bullish and Bearish Order Flow
+看涨和看跌订单流
+In a bullish order flow, buyers dominate the market, driving prices higher. As a
+result, the market tends to seek buyside liquidity above the previous day’s highs.
+Conversely, in a bearish order flow, sellers dominate the market, pushing prices lower.
+The market then seeks sellside liquidity below the previous day’s lows.
+在看涨的订单流中，买家主导市场，推高价格。因此，市场倾向于寻求高于前一天高

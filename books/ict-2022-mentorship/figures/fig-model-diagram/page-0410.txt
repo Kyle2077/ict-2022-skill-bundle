@@ -1,0 +1,20 @@
+306
+5. The gap in the FVG candles must be on the Equilibrium line (50%) or on the
+side of the Liquidity (i.e. the better side).
+FVG蜡烛线的缺口必须在平衡线上(50%)或流动性的一边(即较好的一边)。
+6. Place Limit Order inside the FVG at the Equilibrium or on the better side of
+Equilibrium.
+在均衡点或均衡点较好的一边的FVG内设置限价单。
+1.
+Liquidity grab. (Old highs/lows or other HTF PD Arrays
+流动性掠夺。(旧高点/低点或其他HTF PD阵列
+2. Displacement
+排水量
+3. Market Structure Shift (MSS)
+市场结构转变(MSS)
+4. FVG/OB above or below 50% fib of the Displacement Range
+FVG/OB高于或低于位移范围的50% fib
+5. Return to FVG or OB.
+返回FVG或OB。
+6. Solid Risk Reward Ratio.
+可靠的风险报酬率。

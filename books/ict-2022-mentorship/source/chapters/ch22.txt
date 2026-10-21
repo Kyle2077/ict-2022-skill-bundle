@@ -1,0 +1,198 @@
+
+<<<PDFPAGE 482 | images=3>>>
+378
+Chapter 22
+第22章
+General Range Trading Rules
+一般范围交易规则
+1) The high / low that led to a sweep of the opposite side
+导致对面横扫的高/低
+Thisoneisabittrickiertospot,asyoumighttrytousethefirsthighasrangehigh,
+butthemidrangeisnotquiteliningup.Therelevanthighhereistheone,thatledto
+thesweepoftherangelow.
+这是一个有点棘手的发现，因为你可能会尝试使用第一个高作为范围高，但中音并不
+完全一致。这里的相关高点是导致范围低点扫描的高点。
+2) The high / lows before the sweep of the same side
+同侧扫描前的高点/低点
+
+<<<PDFPAGE 483 | images=2>>>
+379
+3) Equal Highs & Lows
+高低相等
+Thisoneshouldbeobvious,asequallowsandhighsareusuallyeasytospotand
+givecleartargetsthatgetsweptmostofthetime.
+这应该是显而易见的，因为相等的低点和高点通常很容易发现，并给出大部分时间被
+扫过的明确目标。
+4) Previous daily, weekly, monthly range
+以前的每日、每周、每月范围
+Thisoneisagreatwaytospotdaily,weekly,ormonthlyranges.Simplyzoomout
+tothedesiredtimeframeandtakethehighandthelowofthecandle.Somepeople
+takethewicks,othersonlyincludethebodiesofthecandles.Again,justhavealook
+whatworksbestwiththemidrangeandgofromthere.
+这是发现每日、每周或每月范围的好方法。只需缩小到所需的时间框架，并采取高和
+低的蜡烛。有些人拿走了蜡烛芯，有些人只拿走了蜡烛体。同样，只要看看什么是最
+适合中音的，然后从那里开始。
+
+<<<PDFPAGE 484 | images=1>>>
+380
+
+<<<PDFPAGE 485 | images=1>>>
+381
+Monday Range
+周一范围
+TheMondayRangeisthepricerangebetweenMonday´shighestandMonday´s
+lowestprice.Waitforarangetoform,spotrunonbuystopsorsellstopstogiveyou
+clearinvalidation,tradeittotheoppositesideoftherange.
+周一范围是周一最高价和最低价之间的价格范围。等待一个区间形成，在买止点或卖
+止点运行，给你明确的无效，交易到区间的另一边。
+Buttherearealsosomedifferencesandnuancestoit:
+但也有一些差异和细微差别:
+Different from general range trading, this play is more time-dependent, as you
+与一般的区间交易不同，这种交易更多的是依赖于时间，因为你
+can´ttradeitonMondays,astherangehasn´tformedbythen.
+不能在周一交易，因为那时范围还没有形成。
+Hereisanapproach:
+这里有一种方法:
+
+<<<PDFPAGE 486 | images=0>>>
+382
+• Mondayisforobserving,IjustwaitfortheMondayRangetoform.
+周一是用来观察的，我只是在等待周一区间的形成。
+• AfterMondayclose,Imarkthehighandthelow.Still,nottradingyet,asI´m
+waitingforonsidetogettakenoutANDbebackinside.(Pricemovingtoofar
+away and not breaking back inside the range makes it more difficult to spot
+possibleplaysrightaway).
+周一收盘后，我标记高点和低点。尽管如此，还没有交易，因为我在等待一方
+被拿出来，回到里面。(价格波动太大，没有回到区间内，很难立即发现可能的
+交易)。
+• Afterarunonbuyorsellstopshappened,Istartlookingforpositions.
+在买入或卖出止损发生后，我开始寻找头寸。
+<<<PDFPAGE 487 | images=1>>>
+383
+• Price back insideusuallygives arelatively highprobability, that theopposite
+sideoftherangegetstakenoutnextsoonerorlater.I´mlookingtoenterafter
+ashiftinmarketstructure.
+价格回到内部通常给出了一个相对较高的概率，范围的另一边迟早会被拿出
+来。我希望在市场结构转变后进入市场。
+Some weeks only one side gets taken out and turns into support/ resistance, or
+pricejustexpandedsofarawayfromtheMondayRange,thatit´seitherunlikelyto
+comeback,oristoofarawaytosetproperinvalidationpointsafteritgotbackinside
+(atleastforthissetup).Wheneverthisisthecase,Ijuststayawayfromthisplay-or
+checkfordifferentpairs.
+有些周，只有一面被拿出来，变成了支撑/阻力，或者价格与周一的范围相差太远，它
+不太可能回来，或者太远了，以至于在它回来后无法设置正确的失效点(至少对于这个
+设置来说)。每当出现这种情况，我就远离这种打法——或者检查不同的对子。
+Hereisanexample:lowgotswept,whatmarksanHTFareaofinterestforlongs.
+It´sliningupwithMondaylow,thatgotsweptformingequallows.Thesegottaken
+outfollowedbyaMSSandarallytothehighs.
+这里有一个例子:低得到席卷，这标志着HTF地区的兴趣多头。它与周一的低点一致，
+被扫形成相等的低点。这些都被取出，然后是一个MSS和反弹到高点。
+As HTF order flow is bearish in this example, chances are high this could be
+a bearish continuation range. As we don´t know, it´s best to TP at the midrange
+(50%oftherange) tomakeitrisk-free.
+由于HTF订单流在本例中是熊市，这很可能是一个熊市延续区间。正如我们所不知道
+的那样，最好在中档(50%的范围)进行TP，以使其无风险。
+
+<<<PDFPAGE 488 | images=1>>>
+384
+Daily Range
+日变化
+Theconceptaroundtradingthe“DailyRange”buildsuponbasicallytwonarratives:
+围绕“日线范围”交易的概念建立在两个基本的叙述之上:
+1. AsiaSessionisconsolidating.
+亚洲时段盘整。
+2. AsiaSessionistrendingwithacleardirection.
+亚洲时段趋势明确。
+AsiaSessionin
+consolidation整合中
+的亚洲时段
+LondontakesBSLor
+SSL,thenreverses伦敦
+采取BSL或SSL，然后
+逆转
+NYReversesclearing
+BSL/SSLfromLondon
+纽约撤销从伦敦清算
+BSL/SSL
+Session
+会议
+AsiaSessionis
+trendingwithaclear
+亚洲市场趋势明显
+direction方向
+LondonfollowsAsia’s
+directionaltrend伦敦
+追随亚洲的方向趋势
+NYcontinuesor
+reverseatLondonClose纽
+约继续或在伦敦收盘时逆
+转
+Themostimportantthingtokeepinmind,nomatterwhereyouaretrading,ishow
+eachsessionisframingthecontextofthefollowingsession: Asia Session—>creates
+biasfor—> London Session—>createsbiasfor—> New York Session
+<<<PDFPAGE 489 | images=0>>>
+385
+无论你在哪里交易，最重要的是记住每个交易时段是如何构建下一个交易时段的:亚洲
+会议—>为—>制造偏见伦敦时段—>为—>制造偏见纽约时段
+<<<PDFPAGE 490 | images=0>>>
+386
+LondonOpenKillZone伦敦开放
+杀伤区
+NYKillZone纽约杀戮地
+带
+Usuallygivestheclearest+biggest
+Swing:LondonSwing通常给出
+最清晰+最大的摆动:伦敦摆动
+MostlikelyreversesorretracesLOKZ
+atsomepoint很可能在某个
+时候反转或回撤LOKZ
+HighVolatilityandhighvolume
+高波动性和高容量
+Oftenmanipulatedorinfluencedby
+经常被操纵或影响
+economicnews经济新闻
+Hasthehighestprobabilityfor
+formingthelow/highoftheday最有
+可能形成当天的低点/高点
+NYKZoftentakesBSL/SSLfrom
+NYKZ经常从
+LOKZLOKZ
+JudasSwing犹大秋千
+Example one:AsiaSessionisconsolidating(10-15points(ES/SP500)asarule
+ofthumb):
+例子一:亚洲时段处于盘整状态(根据经验，10-15分(ES/SP500)):
+1. Asiaranging—> Consolidation.
+亚洲范围->合并.
+2. LondontakesoutBSL/SSLfromAsia(AsiaHigh/Low)akathe“JudasSwing”
+伦敦从亚洲(亚洲高/低)拿出BSL/SSL，又名“犹大摇摆”
+—> Expansion targeting the opposite side.
+—>针对对面的扩展.
+3. Pricesetslow/highwithinLOKZandreverses(“LondonSwing”)—> Reversal.
+价格在LOKZ内设定低/高，然后反转(“伦敦摇摆”)—>反转.
+4. NewYorksessionissomekindof Retracement.
+纽约时段是某种回撤.
+Example two:AsiaSessionistrending(>15points(ES/SP500)):
+例子二:亚洲时段趋势(>15点(东部/SP500)):
+Thisonecanbetricky,asLOKZwilllikelybeabitmoredifficult(orlet´ssayless
+这个可能有点棘手，因为LOKZ可能会更难一点(或者说更难一点
+clear)toenterinmyopinion.
+清除)进入我的观点。
+In this scenario, I usually try to avoid trading and wait for NYKZ to give better
+opportunities.
+在这种情况下，我通常会尽量避免交易，等待NYKZ给出更好的机会。
+The reason behind this is the following: Asia trending means a reversal during
+<<<PDFPAGE 491 | images=0>>>
+387
+LOKZisabitlesslikely.So,whatIdois,IwaitforNYKZtodevelopandenterona
+clear break of the previous trend and try to play the reversal/ retracement towards
+clearLondonBSL/SSL.
+这背后的原因如下:亚洲趋势意味着在LOKZ期间反转的可能性有点小。所以，我所做
+的是，我等待NYKZ发展，并在之前趋势的明显突破时进入，并试图向明显的伦敦
+BSL/SSL进行反转/回撤。
+1. Asiatrendingbearish.
+亚洲趋势看跌。
+2. LOKZopensinsideAsiaPremium,thenfollowsthedirectionaltrendoftheAsia
+Session.
+LOKZ在AsiaPremium内开盘，然后跟随亚洲时段的方向趋势。
+3. NYKZreversesandtakesBSLfromLOKZandtheAsiaRange.
+NYKZ逆转并从LOKZ和亚洲范围内夺取BSL。

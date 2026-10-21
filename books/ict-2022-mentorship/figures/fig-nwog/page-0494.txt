@@ -1,0 +1,22 @@
+390
+C.E. - Consequent Encroachment or “middle point” of any Gap or Inefficiency.
+首席执行官。-任何差距或低效率的结果侵占或“中间点”。
+The difference between two consecutive candles’ closing price and opening price is
+called the gap. A gap occurs when prices skip between two trading periods, skipping
+over certain prices. A gap creates a void on a price chart. Price gaps are simply areas
+on the chart where no trading has taken place.
+两根蜡烛的收盘价和开盘价之差称为差距。当价格在两个交易周期之间跳跃，跳过某
+些价格时，就会出现缺口。一个缺口在价格图上造成一个空白。价格差距是图表上没
+有交易发生的区域。
+ICT: “Having the prior 4 weeks NWOG on your chart gives you an X-ray view of
+how the algorithm will refer back to old areas of real FAIR VALUE”.
+信息和通信技术:“在你的图表上有前4周的NWOG给你一个X射线视图，该算法将如何
+回到真实公允价值的旧领域”。
+It is important to understand that the Up-gap acts as a support zone and the down
+gap acts as a resistance zone.
+重要的是要明白，上缺口作为支撑区，下缺口作为阻力区。
+Why should we have NWOG/NDOG on our chart? Because institutions will want
+to fill the gap before big move. As I mentioned above this kind of gaps are strong
+support and resistance.
+为什么我们的图表上应该有NDOG恩多格？因为机构会希望在大动作之前填补空白。
+正如我上面提到的这种缺口是强有力的支撑和阻力。

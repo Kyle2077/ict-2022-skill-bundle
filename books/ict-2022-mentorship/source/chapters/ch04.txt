@@ -1,0 +1,96 @@
+
+<<<PDFPAGE 80 | images=1>>>
+52
+Chapter 4
+第四章
+Market Structure Shifts
+市场结构转变
+MarketStructureShift(MSS)-isashiftindirectionofpricedelivery.Whenprice
+isgoinginadirectionandshiftstotheexactlyopposite.Itoccurswhenpricetakesout
+previousshort-termlowsorhighswithinatrend.Identifyingtheseshiftsallowsforan
+understandingonwhichsideoftvhemarkettobetradingwith.
+市场结构转变(MSS)-是价格传递方向的转变。当价格向一个方向移动，并向相反的方
+向移动时。当价格突破趋势中以前的短期低点或高点时，就会出现这种情况。识别这
+些变化有助于理解市场的哪一方在交易。
+MSS must be energetic and leave behind displacement to ensure that market is
+lookingtoreverse.
+MSS必须充满活力，并留下位移，以确保市场正在寻找反转。
+Rememberthatstructuremeansnothingwithoutnarrative.Losesightofthedraw
+onprice,HTFstructure,and restingliquidityandyouarevulnerabletobeingfaked
+out.
+请记住，没有叙述，结构就毫无意义。忽视价格、HTF结构和静态流动性的吸引力，
+你很容易被骗。
+As the ICT disciples are well aware, the foundational concept of trend analysis
+positsthatinanuptrend,priceactionformshigherhighsandhigherlows,whileina
+downtrend,priceactionmanifestsaslowerhighsandlowerlows.
+正如ICT信徒所熟知的，趋势分析的基本概念假设在上升趋势中，价格行为形成更高
+的高点和更高的低点，而在下降趋势中，价格行为表现为更低的高点和更低的低点。
+A market structure shift is depicted as a significant level on the chart where the
+prior trend is invalidated. When the market is in an uptrend, the market structure
+shiftlevelistypicallyidentifiedasapointwherealowerlowisformed.Conversely,in
+
+<<<PDFPAGE 81 | images=1>>>
+53
+adowntrend,themarketstructureshiftlevelisoftenobservedatajuncturewherea
+higherhighemerges.Notably,thesemarketstructureshiftstendtoarisefollowinga
+displacement,signalingapotentialshiftintheoveralltrenddirection.
+市场结构的变化在图表中被描述为一个重要的水平，在这个水平之前的趋势是无效
+的。当市场处于上升趋势时，市场结构转换水平通常被认为是一个形成较低低点的点。
+相反，在下跌趋势中，市场结构转换水平通常出现在一个更高的高点出现的接合点。
+值得注意的是，这些市场结构的变化往往出现在置换之后，预示着整体趋势方向的潜
+在变化。
+TheBearishMarketStructureShift
+看跌的市场结构转变
+ThemarketwillseePricedeliverarallyaboveanOldHighorHighs,thenquickly
+shiftlower.Significanceisplacedontheterm“quick”andwithDisplacementLower-
+notasmallcandlemovelowerorawickonly,afteracandleclose.
+市场将看到价格在一个或多个历史高点上方反弹，然后迅速走低。重要的是放在术语
+“快速”和位移较低-不是一个小蜡烛移动较低或灯芯，在蜡烛关闭后。
+TheBullishMarketStructureShift
+看涨的市场结构发生转变
+ThemarketwillseePricedeliveradeclinebelowanOldLoworLows,thenquickly
+市场将看到价格跌破一个或多个历史低点，然后迅速下跌
+shifthigher.Significanceisplacedontheterm“quick”andwithDisplacementHigher
+移高点。重要的是术语“快速”和更高的位移
+-notasmallcandlemovehigherorawickonly,afteracandleclose.
+-蜡烛关闭后，不要将小蜡烛或影线移得更高。
+
+<<<PDFPAGE 82 | images=1>>>
+54
+Points of Interest (POI) where Market Structure Shifts Occur
+市场结构发生变化的关注点(POI)
+AreasofSupportandResistance:MarketStructureShiftsoftenoccurwhenprice
+breaksthroughkeylevelsofsupportorresistance(e.g.sessionhighorlow).
+支撑位和阻力位:当价格突破支撑位或阻力位时，市场结构通常会发生变化(如盘中高
+点或低点)。
+It is important to note that Market Structure Shifts should not be forced or
+anticipatedwithoutvalidsignals.Tradersshouldwaitforpriceactiontovalidatetheir
+analysisbeforeconsideringaMarketStructureShift.
+值得注意的是，在没有有效信号的情况下，不应强迫或预测市场结构的变化。交易者
+在考虑市场结构转变之前，应该等待价格行动来验证他们的分析。
+High-frequencytradingalgorithmsoftenutilizeMarketStructureinformationon
+shorter timeframes, such as 5, 4, 3, 2, or 1-minute charts. These algorithms seek to
+capitalizeonshort-termpricemovementsandmaycontributetoincreasedvolatility
+duringpotentialMarketStructureShifts.
+高频交易算法通常利用较短时间范围内的市场结构信息，如5、4、3、2或1分钟图
+表。这些算法试图利用短期价格变动，并可能在潜在的市场结构变化期间增加波动性。
+Important Time Frame and Session for Liquidity:
+流动性的重要时间框架和时段:
+Highs and lows of the Asian Killzone (8:00 PM to 12:00 AM):Thisperiod
+is relevant for identifying liquidity pools and potential support/resistance levels
+establishedduringtheAsiantradingsession.
+亚洲杀戮地带的高点和低点(晚上8:00到凌晨12:00):这段时间与识别亚洲交易时段
+期间建立的流动性池和潜在支撑/阻力水平相关。
+Highs and lows of the London Killzone (2:00 AM to 5:00 AM): This
+timeframe is important for determining liquidity pools and key levels of support/
+resistancecreatedduringtheLondontradingsession.
+
+<<<PDFPAGE 83 | images=0>>>
+55
+伦敦杀戮地带的高潮和低谷(凌晨2:00到5:00):这一时间框架对于确定伦敦交易时段的流动性池和
+关键支撑位/阻力位非常重要。
+Highs and lows of the NY Session (7:00 AM to 10:00 AM):Thissessionis
+significantforidentifyingliquiditypoolsandcruciallevelsofsupport/resistancethat
+emergeduringtheNewYorktradingsession.
+纽约时段的高点和低点(上午7:00到10:00):本节对于确定纽约交易时段出现的流动
+性池和关键支撑位/阻力位非常重要。

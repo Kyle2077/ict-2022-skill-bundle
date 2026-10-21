@@ -1,0 +1,618 @@
+
+<<<PDFPAGE 266 | images=1>>>
+162
+Chapter 14
+第十四章
+Implementing Economic Calendar Events With The
+Open
+用Open实现经济日历事件
+The economic calendar is an important tool for traders and speculators in the
+financial markets. It provides a schedule of important economic events, such as
+interestratedecisions,GDPreleases,employmentreports,andotherkeydatapoints
+thatcansignificantlyimpactmarketmovements.
+经济日历是金融市场中交易者和投机者的重要工具。它提供了重要经济事件的时间表，
+如利率决策、GDP发布、就业报告和其他可能对市场走势产生重大影响的关键数据点。
+Understanding Potential Volatility and Unexpected Events
+了解潜在的波动性和意外事件
+One of the primary reasons for studying the economic calendar is to anticipate
+andmanagepotentialvolatilityinthemarkets.Economiceventscanhaveaprofound
+impactonmarketsentimentandcancausesignificantpricefluctuations.Forexample,
+
+<<<PDFPAGE 267 | images=0>>>
+163
+anunexpectedinterestratehikebytheCentralBankcanleadtoasharpsell-offinthe
+stockmarket,whilepositiveeconomicdatacan boost investorconfidence and drive
+priceshigher.
+研究经济日历的主要原因之一是预测和管理市场的潜在波动。经济事件会对市场情绪
+产生深远影响，并可能导致价格大幅波动。例如，央行意外加息可能导致股市大幅抛
+售，而积极的经济数据可以提振投资者信心，推动价格上涨。
+<<<PDFPAGE 268 | images=2>>>
+164
+Red=HighImpactExpected
+Orange=MediumImpactExpected
+Yellow=LowImpactExpected
+红色=预期的高影响柑橘=预期中等影
+响黄色=预期的低影响
+ThefocusshouldbeonHighImpactandMediumImpactNewsEvents.LowImpact
+重点应该是高影响力和中等影响力的新闻事件。低影响
+Eventsarelesssignificant.
+事件不太重要。
+
+<<<PDFPAGE 269 | images=4>>>
+165
+
+<<<PDFPAGE 270 | images=1>>>
+166
+IfMON–WEDhigh-impactnewsunabletomanipulateexternalrange,anticipate
+如果周一至周三的高影响力新闻无法操纵外部范围，预计
+potentialconsolidationreversalprofile.
+潜在的合并反转曲线。
+Analyzing the open, high, low, and close
+分析开盘、盘高、盘低和收盘
+ToeffectivelyapplythePowerThreeFormation,itisimportanttounderstandthe
+significanceoftheopen,high,low,andcloseofpricebars.Here’sabreakdownofwhat
+eachoftheseelementsrepresents:
+为了有效地运用幂三形态，理解开盘价、最高价、最低价和收盘价的重要性是很重要
+的。以下是这些元素各自代表的内容:
+• Open:Theopeningpriceofapricebarrepresentsthestartingpointofatrading
+sessionortimeframe.Itprovidesvaluableinformationaboutmarketsentiment
+atthebeginningofaperiod.
+<<<PDFPAGE 271 | images=0>>>
+167
+开盘价:价格柱的开盘价代表一个交易时段或时间框架的起点。它提供了一个时
+期开始时市场情绪的有价值的信息。
+• High: The high of a price bar indicates the highest price reached during the
+tradingsessionortimeframe.Itcansignifymarketstrengthorresistancelevels.
+高点:价格柱的高点表示在交易时段或时间段内达到的最高价格。它可以表示市
+场力量或阻力位。
+• Low: The low of a price bar represents the lowest price reached during the
+trading session or time frame. It can indicate market weakness or
+supportlevels.
+低点:价格柱的低点代表交易时段或时间段内的最低价格。它可以表明市场疲软
+或支撑位。
+<<<PDFPAGE 272 | images=1>>>
+168
+• Close:Theclosingpriceofapricebarreflectsthefinalpriceattheendofthe
+trading session or time frame. It can provide insights into market sentiment
+andpotentialreversalpoints.
+收盘:价格柱的收盘价反映了交易时段或时间段结束时的最终价格。它可以洞察
+市场情绪和潜在的反转点。
+Market Structure and Bias
+市场结构和偏见
+Market structure and bias are crucial concepts in making informed trading
+decisions.
+市场结构和偏见是做出明智交易决策的关键概念。
+Marketstructure refers to the arrangement and organization of price data on
+a chart. It helps us understand the overall market conditions and the behavior of
+marketparticipants.
+市场结构是指图表上价格数据的排列和组织。它帮助我们了解整体市场状况和市场参
+与者的行为。
+Oneimportantaspectofmarketstructureisswinghighsandswinglows.Aswing
+highisformedwhenthereisahighwithalowerhightotherightandleftofit,while
+aswinglow is formed whenthere is a low witha higher lowtotheright and left of
+it. These swing highs and swing lows provide valuable information about potential
+marketreversalsandtrendchanges.
+市场结构的一个重要方面是波动高点和波动低点。当一个高点的左右两边有一个较低
+的高点时，就形成了摇摆高点；当一个低点的左右两边有一个较高的低点时，就形成
+了摇摆低点。这些波动高点和波动低点提供了关于潜在市场反转和趋势变化的有价值
+的信息。
+
+<<<PDFPAGE 273 | images=0>>>
+169
+Marketbiasreferstothedirectionalinclinationofthemarket.Bydeterminingthe
+bias,wecananticipatewhetherthemarketismorelikelytomovehigherorlower.
+市场偏向是指市场的方向性倾向。通过确定偏差，我们可以预测市场是更有可能上涨
+还是下跌。
+Todeterminethebias,wecananalyzetherelationshipbetweentheopeningprice
+andthedailyrange.Ifthedailyrangeismorelikelytoexpandhigherthantheopening
+price,thebiasisbullish.Conversely,ifthedailyrangeismorelikelytoexpandlower
+thantheopeningprice,thebiasisbearish.
+要确定偏差，可以分析开盘价和日线区间的关系。如果日线区间比开盘价更有可能扩
+大，偏向看涨。相反，如果日线区间比开盘价更有可能扩大，则偏向看跌。
+1)Basedonwhatthemarkethaspreviouslydone,determinethecurrentFramework:
+根据市场先前的表现，确定当前的框架:
+1. DidtheMarkettakeoutanySignificantLiquidityPools?
+市场是否提取了任何重要的流动性池？
+2. DidtheMarkethitaSignificantFVG?
+市场是否遭遇了重大的FVG？
+<<<PDFPAGE 274 | images=1>>>
+170
+3. DidtheMarketcreateaMarketStructureBreakwithanDisplacement?
+市场创造了一个市场结构随着位移而断裂了吗？
+ThisisbecausePriceisFractal.WhatcanbeseenonaMonthlyChart,canbeseen
+onaDailyChart.WhatcanbeseenonaDailyChart,canbeseenona5MinuteChart.
+这是因为价格是分形的。在月图上可以看到的，在日线图上也可以看到。在日线图上
+可以看到的，在5分钟图上也可以看到。
+2)BasedonthecurrentFramework,determinethenextDrawontheLiquidity?
+基于目前的框架，确定下一次提取流动性？
+1. Dowehavecleanlowsorhighs?
+我们有干净的低点或高点吗？
+2. DowehaveanyFVG’sthatneedtoberebalanced?
+我们有需要重新平衡的FVG吗？
+Avoidthetemptationofpickingbottomsandtops.It’sasituationthatwillcause
+morelossesthannecessary.
+避免选择底部和顶部的诱惑。这种情况会造成不必要的损失。
+Retailmethodsandteachingswillgiveyoufalseconfidencethatyouareabletodo
+零售方法和教导会给你错误的信心，以为你能做到
+it.
+它。
+Ifyouarewrongbyfollowingtrend,themarketwillgiveyouachancetogetinon
+如果你跟随趋势是错误的，市场会给你一个机会
+theoppositeside.
+
+<<<PDFPAGE 275 | images=0>>>
+171
+对面。
+<<<PDFPAGE 276 | images=2>>>
+172
+3) Based on the current Dealing Range, determine whether the Market in a
+PremiumorDiscount?
+根据当前的交易区间，判断市场是处于溢价还是折价？
+Dealingrangeisthenewtradingrangeformedafterbuysideandsalesideistaken.
+交易区间是买卖双方成交后形成的新的交易区间。
+PDarrayisthedistinctionbetweenPremiumtoDiscountinsidethatdealingrange
+includingthearraylistinsidethetworanges.
+PD数组是交易范围内溢价和折价之间的区别，包括两个范围内的数组列表。
+
+<<<PDFPAGE 277 | images=1>>>
+173
+1. Apricerunwhichtakesliquidityonbothsidesofapreviousrange.
+在前一价格区间的两端都吸收流动性的价格波动。
+2. A framework which forms ICT’s PD array matrix. IE: the top/bottom of a
+dealingrangebecomesan“oldhigh/low”,thenRB,thenOB,thenFVG,etc.
+构成ICTPD阵列矩阵的框架。即:交易范围的顶部/底部变成了“旧的高/低”，然
+后是RB，然后是OB，然后是FVG，等等。
+Whentheveryfirstcandleseverprintedonanewassetclass,theonlythingwhich
+existed was a series of price runs forming a range and defined by a swing high and
+aswinglow.Once therange highand loware taken.Themovewhich ranthem out
+becomesthefirstdealingrange.
+当第一根蜡烛印在一种新的资产类别上时，唯一存在的是一系列价格运行，形成一个
+范围，由一个波动高点和一个波动低点定义。一旦取了范围的高和低。赶走他们的行
+动成为第一个交易范围。
+When your new day/session opens. The first range is the opening range. When
+当您的新一天/会话开始时。第一个范围是开盘范围。当...的时候
+bothsidesofanopeningrangehavebeentaken,thatrunisconsideredadealingrange.
+一个开盘价区间的两边都被占据，这种运行被认为是一个交易区间。
+
+<<<PDFPAGE 278 | images=2>>>
+174
+Bearish Market Structure and Bias:
+看跌的市场结构和偏见:
+Daily Chart Mindset: Every UP Candle (or multiple) should be considered a
+SELLING OPPORTUNITY. You are waiting for price to get a key POI or above
+an openingpieceortakeBSLonaLTF. YouarethentargetingOldLowsontheDaily
+ChartorPreviousDay’sLows.
+日线图思维定势:每根上涨蜡烛线(或多根)都应该被视为卖出机会。你正在等待价格得
+到一个关键点或以上的开放一块或采取LTFBSL。然后你的目标是日线图上的旧低点
+或前一天的低点。
+
+<<<PDFPAGE 279 | images=1>>>
+175
+Bullish Market Structure and Bias:
+看涨的市场结构和偏向:
+Daily Chart Mindset: Every DOWN Candle (or multiple) should be considered
+a BUYING OPPORTUNITY. You are waiting for price to get a key POI or below an
+openingpiece ortake SSLon aLTF.You arethen targetingOld Highs on theDaily
+ChartorPreviousDay’sHighs.
+日线图思维定势:每根下跌蜡烛线(或多根蜡烛线)都应该被视为买入机会。你正在等待
+价格得到一个关键点或低于一个开放的一块或采取SSL的LTF。然后你的目标是日线
+图上的旧高点或前一天的高点。
+Close Proximity Entries [CPE]
+邻近条目[CPE]
+Powerof3consistsof3Stages:Accumulation,ManipulationandDistribution.
+BearishExample
+3的幂由3个阶段组成:积累、操作和分配。看跌的例子
+AccumulationPhase:WhenpriceistradingatandabovetheOpeningPrice,Smart
+Moneyisaccumulatinganetshortbook.
+积累阶段:当价格等于或高于开盘价时，聪明的钱正在积累净空头。
+AbovetheOpeningPriceorat“CloseProximityEntries”iswhereSmartMoneyis
+lookingtogoshort.
+在开盘价以上或“接近入口”的位置，聪明的资金正在寻找做空的机会。
+<<<PDFPAGE 280 | images=0>>>
+176
+ManipulationPhase:TheFalsePriceMovecausedatMarketOpeningsorpriorto
+newsreleasesisaformofManipulation.
+操纵阶段:在市场开盘时或新闻发布前造成的虚假价格变动是操纵的一种形式。
+TheFalsePriceMoveisintendedtoleadRetailTradersonthewrongsideofthe
+Market.ICTcallsthisaJudasSwing.
+错误的价格变动旨在将散户投资者引向市场的错误一边。ICT称之为犹大摇摆。
+DistributionPhase:DistributioniswhereoppositesideoftheCandleformsinto
+theclosingoftheCandle(wheretheexpansionoccurs).
+分配阶段:分配是蜡烛的反面形成蜡烛的结束(膨胀发生的地方)。
+ThisiswhereSmartMoneydistributestheiraccumulationofShorts.
+这是聪明的资金分配他们积累的空头的地方。
+WecanexpecttheDistributionCycletotakeplacearound3:30-3:45PMNYTime.
+我们可以预计分发周期发生在纽约时间下午3:30-3:45左右。
+<<<PDFPAGE 281 | images=2>>>
+177
+YoudoNOTneedtopredictwheretheLowwillformorwherethecandlewillclose
+tobePROFITABLE.
+你不需要预测低点将在哪里形成，或者蜡烛线将在哪里结束才能盈利。
+TheOpeningRangedefineshowmuchmovementbelowtheOpeningyouwillallow
+开口范围定义了开口下方允许的移动量
+forHighProbabilityShortscenarios.
+对于高概率短场景。
+Theopeningrangeisaconceptusedtoidentifythehighandlowpricelevelsduring
+aspecifictimeframe.Inthecontextofindexfutures,theopeningrangeisa60-minute
+periodfrom9:30a.m.to10:30a.m.NewYorktime,withthefirst30minutesbeing
+particularly important. The opening range can help traders identify support and
+resistancelevelsthatothertradersmightnotbeawareof.
+开盘价区间是一个概念，用于确定特定时间范围内的高价位和低价位。就指数期货而
+言，开盘区间是纽约时间上午9:30到10:30的60分钟，前30分钟尤为重要。开盘价区
+间可以帮助交易者识别其他交易者可能不知道的支撑位和阻力位。
+Thisiscalled“CloseProximityEntries”[CPE].Thisisidealifyoumissedanentry
+abovetheOpeningorifyouwantto Pyramid a setup.
+这被称为“邻近条目”[CPE]。这是理想的，如果你错过了一个以上的开放或如果你想金
+字塔a设置.
+
+<<<PDFPAGE 282 | images=0>>>
+178
+Topyramidasetup,youwouldstartbyputtingyourbiggestpositiononfirst.Then,
+reducethesizeofyournextentryandcontinuetoreducethesizeforeachsubsequent
+entry.Thisapproachallowsyoutoaddtoyourpositionwhileminimizingtheriskofa
+compoundedlossifthemarketmovesagainstyou.
+要建立金字塔结构，你首先要把你最大的仓位放在第一位。然后，减小下一个条目的
+大小，并继续减小每个后续条目的大小。这种方法允许你加仓，同时在市场对你不利
+时，将复合损失的风险降到最低。
+***AbovetheOpeningPriceorat“CloseProximityEntries”iswhereSmartMoney
+islookingtogoshort.AnotherwayIcanexplain:[Openingprice]+[RangefromOpen
+toHOD],wewanttosee1:1deviationbelow.Inthis“CPE”Areaseverypotentialshort
+inadailyrangeisfound.ThisiswhereFVGs,Imbalances,Raidsoccur.
+***高于开盘价或“接近进场点”是聪明的资金寻求做空的地方。另一种方式我可以解
+释:【开盘价】+【从开盘价到HOD的区间】，我们希望看到下面1:1的背离。在这个
+“CPE”区域，可以发现日线范围内的所有潜在空头。这是fvg、失衡、突袭发生的地方。
+<<<PDFPAGE 283 | images=3>>>
+179
+OpeningRange:
+开口范围:
+StepOne:Open+HOD=OpeningRangeProjection
+StepOne:Open+HOD=OpeningRangeProjection
+StepTwo:OpeningRangeProjection-OpeningPrice=OpeningRange
+第二步:开盘价区间预测-开盘价=开盘价区间
+
+<<<PDFPAGE 284 | images=3>>>
+180
+Top Down Analysis
+自顶向下分析
+Assumingthisimpulseiscreatedonaweekly,Iwanttoidentifykeylevelswithina
+significant impulse. An ideal reference points are usually FVGs within a strong
+displacementleg.
+假设这个冲动是每周产生的，我想确定一个重要冲动的关键水平。理想的参考点通常
+是强位移段内的fvg。
+WhenweidentifyaclearimpulseonaHTF(inthiscaseweekly)wewanttoidentify
+aclearreferencepointwithintheimpulse.
+当我们在HTF(在这种情况下是周线)上确定一个明确的冲动时，我们希望在冲动中确
+定一个明确的参考点。
+
+<<<PDFPAGE 285 | images=0>>>
+181
+Now,ideallyonatimeframelower,(dailyforexample)wecanlookfortwoimpulse
+现在，理想情况下，在一个更短时间内(例如每天)，我们可以寻找两个脉冲
+confirmationsorcleardisplacement.
+确认或清除置换。
+Oncepriceit’sthatlevel,aconfirmationswillbeadisplacementleg.Thisessentially
+setsthestagetousethatareatogoonatimeframelower,tolookforapotentialbuy
+entry.
+一旦价格达到这个水平，确认将是一个替代阶段。这基本上为利用该区域在更低的时
+间框架内寻找潜在的买入机会做好了准备。
+<<<PDFPAGE 286 | images=2>>>
+182
+Insidethereferencepoint,lookingforadisplacement(FVGafterreaction).
+在参考点内，寻找位移(FVG反应后)。
+Now,what’sthepointofaHTFbreakdownifyoucan’tenterThisisprobablythe
+EASIESTentrymodelusedwhenanticipatingabiasforthedayAclearmovebelow
+the12amEasternpriceintoakeylevelfromthepriorday(s).
+现在，如果你不能进入，HTF崩溃的意义是什么？这可能是最简单的进入模型，用于
+预测一天的偏差，明显低于东部时间上午12点的价格，进入前一天的关键水平。
+Breakingdownthedailycandle,onceweidentifyapotentialbias,wecansimply
+lookforabuybiasbelowthemidnightopeningprice.
+分解日线图，一旦我们发现了潜在的偏差，我们可以简单地寻找低于午夜开盘价的买
+入偏差。
+
+<<<PDFPAGE 287 | images=0>>>
+183
+Thiscouldbearetracementintoareferencepointon4h,1hfromthepriorday(s).
+这可能是对前一天的4h、1h参考点的回撤。
+Step 1: Identify the Major Trend (4H Chart):Beginyouranalysisbylooking
+atthe4-hour(4H)charttoidentifythemajortrend.Themajortrendwillgiveyouthe
+overalldirectioninwhichyoushouldbetrading.
+步骤1:确定主要趋势(4H图):从看4小时图开始分析，找出主要趋势。主要趋势会给你
+交易的总体方向。
+<<<PDFPAGE 288 | images=1>>>
+184
+Step 2: Locate SSL and BSL levels (4H Chart):IdentifysignificantSSLand
+步骤2:定位SSL和BSL级别(4H图):识别重要的SSL和
+BSLlevelsonthe4Hchart.Theselevelswillplayavitalroleinyourtradingdecisions.
+4H图上的BSL水平。这些水平将在你的交易决策中发挥重要作用。
+Example:YouidentifyaSSLlevelforNQat15,000andforESat4,400onthe4H
+chart.
+示例:在4H图中，您确定NQ的SSL级别为15，000，ES的SSL级别为4，400。
+Step 3: Move to the 1-Hour Chart (1H Chart):Now,switchtothe1-hour(1H)
+charttogetacloserlookatpriceactionwithinthecontextoftheOrderFlow.Lookfor
+keyareasofconsolidation,buystops,andsellstops.
+第三步:转到1小时图(1H图):现在，切换到1小时(1H)图，在订单流的背景下仔细观察
+价格的变化。寻找整合的关键区域，买入止损点和卖出止损点。
+Example: On the 1H chart, you notice a run on sellstops. Internal liquidity was
+takenonNQ,indicatingapotentialreversaltotheExternalBSL(4H).
+例子:在1H图上，你注意到了止损点。NQ获得内部流动性，表明外部BSL(4H)可能逆
+转。
+<<<PDFPAGE 289 | images=1>>>
+185
+
+<<<PDFPAGE 290 | images=2>>>
+186
+Step 4: Analyze the 15-Minute Chart (15M Chart): Move down to the
+15-minute(15M)charttofurtherrefineyourentryandexitpoints.Lookforconfluence
+withSSL/BSL,SMTDivergence,FVG.
+第四步:分析15分钟图(15M图):向下移动到15分钟图，进一步完善你的进场点和出场
+点。寻找与SSL/BSL、SMTDivergence、FVG的融合。
+Example:Onthe15Mchart,youseeatestofdiscountFVG,confirmingpotential
+例子:在15米图上，你看到了FVG折扣的测试，确认了潜力
+reactiontothe4hExternalBSL.
+对4h外部BSL的反应。
+Step 5: Confirm Entry on the 5-Minute Chart (5M Chart):Usethe5-minute
+(5M)chartfortimingyourentries.Lookforpriceactionsignalsthatalignwithyour
+analysisfromthehighertimeframes.
+第五步:在5分钟图上确认进场(5M图):使用5分钟图表来记录你的进场时间。从更高的
+时间框架中寻找与你的分析一致的价格行动信号。
+Example:Onthe5Mchart,youseeabullishOBafterrunonsellstops,signalinga
+potentiallongentry.
+例子:在5M图上，你在卖出止损后看到看涨OB，这是潜在的多头进场信号。
+
+<<<PDFPAGE 291 | images=2>>>
+187
+Step 6: Execute on the 1-Minute Chart (1M Chart):Finally,usethe1-minute
+第6步:在1分钟图上执行(1米图):最后，利用1分钟
+(1M)charttofine-tuneyourentryandsetyourstop-lossandtake-profitlevels.
+(1M)图表微调你的进场，设置你的止损和止盈水平。
+1. WithinthisDisplacementstartdoingsTopDownAnalysisforentries.
+在这种置换中，开始对条目进行自上而下的分析。
+2. Youwanttofollowachronologicalorderof5,4,3,2,1MinuteCharts.
+你想按照5，4，3，2，1分钟图表的时间顺序。
+3. IfyoufindaFVGona5Minute,youdon’thavetogolower.
+如果你在5分钟内找到一个FVG，你不需要更低。
+
+<<<PDFPAGE 292 | images=0>>>
+188
+4. IfyoufindaFVGonthe2Minute,youdon’thavetogolower.
+如果你在2分钟内找到一个FVG，你不需要降低。
+5. OnceyoufindaFVG,youdonotgoanylower.
+一旦你找到了FVG，你就不能再低了。
+6. Ifyoucan’tfindaFVGonthe1Minute,thereisnotrade.
+如果你在1分钟内找不到FVG，就没有交易。
+<<<PDFPAGE 293 | images=1>>>
+189
+Risk Management and Discipline
+风险管理和纪律
+Trading in the financial markets can be an exciting and potentially lucrative
+endeavor.However,itisimportanttounderstandthattradingalsocomeswithitsfair
+shareofrisks.
+金融市场上的交易可能是一项令人兴奋且潜在有利可图的工作。然而，重要的是要明
+白交易也伴随着风险。
+Tradinginvolvestheriskoffinancialloss.Itisimportanttorememberthatthereare
+noguaranteesintradingandthatthemarketcanbeunpredictable.Marketvolatility
+canleadtorapidpricemovements,whichcanresultinsignificantgainsorlosses.
+交易涉及财务损失的风险。重要的是要记住交易中没有保证，市场是不可预测的。市
+场波动会导致快速的价格变动，从而导致巨大的收益或损失。
+Emotionalfactorssuchasfearandgreedcaninfluencedecision-makingandlead
+恐惧和贪婪等情绪因素会影响决策和领导
+toimpulsivetradingactions.
+冲动的交易行为。
+External events, such as geopolitical tensions or economic news, can impact the
+marketandincreasevolatility.
+外部事件，如地缘政治紧张局势或经济新闻，会影响市场并增加波动性。
+Proper risk management is important for traders to protect their capital and
+minimizepotentiallosses.Herearesomekeyprinciplesofriskmanagement:
+<<<PDFPAGE 294 | images=0>>>
+190
+适当的风险管理对于交易者保护他们的资本和最小化潜在损失是重要的。以下是风险
+管理的一些关键原则:
+• Setting a risk tolerance: Determine the maximum amount of capital you
+arewillingtoriskoneachtrade.Thiswillhelpyoumaintaincontroloveryour
+lossesandpreventexcessivedrawdowns.
+设定风险容忍度:确定你愿意在每笔交易中承担风险的最大资金量。这将有助于
+你控制你的损失，防止过度提款。
+• Position sizing:Calculatetheappropriatepositionsizeforeachtradebased
+onyourrisktoleranceandthesizeofyourtradingaccount.Thisensuresthat
+youarenotoverexposingyourselftoanysingletrade.
+职位规模:根据你的风险承受能力和交易账户的大小，计算每笔交易的头寸大
+小。这可以确保你不会过度暴露在任何单一交易中。
+• Stop-loss orders:Implementstop-lossorderstoautomaticallyexitatrade
+止损单:执行止损单以自动退出交易
+<<<PDFPAGE 295 | images=0>>>
+191
+ifitreachesapredeterminedlevelofloss.Thishelpslimitpotentiallossesand
+protectsyourcapital.
+如果达到预定的损失水平。这有助于限制潜在的损失，保护你的资本。
+• Regular review and adjustment:Continuouslymonitorandreassessyour
+risk management strategies to ensure they align with your changing market
+conditionsandriskappetite.
+定期审查和调整:持续监控和重新评估您的风险管理策略，以确保它们符合您不
+断变化的市场条件和风险偏好。
+One common mistake that traders make is overleveraging their positions or
+engaging in excessive trading activity. Let’s explore why these practices should be
+avoided.
+交易者常犯的一个错误是过度利用他们的头寸或从事过多的交易活动。让我们探讨一
+下为什么应该避免这些做法。
+Overleveragingreferstousingahighamountofleverageinrelationtoyouraccount
+过度杠杆是指使用与您的账户相关的高杠杆
+balance.Whileleveragecanamplifypotentialprofits,italsomagnifieslosses.
+平衡。尽管杠杆可以放大潜在利润，但也会放大亏损。
+Excessiveleveragecanquicklydepleteyourtradingaccountifatradegoesagainst
+you.Itisimportanttouseleverageresponsiblyandwithinyourrisktolerance.Always
+consider the potential downside and the impact of leverage on your overall risk
+exposurebeforeenteringatrade.
+如果交易对你不利，过度的杠杆会很快耗尽你的交易账户。在你的风险承受范围内负
+责任地使用杠杆很重要。在开始交易之前，一定要考虑潜在的不利因素和杠杆对你整
+体风险敞口的影响。
+Overtrading refers to excessive buying and selling of securities, often driven
+by impulsive or emotional decision-making. Overtrading can lead to increased
+transactioncosts,reducedfocus,andincreasedriskofmakingpoortrading decisions.
+过度交易是指过度买卖证券，通常是由冲动或情绪化的决策驱动的。过度交易会导致
+交易成本增加，注意力分散，做出错误交易决策的风险增加。
+It is important to have a well-defined trading plan and stick to it, avoiding
+thetemptationtoentertradesbasedonemotionsorshort-termmarketfluctuations.
+重要的是要有一个明确的交易计划，并坚持下去，避免根据情绪或短期市场波动进行
+交易的诱惑。
+Importance of Patience and Discipline in Trading
+耐心和纪律在交易中的重要性
+<<<PDFPAGE 296 | images=0>>>
+192
+Successful trading requires patience and discipline. Let’s explore why these
+qualitiesareessentialfortraders.
+成功的交易需要耐心和纪律。让我们来探讨一下为什么这些品质对交易者来说是必不可少
+的。
+Patience
+耐心
+• Patienceistheabilitytowaitforhigh-probabilitytradingopportunitiesandnot
+getcaughtupintheexcitementofthemarket.
+耐心是等待大概率交易机会，不被市场的热闹所套牢的能力。
+• Waitingfortherightsetupcanhelpyouavoidenteringtradesbasedonimpulse
+oremotions,increasingthelikelihoodofsuccess.
+等待正确的设置可以帮助你避免因冲动或情绪而交易，增加成功的可能性。
+• Patiencealsoinvolveswaitingfortradestoplayoutaccordingtoyourplanand
+notexitingprematurelyduetofearorgreed.
+耐心还包括等待交易按照你的计划进行，不要因为恐惧或贪婪而过早退出。
+Discipline
+纪律，学科
+• Discipline involves following your trading plan and adhering to your
+predeterminedriskmanagementstrategies.
+纪律包括遵循你的交易计划和坚持你预先设定的风险管理策略。
+• Itisimportanttosticktoyourtradingrulesandnotdeviatefromyourplan,
+重要的是坚持你的交易规则，不要偏离你的计划，
+<<<PDFPAGE 297 | images=0>>>
+193
+eveninthefaceofmarketfluctuationsorunexpectedevents.
+即使面对市场波动或突发事件。
+• Disciplinehelpsyoumaintainconsistencyinyourtradingapproachandreduces
+thelikelihoodofimpulsiveoremotionaldecision-making.
+纪律帮助你保持交易方法的一致性，减少冲动或情绪化决策的可能性。
+Rememberthatthenumberofyearsyou’vebeentradingdoesn’tautomaticallymake
+youthebest.It’snotliketimemagicallyturnsusintotradingwizards.Whatactually
+mattersisourapproachtolifeandhowmuchwedotobebecomesuccessful.Whether
+you’vebeentradingfor5years,20years,oronly2years,itdoesn’tsettheultimate
+benchmark.It’snotlikehavingtwodecadesofexperienceautomaticallymeansyou’re
+theultimatetradingguru.It’snotaboutjustwatchingtheclocktickaway.So,what’s
+thereal deal?Well,it’sabouthow weliveourlivesandhow muchwe’rehungryfor
+success.Ourdisciplineanddrivearethesecretsauce.Imean,youcanargueallday
+thatexperienceiseverything,butit’snotthestartingpointforgreatness.Discipline
+is likethe guiding star in the night sky. It’s what keeps us on track, even when the
+marketsareactingallcrazy.Yousee,tradingisn’tjustaboutmakingquickdecisions
+andhopingforthebest.It’sabouthavingaplanandstickingtoit,nomatterwhat.
+记住，你交易的年数不会自动让你成为最好的。时间不会神奇地把我们变成交易奇
+才。真正重要的是我们对待生活的态度，以及为了成功我们做了多少。不管你交易了
+5年，20年，还是只有2年，它都没有设定最终的基准。有20年的经验并不意味着你就
+是终极交易大师。这不仅仅是看着时钟滴答走。那么，真正的交易是什么？这是关于
+我们如何生活，以及我们有多渴望成功。我们的纪律和动力是秘方。我的意思是，你
+可以整天争论经验就是一切，但它不是伟大的起点。纪律就像夜空中的指路明灯。这
+是让我们走上正轨的东西，即使市场表现得很疯狂。你看，交易不仅仅是快速决策和
+希望最好的结果。而是要有一个计划，无论如何都要坚持下去。
+Thinkaboutitthisway:imagineyou’reonaroadtrip.You’vegotamap,aroute
+plannedout,andadestinationinmind.Now,ifyoustarttakingrandomdetoursevery
+timeyouseesomethingshinyonthesideoftheroad,you’reprobablynotgoingtoreach
+yourdestinationanytimesoon.It’sthesamewithtrading.Disciplinemeanshavinga
+tradingstrategyandstickingtoit,evenwhenthemarketisthrowingcurveballs.It’s
+about not lettingemotions dictate yourmoves. When you’re disciplined,you’re less
+likelytomakeimpulsivedecisionsthatyou’llregretlater.Let’ssayyou’vesetastop-
+lossforatradetolimitpotentiallosses.
+这样想:想象你在一次公路旅行中。你已经有了一张地图，一条计划好的路线，和一个
+心中的目的地。现在，如果你每次看到路边闪闪发光的东西就开始随意绕路，你可能
+不会很快到达目的地。交易也是一样。纪律意味着有一个交易策略，并坚持它，即使
+当市场抛出曲线球。而是不要让情绪左右你的行动。当你有纪律的时候，你就不太可
+能做出冲动的决定，而这些决定你以后会后悔。假设你已经为一笔交易设置了止损来
+<<<PDFPAGE 298 | images=0>>>
+194
+限制潜在的损失。
+Now,themarketstartsmovingagainstyou,andit’stemptingtoremovethatstop-
+lossinthehopesthatthingswillturnaround.Butdisciplinekicksinandremindsyou
+thatstickingtoyourplaniscrucial.Youkeepthatstop-lossinplace,evenifitmeans
+acceptingaloss.Inaway,disciplineislikeahabit.Themoreyoupracticeit,themore
+itbecomesanaturalpartofyourtradingroutine.Andtrustme,itpaysoff.You’llmake
+moreinformeddecisions,staycalmerduringturbulenttimes,andultimatelyincrease
+yourchancesofsuccess.So,bottomline,it’snotjustabouttheyearsyou’veclockedin
+thetradingworld.It’saboutyouroutlookandhowdeterminedyouaretomakeitbig.
+Experienceisimportant,sure,butit’snotthesparkthatlightsupthetradingsuccess
+fire.
+现在，市场开始向不利于你的方向移动，人们很容易希望事情会好转，于是取消止
+损。但是纪律开始起作用，提醒你坚持你的计划是至关重要的。即使意味着接受亏损，
+你也要坚持止损。在某种程度上，纪律就像一种习惯。你练习得越多，它就越会成为
+你日常交易的一部分。相信我，会有回报的。你会做出更明智的决定，在动荡时期保
+持冷静，最终增加你成功的机会。所以，底线是，这不仅仅是你在交易界的时间。这
+是关于你的观点和你有多大决心把它做大。经验固然重要，但它不是点燃交易成功之
+火的火花。
+Remember,therearemanysuccessfultraderswhohaverelativelylittleexperience.
+Whattheydohaveisastrongunderstandingofthemarkets,asoundtradingstrategy,
+andthedisciplinetosticktotheirplan.Ifyouarenewtotrading,donotletthelackof
+experiencediscourageyou.Youcanstillbesuccessfulifyouarewillingtolearn,take
+risks,andnevergiveup.
+记住，有很多成功的交易者经验相对较少。他们所拥有的是对市场的深刻理解，合理
+的交易策略，以及坚持计划的原则。如果你是交易新手，不要因为缺乏经验而气馁。
+如果你愿意学习，敢于冒险，永不放弃，你仍然可以成功。
+Iwantedtoshareapieceofadvicethathasreallyhelpedmeinmytradingjourney,
+我想分享一个在我的交易过程中真正帮助我的建议，
+<<<PDFPAGE 299 | images=0>>>
+195
+andIthinkitcouldbevaluableforyoutoo.
+我认为这对你也很有价值。
+Youknow,intrading,it’seasytogetcaughtupintheexcitementofchasingevery
+potentialtrade,fearingthatwemightmissoutonopportunities.However,I’vecome
+torealizethatit’snotaboutchasingtrades;it’saboutmakingwell-informeddecisions,
+right?
+要知道，在交易中，很容易陷入追逐每一笔潜在交易的兴奋中，害怕自己可能会错过
+机会。然而，我开始意识到这不是追逐交易；而是做出明智的决定，对吗？
+So,here’smymantra:“Youdon’tneedtochasetrades,andyoudon’tneedtobe
+afraidtomissthem.”Themostimportant thingistoask yourselfacrucial question
+before entering any trade: “Whyam I considering this trade?” Ask this every single
+day! If you have a clear and confident answer to that question, then go ahead
+and takethe trade. But if you find yourself hesitating or unsure, it’s a sign that you
+shouldprobablysitthisoneout.Believeme,thisworks100%Remember,tradingis
+all about discipline and strategy. By focusing on the “why” behind each trade,
+you’ll ensure that you’re making decisions based on a well-thought-out plan rather
+than FOMO. So, don’t let the fear of missing out or the temptation to chase every
+trade cloud your judgment. Trust in your analysis and follow your trading plan. If
+youcananswerthe“why”questionconfidently.
+所以，这是我的口头禅:“你不需要追逐交易，也不需要害怕错过交易。”最重要的是在
+进入任何交易前问自己一个至关重要的问题:“为什么我要考虑这个交易？”每天都问这
+个问题！如果你对这个问题有一个清晰而自信的答案，那就继续交易吧。但是，如果
+你发现自己犹豫或不确定，这是一个信号，你可能应该坐在这一个。相信我，这100%
+有效。记住，交易是关于纪律和策略的。通过关注每笔交易背后的“为什么”,你会确保
+你是基于一个深思熟虑的计划而不是FOMO来做决定的。所以，不要让错过的恐惧或
+追逐每笔交易的诱惑影响了你的判断。相信你的分析，遵循你的交易计划。如果你能
+自信地回答“为什么”这个问题。
+Guidelines:
+指导方针:
+1. Stick&StaywithYourBiasOnly.
+坚持和坚持你的偏见。
+2. Executeonlywiththatbiasinmind.
+只在有偏见的情况下执行。
+3. IfyouareBearish,onlysticktoshorting.
+如果看空，只有坚持做空。
+<<<PDFPAGE 300 | images=0>>>
+196
+4. IfyouareBullish,onlysticktolonging.
+如果你很牛，那就只坚持渴望。
+5. Youdonothavetocapturethelargemoves,butratherworkwithyourbiased
+expectation so that you do not “flip flop” back and forth between biases and
+confuseyourself!
+你不必捕捉大的波动，而是带着你有偏见的期望工作，这样你就不会在偏见之
+间来回“翻转”而迷惑自己！
+Day Trading is NOT Everyday Trading
+日内交易不是日常交易
+Youthinkyouwillbeabletodothiseveryday,butthatisamisunderstanding...
+你认为你可以每天都这样做，但这是一种误解...
+Why?
+为什么？
+YouarefallinginlovewithWINNINGinsteadofbeingPROCESS-ORIENTED
+Fallinginlovewith“beingcorrect”and“beingbetterthantherest”isatrap
+Thetruthisitdoesnotneedtohappeneveryday.
+你爱上了胜利，而不是以过程为导向爱上了“正确”和“比其他人更好”是一个陷
+阱。事实是，这不需要每天都发生。
+FindcomfortinNOTtakingtrades.
+在不交易中找到安慰。
+Understandthepotentialrisksintradingeverydaybecauseofthemarketsbeing
+open.
+了解每天交易的潜在风险，因为市场是开放的。
+Youaretoofocusedonthemoney.
+你太关注钱了。
+Noteverydaywillgiveyouahighprobabilityopportunity.
+不是每天都会给你大概率的机会。

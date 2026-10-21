@@ -1,0 +1,624 @@
+
+<<<PDFPAGE 112 | images=0>>>
+84
+Chapter 9
+第九章
+Market Efficiency Paradigm & Institutional Order
+Flow
+市场效率范式与机构订单流
+Market efficiency refers to the degree to which prices in the financial markets
+reflectall availableinformation.Inan efficient market,pricesquicklyadjust tonew
+information,makingitdifficultfortraderstoconsistentlyoutperformthemarket.
+市场效率是指金融市场的价格反映所有可用信息的程度。在一个有效的市场中，价格
+会根据新信息迅速调整，这使得交易者很难持续跑赢市场。
+Inefficientmarkets,ontheotherhand,presentopportunitiesfortraderstoexploit
+pricediscrepanciesandmakeprofitabletrades.However,itisimportanttonotethat
+market inefficiencies can be short-lived as market participants quickly react tonew
+information,leadingtopriceadjustments.
+另一方面，低效市场为交易者提供了利用价格差异进行盈利交易的机会。然而，值得
+注意的是，市场的低效率可能是短暂的，因为市场参与者会对新信息做出快速反应，
+从而导致价格调整。
+Howweinternalizepricedelivery:
+我们如何将价格传递内在化:
+1. Donottradepatternsforpattern’ssake.
+不要为了模式而交易模式。
+2. Donottradeindicatorreadingsormomentum.
+不要交易指标读数或动量。
+3. WelooktoenterLongswhenRetailSells.
+我们期待在散户卖出时进入多头。
+4. WelooktoenterShortswhenRetailBuys.
+当散户买入时，我们希望做空。
+5. WeanticipatePriceseekingoppositeliquidity.
+我们预期价格会寻求相反的流动性。
+6. TimeofDayisvitalwhenengagingwithPrice.
+在讨论价格时，时间是至关重要的。
+<<<PDFPAGE 113 | images=1>>>
+85
+This model acts as a bridge between the trader, the markets, and the efficiency
+paradigm.
+这个模型充当了交易者、市场和效率之间的桥梁范式。
+
+<<<PDFPAGE 114 | images=1>>>
+86
+Thismodelaimstotradethemarketwhenthealgorithmwillseektorebalancea
+BISI/SIBI.Wewillsuggestthatthemarketisinaretracementphase.Thispatternwill
+betradedinhighvolatilityconditions.Thisisaninternalrangeliquiditymodel.
+该模型旨在当算法寻求重新平衡BISI/SIBI时进行市场交易。我们会建议市场处于回撤
+阶段。这种模式将在高波动条件下交易。这是一个内部区间流动性模型。
+Tounderstandthisparadigm,weneedtobreakitdownintothreecomponents:
+为了理解这一范式，我们需要将其分解为三个部分:
+1. Smart Money:Thiscomponentisaboutunderstandinghowandwhysmart
+聪明的钱:这一部分是关于理解如何以及为什么聪明
+moneyisfundamentallydifferentfromdumbmoney.
+钱和哑钱有本质的不同。
+2. Market Efficiency Paradigm:Thiscomponentisaboutunderstandinghow
+theInterbankPriceDeliveryAlgorithmprovidesdataforthemarket.
+市场效率范式:这一部分是关于理解银行间价格传递算法如何为市场提供数据。
+3. Speculative Uninformed Money:Thiscomponentisaboutunderstanding
+the reverse psychology of speculative uninformed money and how it can
+beusedtogainanedgeintheinterbankmarket.
+投机不知情的钱:这一部分是关于理解不知情的投机资金的逆反心理，以及如何
+利用它在银行间市场获得优势。
+
+<<<PDFPAGE 115 | images=0>>>
+87
+Concept :
+概念:
+• Time
+时间
+• BISI/SIBI
+BISI/SIBI
+• ConsequentEncroachment
+结果侵蚀
+• Newsembargo
+新闻封锁
+• Changeinorderflow
+订单流的变化
+• PDArrays
+PD阵列
+• Narrative
+叙述
+• Drawonliquidity
+取出流动性
+<<<PDFPAGE 116 | images=0>>>
+88
+Importance of Not Blindly Following Trading Patterns or
+Indicators
+不盲目跟随交易模式或指标的重要性
+Many retail traders fall into the trap of blindly following trading patterns or
+indicators without considering the underlying market dynamics. While technical
+analysis can be a useful tool for identifying potential trading opportunities, it is
+importanttorememberthatitisjustonepieceofthepuzzle.
+许多散户陷入了盲目跟随交易模式或指标的陷阱，而没有考虑到潜在的市场动态。虽
+然技术分析是识别潜在交易机会的有用工具，但重要的是要记住它只是拼图的一部分。
+Smartmoneytraders,suchasinstitutionalinvestors,donotsolelyrelyontrading
+patterns or indicators. Instead, they focus on analyzing market liquidity and the
+underlyingnarrativeinthemarketplace.Byunderstandingthebroadermarketcontext,
+smart money traders can make more informed trading decisions and potentially
+capitalizeonmarketinefficiencies.
+聪明的资金交易者，比如机构投资者，不仅仅依靠交易模式或指标。相反，他们专注
+于分析市场流动性和市场中的潜在叙事。通过了解更广泛的市场背景，聪明的资金交
+易者可以做出更明智的交易决策，并有可能利用市场的低效率。
+BUYSIDEORIENTEDMARKET:
+面向买方的市场:
+1. Wewillwaitforabigbearishdisplacementafteranewsembargo.
+我们将在新闻封锁后等待一个大的熊市。
+2. Don’ttradethefirst10minutesofthenews:Ifthenewsisat10a.m.,thenwe
+不要交易新闻的前10分钟:如果新闻是在上午10点，那么我们
+willlookforasetupfrom10:10a.m.to12:00.
+将从上午10:10到12:00查找设置。
+3. Wewillwait&observeorderflow:
+我们将等待并观察订单流程:
+a. WewillwaitforBearishPDarraystofail.
+我们将等待看跌的PD阵列失效。
+b. WewanttoseeBullishdisplacement.
+我们希望看到看涨的位移。
+c. Wewanttoseeachangeinorderflow.
+我们希望看到订单流程的改变。
+4. Downclosecandlesactassupport.
+<<<PDFPAGE 117 | images=0>>>
+89
+向下关闭蜡烛作为支持。
+5. Upclosecandlesinvalidated.
+近距离蜡烛无效。
+6. Premiumarraysinvalidated.
+高级阵列失效。
+7. Discountarraysrespected.
+尊重折扣阵列。
+8. Wewillanticipatesabuyatdiscountarrays:FVG/InversionFVG,Orderblock,
+Breaker.
+我们预期在折价阵列买入:FVG/反转FVG，订单阻塞，突破。
+9. Wewillputamaximumof5pointsstoploss.Wewillaimfor10pointsforES
+(SP500).
+我们最多会放5个点的止损。我们将为SP500争取10分。
+SELLSIDE ORIENTEDMARKET:
+面向卖方的市场:
+1. Wewillwaitforabigbullishdisplacementafteranewsembargo.
+我们将在新闻封锁后等待一个大的看涨位移。
+2. Don’ttradethefirst10minutesofthenews:Ifthenewsisat10a.m.,thenwe
+不要交易新闻的前10分钟:如果新闻是在上午10点，那么我们
+willlookforasetupfrom10:10a.m.to12:00.
+将从上午10:10到12:00查找设置。
+<<<PDFPAGE 118 | images=0>>>
+90
+3. Wewillwait&observeorderflow:
+我们将等待并观察订单流程:
+a. WewillwaitforBullishPDarraystofail.
+我们将等待看涨的PD阵列失败。
+b. WewanttoseeBearishdisplacement.
+我们希望看到看跌的位移。
+c. Wewanttoseeachangeinorderflow.
+我们希望看到订单流程的改变。
+4. Upclosecandlesactassupport.
+近距离蜡烛作为支撑。
+5. Downclosecandlesinvalidated.
+关闭蜡烛无效。
+6. Discountarraysinvalidated.
+折扣数组无效。
+7. Premiumarraysrespected.
+备受推崇的高端阵列。
+8. Wewillanticipatesasellatpremiumarrays:FVG/InversionFVG,Orderblock,
+Breaker.
+我们将预期在溢价阵列销售:FVG/反转FVG，订单块，断路器。
+9. Wewillputamaximumof5pointsstoploss.Wewillaimfor10pointsforES
+(SP500).
+我们最多会放5个点的止损。我们将为SP500争取10分。
+When to trade it ?
+什么时候交易？
+1. Wewilluseeconomiccalendartoframeourtrades.
+我们将使用经济日历来设计我们的交易。
+2. ThenewsweareinterestedinaretheNFP,CPI,FOMC,PPI,FEDtalks.
+我们感兴趣的新闻是NFP，消费物价指数，FOMC，生产者价格指数，美联储会
+谈。
+3. Trendingdays.
+<<<PDFPAGE 119 | images=0>>>
+91
+趋势日。
+What is the market mechanics behind it?
+背后的市场机制是什么？
+Afteralargemarketdisplacement,retailerstendtofollowthemarket.Instead,we
+willtaketheoppositeapproach.Itislikelythatacountermovewilloccur,knownasa
+retracement,beforethemarketcontinuesinitsinitialdirection.
+在一个大的市场位移之后，零售商倾向于跟随市场。相反，我们将采取相反的方法。
+在市场继续朝着最初的方向前进之前，很可能会出现一个反向走势，即所谓的回撤。
+Thisiswhereweplantoenterourtrade,aimingtocatchtheretracement.Typically,
+themarketwillretraceatleast50%oftheinitialmove.Also,rememberthatanews
+embargo can be used like a Judas swing sometimes. I personally aim to gain a
+maximumof10points(ES/SP500),buta50%BISI/SIBIcanbethefinalobjective.
+这是我们计划进场的地方，目标是抓住回撤。通常，市场会回撤至少50%的初始波动。
+此外，请记住，新闻禁运有时可以像犹大秋千。我个人的目标是获得最多10个点
+(ES/SP500)，但50%的BISI/SIBI可以是最终目标。
+Who Makes up Speculative Uninformed Money?
+投机的不知情的钱是哪些组成的？
+Speculative Uninformed Money consists of several different types of market
+participants,includingretailtraders,newhedgefunds,andlargefundtraders.Let’s
+takeacloserlookateachofthesegroups:
+不知情的投机资金由几种不同类型的市场参与者组成，包括散户、新对冲基金和大型
+基金交易员。让我们仔细看看每一组:
+<<<PDFPAGE 120 | images=0>>>
+92
+1. New Pool of Retail Traders: There are many different statistics available
+thatpertaintoretailtradinginthefinancialmarketsi.e.thehighfailurerates,
+the short career duration, lack of education, and emotional/overleveraged
+trades. New traders entering the forex market haveincreased significantlyin
+recentyearsduetothegrowingpopularityofonlinetradingplatformsandthe
+increasingaccessibilityofforextradingtoretailtraders.
+新的零售交易商群体:有许多不同的统计数据与金融市场中的零售交易有关，即
+高失败率、短职业生涯、缺乏教育和情绪化/过度杠杆交易。由于在线交易平台
+越来越受欢迎，以及零售交易者越来越容易进行外汇交易，近年来进入外汇市
+场的新交易者显著增加。
+2. New Hedge Funds: According to some studies, the average lifespan of
+a hedgefundisaround5to7years.However,therearealsomanyhedgefunds
+thathavebeeninoperationformuchlongerandhaveestablishedthemselves
+asmajorplayersinthefinancialindustry.Oneofthemostfamoushedgefund
+failures is Long-Term Capital Management (LTCM). LTCM was founded
+in 1994 and was once considered one of the most successful hedge funds in
+the world. However, in 1998, the fund suffered significant losses due to a
+series of trades that went wrong and eventually had to be bailed out by a
+consortiumofmajorbanks.
+新对冲基金:根据一些研究，对冲基金的平均寿命约为5至7年。然而，也有许多
+对冲基金已经运作了很长时间，并已成为金融业的主要参与者。最著名的对冲
+基金失败案例之一是长期资本管理(LTCM)。LTCM成立于1994年，曾被认为是
+世界上最成功的对冲基金之一。然而，1998年，由于一系列交易出错，该基金
+遭受了重大损失，最终不得不由一个由主要银行组成的财团纾困。
+3. Large Fund Traders:LargefundtradersmayalsobeclassifiedasSpeculative
+UninformedMoney,despitehavingmoreresourcesandexperiencecompared
+toretail traders.However,theystillfollowretailmethods, suchasrelyingon
+indicators,insteadofadeepunderstandingofSmartMoney.Themaindifference
+betweenlargefundtradersandretailtradersistheirriskmanagement,which
+helpsensuretheirlongevityinthefinancialmarkets.
+大型基金交易商:大型基金交易员也可能被归类为投机不知情的钱，尽管有更多
+的资源和经验相比，散户。但是，他们仍然遵循零售方法，如依赖指标，而不
+是对聪明钱的深刻理解。大型基金交易商和散户交易商的主要区别在于他们的
+风险管理，这有助于确保他们在金融市场上的长寿。
+Enhance Your Trading Performance with a Price Action Trade
+Journal
+<<<PDFPAGE 121 | images=0>>>
+93
+用价格行动交易日志提高你的交易业绩
+Keepingatradejournalisacrucialaspectofsuccessfultrading,anditcanhelpyou
+gainadeeperunderstandingofPriceAction.
+记交易日志是成功交易的一个重要方面，它可以帮助你更深入地理解价格行为。
+This journal should consist of the following elements:
+该日志应包含以下内容:
+a. DisplacementofPricefromaspecificlevel
+价格偏离特定水平
+b. CleanHighsandLowsneutralized
+干净的高点和低点被中和
+c. SwingHighsandLowsinbetweenAandB
+在A和B之间波动高点和低点
+ByadoptingaLong-term,Intermediate-term,andShort-termPerspective,youcan
+betternavigatethroughpricemovementsandhaveaclearideaofwhattolookforon
+eachtimeframe.
+通过采取长期、中期和短期的观点，你可以更好地把握价格变动，并对每个时间框架
+有一个清晰的概念。
+Forexample,indaytrading,theLong-termPerspectivecouldbeaWeeklyChart
+orDailyChart,theIntermediate-termPerspectivecouldbea4HourChartor1Hour
+Chart,andtheShort-termPerspectivecouldbea15MinuteChartor5MinuteChart.
+例如，在日交易中，长期视角可以是周线图或日线图，中期视角可以是4小时图或1小时图，
+短期观点可以是15分钟图或5分钟图。
+<<<PDFPAGE 122 | images=0>>>
+94
+Journaling the Daily Range
+记录每日范围
+Journaling the Daily Range should consist of the following elements:
+记录每日范围应包括以下内容:
+a. DisplacementoftheDailyRangefromaspecificlevel
+日线从特定水平的位移
+b. CleanHighsorLowsneutralizedfortheDailyRange
+干净的日内高点或低点
+c. PricereactionatSwingLowsandHighsbetweenAandB
+价格在A和B之间的低点和高点波动时的反应
+Journaling the Weekly Range
+记录每周范围
+Journaling the Weekly Range should consist of the following elements:
+记录每周范围应包含以下要素:
+a. DisplacementoftheWeeklyRangefromaspecificlevel
+周线从特定水平的位移
+b. CleanHighsandLowsneutralizedfortheWeeklyRange
+周线范围内干净的高点和低点被中和
+c. PricereactionatSwingHighsandLowsinbetweenAandB
+价格在A和B之间的高点和低点波动
+Consider the following questions for the Weekly Range:
+考虑以下每周系列的问题:
+• WhatdaydidtheWeeklyHighorLowform?
+周线的高点或低点是哪一天形成的？
+• WhatKillzonedidtheWeeklyHighorLowform?
+周线的高点或低点形成了什么样的死亡地带？
+Byjournalingyourtradesonadailybasis,youaretrainingyourmind.
+通过每天记录你的交易，你在训练你的思维。
+Justlikehowweexerciseandtrainourmusclesforsizeandstrength,wecanapply
+similarprinciplestoourmindstoexpandourknowledgeandunderstandingofIPDA.
+<<<PDFPAGE 123 | images=0>>>
+95
+就像我们如何锻炼和训练我们的肌肉大小和力量一样，我们可以将类似的原则应用到
+我们的头脑中，以扩大我们对IPDA的知识和理解。
+Usethisjournalingframeworkasaguidetoenhanceyourtradingperformance
+andtakeyourinterbanktradingtothenextlevel.
+使用这个日志框架作为指南来提高你的交易业绩，让你的银行间交易更上一层楼。
+Institutional Order Flow & Secrets of Efficient Price Delivery
+机构订单流&有效价格传递的秘密
+InstitutionalOrderFlow(IOF)istheanalysisofhowlargeinstitutionsandbanks
+trade in the market on a daily, weekly, and monthly basis. It involves reading
+thetapeandinternalizinghowpriceisbeingdeliveredinreal-time,whetherit’sinabuy
+program or a sell program. IOF is used to locate price levels that align with
+institutional order flow, which is key to identifying high probability setups. It can
+also involve partial entry into a fair value gap that is expected to remain open.
+Understanding IOF on higher time frames can help frame out low-risk, high-
+probabilitysetups.
+机构订单流(IOF)是对大型机构和银行如何在市场上进行每日、每周和每月交易的分
+析。它包括阅读磁带和内化价格是如何实时传递的，无论是在买入计划还是卖出计划
+中。IOF用于定位与机构订单流一致的价格水平，这是识别高概率设置的关键。它还
+可能涉及部分进入预期保持开放的公允价值缺口。在更长的时间框架内理解IOF有助
+于构建低风险、高概率的体系。
+Whatthemacrodoeshereis:runBuysidethenattackSellside.Itcouldalsohave
+这个宏的作用是:运行买方，然后攻击卖方。它也有可能
+donetheotherway,sofirstrunonSellsidethenBuyside.
+以另一种方式完成，因此首先运行卖方，然后运行买方。
+<<<PDFPAGE 124 | images=5>>>
+96
+[MonthlyChart]
+[月度图表]
+AfterthemarkettookSellsideliquidity,whatwillitdonext?Lookforliquidityat
+thetop.
+市场接受卖方流动性后，下一步会做什么？在顶部寻找流动性。
+
+<<<PDFPAGE 125 | images=4>>>
+97
+Let’spayattentiontothemiddleofthelastupcandle.Weseehowthebodyof
+candlesrespectsthem.Itmaybethatthepricewillgoupslightlyabovethewicks.
+我们来关注一下最后一根上蜡烛的中间。我们看到蜡烛的身体是如何尊重它们的。价
+格可能会略微高于灯芯价格。
+When the price goes up to this liquidity area, it will now seek liquidity on
+theoppositesidethathasremainedbelowthelow.
+当价格上升到这个流动性区域时，它现在会在一直低于低点的相反方向寻找流动性。
+
+<<<PDFPAGE 126 | images=5>>>
+98
+
+<<<PDFPAGE 127 | images=0>>>
+99
+Internalversusexternalrangeliquidityandhowtodefinetheinterbankdealing
+内部与外部范围流动性以及如何定义银行间交易
+range(IDR):
+范围:
+AsIhavealreadymentionedinthepreviouschapters,youwanttolooktowhere
+themostrecentdealingrangehastraded.DidittakeoutBSL?OrSSL?Ilike15mTF.
+Ifyouuseanhourlychart,you’llcomeupwithadifferentdealingrange.Youtradethe
+TFthatyou’relookingat.
+正如我在前面的章节中已经提到的，你需要查看最近的交易范围。它干掉BSL了吗？
+还是SSL？我喜欢15mTF。如果你使用小时图，你会得到不同的交易范围。你交易你
+正在看的TF。
+<<<PDFPAGE 128 | images=1>>>
+100
+Theinterbankdealingrange:
+银行间交易范围:
+• It is a range, so you can identify discount and premium and EQ. As price
+goes above the EQ, so technically is in premium, it doesn’t mean that ICT
+automaticallytakesatrade,wecananticipatesomemeasureofdeclinethough
+butoverboughtconditionscanstayinpremiumandthemarketcangohigher.
+Keepthatinmind.
+这是一个范围，所以你可以确定折扣和溢价和情商。由于价格高于EQ，因此技
+术上是溢价，这并不意味着ICT自动进行交易，尽管我们可以预期一些下跌，
+但超买情况可以保持溢价，市场可以走高。记住这一点。
+• Itmeans thatthere willbea lotofinterest inseeing price return back inside
+thatrangetoaparticularpricelevel.
+这意味着人们对价格回到这个范围内的特定价格水平很感兴趣。
+• Your focus should be where price is drawing to. If the Draw On Liquidity is
+bearish price willdraw below the interbank dealing range low.When bullish
+pricewilldrawtowardsdealingrangehigh.
+你应该关注价格的走向。如果流动性不足，价格将跌破银行间交易区间低点。
+当看涨价格接近交易区间高点时。
+Po3 means we open (accumulation), make high of the week (manipulation) and
+fromtheretradelower(distribution).
+Po3意味着我们开仓(积累)，做高一周(操纵)，从那里交易降低(分配)。
+What is the Dealing Range?
+交易范围是什么？
+Adealingrangeisapricerangewherebothbuyandsellsideshavebeentakenout.
+Itis ausefulconceptbecause it allowstraders toanticipatethemarket’smovement
+backtoadiscountandeventuallytoitssellside.Traderscanlookforareaswithinthe
+rangetodoanalysisandanticipatearunbackupintoapremium.
+交易区间是买卖双方都被剔除的价格区间。这是一个有用的概念，因为它允许交易者
+预测市场回到折价并最终回到卖出的趋势。交易者可以在该区间内寻找区域进行分析，
+并预测溢价的回升。
+
+<<<PDFPAGE 129 | images=0>>>
+101
+Thisconceptisbasedontheideathatlargemarketplayersleavefootprintsonthe
+charts,andbyanalyzingtheirbehavior,traderscangainvaluableinsightsintotheir
+tradingstrategiesandpotentialmarketmovements.
+这个概念基于这样一个想法，即大型市场参与者会在图表上留下足迹，通过分析他们
+的行为，交易者可以获得对他们的交易策略和潜在市场走势的宝贵见解。
+Toidentifythedealingrange,weneedtoidentifykeysupportandresistancelevels.
+Thisallowsthemtovisualizetherangewherethepriceislikelytotradewithinacertain
+period.Therangecanbenarroworwide,dependingonthemarketconditionsandTF.
+为了确定交易范围，我们需要确定关键的支撑位和阻力位。这使他们能够想象某一时
+期内价格可能的交易范围。该范围可窄可宽，取决于市场条件和TF。
+One key characteristic of the dealing range is that it tends to be a consolidation
+period, where price moves sideways without making significant progress in either
+direction.Thiscanbeseenasapauseorabalancebetweenthebuyersandsellersin
+themarket.Duringthistime,tradersmayusevarioustechnicalindicatorstoidentify
+potentialbreakoutsorreversalsfromtherange.
+交易区间的一个关键特征是，它往往是一个盘整期，价格横向移动，而没有在两个
+方向上取得重大进展。这可以看做是市场买卖双方的一种停顿或者平衡。在此期间，
+交易者可以使用各种技术指标来识别区间的潜在突破或反转。
+ICT emphasizes that traders need to be patient and wait for the price to either
+break out of the range or bounce back from the support and resistance levels. He also
+advises traders to be aware of the market context and the fundamental factors that can
+impactthepricemovement.
+ICT强调交易者需要有耐心，等待价格突破区间或者从支撑位和阻力位反弹。他还建议交
+易员注意市场环境和可能影响价格走势的基本面因素。
+<<<PDFPAGE 130 | images=4>>>
+102
+Dealingrangesshowupinmanyforms,andeverytimeit’sdifferent,but,generally,
+after we have swept liquidity on both sides, you start lookingfor a bottom to form,
+andonceyouseeaclearreversal,youcanstartmaintainingabullishbiasupuntilthe
+equilibriumofthedealingrange.
+交易区间以多种形式出现，每次都不一样，但是，一般来说，在我们扫完两边的流动
+性后，你开始寻找底部形成，一旦你看到明显的反转，你就可以开始保持看涨偏向，
+直到交易区间的平衡。
+DealingRangesshowuponalltimeframes,youcanlookforadealingrangewithin
+adealingrangewithinadealingrange,andjustlikethatyoucanformabiasandbase
+atradeonthat.
+交易范围出现在所有的时间范围内，你可以在交易范围内寻找交易范围，就像这样，
+你可以形成偏见，并以此为基础进行交易。
+
+<<<PDFPAGE 131 | images=1>>>
+103
+Premium / Discount Arrays
+溢价/折价区
+Howtoidentifydiscount?First,lookforabullishdisplacementinprice.Oncethat
+occurinprice, youwant tosee price formingaswing high.Now youcan draw your
+Fibonaccitoolfromswinghightoswinglow.Waitforpricereturnback todiscount
+andlookforlongsthere.
+如何识别折扣？首先，寻找价格的看涨位移。一旦价格出现这种情况，你希望看到价
+格形成一个摆动高点。现在你可以画你的斐波纳契工具从高到低摆动。等待价格回到
+折扣，并在那里寻找多头。
+How to identify premium? Look for a bearish displacement in price. Then, you
+wanttoseepriceformaswinghigh.DrawyourFibonaccitoolfromswinglowtoswing
+high.Waitforpricetoreturnbacktopremiumandlookforshortsthere.
+如何鉴别溢价？寻找价格的下跌空间。然后，你希望看到价格形成一个高点。从低波
+动到高波动绘制你的斐波纳契工具。等待价格回到溢价，在那里寻找空头。
+
+<<<PDFPAGE 132 | images=2>>>
+104
+
+<<<PDFPAGE 133 | images=0>>>
+105
+Old High
+旧高点
+An Old High refers to a previous high point in the price that can act as areas of
+resistance or potential targets for liquidity runs, as buy stops may be resting above
+theselevels.
+旧高点是指价格的前一个高点，可以作为阻力区或流动性挤兑的潜在目标，因为买入
+止损可能位于这些水平之上。
+WhenthemarketreachesanOldHigh,itmayencounterresistanceintheformof
+OldLowsandOldHighs,makingitdifficultforthepricetocontinuerising.However,
+not every Old High should be considered a selling point, as the market may trade
+throughitandcontinuetorise.
+当市场达到旧高点时，可能会遇到旧低点和旧高点形式的阻力，使价格难以继续上
+涨。然而，并不是每个旧高点都应该被视为卖点，因为市场可能会通过它进行交易并
+继续上涨。
+Old Low
+旧低点
+An Old Low refers to a previous low point in the price that can act as areas
+of support or potential targets for liquidityruns, as sell stops may be resting below
+theselevels.
+旧低点是指价格的前一个低点，可以作为流动性挤兑的支撑区域或潜在目标，因为卖
+出止损可能位于这些水平以下。
+When the market reaches an Old Low, it may encounter resistance in the form
+of Old Lows and Old Highs, making it difficult for the price to continue
+dropping. However, not every Old Low shouldbe considered a buying point, as the
+marketmaytradethroughitandcontinuelower.
+当市场达到旧低点时，它可能会遇到旧低点和旧高点形式的阻力，使价格难以继续下
+降。然而，不是每一个旧低点都应该被认为是买入点，因为市场可能会通过它交易并
+继续走低。
+<<<PDFPAGE 134 | images=0>>>
+106
+Bearish Rejection Block (-RB)
+看跌拒绝块(-RB)
+ABearishRejectionBlockoccursinmajortointermediatetermdowntrendswhen
+apricehighhasformedwithlongwicksonthehighorhighsofthecandlestick(s).
+当价格高点已经形成，并在烛台的高点或高点上形成长吸时，熊市拒绝块出现在主要
+到中期的下跌趋势中。
+Pricereachesupabovethebodyofthecandleorcandlestorunthebuysideliquidity
+outbeforethepricedeclines.Thispatternshowsunderlyingdistributionandcanbe
+usedtoidentifypotentialresistancelevels.
+价格到达蜡烛体上方，在价格下跌前耗尽买方流动性。这种模式显示了潜在的分布，
+可以用来确定潜在的阻力水平。
+Bullish Rejection Block (+RB)
+看涨拒绝块(+RB)
+A Bullish Rejection Block occurs in major to intermediate term uptrends and is
+formed when a price low has a longwick or multiple wicks. The low or lows of the
+candlestick(s)reachdownbelowthebodyofthecandletorunthesellsideliquidityout
+beforethepricerallieshigher.
+看涨拒绝块出现在主要到中期的上涨趋势中，当价格低点有一个长灯芯或多个灯芯时
+形成。蜡烛线的低点到达蜡烛体下方，在价格回升之前耗尽卖方流动性。
+ToframetheBullishRejectionBlock,identifythelowestwicklowandthelowest
+open or the lowest close that makes the swinglow on the timeframe you’re looking
+forthepattern.Whenpricetradesbackdownintothehighoftheblock,youcanbea
+buyerjustbelowitorwaitforthepricetotradethroughitandthenbeabuyerona
+stopjustabovethatparticularlevel.
+要构建看涨拒绝块，在你寻找模式的时间框架内，确定最低的芯线低点和最低的开盘
+价或最低的收盘价。当价格回落到高位时，你可以在它的下方买入，或者等待价格穿
+过它，然后在这个价位的上方止损。
+Bearish Order Block (-OB)
+看跌订单块(-OB)
+ABearishOrderBlockisaconceptintradingwhereaseriesofupcandlesorprice
+barsoccurrightbeforeasignificantdownwardmoveinthemarket.Itisconsidereda
+potentialareaofresistanceandcanbeusedasasellingopportunity.
+看跌订单块是交易中的一个概念，在市场大幅下跌之前出现一系列上涨蜡烛线或价格
+棒线。这被认为是一个潜在的阻力区域，可以作为卖出的机会。
+<<<PDFPAGE 135 | images=0>>>
+107
+ToidentifyaBearishOrderBlock,lookforthelastconsecutiveupcandlesbeforea
+downmove,asthesecandlesrepresentthepotentialBearishOrderBlock.
+要识别一个看跌订单块，在下跌前寻找最后一根连续的上涨蜡烛线，因为这些蜡烛线
+代表潜在的看跌订单块。
+Bullish Order Block (+OB)
+看涨订单块(+OB)
+ABullishOrderBlockisthelowestcandleorpricebarwithadownclosethathas
+themostrangebetweenopentocloseandisnearasupportlevel.Itisvalidatedwhen
+thehigh ofthelowestdowncandle orprice baris traded throughbya laterformed
+candleorpricebar.WhenpricetradeshigherawayfromtheBullishOrderBlockand
+then returns to the Bullish Order Block candle or price bar high, this is considered
+bullishandcanbeusedforabullishentry.
+看涨订单块是最低的蜡烛线或价格棒，有向下的收盘价，从开盘到收盘的幅度最大，
+接近支撑位。当一根后来形成的蜡烛线或价格线穿过最低向下蜡烛线或价格线的高点
+时，它被确认。当价格远离看涨订单块，然后回到看涨订单块蜡烛线或价格棒线高点
+时，这被认为是看涨，可以用于看涨进场。
+Fair Value Gap
+公允价值差距
+A Fair Value Gap (FVG) is a concept in trading that refers to a range in price
+deliverywhereonesideofthemarketliquidityisofferedandtypicallyconfirmedwith
+a liquidity void on lowertime frame charts in the same range of price. It can occur
+whenpricegapscreateavacuumoftrading,resultinginanactualpricegap.
+公允价值差距(FVG)是交易中的一个概念，指的是一个价格交付范围，其中提供了市
+场流动性的一方，通常在同一价格范围内的较低时间框架图上确认为流动性空白。它
+会发生当价格差距造成交易真空，导致实际价格差距。
+InthecontextofInnerCircleTrader’steachings,FVGsareusedtoidentifyareas
+wherepriceisexpectedtoeventuallytradebackupintothegappedarea,fillinginthe
+gapandfindingfairvalue.
+在内圈交易者的教导中，fvg被用来确定价格最终会回到缺口区域的区域，填补缺口并
+找到公允价值。
+<<<PDFPAGE 136 | images=0>>>
+108
+Bearish Liquidity Void
+看空流动性
+A Bearish Liquidity Void refers to a situation where there is a lack of buyside
+liquidityinthemarket,causing theprice tomoveaggressively lower.Insuchcases,
+themarketisexpectedtoeventuallymovebackupwithahighprobability,fillingthe
+Liquidity Void and trading over the same price levels that were previously void
+ofbuysideliquidity.
+看跌流动性空指的是市场上缺乏买方流动性，导致价格大幅下跌的情况。在这种情况
+下，预计市场最终很可能会回升，填补流动性空白，并在之前缺乏买方流动性的相同
+价格水平上交易。
+This means that the price is likely to revisit the range where the void occurred,
+balancingoutthepriceactionwithbullishpricemovement.
+这意味着价格可能会重新回到出现空的区间，用看涨的价格运动来平衡价格行为。
+Bullish Liquidity Void
+看涨流动性空洞
+A Bullish Liquidity Void refers to a situation where there is a lack of sellside
+liquidityinthemarket,causingthepricetomoveaggressivelyhigher.Insuchcases,
+themarketisexpectedtoeventuallymovebackdownwithahighprobability,filling
+theLiquidityVoidandtradingoverthesamepricelevelsthatwerepreviouslyvoidof
+sellsideliquidity.
+看涨流动性空指的是市场上缺乏卖方流动性，导致价格大幅上涨的情况。在这种情况
+下，预计市场最终很可能会回落，填补流动性空白，并在之前缺乏卖方流动性的相同
+价格水平上交易。
+This means that the price is likely to revisit the range where the void occurred,
+balancingoutthepriceactionwithbearishpricemovement.
+这意味着价格可能会重新回到出现无效的区间，用看跌的价格运动来平衡价格行为。
+Bearish Breaker Block (-BB)
+看跌突破块(-BB)
+ABearishBreakerBlockisabearishrangeordown closecandleinthemostrecent
+swing low prior to an Old High being violated. It occurs when the market trades
+higher,takesoutanOldHigh,andthenbreaksbelowthelowthatmadethenewhigh.
+TheBuyerswhoboughtthisLowandlaterseethesameswinglowviolatedwilllook
+tomitigatetheloss.Whenthepricereturnsbacktotheswinglow,itisconsidereda
+<<<PDFPAGE 137 | images=0>>>
+109
+bearishtradesetupworthconsidering.
+熊市突破块是一个熊市区间或下跌收盘蜡烛线，位于旧高点被突破之前的最近的低
+点。当市场交易走高，突破旧高点，然后跌破创下新高的低点时，就会出现这种情况。
+买了这个低点的买家，后来看到同样的摆动低点被违反，会设法减少损失。当价格回
+到低位时，这是一个值得考虑的看跌交易。
+Bullish Breaker Block (+BB)
+看涨突破块(+BB)
+ABullishBreakerBlockisabullishrangeorupclosecandleinthemostrecentswinghigh
+priortoanOldLowbeingviolated.Itoccurswhenthemarkettradeslower,takesoutan
+OldLow,andthenbreaksabovethehighthatmadethenewlow.Thesellerswhosoldthis
+Highandlaterseethesameswinghighviolatedwilllooktomitigatetheloss.Whenthe
+pricereturnsbacktotheswinghigh,itisconsidereda
+bullishtradesetupworthconsidering.
+看涨突破块是在旧低点被突破之前，在最近的波动高点中的看涨范围或近距离蜡烛线。当
+市场交易走低时，出现旧低点，然后突破创造新低点的高点。卖了这个高点，后来看到同
+样的波动高点被突破的卖家会减少损失。当价格回到波动高点时，就被认为是下跌值得考
+虑的看涨交易设置。
+Bearish Mitigation Block (-MB)
+看跌缓解块(-MB)
+A Bearish Mitigation Block is a bearish range ordownclose candle in the most
+recentSwingLowthatfailstotakeoutaSwingHigh.TheBuyersthatboughtthisLow
+andlaterseethissameswinglowviolatedwilllooktomitigatetheloss.WhenPrice
+returnsbacktotheSwingLow,thisisaBearishTradeSetupworthconsidering.
+熊市缓解块是在最近的波动低点中的熊市范围或下跌收盘蜡烛线，它未能消除波动高
+点。买了这个低点的买家，后来看到这个同样的低点被打破，会设法减少损失。当价
+格回到低位时，这是一个值得考虑的看跌交易。
+<<<PDFPAGE 138 | images=1>>>
+110
+Bullish Mitigation Block (+MB)
+看涨缓解块(+MB)
+ABullishMitigationBlockisabullishrangeorupclosecandleinthemostrecent
+SwingHighthatfailstotakeoutaSwingLow.TheSellersthatsoldthisHighandlater
+see this same swing high violated will looktomitigate the loss. When Price returns
+backtotheSwingHigh,thisisaBullishTradeSetupworthconsidering.
+看涨缓解块是在最近的波动高点中的看涨范围或近距离蜡烛线，它未能消除波动低
+点。卖出这个高点，后来看到这个高点被突破的卖家会减少损失。当价格回到波动高
+点时，这是一个值得考虑的看涨交易设置。
+• Inexperienced traders may place their stop-loss orders too shallow, risking
+没有经验的交易者可能会把止损单放得太浅，这有风险
+prematurestop-outs,ortoohigh,resultinginsignificantlosses.
+过早止损或过高止损，导致重大损失。
+• Thisconundrumarisesduetoalackofknowledgeandexperienceindetermining
+optimalstop-losslevels.
+这个难题的出现是由于缺乏确定最佳止损水平的知识和经验。

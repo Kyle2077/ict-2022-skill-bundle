@@ -1,0 +1,535 @@
+
+<<<PDFPAGE 181 | images=2>>>
+153
+Chapter 12
+第十二章
+Daily Bias & Consolidation Hurdles
+日常偏差和整合障碍
+Tounderstanddailybiasandconsolidationhurdles,tradersoftenturntothedaily
+chart.Thedailychart providesabroaderperspectiveofpricemovementsandhelps
+identifykeylevelsandtrends.
+为了理解日线偏差和盘整障碍，交易者经常看日线图。日线图提供了一个更广阔的价
+格运动视角，有助于识别关键水平和趋势。
+Whenanalyzingthedailychart,wepaycloseattentiontothenumberofupdaysor
+greencandlesfromahightoalow.Thisinformationhelpsdeterminethestrengthof
+
+<<<PDFPAGE 182 | images=0>>>
+154
+thesellscenario.Sameforbuyscenario.Iftherearemultipleupdaysduringabearish
+bias,itmayindicatethatthesellscenarioisnotasstrongasinitiallyanticipated.
+在分析日线图时，我们密切关注从高到低的上涨天数或绿色蜡烛线。这些信息有助于
+确定销售方案的力度。购买场景相同。如果在看跌期间有多个上涨日，这可能表明卖
+出情况不如最初预期的那样强劲。
+It is important for us to understand that we don’t have to be right all the time.
+Embracingimperfectionandacceptingthattradinginvolvesuncertaintyiscrucialfor
+long-termsuccess.Weshouldfocusondevelopingasolidtradingplanbasedonour
+analysisandmanageourriskaccordingly.
+对我们来说，重要的是要明白我们不必总是对的。接受不完美，接受交易包含不确定
+性，这对长期成功至关重要。我们应该专注于根据我们的分析制定可靠的交易计划，
+并相应地管理我们的风险。
+<<<PDFPAGE 183 | images=1>>>
+155
+WHAT IS THE PRESENT DEALING RANGE?
+目前的交易范围是什么？
+Are we at Premium zone? When we are at premium zone or the algorithm
+takesbuysideliquidity,weanticipatepricewillgodown.
+我们在高级区吗？当我们处于溢价区或算法考虑买方流动性时，我们预计价格会下
+跌。
+Are we at Discount zone?Similarlywhenweatdiscountzoneorthealgorithm
+takessellsideliquidity,weanticipatehigherprices.
+我们是在打折区吗？类似地，当我们处于贴现区域或算法采用卖方流动性时，我们预
+期价格会更高。
+Are we at Equilibrium zone?Thisiswhenitismostdifficultytopredictthe
+我们在平衡区吗？这是最难预测的时候
+nextmoves.
+下一步。
+<<<PDFPAGE 184 | images=1>>>
+156
+
+<<<PDFPAGE 185 | images=0>>>
+157
+What is the Draw on Liquidity?
+流动性的吸引力是什么？
+Is price going to draw towards a. Discount FVG or Old Low?
+Is price going to draw towards a Premium FVG or Old High?
+价格会向FVG折扣价或旧低价靠拢吗？价格会向FVG溢价或旧高点靠
+拢吗？
+Until the price reaches the Draw on Liquidity, you will have to stick
+towards the idea of it trading towards it.
+在价格达到流动性的极限之前，你必须坚持向它交易的想法。
+You don’t want to flip flop back and forth between your Draw on
+Liquidity idea.
+你不希望在提取流动性想法之间来回转换。
+INTERMARKET ANALYSIS (SMT):
+市场间分析(SMT):
+InIntermarketanalysisweuseSMTdivergence.
+在市场间分析中，我们使用SMT背离。
+SMT Divergence serves as a confirmation tool for identifying Accumulation/
+Distributionphasesintrading.Itisnottypicallyusedasanentrypatternonitsown.
+ByobservingSMTDivergence,traderscangaininsightsintopotentialStopHuntsin
+themarketandmakemoreinformeddecisions.
+SMT背离是一种确认工具，用于识别交易中的累积/分配阶段。它通常不单独用作入
+口模式。通过观察SMT背离，交易者可以洞察市场中潜在的止损，做出更明智的决定。
+WHICHPAIRTOCHOOSEFORTRADING?
+选择哪一对进行交易？
+Astraders,weneedactivityinthemarkets,volatilityiswhatmakestradingeasier.
+The news plays a significant role in contributing to market activity, so we typically
+startthetradingdaybycheckingtheeconomiccalendar.
+作为交易者，我们需要市场活动，波动性使交易更容易。新闻在促进市场活动方面发
+挥着重要作用，因此我们通常通过查看经济日历来开始交易日。
+<<<PDFPAGE 186 | images=1>>>
+158
+However,it’sessentialtonotethatifthere’saschedulednewsreleaseontheGBP
+(BritishPound),itdoesn’tautomaticallyimplythatGBPUSDwillbemorepreferable
+thanEURUSD,forexample.Marketdynamicsareinfluencedbyvariousfactors,and
+it’scrucialtoconsidertechnicalanalysis,marketsentiment,andsoonbeforemaking
+atradingdecision.
+然而，重要的是要注意，如果有关于英镑的预定新闻发布，并不自动暗示GBPUSD将
+比欧元美元更受欢迎。市场动态受各种因素的影响，在做交易决定之前，考虑技术分
+析、市场情绪等等是至关重要的。
+Thelogicisthatpairsthatarecloselycorrelatedwitheachotherarelikelytomove
+inasymmetricalmanner.
+其逻辑是，彼此密切相关的配对很可能以对称的方式移动。
+However,duringtheformationofSMTdivergences,oneofthepairswilldisplay
+但是，在SMT背离的形成过程中，其中一对将会显示
+
+<<<PDFPAGE 187 | images=3>>>
+159
+strengthorweakness,signalinganapproachinghighvolatilityforthatparticularpair.
+强势或弱势，预示着该货币对的高波动性。
+Forinstance,ifGBPUSDreachesanewhigh,whileEURUSDfailstodoso(showing
+weakness), it suggests a potential trading opportunity. In this scenario, one may
+consideropeningshortpositionsonEURUSD.
+例如，如果GBPUSD达到新高，而欧元兑美元没有达到新高(显示疲软)，这表明潜在的
+交易机会。在这种情况下，可以考虑开立欧元兑美元的空头头寸。
+
+<<<PDFPAGE 188 | images=1>>>
+160
+Premium:IfBTCUSDorETHUSDinpremiumfailstomakeanewhigherhighit
+presentsadivergenceinprice.
+溢价:如果溢价中的BTCUSD或ETHUSD未能创出新高，则表明价格出现背离。
+Discount: If BTCUSD or ETHUSD in discount fails to make a new lower low
+itpresentsadivergenceinprice.
+折价:如果折价中的BTCUSD或ETHUSD未能创出新低，则表明价格出现背离。
+SMTDivergenceisacrackincorrelationbetweentwocloselycorrelatedpairslike
+EUR/USD&GBP/USD.IftheFiberismakingalowerlow,whiletheCableismaking
+ahigherlow,thisisbullishforthepairs.IftheFiberismakingahigherhigh,whilethe
+Cable is making a lower high, this is bearish for the pairs. The same applies if you
+switchthepairs.
+SMT背离是两个密切相关的货币对(如欧元/美元和英镑/美元)之间相关性的裂缝。如
+果光纤的价格越来越低，而电缆的价格越来越低，这对线对是有利的。如果光纤的高
+点越来越高，而电缆的高点越来越低，这对线对来说是不利的。如果交换线对，情况
+也是如此。
+<<<PDFPAGE 189 | images=1>>>
+161
+
+<<<PDFPAGE 190 | images=1>>>
+162
+You are not looking for SMT divergence to take a trade, you use it only around
+predeterminedlevelswithtradeideainmind.Thenoncepatternunfoldsthatisthe
+greenlighttogetintothetrade.
+你不是在寻找SMT背离来进行交易，你只是在头脑中有交易想法的情况下在预定的水
+平附近使用它。然后一旦模式展开，那就是进入交易的绿灯。
+
+<<<PDFPAGE 191 | images=3>>>
+163
+
+<<<PDFPAGE 192 | images=1>>>
+164
+However,itisimportanttonotethatSMTDivergenceshouldbeusedinconjunction
+withaclearunderstandingofthemarket’sdirection.UtilizingSMTasaconfirmation
+tool follows the principle of analyzing time and price theory to enhance trading
+accuracyandeffectiveness.
+但是，需要注意的是，SMT背离应该与对市场方向的清晰理解结合使用。利用SMT作
+为确认工具遵循分析时间和价格理论的原则，以提高交易的准确性和有效性。
+Trading on Smaller Time Frames and Looking for Liquidity
+Pools
+在较小的时间范围内交易，寻找流动性池
+ICT mentions using a one/two-minute chart for his analysis. This shorter time
+frameallowsforamoredetailedviewofpriceactionandcanhelptradersmakemore
+precise trading decisions. However, it is important to note that trading on smaller
+timeframesalsocomeswithitsownsetofchallenges,suchasincreasedvolatilityand
+noise. Therefore, it is important to have a solid understanding of technical analysis
+andmarketdynamicstoeffectivelytradeonsmallertimeframes.
+ICT提到使用一/两分钟图表进行分析。这一较短的时间框架允许对价格行为进行更详
+细的观察，可以帮助交易者做出更精确的交易决策。然而，重要的是要注意，在更短
+的时间范围内交易也带来了自己的一系列挑战，如波动性和噪音的增加。因此，对技
+术分析和市场动态有一个坚实的理解是很重要的，以便在更短的时间内有效地交易。
+Oneconceptthattradersshouldbeawareofwhentradingonsmallertimeframes
+istheconceptofliquiditypools.Aliquiditypoolreferstoanareaonthechartwhere
+thereisaconcentrationofbuyorsellorders.Theseareasoftenactasmagnetsforprice
+andcanprovideprofitabletradingopportunities.
+交易者在短时间内交易时应该知道的一个概念是流动性池的概念。流动性池是指图表
+上集中买卖订单的区域。这些区域通常像磁铁一样吸引价格，并能提供有利可图的交
+易机会。
+
+<<<PDFPAGE 193 | images=0>>>
+165
+Aliquiditypoolreferstoareasinthemarketwherethereisahighprobabilityof
+restingbuyandsellorders.Thesepoolsareoftentargetedbytraderstotakeadvantage
+of price movements. Liquidity pools can be found on various timeframes, such
+as 5-minute, 15-minute, and hourly charts. Traders often look for these pools to
+identify potential trade opportunities and manage their positions accordingly, such
+astakingprofitsoradjustingstop-lossorders.
+流动性池是指市场中很有可能存在买入和卖出指令的区域。这些资金池经常成为交易
+者利用价格波动的目标。流动性池可以在不同的时间框架中找到，例如5分钟图，15分
+钟图和小时图。交易员通常会寻找这些资金池来识别潜在的交易机会，并相应地管理
+自己的头寸，比如获利了结或调整止损单。
+Validation:Whenthelowisviolated,orpricemovesbelowtherecentlow-the
+SellStopsbecomeMarketOrderstoSellatMarket.ThisinjectsSellSideLiquidityinto
+theMarket-typicallypairedwithSmartMoneyBuyers.Orwhenthehighisviolated,
+or price moves above the recent High – the Buy Stops into the Market – typically
+pairedwithSmartMoneySellers.
+确认:当价格突破低点，或跌破最近的低点时，止损变成市价单，在市场上卖出。这为
+市场注入了卖方流动性，通常与精明的资金买家联手。或者当高点被突破，或者价格
+高于最近的高点时——买入停止进入市场——通常与聪明的资金卖家配对。
+<<<PDFPAGE 194 | images=2>>>
+166
+Entry Techniques:WhenunderlyingassetisBullish:beforepricetradesunder
+the recent low - place a Buy Limit Order just below or at the recent Low. You
+are buyingthe sell stopslikeainterbank trader,orany other“Smart Money”entity
+would.
+入门技巧:当基础资产看涨时:在价格低于最近低点之前，在价格低于或处于最近低点
+时发出限价单。你像银行间交易者或任何其他“聪明钱”实体一样买入卖出止损。
+WhenunderlyingassetisBearish:beforepricetradesabovetherecenthigh-place
+aselllimitorderjustaboveorattherecenthigh.YouareSellingthebuystopslikea
+interbanktrader,oranyother“SmartMoney”entitywould.
+当基础资产看跌时:在价格高于最近高点之前，在高于或等于最近高点时发出限价卖
+单。你像银行间交易者或任何其他“聪明钱”实体一样卖出买入止损单。
+Reinforcingliquiditypoolsreferstotheconceptofidentifyingareasinthemarket
+wherethereisaconcentrationoforders,whichcanbeusedtodefineriskintrading.
+Asatrader,youwanttotradeinlowresistanceconditions,meaningthereshouldbe
+minimalresistanceinthepathofprofitability.
+加强流动性池是指识别市场中订单集中的区域，这可用于定义交易中的风险。作为交
+易者，你想在低阻力的条件下交易，这意味着在盈利的道路上应该有最小的阻力。
+Itisimportanttounderstandthateverytimewhenthemarketmakesanewrange,
+markthehighandthenewlowandyou’llbetradingintherange,soifyoutradeata
+bearishorderblockthatisgoingtobeareturntointernalrangeliquiditybutyou’re
+going to be looking for external range liquidity to exit on. ICT’s entries are mostly
+entries on internal liquidity and exits on external liquidity. Once you understand
+wheretheHTFwantstogoyoucanframeyoursetupstolowertimeframe.
+重要的是要明白，每次当市场形成一个新的区间时，标记高点和低点，你将在该区间
+内交易，所以如果你在一个看跌订单块交易，这将是内部区间流动性的回归，但你将
+
+<<<PDFPAGE 195 | images=0>>>
+167
+寻找外部区间流动性退出。ICT的条目多为内部流动性的条目，外部流动性的退出。
+一旦你明白了HTF想要去哪里，你就可以设定更低的时间框架。
+Wecanrunexternalrangeliquidityonthedaily,butonthemonthlyitcanstillbe
+internal.Whenweunderstandwheretheweeklyandmonthlyarewillingtotradeto,
+onthedailyitcreatesarecipeforlowresistanceliquidityruns.Thismeanswhenwe
+expectahightobetakenbecauseofthemonthlyandweeklybias,thenthesehighsare
+alowresistanceliquidityrun.Becausepricehasanagenda.So,withthisideawecan
+classifywhetherit’sahighresistanceorlowresistanceliquidityrun.
+我们可以每天运行外部范围的流动性，但每月仍然可以运行内部范围的流动性。当我
+们理解周线和月线的交易方向时，日线就创造了低阻力流动性运行的方法。这意味着，
+当我们预期高点会因为月度和周偏差而出现时，那么这些高点就是低阻力流动性运行。
+因为价格是有目的的。因此，有了这个想法，我们可以将流动性挤兑分为高阻力还是
+低阻力。
+Ifweknowthatthehighertimeframeisbullish,ourmindswitchesto:“well,where
+arethesellstops,theyareaimingfor?”Becauseifitwantstogohigheranditdrops,we
+lookforexternalrangeliquidity.Andassoonaswetradebelowthatlevelanditgives
+aquickreactionandseesinstitutionalsponsorship,lookforabullishOB.
+如果我们知道更高的时间框架是看涨的，我们的想法就会转变为:“好吧，他们的目标
+是哪里？”因为如果它想上涨而下跌，我们就寻找外部范围的流动性。一旦我们的交易
+低于这个水平，它会做出快速反应，并看到机构的赞助，寻找看涨的OB。
+<<<PDFPAGE 196 | images=3>>>
+168
+Keytimestotrade:Markthehighsandlowsfor
+交易的关键时刻:标记高点和低点
+• 2am-5am-Londonsession
+凌晨2点至5点-伦敦时段
+• 7am-10am–NewYorksession
+上午7点-10点–纽约时段
+• 8pm-12am-Asiasession
+晚上8点-中午12点-亚洲时段
+Besttimetotradethismodelisfrom8:30amto11:00am EST.Waitfor1:30pmif
+you’regoingtotradethePMsession.
+交易该模型的最佳时间是美国东部时间上午8:30到11:00。如果你要交易下午时段，等
+待下午1:30。
+At8:30amESTlookforoldhighsoroldlowtobeswept,thenwaitforthemodel.
+在美国东部时间上午8:30寻找旧高点或旧低点，然后等待模型。
+
+<<<PDFPAGE 197 | images=0>>>
+169
+False Breakout with a Liquidity Pool
+流动性池的假突破
+Definition:Underthelow,whichisbelowthecurrentmoveofthemarketprice,
+there are usually stop losses of traders with long positions. Or sell limit orders
+by traderswhowanttobreakoutashort position.Above the high, which is above the
+currentmoveofthemarketprice,thereareusuallystoplossesoftraderswithshort
+positions.Orbuylimitordersbytraderswhowanttobreakoutalongposition.
+定义:在低于市场价格当前移动的低点下，通常有多头交易者的止损。或者由想突破空
+头头寸的交易员卖出限价单。高于市场价格的当前移动，通常有空头交易者的止损。
+或者由想突破多头头寸的交易者购买限价单。
+<<<PDFPAGE 198 | images=1>>>
+170
+Confirmation:Whenthelowisbroken,thepricemovesbelowtherecentlow-
+sellstopsbecomemarketsellordersinthemarket.ThisbringsSellSideLiquidityinto
+themarket-usuallypairedwithsmartmoneybuyers.
+确认:当低点被打破时，价格低于最近的低卖止损点，成为市场中的市场卖单。这给市
+场带来了卖方流动性——通常与精明的资金买家配对。
+Whenthehighisbroken,thepricemovesabovetherecenthigh-buystopsbecome
+market buy orders on the market. This brings Buy Side Liquidity into the market -
+usuallypairedwithsmartmoneysellers.
+当高点被打破时，价格在最近的高点上方移动，在市场上成为市场买入订单。这给市
+场带来了买方流动性——通常与聪明的卖方配对。
+Entry Methods: When the underlying asset is bullish: before the price trades
+belowtherecent low,placea buylimitorderjust beloworat thelevelof therecent
+low.Youbuysellstopsjustlikeabanktraderoranyothersmartmoneyentitywould.
+输入方法:当标的资产看涨时:在价格低于最近的低点之前，在低于或等于最近的低点
+的位置下限价单。你就像银行交易员或任何其他聪明的货币实体一样买入卖出止损点。
+Whentheunderlyingassetisbearish:beforethepricetradesabovetherecenthigh,
+placeaselllimitorderjustaboveorattheleveloftherecenthigh.Yousellbuystops
+justlikeabanktraderoranyothersmartmoneyentitywould.
+当标的资产看跌时:在价格高于近期高点之前，在高于或等于近期高点的水平下限价
+单。你卖出买入止损单，就像银行交易员或任何其他聪明的资金实体会做的那样。
+Afalsebreakoutreferstoasituationwherethemarketappearstobreakabovean
+oldhigh,butit’sactuallyafalsebreak,andsmartmoneytraderssellintoit,expecting
+themarkettoreverse.
+假突破是指市场似乎突破了旧高点，但实际上是假突破，聪明的资金交易者卖出，期
+待市场反转。
+Thisisoftendoneintheformofarunonliquidityoraliquiditypool.Totradethis
+setup, you need to identify the low and place a buy limit order just below or at the
+recent low,essentially buying the sell stops like a interbank trader or smart money
+entitywould.Definingtheriskwiththissetuprequiresyoutoseethelowanddetermine
+howfaritcouldreasonablytradebelowit.It’sessentialtolookforclearsignsinthe
+chart,suchasafairvaluegap,ashiftinmarketstructure,andaliquiditypool,toavoid
+gamblingandensureyou’retradingwithaproperstrategy.
+这通常是以流动性挤兑或流动性池的形式进行的。要交易这种设置，你需要确定低点，
+在低于或等于最近低点的位置下限价单，基本上像银行间交易者或聪明的资金实体那
+样买入止损。用这种方法定义风险需要你看到低点，并确定它能在低点以下交易多远。
+在图表中寻找清晰的信号是很重要的，比如公允价值差距，市场结构的变化，流动性
+池，以避免赌博，确保你用正确的策略交易。
+
+<<<PDFPAGE 199 | images=6>>>
+171
+AccumulationofSSLforlongpositionsanddistributionoflongpositionstoBSL.
+多头头寸的SSL累积和多头头寸向BSL的分配。
+
+<<<PDFPAGE 200 | images=1>>>
+172
+Eachtimethemarketformsanewrange,markahighandanewlowandyouwill
+betradinginarange,soifyoutradebearishOrderBlock(OB),itwillbeareturnto
+theinternalrangeliquiditybutyouwillbelookingforexternalrangeliquiditytoexit.
+ICTentriesaremainlyinternalliquidityentriesandexternalliquidityexits.Onceyou
+understandwherethepricewantstomoveontheHTF,youcanplanyoursetupson
+theLTF.Itcantakeexternalrangeliquidityonadailybasis,butonamonthlybasisit
+canremaininternal.
+每次市场形成一个新的范围，标记一个高点和一个新低，你将在一个范围内交易，所
+以如果你交易看跌订单块(OB)，这将是内部范围流动性的回归，但你将寻找外部范围
+流动性退出。ICT入口主要是内部流动性入口和外部流动性出口。一旦你明白了HTF
+的价格走向，你就可以在LTF计划你的系统了。它可以每天接受外部范围的流动性，
+但每月可以保持内部流动性。
+When we understand where the weekly and monthly prices are willing to trade,
+a recipe is created on the daily charts to take low resistance liquidity. Thus, when
+we expect a high to be made due to the monthly and weekly bias, then these highs
+representlowresistanceliquiditywithdrawals.
+当我们理解了周线和月线的价格，我们就可以在日线图上找到低阻力的流动性。因此，
+当我们预期由于月度和周偏差而出现高点时，这些高点代表低阻力的流动性提取。
+So,withthisidea,wecanclassifywhetherthisisahighorlowresistanceliquidity
+withdrawal:
+因此，根据这一想法，我们可以对这是高阻力还是低阻力的流动性提取进行分类:
+YouwanttobuywithinternalrangeliquidityorbullishOBinsidetheprevious
+<<<PDFPAGE 201 | images=0>>>
+173
+你想买内部区间流动性或看涨OB
+rangeandtrytotakeprofitsatorabovetheoldexternalhigh.
+范围，并试图在旧的外部高点或以上获利。
+Trading Off Liquidity Levels
+权衡流动性水平
+Toproperlyillustratealevelofliquiditywhereanopportunitytobuyorsellmay
+bepresent,simplydrawahorizontallinefromthelatestwickorswinghigh/lowand
+extenditallthewayuntilitintersectswithpriceagain.
+为了恰当地说明可能存在买入或卖出机会的流动性水平，简单地从最近的灯芯或高/低
+摆动画一条水平线，并一直延伸，直到它再次与价格相交。
+InthisEShourlychartIpresentbelow,Irandomlyselectedoveramonthworthof
+tradingtheES,withabluelinedrawniftheliquiditylevelledtoabreakofthemarket
+在我下面展示的这个ES小时图中，我随机选择了一个多月的ES交易，如果流动性水平
+导致市场中断，就画一条蓝线
+<<<PDFPAGE 202 | images=3>>>
+174
+structure(viahigherhighsorlowerlows)oraredlineiftheretestoftheliquiditylevel
+occursamidafailureofabreakinmarketstructure.
+结构(通过更高的高点或更低的低点)或红线，如果流动性水平的重新测试发生在市场
+结构破裂失败的情况下。
+I assume an entry strategy based on trading off liquidity levels for a 2:1 risk
+to reward with a stop half the size of the previous swing low/high (making it more
+difficult to reach the stop before an opportunity to move to break even), a move to
+breakevenat1:1(itcomesdowntoone’sowndiscretion),andwiththepre-condition
+ofapreviousbreakoutofthemarketstructurebyprintinghigherhighsorlowerlows
+inthehourlychart.
+我假设一个基于2:1风险的交易流动性水平的进场策略，回报是前一个波动低/高的一
+半大小的止损(在有机会移动到收支平衡之前更难到达止损)，1:1的移动到收支平衡(这
+取决于自己的判断)，以及通过在小时图中打印更高的高点或更低的低点，以市场结构
+的前一次突破为前提条件。
+Bytheendoftheexercise,itshouldbeabundantlyclearhowengaginginbuy/sell
+tradeswiththepre-conditionofabreakoutofamarketstructurecarriesmuchgreater
+chances ofsuccess(bluelines) as opposed toentering against thedominant market
+structure(redline).Ifyouhadonlytradedattheliquiditylevelsinblue,asIinitially
+suggestedtomaximizeone’soddsofsuccess,itwouldhaveledtopotentially6winners
+for2:1risktorewardand1loser.
+到练习结束时，应该非常清楚，与违背主导市场结构(红线)相比，以市场结构突破为
+前提的买入/卖出交易有更大的成功机会(蓝线)。如果你只在蓝色的流动性水平交易，
+正如我最初建议的那样，最大化一个人的成功几率，它可能会导致6个赢家，2:1的风
+险回报和1个输家。
+Combine this with additional confluences such as trading with the dominant
+
+<<<PDFPAGE 203 | images=0>>>
+market cycle in HTF, aligning with fundamentals, a mechanical risk management,
+awarenessofnewsevents,andthismightwellbeastrategythatmaysuityourstyle.
+It’snowyourtimetofindout,throughyourownbacktesting,whetherornotthisisa
+methodologyworthexploringfurthertomakeityourown.
+将这些与其他因素结合起来，比如与HTF的主要市场周期交易，与基本面保持一致，
+机械的风险管理，对新闻事件的了解，这可能是适合你风格的策略。现在是时候通过
+你自己的回溯测试来发现，这是否是一个值得进一步探索的方法来使它成为你自己的
+方法。
+To conclude, when we talk about high levels of liquidity, we’re talking about
+a situation where trading activity is off the charts. It’s like a bustling marketplace
+whereeveryoneandtheircousinisbuyingand selling.Thishappenswhenthere’sa
+massivedemandforanasset,andatthesametime,alotoffolksreadytosupplyit.
+Withsomanyplayersinthegame,findingabuyerorsellerisapieceofcake.
+总之，当我们谈论高水平的流动性时，我们谈论的是交易活动超出图表的情况。这就
+像一个熙熙攘攘的市场，每个人和他们的表亲都在买卖。当对一种资产有大量需求，
+同时又有许多人准备提供这种资产时，就会发生这种情况。有这么多玩家在游戏中，
+找到一个买家或卖家是小菜一碟。
+121So,rememberthis:highliquidityequalsawildtradingfrenzywithlotsofbuyers
+121所以，记住这一点:高流动性意味着有大量买家的疯狂交易
+<<<PDFPAGE 204 | images=1>>>
+122
+and sellers, while low liquidity means things are slow and sluggish with a limited
+numberofplayers.
+和卖家，而低流动性意味着玩家数量有限，事情进展缓慢。
+Daily Bias
+日常偏见
+Determining the daily bias in trading is not about establishing a preconceived
+bias before the market commences trading, as this approach can often prove to be
+inaccurate.
+确定交易中的日偏差并不是在市场开始交易之前就建立一个预想的偏差，因为这种方
+法经常被证明是不准确的。
+Instead,itreliesonexperienceandadherencetospecificrules.
+相反，它依赖于经验和对特定规则的遵守。
+Forinstance,adoptingabullishstancedoesnotequatetopurchasingassetsevery
+
+<<<PDFPAGE 205 | images=0>>>
+123
+day, nor does embracing a bearish outlook necessitate daily selling. Traders must
+exercisepatience,waitingfordistinctconditionstoalignwiththeirexpectations.This
+involvesseekingdiscountedarraysforbullishtradesandpremiumarraysforbearish
+trades,allwithindesignatedtimeframes.
+例如，采取看涨立场并不等同于每天购买资产，也不意味着接受看跌观点就必须每天
+卖出。交易者必须保持耐心，等待与他们的预期相符的特殊情况。这包括在指定的时
+间范围内，为看涨交易寻找折扣数组，为看跌交易寻找溢价数组。
+Furthermore, the economic calendar can be effectively employed alongside the
+此外，经济日历可以有效地与
+daily chart to foresee potential manipulation linked to high-impact news catalysts.
+预测与高影响力新闻催化剂相关的潜在操纵的日线图。
+<<<PDFPAGE 206 | images=0>>>
+124
+Ultimately,determiningthedailybiasdemandstheamalgamationofdiverseinsights
+acquiredthroughmentorshipandhands-onexperience.
+最终，确定日常偏见需要通过指导和实践经验获得的不同见解的融合。
+Oneofthekeyfactorsindeterminingdailybiasisthepreviousday’shighandlow.
+Theselevelsactasreferencepointsthathelptradersgaugethestrengthofthecurrent
+trendandanticipatepotentialpricemovements.
+决定日偏差的一个关键因素是前一天的高点和低点。这些水平作为参考点，帮助交易
+者判断当前趋势的强度，并预测潜在的价格变动。
+Here,IwilldemonstratehowtodeterminethedailybiasusingboththePrevious
+Day’sHigh(PDH)andPreviousDay’sLow(PDL),aswellasemployingthePrevious
+Week’sHigh(PWH)andPreviousWeek’sLow(PWL).
+在这里，我将演示如何使用前一天的高点(PDH)和前一天的低点(PDL)以及前一周的
+高点(PWH)和前一周的低点(PWL)来确定日偏差。
+Oneofthekeyfactorsindeterminingdailybiasisthepreviousday’shighandlow.
+Theselevelsactasreferencepointsthathelptradersgaugethestrengthofthecurrent
+trendandanticipatepotentialpricemovements.
+决定日偏差的一个关键因素是前一天的高点和低点。这些水平作为参考点，帮助交易
+者判断当前趋势的强度，并预测潜在的价格变动。
+Previousdayhighsandlowscanalsoserveasliquiditypoolsforreversals.
+前一天的高点和低点也可以作为反转的流动性池。
+• Ifthepricereachesthepreviousday’shighbutfailstobreakaboveit,thiscan
+indicate a reversal. We may look for entry points to go short as the price
+isunabletosustainitsupwardmomentum.
+如果价格达到前一天的高点，但未能突破，这可能表明反转。由于价格无法维
+持上涨势头，我们可能会寻找做空的切入点。
+• Similarly,ifthepricereachesthepreviousday’slowbutfailstobreakbelowit,
+thiscanindicateareversal.Wemaylookforentrypointstogolongastheprice
+isunabletosustainitsdownwardmomentum.
+同样，如果价格达到前一天的低点，但未能跌破它，这可能表明反转。我们可
+能会寻找进场点做多，因为价格无法维持其下跌势头。
+<<<PDFPAGE 207 | images=1>>>
+125
+ReversalscanbeframedoffPreviousDayHighandPreviousDayLowwhenthere
+反转可以从前一天的高点和前一天的低点开始
+isafailuretodisplace.
+是无法取代的。
+
+<<<PDFPAGE 208 | images=2>>>
+126
+Intheexampleabove,PreviousDayLowusedasadrawonliquidityandbeing
+usedtoframeareversal.
+
+<<<PDFPAGE 209 | images=0>>>
+127
+在上面的例子中，前一天的低点被用作流动性的提取，并被用来构建反转。
+<<<PDFPAGE 210 | images=0>>>
+128
+Let’sbeginbyanalyzingsomeexamplestoseehowpreviousdayhighandlowcan
+actasliquiditypoolsforreversals:
+让我们从分析一些例子开始，看看前一天的高点和低点是如何作为反转的流动性池的:
+1.Example1:
+示例1:
+• Westartwithanuptrend,wherepriceistrendingupwards.
+我们从上升趋势开始，价格呈上升趋势。
+• Thepreviousdayhighbecomesourdrawonliquidity,indicatingthatpriceis
+likelytoreachforthislevel.
+前一天的高点成为我们对流动性的吸引，表明价格可能会达到这一水平。
+• Ifpricefailstocloseabovethepreviousdayhigh,itsuggestsapotentialreversal.
+如果价格未能收盘高于前一天的高点，这表明一个潜在的反转。
+• Inthiscase,wewouldexpectpricetoreachforthepreviousdaylowasthenext
+drawonliquidity.
+在这种情况下，我们预计价格将达到前一天的低点，作为下一次提取流动性。
+• Byanalyzingthedisplacementandclosureofpriceinrelationtotheprevious
+dayhighandlow,wecanframeanarrativeforapotentialreversal.
+通过分析价格相对于前一天的高点和低点的位移和收盘，我们可以为潜在的反
+转制定一个叙事框架。
+2.Example2:
+示例2:
+• Inadowntrend,thepreviousdaylowbecomesourdrawonliquidity,indicating
+thatpriceislikelytoreachforthislevel.
+在下跌趋势中，前一天的低点成为我们的流动性，表明价格可能会达到这个水
+平。
+• Ifpricefailstoclosebelowthepreviousdaylow,itsuggestsapotentialreversal.
+如果价格未能收盘低于前一天的低点，这表明一个潜在的反转。
+• Wecanalsouseswingpointsinthemarketasadditionalliquiditypoolsfor
+reversals.
+我们也可以使用市场中的摆动点作为反转的额外流动性池。
+• Byobservingthedisplacementandclosureofprice,wecanidentifypotential
+reversalpoints.
+通过观察价格的位移和收盘，我们可以确定潜在的反转点。
+<<<PDFPAGE 211 | images=1>>>
+129
+
+<<<PDFPAGE 212 | images=2>>>
+130
+Previous Week High and Low
+上周最高价和最低价
+PreviousWeekHighandLowareliquiditylevelsthatcanbeusedasadrawon
+liquidity(DOL)orframeareversalorcontinuation.
+前一周的高点和低点是流动性水平，可以用来提取流动性(DOL)或框定反转或延续。
+
+<<<PDFPAGE 213 | images=2>>>
+131
+SwingPoint
+摇摆点
+SwingpointsinthemarketcanbeusedasaDOLorbeusedtoframeareversal.
+市场中的摆动点可以用作DOL，也可以用来构造反转。
+[creditto@TTrades_edu]
+[感谢@TTrades_edu]
+Failuretodisplaceoveroldhighsandlowscanbeusedtoframeareversal.
+未能突破过去的高点和低点可以用来预测反转。
+
+<<<PDFPAGE 214 | images=2>>>
+132
+WhenpricerespectsaPDarrayorfailstodisplaceoveraswinghighorlow,the
+nextcandlecanbeanticipated.
+当价格遵循PD阵列或未能在波动高点或低点移动时，可以预期下一根蜡烛线。

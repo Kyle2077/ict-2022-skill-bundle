@@ -1,0 +1,86 @@
+
+<<<PDFPAGE 95 | images=0>>>
+67
+Chapter 7
+第七章
+Three Drives Pattern
+三驱模式
+The Three Drives Pattern is a forex/futures trading pattern developed by Inner
+Circle Trader (ICT). The pattern is based on the idea that price tends to move in a
+seriesofthreedrives,witheachdriveconsistingofahigherhighandahigherlow(or
+a lowerlowandlowerhighinadowntrend).Thiscanbeseenonanytimeframeandis
+asignthatthemarketispressingupandrunningoutofliquidity.Itisnotnecessary
+for the third high to take out the old high, as the market is already pressing into
+runningoutofliquidity.
+三驱动模式是由内圈交易者(ICT)开发的外汇/期货交易模式。该模式基于这样的想法，
+价格趋向于在一系列的三个驱动中运动，每个驱动包括一个更高的高点和一个更高的
+低点(或者在下跌趋势中是一个更低的低点和更低的高点)。这可以在任何时间范围内
+看到，是市场正在上涨并耗尽流动性的迹象。没有必要让第三个高点冲掉旧高点，因
+为市场已经开始耗尽流动性。
+The Three Drives Pattern will Help you Understand Stop Hunts.
+三驱模式将帮助你理解停止狩猎。
+TheThreeDrivesPatternconsistsofthreemaincomponents:
+三驱动器模式由三个主要组件组成:
+1. Thefirstdrive:ThisistheinitialmoveinthedirectionofthetrendtotheHTF
+PD Array. In an uptrend, this drive is characterized by a higher high and
+ahigherlow.Inadowntrend,thisdriveischaracterizedbyalowerlowanda
+lowerhigh.
+第一个驱动:这是朝着HTFPD阵列趋势方向的最初移动。在上升趋势中，这种
+驱动的特征是一个更高的高点和一个更高的低点。在下跌趋势中，这种驱动的
+特征是低低和低高。
+2. Theseconddrive:ThisisthesecondpushtotheHTFPDArraythatcharacterized
+byahigherhighandhigherlowintheuptrend.Inadowntrend,thisisasecond
+driveischaracterizedbyalowerlowandalowerhigh.
+第二次推动:这是对HTFPD阵列的第二次推动，其特征是上升趋势中的更高的高
+点和更高的低点。在下跌趋势中，这是第二次驱动，其特征是一个较低的低点和
+一个较低的高点。
+<<<PDFPAGE 96 | images=0>>>
+68
+3. The third drive: This is thefinal movein the directionof theHTF PD Array.
+In an uptrend, this drive is characterized by a higher high and a higher low,
+which should exceed the high of the first drive. In a downtrend, this drive is
+characterizedbyalowerlowandalowerhigh,whichshouldexceedthelowof
+thefirstdrive.
+第三次驱动:这是朝着HTFPD阵列方向的最后一次移动。在上升趋势中，这种
+驱动的特征是一个更高的高点和一个更高的低点，这应该超过第一次驱动的高
+点。在下跌趋势中，这种驱动的特征是一个更低的低点和一个更低的高点，这
+应该超过第一次驱动的低点。
+Ifwesee3DrivestowardsLiquidityPool,wedonotneedtoseethatLiquidityPool
+hunted with the 3rd drive. The market is already running out Short-term Liquidity
+everytimeitdrivesintoanewShort-termHigh.
+如果我们看到3个流向流动性池的驱动力，我们不需要看到第三个驱动力追逐流动性
+池。每当市场创出一个新的短期高点时，它就已经在耗尽短期流动性。
+ThisishowSmartMoneyestablishedanewposition.
+这就是聪明的钱如何建立一个新的位置。
+YouwanttoseeanDisplacementafterwards.Thisiswhatyouarelookingforand
+whyyouarein-frontofthechart.TheDisplacementshouldbesoobvioussimilarto
+howanElephantwouldjumpintoaChildren’spoolandcauseascene.
+你想看到之后的位移。这就是你正在寻找的，也是你在图表前面的原因。这种位移应
+该如此明显，就像一头大象跳进一个儿童泳池里，引起一场闹剧。
+Whenthisoccurs,youarereadytolookfortheFairValueGap.
+当这种情况发生时，你已经准备好寻找公允价值的差距。
+<<<PDFPAGE 97 | images=3>>>
+69
+
+<<<PDFPAGE 98 | images=0>>>
+70
+IfitdoesnotreachtheliquidityzoneorPOIandrevertsstrongly,itisanevenmore
+powerfulsignal,sinceitconfirmsthattherewerenoordersontheothersideofthese
+points,andthattheinstitutionaloneshavealreadypositioned.
+如果它没有到达流动性区域或POI，并强烈反弹，这是一个更强有力的信号，因为它
+确认了在这些点的另一边没有订单，而机构已经建仓。
+<<<PDFPAGE 99 | images=3>>>
+71
+Lookfor3“impulses”+reversal.
+寻找3个“冲动”+反转。
+Anticipatethe StopHunt if wedo not see the3 Drives Pattern.Study how price
+reactswhenittakesoutarecentShort-termhighs.Ifthepriceisnotpressinghigher
+similartoa3Drivespattern,anticipateaStopHunt.
+如果我们看不到3驱动模式，预计停止狩猎。研究价格在突破近期高点时的反应。如
+果价格没有像3驱动模式那样上涨，就应该止损买入。
+ThenwelookforaDisplacementthatprintsaFVG.AndweplaceourEntryatthe
+FairValeGap.
+然后我们寻找能印出FVG的位移。我们把入场点设在FVG。
+
+<<<PDFPAGE 100 | images=1>>>
+72

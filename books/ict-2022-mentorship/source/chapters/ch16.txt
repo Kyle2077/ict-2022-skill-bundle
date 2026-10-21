@@ -1,0 +1,793 @@
+
+<<<PDFPAGE 332 | images=1>>>
+228
+Chapter 16
+第十六章
+Multiple Setups Inside Trading Session
+交易时段内的多个设置
+Daily BIASisaconceptthathelpsdeterminethemaindirectionofpricemovement
+fortheday.
+日常偏见是一个概念，有助于确定当天价格运动的主要方向。
+Here is 3 step process to determine BIAS:
+以下是确定偏差的3个步骤:
+Toeffectivelymapstructureandidentifyliquidityareas,itisimportanttoconsider
+thepremiumanddiscountlevelsofexternalmarketsalongwiththeimpulsestructure.
+Here’showyoucanapproachit:
+为了有效地绘制结构图和识别流动性区域，重要的是要考虑外部市场的溢价和折价水
+平以及冲量结构。你可以这么做:
+1. AnalyzeExternalMarkets:Startbyanalyzingthepremiumanddiscountlevels
+ofrelevantexternalmarkets.Thisinvolvescomparingthecurrentpriceofthe
+marketyou’retradingwiththecorrespondingpriceinrelatedmarkets.Identify
+anysignificantpremiumordiscountlevelsthatmayimpactthemarketyou’re
+focusingon.
+分析外部市场:从分析相关外部市场的溢价和折价水平开始。这包括比较你交易
+市场的当前价格和相关市场的相应价格。确定任何可能影响你所关注的市场的
+显著溢价或折价水平。
+2. Identify Impulse Structure: Study the impulse structure within your chosen
+market. Look for strong trending moves, price rejections, or breakouts that
+indicate a clear direction. These impulse movements provide valuable clues
+abouttheunderlyingmarketsentimentandcanhelpidentifypotentialliquidity
+
+<<<PDFPAGE 333 | images=0>>>
+229
+areas.
+识别冲动结构:研究你选择的市场中的冲动结构。寻找强劲的趋势移动，价格拒
+绝，或突破，表明一个明确的方向。这些脉冲运动提供了关于潜在市场情绪的
+有价值的线索，可以帮助识别潜在的流动性区域。
+3. Map Structure: Use your analysis of external markets and impulse structure
+to map out key structure levels in your chosen market. These levels may
+includesupportandresistanceareas,swinghighs,swinglows,orconsolidation
+zones. Structure mapping helps identify areas where liquidity is likely to
+beconcentrated.
+绘制结构图:利用你对外部市场和动力结构的分析，绘制出你所选择的市场的关
+键结构图。这些水平可能包括支撑和阻力区、波动高点、波动低点或盘整区。
+结构图有助于识别流动性可能集中的领域。
+4. LookforLiquidity:Focusontheareasofstructurewhereliquidityislikelytobe
+present.Theseareareaswheresignificantbuyingorsellingordersareexpected
+to be executed. Liquidity can be found at key support and resistance levels,
+breakouts,orareasofpricecongestion.
+寻找流动性:关注可能存在流动性的结构领域。这些区域是预期执行重大买卖订
+单的地方。流动性可以在关键的支撑位和阻力位、突破或价格拥挤的地方找到。
+<<<PDFPAGE 334 | images=1>>>
+230
+5. Evaluate Premium/Discount Levels: Consider how the premium or discount
+levels in external markets may impact liquidity and price behavior in your
+chosenmarket. Apremium level in an external market may attract sellers or
+createresistance,whileadiscountlevelmayattractbuyersorcreatesupport.
+评估溢价/折价水平:考虑外部市场的溢价或折价水平如何影响你所选择市场的
+流动性和价格行为。外部市场的溢价水平可能会吸引卖家或产生阻力，而折价
+水平可能会吸引买家或产生支持。
+6. TradewiththeFlow:Useyourunderstandingofliquidityandstructuretotrade
+inthedirectionoftheprevailingmarketflow.Lookforopportunitiestoenter
+tradesatfavorableliquidityareas,aligningwiththeimpulsestructureandthe
+premium/discountlevels.
+随波逐流:利用你对流动性和结构的理解，按照市场主流方向交易。寻找机会在
+有利的流动性区域进入交易，与冲动结构和溢价/折价水平保持一致。
+7. Ifnodisplacementthroughthestructure,wecanexpectreversal.Itisimportant
+tounderstandthatDisplacementisakeyindeterminingtruedirection.Ifwe
+see displacement through the structure, we are going to expect that price
+isreaching
+如果没有位移通过结构，我们可以预期逆转。重要的是要明白位移是决定真实
+方向的关键。如果我们通过结构看到位移，我们将预期价格将达到
+Price movement in the market is influenced by the concept of liquidity and
+imbalances.Liquidityreferstotheavailabilityofbuyingorsellingordersinthemarket.
+Understandingthesefactorscanhelptradersidentifypotentialareasofinterestand
+makeinformedtradingdecisions.
+市场中的价格运动受到流动性和失衡概念的影响。流动性是指市场上买卖订单的可用
+性。了解这些因素可以帮助交易者识别潜在的兴趣领域，做出明智的交易决策。
+Priceinthemarketisconstantlydriventowardsareasofliquidityandimbalances.
+市场价格不断被推向流动性和失衡的领域。
+Let’sexplorethesignificanceofstructureandimbalancesinthiscontext:
+让我们在这种背景下探讨结构和失衡的意义:
+1. Structure:Itprovidesaframeworkforunderstandingthebehaviorofmarket
+participants.Structurecanactasaroadmapforidentifyingkeyareasofinterest,
+such as support and resistance zones, trendlines, and chart patterns. These
+
+<<<PDFPAGE 335 | images=0>>>
+231
+areasoftenattractliquidityandcaninfluencepricemovement.
+结构:它为理解市场参与者的行为提供了一个框架。结构可以作为识别关键兴趣
+区域的路线图，如支撑位和阻力位、趋势线和图表模式。这些领域通常会吸引
+流动性，并影响价格走势。
+2. Imbalances:Imbalancesoccurwhenthereisadisparitybetweenthebuyingand
+sellingpressureinthemarket.Thiscanleadtopricemovesthatseektorectify
+themismatchedsupplyanddemand.Imbalancescanarisefromfactorssuchas
+largeinstitutionalorders,newsevents,orshiftsinmarketsentiment.Weoften
+look for imbalances as they can indicate potential trading opportunities and
+areaswhereliquiditymaybeconcentrated.
+失衡:当市场中的买卖压力不一致时，就会出现失衡。这可能导致价格变动，试
+图纠正不匹配的供应和需求。失衡可能是由大型机构订单、新闻事件或市场情
+绪变化等因素造成的。我们经常寻找不平衡，因为它们可以表明潜在的交易机
+会和流动性可能集中的领域。
+When considering potential trades, we often look for areas where liquidity is
+expected tobe high, such as near significant support or resistance levels,breakouts
+from consolidation patterns, or areas of price congestion. These areas can provide
+opportunitiesforenteringorexitingtradeswithfavorablerisk-rewardratios.
+在考虑潜在交易时，我们通常会寻找流动性预期较高的区域，如接近重要支撑位或阻
+力位、盘整形态的突破或价格拥堵区域。这些区域可以提供进入或退出具有有利风险
+回报比的交易的机会。
+<<<PDFPAGE 336 | images=1>>>
+232
+Order Flow analysis is a crucial aspect of understanding market dynamics and
+gaininginsightsintotheactionsofsmartmoneyorinterbanktraders.
+订单流分析是理解市场动态和洞察精明资金或银行间交易员行为的一个重要方面。
+OrderFlowanalysisinvolvesobservingtheflowofbuyandsellordersinthemarket
+andidentifyingwhichorderflowisbeingrespected.
+订单流分析包括观察市场中的买卖订单流，并确定哪个订单流受到重视。
+Institutional Order Flow (IOF/OF)-isaflowofbigcapitalorderstobuy/
+机构订单流——是大资本的流动订单购买/
+sell,deliveringthepricetoareasofinterestofbigcapital.
+卖出，把价格传递到大资本感兴趣的领域。
+It can help traders determine the directionof themarket and decide whether to
+enterorexitaposition.
+它可以帮助交易者确定市场的方向，决定是否进入或退出一个位置。
+Atthetimeof the bearish Order Flow,lowerlowsandhighsareupdated,then
+pricetakestheliquidity(sellstops).Duringtheperiod of the bullish Order Flow,
+thesituationismirroredtothebearishone,higherhighsandlowsareupdated,then
+pricetakesliquidity(buystops).
+在…的时候看跌订单流更新较低的低点和高点，然后价格接受流动性(卖出止损)。期
+间看涨订单流，情况反映到看跌，更高的高点和低点被更新，然后价格需要流动性(买
+入止损)。
+Bigplayerscancreatezonesofinterestinthemarket,andwhenthepriceapproaches
+thesezones,placelargeorderstobuyorselltomovethepriceintherightdirection.
+大玩家可以在市场上创造感兴趣的区域，当价格接近这些区域时，下大订单买入或卖
+出，以使价格朝着正确的方向移动。
+As soon as the price reaches the zone of interest and orders of big players are
+triggered,thiscanleadtoachangeinthedirectionoftheOrderFlowinthemarket.
+For example, if the price has reached the zone of interest to sell, large players can
+startplacinglargesellorders,whichcanleadtoachangeinthedirectionoftheflow
+ofsellorders.
+一旦价格到达感兴趣的区域，大玩家的订单被触发，这可能导致市场中订单流向的改
+变。例如，如果价格已经达到要卖出的目标区域，大玩家可以开始下大卖单，这可以
+<<<PDFPAGE 337 | images=1>>>
+233
+导致卖单流向的改变。
+Smart Money traders who take into account order flows can determine which
+direction the market is moving and enter into trades in the direction of the actual
+OrderFlow.Thisallowstradersto“mimic”themovesofthebigplayers andreduce
+theirriskastheyworkinthedirectionofstrongOrderFlow.
+聪明的资金交易者会考虑订单流，他们可以判断市场的走向，并按照实际订单流的方
+向进行交易。这使得交易员可以“模仿”大玩家的动作，并在他们朝着强订单流的方向
+努力时降低风险。
+
+<<<PDFPAGE 338 | images=0>>>
+234
+Order Flow Logic
+订单流程逻辑
+It is important to understand the logic of the Order Flow. This is a
+manipulativemoveofthepriceoflargecapitaltogainapositionduetoliquidityinthe
+formofstoplosses.
+理解订单流的逻辑很重要。这是一种操纵大资金价格的行为，以止损的形式获得流动
+性头寸。
+Thatis,theentireimpulseofcandles(withoutpullbacks),whichtookliquidity,we
+considerasanOrderFlow.
+也就是说，蜡烛线的整个冲量(没有回调)需要流动性，我们将其视为订单流。
+AtthetimeoftheformationoftheOrderFlow,largecapital has 2 open positions
+for buying and selling.Oneismanipulative,inordertocaptureliquidityandthen
+themainpositionisopened.
+在秩序流形成的时候，大资本有2个买入和卖出的未平仓头寸。一种是操纵型，为了捕
+捉流动性然后开仓主力。
+The Order Flow is activated after the price leaves the OF zoneandholds
+aboveit.IntheOrderFlow,weformorderblocks,fromwhichwearealreadylooking
+forentry pointsto the position. The price will then test (mitigate) the Order
+Flow zone in order to close the manipulative position, which is unprofitable and
+bouncesintheoppositedirection.
+价格离开OF区域后，订单流被激活并高举于其上。在订单流中，我们形成订单块，
+从订单块中我们已经在寻找头寸的进入点。价格将测试(减轻)订单流区域为了平仓操
+纵仓位，无利可图，反方向反弹。
+Asarule, the Order Flow on a higher timeframe looks like an order block.
+通常来说，更高时间段的订单流看起来像订单块。
+Order Flow Formation
+订单流程形成
+Todetermine a bearish Order Flow,welookatthefollowingsigns:
+来确定看跌订单流，我们看下面的迹象:
+1. Theascendingstructurehasbrokenortherehasbeenaliquiditygrabalongthe
+trend.
+上升结构已经打破，或者沿着趋势出现了流动性攫取。
+2. Grabofliquiditytobuy.
+抓住流动性进行购买。
+<<<PDFPAGE 339 | images=2>>>
+235
+3. Formedanewlowerlowandhigh.
+形成了新的低点和高点。
+BelowinthechartisanexampleoftheformationofabearishOrderFlow
+下图是一个看跌订单流形成的例子
+
+<<<PDFPAGE 340 | images=2>>>
+236
+ThebearishOrderFlowwillbeconfirmedwhenthepricestartstobreakthrough
+当价格开始突破时，看跌订单流将被确认
+theinternalliquiditytobuyandtouchthebearishzoneofinterest.
+内部流动性，以购买和触摸的利空区。
+The logic of the bearish Order Flow.Largecapitalmakesmanipulativetrades
+in order to take liquidity in the form of sell stops, and at this moment large capital
+opensasecondsellposition.Thepriceneedstoreturntotheorderflowzoneinorder
+tocloseunprofitablebuypositions,thenthepricebouncesofftheorderflow.
+看跌订单流的逻辑。大型资本进行操纵交易，以卖出止损的形式获得流动性，此时大
+型资本建立第二个卖出头寸。为了平仓无利可图的买入头寸，价格需要回到订单流区
+域，然后价格从订单流反弹。
+<<<PDFPAGE 341 | images=3>>>
+237
+
+<<<PDFPAGE 342 | images=1>>>
+238
+Todetermine a bullish Order Flow,welookatthefollowingsigns:
+来确定看涨的订单流，我们看下面的迹象:
+1. Thedescendingstructurehasbrokenorliquiditygrabalongthetrend
+下降结构已经打破或流动性沿着趋势攫取
+2. Grabliquidityforshort.
+简称抢流动性。
+3. Formedanewhigherhighandlow.
+形成了新高和新低。
+AnexampleoftheformationofabullishOrderFlow
+看涨订单流形成的一个例子
+<<<PDFPAGE 343 | images=3>>>
+239
+Confirmationissimilartobearish.Whenthepricestartstobreakthroughinternal
+sellsideliquidityandtouchthebullishPOIzoneortakeexternalliquidity,andassoon
+asthepricepullsbackandexitstheorderflowzone,OrderFlowisactivated.
+确认类似于看跌。当价格开始突破内部卖方流动性并触及看涨POI区域或接受外部流
+动性时，一旦价格回调并退出订单流区域，订单流就被激活。
+The logic of the bullish Order Flow.Largecapitalmakesmanipulativesellsin
+ordertotakeliquidityintheformofbuystops,andatthismomentlargecapitalopens
+asecondpositionforlongs.Thepriceneedstoreturntotheorderflowzoneinorder
+tocloseunprofitablesellpositions,thenthepricebouncesofftheorderflow.
+看涨订单流的逻辑。大型资本操纵卖出，以买入止损的形式获得流动性，这时大型资
+本建立第二个多头头寸。为了平仓无利可图的卖出头寸，价格需要回到订单流区域，
+然后价格从订单流反弹。
+<<<PDFPAGE 344 | images=3>>>
+240
+
+<<<PDFPAGE 345 | images=1>>>
+241
+OrderFlowisessentiallyaplaceonthechartwherewecanseethe“traces”ofbig
+capital,where it gained itspositions. Whenapproaching (retesting)the price of the
+OrderFlowzone,weexpectapricebounce,whichgivesthepricedirectioninwhich
+directiontotrade.
+订单流本质上是图表上的一个地方，在那里我们可以看到大资本的“痕迹”，在那里它
+们获得了头寸。当接近(重新测试)订单流区域的价格时，我们预期价格反弹，这给出
+了交易方向的价格方向。
+AnextendedversionforOrderFlowisOrderBlocks,withwhichwelookforentry
+pointstotrades.ItisunprofitabletoenterfromtheOrderFlowzoneitself,thestop
+lossisalreadytoobig.
+订单流的扩展版本是订单块，我们用它来寻找交易的进入点。从单流区本身进入是无
+利可图的，止损已经太大了。
+Idea of BIAS
+偏见的概念
+
+<<<PDFPAGE 346 | images=2>>>
+242
+
+<<<PDFPAGE 347 | images=2>>>
+243
+
+<<<PDFPAGE 348 | images=2>>>
+244
+
+<<<PDFPAGE 349 | images=6>>>
+245
+ThemainideaofBIASistodeterminewherethedailycandlewillmove,basedon
+theliquiditygrabandtheonethathasnotyetbeengrabbed.
+BIAS的主要思想是基于流动性抓取和尚未抓取的，确定日线蜡烛线的移动方向。
+ThemainquestionsyoushouldbeaskingyourselftodetermineBIASare:
+确定偏见时，您应该问自己的主要问题是:
+1. What was taken?
+什么被拿走了？
+2. Where can this lead?
+这会通向哪里？
+3. What hasn’t been taken yet?
+什么还没拿走？
+
+<<<PDFPAGE 350 | images=1>>>
+246
+Daily BIASisafundamentallyimportanttoolinyourtrading,asacorrectlydefined
+dailyprice movedirectionwillgiveyou a clear understanding ofwhich positionsto
+considerandcomplementtheinformationreceivedduringtradingsessions.
+日常偏见是您交易中一个非常重要的工具，因为一个正确定义的每日价格移动方向会让
+您清楚地了解要考虑哪些头寸，并补充交易期间收到的信息。
+It is crucial to accurately define the Daily BIAS through proper
+backtesting, as inexperienced traders may make mistakes in determining
+it.
+通过适当的回溯测试来准确定义日偏差是至关重要的，因为没有经验的交易者可能会
+犯错误。
+UnderstandingtheDailyBIASallowsustorecognizethatpricemovementsarenot
+randombutratherhavepurposeanddirection.
+理解日偏差让我们认识到价格运动不是随机的，而是有目的和方向的。
+DAILY INDECISIVE CANDLESTICK
+日常优柔寡断烛台
+ThepresenceofaDailyIndecisiveCandlestick,characterizedbyasmallbodyand
+large wicks, can suggest a potential reversal in the context, indicating that the next
+candlemaybeoppositetothepreviousone.
+一个日常优柔寡断的烛台的存在，以小的身体和大的灯芯为特征，可以在上下文中暗
+示潜在的逆转，表明下一个蜡烛可能与前一个相反。
+<<<PDFPAGE 351 | images=3>>>
+247
+However,it’simportanttonotethattheDailyIndecisiveCandlestickshouldnotbe
+solelyrelieduponfordeterminingtheBIASoropeningtrades.Itservesasasmallhint
+indefiningtheBIASbutshouldbesupportedbyotherfactorsandanalysis.
+然而，重要的是要注意，不应该仅仅依靠日线图来判断偏差或开仓交易。它作为定义
+偏差的一个小提示，但应该得到其他因素和分析的支持。
+
+<<<PDFPAGE 352 | images=3>>>
+248
+Inthisexample,youcanseethatthepriceisin 1D POI, DAILY INDECISIVE
+CANDLESTICKtook Previous Week Low,inthiscontext,wecanassumethatthe
+nextcandlewillindeedbereversal.
+在本例中，您可以看到价格在1D POI，日常优柔寡断烛台拿上周低点，在这种背景
+下，我们可以假设，下一根蜡烛线确实会发生逆转。
+Just having a DAILY INDECISIVE CANDLESTICK doesn’t mean
+anything.
+只是有一个日常优柔寡断的烛台并不能说明什么。
+Asresult,
+因此，
+To determine the Daily BIAS, you need to follow a systematic approach that
+incorporatesmultiplefactors.HerearethekeystepstodeterminetheDailyBIAS:
+要确定日偏差，你需要遵循一个包含多个因素的系统方法。以下是确定每日偏差的关
+键步骤:
+1. Analyze Market Structure: Start by analyzing the previous day’s price action
+and identifying key market structure levels, such as support and resistance
+areas,swinghighs,and swinglows.Theselevelsprovide importantreference
+pointsforassessingthemarketbias.
+分析市场结构:首先分析前一天的价格行为，确定关键的市场结构水平，如支撑
+和阻力区，波动高点和波动低点。这些水平为评估市场偏差提供了重要的参考
+点。
+
+<<<PDFPAGE 353 | images=0>>>
+249
+2. IdentifyMarketStructureDevelopments:Lookforsignificantmarketstructure
+developments, such as breakouts, trendline breaks, or price rejections at key
+levels.Theseeventscanprovidevaluablecluesaboutthemarket’sbiasandthe
+potentialdirectionofpricemovement.
+识别市场结构发展:寻找重要的市场结构发展，如突破，趋势线突破，或在关键
+水平的价格拒绝。这些事件可以提供关于市场偏差和价格运动潜在方向的有价
+值的线索。
+3. Consider HTF: Consider the overall market context by analyzing higher
+timeframes, such as the weekly and monthly charts. Look for alignment or
+divergence of the Daily BIAS with these higher timeframes togain a broader
+perspective.Thishelpstovalidatethemarketbiasandidentifythedominant
+trend.
+以HTF为例:通过分析更高的时间框架，比如周线和月线，来考虑整体市场环
+境。寻找每日偏差与这些更高时间框架的一致或分歧，以获得更广阔的视角。
+这有助于验证市场偏见，并确定主导趋势。
+<<<PDFPAGE 354 | images=0>>>
+250
+4. Evaluate Key Market Participants: Evaluate the behavior of key market
+participants,particularlyinstitutionalplayers.ICTemphasizesunderstanding
+thepsychologyandintentionsofbigmarketplayersandusingthatinformation
+todeterminethemarketbias.Payattentiontovolumeandpriceactionaround
+keylevelstogaugetheinvolvementofinstitutionaltraders.
+评估关键市场参与者:评估关键市场参与者的行为，尤其是机构参与者。ICT强
+调理解大市场参与者的心理和意图，并利用这些信息来确定市场偏见。关注关
+键水平附近的成交量和价格变化，以衡量机构交易者的参与程度。
+WHENEVER PRICE CLEARS OUT LIQUIDITY, THERE IS ALWAYS A
+POSSIBILITY OF A CONTINUATION.
+每当价格清空流动性时，总是有延续的可能性。
+HOWEVER,IFWESEEPRICECLEARLIQUIDITYANDASWINGHIGHFORM
+[3CANDLES],THISSETSUPARETRACEMENT.
+然而，如果我们看到价格明确的流动性和一个摆动高点[3根蜡烛线]，这就形成了一个
+回撤。
+IfaRetracementisbound,thenextfollowingdaysareexpectedtobeBearish.
+IfweareexpectingBearishDays,weapplythePowerof3Concepts.
+如果回撤是必然的，接下来的几天预计将是熊市。如果我们期待熊市，我们运
+用3个概念的力量。
+Also,incorporatethePremiumvsDiscountConcepttoseehowfartheretracement
+willoccur.LookforanareawherePricemayhaveawillingnesstotradetowards.
+此外，纳入溢价与折价的概念，看看回撤会发生多远。寻找一个价格可能愿意交易的区
+域。
+INCORPORATING THE POWER OF 3
+结合了3的力量
+ANTICIPATING THE UPCOMING DAYS AS BEARISH, NOW WE CAN
+INCORPORATETHEPOWEROF3INTRA-DAY
+预测接下来的日子是熊市，现在我们可以整合3日内的力量
+Thereare2OpeningPriceswefocuson:
+我们关注两个开盘价:
+00:00AMand8:30AM[NEWYORKTIME]
+上午00:00和8:30[纽约时间]
+WewanttoseethepricetradeabovetheOpeningPricetoactasManipulation.
+ThiswillactasaJudasSwing,anditisCOUNTERINGwherethepricewillwanttogo.
+<<<PDFPAGE 355 | images=1>>>
+251
+我们希望看到高于开盘价的价格交易作为操纵。这将作为一个犹大摆动，这是反击的
+价格将想去的地方。
+
+<<<PDFPAGE 356 | images=2>>>
+252
+Thealgorithmracesfromthediscounttothepremiumzoneandviceversa.Within
+thislogic,themarketseeksliquidityintheformof:BSL,SSLorimbalance,orcreating
+an imbalance, FVG,or return to FVG.This is what all algorithms do and they do it
+basedontimeandthenprice.
+该算法从折扣区跑到溢价区，反之亦然。在这种逻辑下，市场以下列形式寻求流动
+性:BSL，SSL或失衡，或创造失衡，FVG，或回归FVG。所有算法都是这样做的，它
+们是基于时间和价格来做的。
+Whenwetradeabovetheoldhigh,theoldhighbecomesthediscountzone.This
+iswheretheoldhighsthatwerebrokenbecomesupport.That’swhysometimesthe
+booksarerightandyouranalysiswillberightonspecifickeyhighsandlows.Notethat
+
+<<<PDFPAGE 357 | images=0>>>
+253
+they are not always consistent, and this is the problem. So, you need to know what
+makesanoldhighoroldlowarealsupport/resistance.
+当我们在旧高点上方交易时，旧高点就变成了折扣区。这是被打破的旧高点成为支撑
+的地方。这就是为什么有时候书是对的，你的分析对特定的关键高点和低点也是对的。
+请注意，它们并不总是一致的，这就是问题所在。所以，你需要知道是什么让一个旧
+高点或旧低点成为一个真正的支撑/阻力。
+TheoldbrokenhighwillactassupportifthereisFVGopenforfilling.
+旧的破高将作为支撑，如果有FVG开放填充。
+<<<PDFPAGE 358 | images=2>>>
+254
+
+<<<PDFPAGE 359 | images=0>>>
+255
+Point of interest
+兴趣点
+POIinisapointofinterestofabigplayer,whereheorsheaccumulateshisorher
+trades.Thebigplayerwill“protect”theirentryarea.
+POIin是大玩家的兴趣点，他或她在这里积累他或她的交易。大玩家会“保护”他们的
+入口区域。
+A POI can be found on any timeframe and chart as prices are fractal. The chart
+movesaccordingtothesamerulesonanytimeframe.
+POI可以在任何时间框架和图表上找到，因为价格是分形的。图表在任何时间范围内
+都按照相同的规则移动。
+Types of POIs
+兴趣点的类型
+POIscanberepresentedasfollows:
+兴趣点可以表示如下:
+1. EQLandEQH
+EQL和EQH
+2. LiquidityLevels
+流动性水平
+3. FVG
+FVG
+4. OrderBlocks
+订单块
+5. BreakerBlocks
+断路器块
+6. MitigationBlock
+缓解块
+7. RejectionBlocks
+拒绝模块
+Which POI zones are the strongest?
+哪些兴趣点区域最强？
+<<<PDFPAGE 360 | images=0>>>
+256
+ThereisnoconceptofwhichofthePOIlevelsarestrongerandwhichareweaker.
+没有哪个POI级别更强、哪个更弱的概念。
+Eachofthelevelsasawholeisstronginitself.
+作为一个整体，每一个层次本身都很强大。
+Therearecaseswhenthereareseverallevelsofinterestinoneareaatonce-for
+example,anOBandaFVGcanbeobservedatthesametime.Inthiscase,itisworth
+choosingalevelaccordingtotheR/R-themoreprofitableitis,themorepreferableit
+istochooseoneoranotherPOI.
+有些情况下，在一个区域中同时存在几个层次的兴趣，例如，可以同时观察到OB和
+FVG。在这种情况下，根据R/R选择一个级别是值得的——越有利可图，选择一个或
+另一个POI就越可取。
+<<<PDFPAGE 361 | images=4>>>
+257
+Which POI to choose?
+选择哪个POI？
+It is also important to wait for confirmation on the LTF. For example, we are
+lookingatthe1h,andonthe1hwehavetwobearishPOIs-theFVGandtheOB.Even
+anexperiencedtradermayaskquestions-howtounderstandwhichofthezoneswe
+shouldtrade?Whichofthetwozoneswillbestronger?
+等待LTF的确认也很重要。例如，我们正在看1h，在1h上我们有两个看跌的poi-FVG
+和OB。即使是有经验的交易者也会问问题——如何理解我们应该交易哪个区域？两个
+区域哪个会更强？
+
+<<<PDFPAGE 362 | images=0>>>
+258
+WhichofthetwoPOIsisstronger?Bothzonesaregenerallystrong,anditisworth
+两个poi哪个更强？这两个区域通常都很强，这是值得的
+waitingforconfirmationontheLTF.
+等待LTF号的确认。
+<<<PDFPAGE 363 | images=3>>>
+259
+How to find an enter using the POI?
+如何使用POI找到入口？
+AggressiveplayerscanenterimmediatelyfromthePOI,withasmallstoplossand
+anaggressiveentryintothetrade.Butitwouldbebesttousedifferenttimeframesand
+lookforanentryontheLTF.
+激进的玩家可以立即从POI进场，带小止损，积极进场交易。但最好是使用不同的时
+间框架，在LTF上寻找一个入口。
+Timeframestouse:
+要使用的时间范围:
+1. 15m–5m
+1.15米–5米
+2. 1h–15m
+2.1小时–15米
+3. 4h–1h
+3.4小时至1小时
+4. 1D–4h
+4.1D–4小时
+Considertheexampleabove.WesawaOBandFVGonthe1hchart,inthedirection
+ofalong-termtrend.
+考虑上面的例子。我们在1h图上看到OB和FVG，长期趋势的方向。
+Now,let’sswitchtothe15m,anddrawa50%oftheFVG:
+现在，让我们切换到15m，并绘制50%的FVG:
+
+<<<PDFPAGE 364 | images=3>>>
+260
+DropfromPOIonthelowertimeframe.TheR/Rinthistradecouldeasilybeset
+from1/10+.
+在较低的时间范围内从兴趣点下降。这个交易中的R/R可以很容易地从1/10+设置。
+Ingeneral,theuseofbundlesofhigherandlowertimeframesisoneofthesecrets
+ofSmartMoney.Bycombiningthem,wecanachieveabetterrisk-to-rewardratio.
+总的来说，使用较高和较低的时间框架是聪明钱的秘密之一。将它们结合起来，我们
+可以获得更好的风险回报比。
+Yes,someonemaysay-shortstopsaremorelikelytobetaken!Butthat’snotthe
+casehere.Here,thelowerourrisk,thebetterforus.Itismostreasonabletosetthe
+riskat1-2%ofthedeposit,withatargetprofitof10-20%ofthedepositfromthetrade
+usingthisconcept.
+是的，可能有人会说——空头止损更容易被套牢！但这里的情况并非如此。在这里，
+我们的风险越低，对我们越有利。最合理的是将风险设定为存款的1-2%，目标利润为
+使用这一概念的交易的存款的10-20%。
+Optimal Trade Entry
+最佳贸易进入
+<<<PDFPAGE 365 | images=1>>>
+261
+
+<<<PDFPAGE 366 | images=2>>>
+262
+*OptimalTradeEntryrepresentsthebestplacestogetintoatradeandtheycanbe
+identifiedbyutilizingtheFibonaccidrawingtool.Whenpricehasbottomedortopped
+inacertainarea,weusuallymakeaniceanddeepretracebeforegoingfurtherinthe
+otherdirection.This iscalledtheoptimal tradeentry(OTE)sinceit’stheideal spot
+to enter a trade for high R/R trades. To be more specific, price retraces to the area
+betweenthe62%(0.62)and79%(0.79)FibonaccilevelsonyourFibonaccitool.With
+70.5%beingthemiddleofthatandessentiallybeingthesweetspot.
+*最佳交易进场代表交易的最佳位置，可以利用斐波纳契绘图工具来识别。当价格在某
+个区域触底或触顶时，我们通常会做一个漂亮而深的回撤，然后再向另一个方向走。
+这被称为最佳交易进场点(OTE),因为这是高风险回报率交易的理想进场点。更具体地
+说，价格回撤至斐波那契工具上62%(0.62)和79%(0.79)斐波那契水平之间的区域。
+70.5%是中间值，基本上是最佳值。
+Now, these Fibonacci levels don’t magically work everywhere. Like every other
+concept,youmustcombinethiswithotherconceptstowork.TheOTEisanessential
+tooltofindhighR/Rentries.Thereasonforthisisthatwhenpriceretracesthisdeep,
+you’reclosetoyourinvalidationorstoploss,andsoyouautomaticallygethighR/R
+<<<PDFPAGE 367 | images=0>>>
+263
+tradesbecauseyouenterclosetoyourinvalidationlevel.
+现在，这些斐波纳契水平并不是在任何地方都神奇地起作用。像所有其他概念一样，
+您必须将这个概念与其他概念结合起来使用。OTE是查找高风险/风险条目的重要工具。
+原因是，当价格回撤这么深时，你就接近你的失效或止损，所以你会自动获得高R/R
+交易，因为你接近你的失效水平。
+*Alimitordershouldbeplacedintheareabetween0.62-0.79levels.
+*限价单应位于0.62-0.79水平之间的区域。
+*0.705-0.79-thiszoneisconsideredasaDiscountzoneincaseofanuptrendand
+Premiumzoneincaseofadowntrend.
+*0.705-0.79-该区域在上升趋势时被视为折价区域，在下降趋势时被视为溢价区域。
+<<<PDFPAGE 368 | images=7>>>
+264
+
+<<<PDFPAGE 369 | images=0>>>
+265
+ToimplementtheOTEstrategy,followthesesteps:
+要实施OTE策略，请遵循以下步骤:
+1. Determine the current market structure, whether it has a bullish or bearish
+bias.ThisiscrucialasFibonaccilevelsworkbestwithinatrendingmarket.
+确定当前的市场结构，无论是看涨还是看跌。这是至关重要的，因为斐波纳契
+水平在趋势市场中表现最好。
+2. Identify significant swing highs and lows to draw the Fibonacci grid. These
+确定重要的波动高点和低点，画出斐波纳契网格。这些
+highsandlowsareoftenvisualprominentandeasytolabel.
+高点和低点通常在视觉上很突出，容易标记。
+3. Use the Fibonacci retracement tool to assess the correction potential in an
+uptrend(frombottomtotop)ordowntrend(fromtoptobottom).
+使用斐波纳契回撤工具评估上升趋势(从下到上)或下降趋势(从上到下)的修正潜
+力。
+Why is this happening?
+为什么会这样？
+The golden rule of trading - after the main move in the market, a pullback will
+certainly occur. Nothing can grow indefinitely; you need to have price pullback
+inordertocollectliquidityfrombelow.
+交易的黄金法则——在市场的主要波动之后，回调肯定会出现。没有什么可以无限生
+长；你需要价格回调，以便从下方收集流动性。
+The50%growthlevelisthemostimportantandsoonerorlaterthepricewillwant
+toreturnthere.Otherthan0.5,0.62and0.79areimportant,mosttechnicalanalysis
+usersleavetheirstopsbehindthesegridmarks.
+50%的增长水平是最重要的，价格迟早会回到这个水平。除了0.5，0.62和0.79很重要，
+大多数技术分析用户都把止损点留在这些网格标记后面。
+<<<PDFPAGE 370 | images=2>>>
+266
+[4hChart]
+[4h图]
+FromthezonewheretheOTEzonewaslocatedandwheretheOBwas,theprice
+wentupsharply,givingusagreatentrypointwithanexcellentrisk-to-rewardratio.
+从OTE区和OB区所在的区域，价格大幅上涨，给了我们一个很好的风险回报比的进场
+点。
+
+<<<PDFPAGE 371 | images=2>>>
+267
+Finding an Entry Point
+寻找切入点
+1. Determinethestructureona4-hourtimeframe
+在4小时的时间框架内确定结构
+2. Determinethestructureona1-hourtimeframe
+在1小时的时间框架内确定结构
+3. Wedefinethestructureat15mand5m.
+我们将结构定义为15米和5米。
+4. An example of an ascending structure: from the swing low, we drag the
+FibRetracementTooltotheswinghigh,inthedirectionofmove.Whenwehave
+uptrend,wepulltheFibRetracementToolfromthelowtohigh.
+上升结构的一个例子:从波动低点，我们将Fib回撤工具拖动到波动高点，移动
+的方向。当我们有上升趋势时，我们把Fib回撤工具从低点拉到高点。
+<<<PDFPAGE 372 | images=1>>>
+268
+
+<<<PDFPAGE 373 | images=3>>>
+269
+And we see that we are looking for an entry point on the pullback. Low was
+determined,highwasdetermined,lookforanentrypointbelowthe0.5zoneonthe
+Fib.
+我们看到我们正在寻找回调的进入点。确定低，确定高，在Fib上寻找低于0.5区域的
+进入点。
+Thisworks80%ofthetime.Thismaytellyouthatyoucanenterpositionswithan
+80%probabilityofdeterminingthecorrectentrypoint,butriskmanagementmustbe
+followed.
+这在80%的情况下有效。这可能告诉你，你可以以80%的概率确定正确的进场点来进
+场，但必须遵循风险管理。
+Nowimaginethesituation,youlookfortheR/R3/1atleast[thatis,eitherearn3%
+orlose1%].
+现在想象一下情况，你至少寻找R/R3/1[也就是要么赚3%，要么亏1%]。
+Weseeaswinglowandaswinghigh.Theprice bouncedoffthe0.705 zone,the
+movecontinuedupwards,inthiscase,itwasinthe0.705zonethatyourentrypoint
+was.
+我们看到一个低秋千和一个高秋千。价格从0.705区域反弹，继续向上移动，在这种
+情况下，你的进场点在0.705区域。
+Usuallythepullbacktakesplaceinthezonebetween0.62and0.705.
+
+<<<PDFPAGE 374 | images=0>>>
+270
+通常回调发生在0.62和0.705之间的区域。
+Why these levels? Traders who use the classic TA (Technical Analysis) in their
+tradingworkasapriorityfromthe0.5leveloftheFib,theyleavestopordersbehind
+thelevelsof 0.62 and 0.79,and sothisis where alarge accumulationof liquidityis
+located.Allliquiditywillactasa“magnet”fortheprice.Thisiswhereamajorplayer
+willgainhisorherposition.
+为什么是这些水平？在交易工作中优先使用经典TA(技术分析)的交易者从Fib的0.5水
+平开始，他们在0.62和0.79水平后留下止损单，因此这是大量流动性积累的地方。所
+有的流动性都将成为价格的“磁铁”。这是主要玩家将获得他或她的位置的地方。
+By utilizing the Fibonacci Retracement tool, we can identify 3 distinct trading
+correctionlevels:
+通过利用斐波纳契回撤工具，我们可以确定3个不同的交易修正水平:
+<<<PDFPAGE 375 | images=1>>>
+271
+1. thePremiumzone-representsthepricecorrectionrangesituatedabovethe0.5
+(50%)levelinthecontextofadownwardmomentum.Traderspayattentionto
+thiszonewhenconsideringsellingopportunities.
+溢价区——代表在下跌势头背景下位于0.5(50%)水平以上的价格修正范围。交
+易者在考虑卖出机会时注意这个区域。
+2. the Discount zone - The Discount zone refers to the price correction range
+located below the 0.5 (50%) level in the case of an upward impulse. Traders
+observethiszoneforpotentialbuyingopportunities.
+折扣区——折扣区是指在向上推动的情况下，位于0.5(50%)水平以下的价格修
+正范围。交易者观察这个区域寻找潜在的买入机会。
+3. theEquilibriumzone-TheEquilibriumzonedenotesthepricerangewherethe
+asset’saveragepriceislocated.Inotherwords,itrepresentsthefairpricezone
+orthelevelofbalancebetweenbuyersandsellers.
+均衡区-均衡区表示资产平均价格所在的价格范围。换句话说，它代表了公平价
+格区或买卖双方的平衡水平。
+Traders and market makers seek opportunities to buy at a Discount and sell
+at the Premium zone. As a result, traders often disregard the 0.236 and 0.382
+Fibonaccilevels in their analysis and instead wait for the price to move above
+or below theequilibriumlevel.
+交易者和做市商寻找折价买入和溢价卖出的机会。因此，交易者在他们的分析中经常
+忽略0.236和0.382斐波纳契水平，而是等待价格在均衡水平之上或之下移动。
+FollowingtheFibonacciretracementgridrules,itisdrawnbasedontheimpulse
+movement,startingfromtheinitialswingpoint(assignedavalueof1)andextending
+toitslogicalconclusion(assignedavalueof0).
+遵循斐波纳契回撤网格规则，它是基于脉冲运动绘制的，从初始摆动点(赋值为1)开
+始，延伸到其逻辑结论(赋值为0)。
+
+<<<PDFPAGE 376 | images=0>>>
+272
+Accordingtotherules,thisOTEgoesfromthebeginningofatrendtoitsend.Ifit
+isdrawncorrectly,wegetpossiblecorrectiontargets,fromtheselevelswecanenter
+thetrend,orusethemastargets.
+根据规则，这个OTE从一个趋势的开始到结束。如果它画得正确，我们得到可能的修
+正目标，从这些水平我们可以进入趋势，或使用它们作为目标。
+Inthescreenshotbelow,usingtheTradingViewexample,thesearethevaluesset
+tosetupthisFibonacci.Colorsarenaturallycustomizabletoyourpreference.
+在下面的截图中，使用TradingView示例，这些是设置斐波那契数列的值。颜色自然
+可以根据你的喜好定制。
+<<<PDFPAGE 377 | images=2>>>
+273
+
+<<<PDFPAGE 378 | images=1>>>
+274
+First of all, focusing on the premium / discount zones, since the price does not
+alwaysentertheOTEzone,sometimesitisenoughforthepricetoadjustby0.5(50%)
+inorderforthemajorplayers(institutionalmoney)togainorloseaposition.
+首先，关注溢价/折价区，由于价格并不总是进入OTE区，有时价格调整0.5(50%)就
+足够了，以便主要参与者(机构资金)获得或失去头寸。
+PleasenotethattheFibonaccilevelsthemselvesdonotactassupportorresistance,
+and the price does not bounce off the levels themselves. We use the Fibonacci
+retracement to search for “Liquidity Blocks” such as imbalance (FVG), order block
+(OB)andsoon.
+请注意，斐波纳契水平本身并不作为支撑或阻力，价格也不会反弹。我们使用斐波纳
+契回撤来寻找“流动性阻塞”，如不平衡(FVG)、订单阻塞(OB)等。
+How to Select the High and Low of a Dealing Range
+如何选择交易区间的高点和低点
+Toselectthehighandlowpointsofadealingrange,followthesesteps:
+要选择交易范围的高点和低点，请遵循以下步骤:
+1. RunaFibonacciretracementtoolfromthehighesthightothelowestlowwithin
+thedealingrange.Thiswillhelpestablishtheoverallrangeofpriceaction.
+在交易范围内，从最高价到最低价运行斐波纳契回撤工具。这将有助于建立价
+格行为的整体范围。
+2. Payattentiontoareas wherethealgorithmconsolidates.These consolidation
+areasindicatefairvalueandareimportantindeterminingtheproperdealing
+
+<<<PDFPAGE 379 | images=0>>>
+275
+range.
+注意算法巩固的区域。这些合并区域表明公允价值，对于确定适当的交易范围
+非常重要。
+3. Considerthenearesthighwhenthe50%Fibonaccilevelalignswiththecommon
+consolidation area. This will help identify the appropriate high point of the
+dealingrange.
+当50%斐波纳奇水平与普通盘整区域对齐时，考虑最近的高点。这将有助于确
+定交易范围的适当高点。
+4. Selectthepullbackasthelowpointofthedealingrange.Thisensuresthatthe
+range encompasses therelevant price action and alignswith theareas where
+algorithmsareactive.
+选择回调作为交易区间的低点。这确保了该范围包含相关的价格行为，并与算
+法活跃的区域一致。
+<<<PDFPAGE 380 | images=0>>>
+276
+Exploring the Algorithm’s Preference for Premium and
+Discount Markets
+探索算法对溢价和折价市场的偏好
+Algorithms tend to favor buying in a discount market and selling in a premium
+market.Understandingthis preference is keytogettingin sync withthealgorithms
+andmaximizingourtradingprofits.
+算法倾向于在折价市场买入，在溢价市场卖出。理解这种偏好是与算法同步并最大化
+交易利润的关键。
+• Premium Market: The premium market refers to the price range above the
+equilibriumlevel.Here,thealgorithmconsiderstheassettobeovervaluedand
+looksforopportunitiestosell.Astraders,weneedtobecautiouswhentrading
+inthisrangeandconsidertakingprofitsorenteringshortpositions.
+溢价市场:溢价市场是指均衡水平以上的价格区间。在这里，算法认为资产被高
+估，并寻找机会出售。作为交易者，我们需要在这个区间交易时保持谨慎，并
+考虑获利了结或进入空仓。
+• DiscountMarket:Ontheotherhand,thediscountmarketrepresentstheprice
+range below the equilibrium level. In this range, the algorithm considers the
+asset to be undervalued and looks for opportunities to buy. As traders, we
+shouldbeonthelookoutforpotentialbuyingopportunitiesinthisrange.
+贴现市场:另一方面，贴现市场代表均衡水平以下的价格区间。在这个范围内，
+算法认为资产被低估，并寻找机会购买。作为交易者，我们应该在这个区间寻
+找潜在的买入机会。
+Analyzing the Behavior of the Market Above and Below
+Equilibrium
+分析均衡上下的市场行为
+Premium Market Behavior: When the price of an asset reaches the premium
+market,ittendstoselloffandmovebacktowardstheequilibriumlevel.Thisselling
+pressureoccursbecausethealgorithmconsiderstheassettobeovervalued.
+溢价市场行为:当一项资产的价格达到溢价市场时，它往往会抛售，并向均衡水平移
+动。这种抛售压力的出现是因为算法认为资产被高估了。
+Discount Market Behavior: Conversely, when the price of an asset reaches the
+discountmarket,ittendstobouncebackandmovetowardstheequilibriumlevel.This
+buyingpressureoccursbecausethealgorithmconsiderstheassettobeundervalued.
+Astraders,weshouldbeonthelookoutforpotentialbuyingopportunitiesinthis range.
+<<<PDFPAGE 381 | images=0>>>
+277
+贴现市场行为:相反，当资产价格达到贴现市场时，它往往会反弹并向均衡水平移动。
+这种购买压力的产生是因为算法认为资产被低估了。作为交易者，我们应该在这个区
+间寻找潜在的买入机会。
+Within each market, we can further break it down into its own premium and
+discountareas.Thisallowsustohaveamoredetailedunderstandingoftherange.For
+example:
+在每个市场中，我们可以进一步将其细分为自己的溢价和折价区域。这让我们对产品
+系列有了更详细的了解。例如:
+• Premium within the Premium Market: This is the top part of the premium
+market.Itrepresentsahighervaluewithinthepremiumrange.
+溢价市场中的溢价:这是溢价市场的最高部分。它代表溢价范围内的较高值。
+• DiscountwithinthePremiumMarket:Thisisthebottompartofthepremium
+market.Itrepresentsalowervaluewithinthepremiumrange.
+溢价市场内的折扣:这是溢价市场的底部。它代表溢价范围内的较低值。
+• Premium within the Discount Market: This is the top part of the discount
+market.Itrepresentsahighervaluewithinthediscountrange.
+贴现市场内的溢价:这是贴现市场的顶部。它代表折扣范围内的较高值。
+• DiscountwithintheDiscountMarket:Thisisthebottompartofthediscount
+market.Itrepresentsalowervaluewithinthediscountrange.
+贴现市场内的贴现:这是贴现市场的底部。它代表折扣范围内的较低值。
+<<<PDFPAGE 382 | images=3>>>
+278

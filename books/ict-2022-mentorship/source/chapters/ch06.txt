@@ -1,0 +1,123 @@
+
+<<<PDFPAGE 88 | images=0>>>
+60
+Chapter 6
+第六章
+Intraday Order Flow & Understanding The Daily
+Range
+日内订单流&了解每日范围
+Contract Delivery Month:
+合同交付月份:
+March–H
+June–M
+September–U
+December-Z
+Example:ESU2023(TradingView)–September2023
+AmountperTick:
+示例:esu2023(tradingview)-2023年9月每笔交易量:
+ES/MES:12.50[0.25]or$50peronepoint–ES/1.25or$5peronepoint–MES.
+NQ/MNQ: 5.0 [0.25] or $20 per one point – NQ / 0.50 or $2 per one point –
+MNQ.YM / MYM: 5.0[1.00] or$5 per one point– YM/ $0.50 perone point -
+MYM
+ES/MES:每点12.50[0.25]或50美元-ES/1.25或每点5美元-MES。NQ/最低限额:
+每一点5.0[0.25]或20美元-NQ/每一点0.5或2美元-最低限额。YM/MYM:每分5.0
+[1.00]或5美元-YM/每分0.50美元-MYM
+<<<PDFPAGE 89 | images=1>>>
+61
+
+<<<PDFPAGE 90 | images=1>>>
+62
+***On the week prior to expiration, monitorwhat Volume suggests. This can be
+viewedonBarchart.com.YouwanttoselecttheContractwithlargestVolume.
+***在到期前的一周，监控交易量。这可以在Barchart.com身上看到。您希望选择最
+大数量的合同。
+ICT recommends also monitor Open Interest.
+ICT建议还监控未平仓合约。
+The importance of 15-minute Time Frame
+15分钟时间框架的重要性
+The15-minutetimeframeisimportantinourtradingstrategy.Why?Duringthis
+period,wefocusonidentifyingkeyhighsandlows,imbalances,fairvaluegaps,and
+orderblocks.WepayparticularattentiontotheLondonorNewYorkkillzones,where
+weexpectalgorithmstoseekliquiditybyeitherbuyingorselling.
+15分钟的时间框架在我们的交易策略中很重要。为什么？在此期间，我们重点识别关
+键的高点和低点、不平衡、公允价值差距和订单块。我们特别关注伦敦或纽约的“杀戮
+地带”，我们预计算法会通过买入或卖出来寻求流动性。
+Inourtradingroutine,westartinthemorningbetween8:30AMand12:00PM.
+Weaimtopositionourselvesinatradebefore11:00AM,whichallowsustoridethe
+marketmovementduringtheNYLunchandAfternoonSessionifkeyliquidityhasnot
+
+<<<PDFPAGE 91 | images=0>>>
+63
+beenreached.
+在我们的交易程序中，我们从早上8:30到晚上12:00开始。我们的目标是在上午11:00
+之前进行交易，如果关键的流动性没有达到，这将使我们能够在纽约午餐和下午的交
+易中驾驭市场运动。
+<<<PDFPAGE 92 | images=1>>>
+64
+Before8:30AM,welookforpotentialpricelevelsthatcouldactassignificanthighs
+在上午8:30之前，我们寻找潜在的价格水平，它可能会成为重要的高点
+orlows.Thishelpsusidentifyareaswherestophuntsmightoccur.
+或者低点。这有助于我们识别可能会出现停止狩猎的区域。
+Once we have analyzed the 15-minute chart and identified relevant market
+conditions,weswitchtothe5-minutechartforpreciseentrypoints.Thisallowsusto
+makewell-timedtradesbasedontheinformationgathered.
+一旦我们分析了15分钟图并确定了相关的市场条件，我们就转到5分钟图来寻找精确的
+进场点。这使我们能够根据收集到的信息做出适时的交易。
+Overview of Intraday Order Flow and its Significance in Trading
+日内订单流概述及其在交易中的意义
+Intraday order flow refers to thebuying and sellingactivity that occurs withina
+singletradingday.Itprovidesvaluableinsightsintomarketdynamicsandcanhelpus
+makeinformeddecisions.Herearesomekeypointstoconsider:
+日内订单流是指在一个交易日内发生的买卖活动。它提供了对市场动态的宝贵见解，
+可以帮助我们做出明智的决策。以下是一些需要考虑的要点:
+• Intradayorder flowreflectstheinteractionbetween buyersand sellersinthe
+market.Byanalyzingthevolumeandpricemovements,wecanidentifytrends,
+reversals,andpotentialentryorexitpoints.
+日内订单流反映了市场中买方和卖方之间的互动。通过分析交易量和价格的变
+动，我们可以确定趋势、反转和潜在的进场点或出场点。
+• Itisimportanttopayattentiontothetimingoforderflow.Forexample,there
+<<<PDFPAGE 93 | images=0>>>
+65
+is often a surge in activity towards the end of the trading day, known as the
+‘afternoonacceleration.’Thiscanbeattributedtomarketoncloseordersand
+algorithmictradingstrategies.
+重要的是要注意订单流程的时间安排。例如，在临近交易日结束时，交易活动
+往往会激增，这被称为“午后加速”。这可以归因于成交订单市场和算法交易策
+略。
+• By studying lower time frame charts, we can observe repeating patterns in
+intraday order flow. This can help us anticipate price movements and take
+advantageoftradingopportunities.
+通过研究较低的时间框架图，我们可以观察日内订单流的重复模式。这可以帮
+助我们预测价格走势，利用交易机会。
+• Intradayorderflowcanbeinfluencedbyvariousfactors,suchaseconomicnews
+releases,marketsentiment,andinstitutionaltradingactivity.Weshouldstay
+updatedonthesefactorstobetterunderstandandinterpretorderflowdata.
+日内订单流可能受到各种因素的影响，如经济新闻发布、市场情绪和机构交易
+活动。我们应该不断更新这些因素，以便更好地理解和解释订单流数据。
+<<<PDFPAGE 94 | images=0>>>
+66
+Understanding the Concept of Daily Range and its Importance
+理解日线范围的概念及其重要性
+The daily range refers to the difference between the highest and lowest prices
+reached by a security or market within a single trading day. It provides valuable
+informationaboutpricevolatilityandpotentialtradingopportunities.Herearesome
+keypointstounderstandaboutthedailyrange:
+日波幅指的是一种证券或市场在一个交易日内达到的最高价和最低价之差。它提供了
+关于价格波动和潜在交易机会的有价值的信息。以下是了解每日范围的一些要点:
+• Thedailyrangehelpsusgaugethelevelofmarketactivityandvolatility.Awider
+range indicates greater price fluctuations, while a narrower range suggests a
+morestableorconsolidatedmarket.
+日线帮助我们衡量市场活动和波动的水平。较宽的范围表明价格波动较大，而
+较窄的范围表明市场更加稳定或巩固。
+• Wecanusethedailyrangetosetprofittargetsandstop-losslevels.Forexample,
+if the daily range is large, a trader may set a wider profit target to capture
+potentialgains.Conversely,inanarrowrange,atradermaysetatighterprofit
+targettomanagerisk.
+我们可以用日线区间来设定利润目标和止损水平。例如，如果日波动幅度很
+大，交易者可以设定更大的利润目标来获取潜在收益。相反，在狭窄的范围内，
+交易者可以设定更严格的利润目标来管理风险。
+• Thedailyrangecanalsoprovideinsightsintomarkettrendsandmomentum.
+Wecan analyzetherelationshipbetweenthedailyrange andthedirectionof
+pricemovementtoidentifypotentialtrendreversalsorcontinuations.
+日线图也可以提供对市场趋势和动力的洞察。我们可以分析日线范围和价格运
+动方向之间的关系，以识别潜在的趋势反转或延续。

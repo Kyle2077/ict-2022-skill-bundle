@@ -1,0 +1,18 @@
+122
+1.
+Candle 1: This candle represents the low of the fair value gap. It is important to
+note that the low of this candle will be the starting point for the fair value gap.
+蜡烛线1:这根蜡烛线代表公允价值差距的低点。需要注意的是，这根蜡烛的低
+点将是公允价值差距的起点。
+2. Candle 2: This candle is where the fair value gap is formed. It is the candle that
+separates the low and high of the fair value gap. Traders should pay attention
+to the price action within this candle.
+蜡烛2:这根蜡烛就是公允价值差距形成的地方。是蜡烛区分了公允价值差距的
+高低。交易者应该注意蜡烛线内的价格变化。
+3. Candle 3: This candle represents the high of the fair value gap. It is important
+to note that the low of this candle will be the ending point for the fair value gap.
+蜡烛3:这根蜡烛代表公允价值差距的高点。需要注意的是，这根蜡烛线的低点
+将是公允价值差距的终点。
+The Market will see Price Deliver a rally below the Old Low/Lows, then quickly
+shift higher.
+市场将看到价格在旧低点下方反弹，然后迅速走高。

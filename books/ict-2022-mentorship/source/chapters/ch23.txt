@@ -1,0 +1,103 @@
+
+<<<PDFPAGE 492 | images=0>>>
+388
+Chapter 23
+第二十三章
+New Week/Day Opening Gap (NWOG/NDOG)
+新的周/日开盘缺口(NWOG/NDOG)
+NWOG:ANewWeekOpeningGapisarealdynamicfairvaluelevel;itisarange
+betweentwospecificpricepoints(closeonFridayandopenonSunday).Betweenthese
+twopricepointsthereisuncertaintyanduncertaintybuildsopportunity.Wherethere
+isadifferenceonopinionthereisatrade,that’sthereasonwhyNWOGworks,that’s
+arealliquidityvoid.Thealgorithmdeliverspricetotheselevelstoofferfairvalueand
+encouragenewbusiness.
+NWOG:一个新的周开盘缺口是一个真实的动态公允价值水平；它是两个具体价位之
+间的一个区间(周五收盘，周日开盘)。在这两个价格点之间存在不确定性，而不确定
+性创造了机会。哪里有意见分歧，哪里就有交易，这就是NWOG运作的原因，这是真
+正的流动性空白。该算法将价格传递到这些水平，以提供公平的价值并鼓励新的业务。
+You need to know that NWOGs are a tool used by ICT to understand better
+wherethepricecouldgoto/gobepushedawayfrom.Thealgorithmrefersto older
+inefficiencies & liquidity voids.A realLiquidityVoidisatotalabsenceofbuying
+andselling,suchastheNWOG.Whenthemarketmovesawayfromit,itcanreferback
+tooldNWOGsforweeksandevenmonths.
+你需要知道NWOGs是ICT用来更好地理解价格走向/远离的工具。该算法是指旧的低
+效率和流动性空洞。A真实的流动性无效是指完全没有买卖，比如NWOG。当市场远
+离它时，它可以回溯到几周甚至几个月以前的NWOGs。
+How to find NWOGs & highlight them on a chart
+如何找到NWOGs并在图表上突出显示它们
+Gointoa Lower time frame (do not use the 1D chart), butfor example 5min
+chart.Sign therangebetween theSundays openingprice &theclosingprice onthe
+FridayPrior.
+进入一个较低的时间框架(不要使用1D图表)，但例如5分钟图表。标出周日开盘价和周
+五收盘价之间的区间。
+You can see the NWOG only on the “Regular Trading Hours” (not on the
+Electronicones)
+你只能在山顶上看到NWOG“正常交易时间”(不是电子版的)
+<<<PDFPAGE 493 | images=0>>>
+389
+To find the mid-point of the NWOG (aka Consequent Encroachment):
+Use Fibonacci, anchor it from Friday Closing price to Sunday opening price - the
+50%isourmid-point-ourConsequentEncroachment.
+找到NWOG的中点(又名顺向侵蚀):使用斐波纳契，将它从周五收盘价锚定到周日开
+盘价——50%是我们的中点——我们随之而来的侵占。
+HowtouseNWOGs:
+如何使用NWOGs:
+• ThinkaboutNWOGlikeyouwouldwithaFVG.
+像看待FVG一样思考NWOG。
+• Thepriceislikelytore-visitthemandreacttothemsomehow.
+价格很可能会再次造访它们，并以某种方式对它们做出反应。
+• ThepriceisalsorespectingofC.EsofNWOG.
+价格也是尊重NWOG的C.Es。
+• It’srecommendedtorecordatleastthefivemostrecentNWOGsforreference.
+建议至少记录五个最近的NWOGs以供参考。
+• When several NWOGs are located close together, the market often enters
+arange-boundphase.
+当几个NWOGs的位置非常接近时，市场通常会进入区间波动阶段。
+NDOG:NewDayOpeningGapDifferencebetween5pmClosePrice&6pmOpen
+NDOG:下午5点收盘价和下午6点开盘价之间的新一天开盘价差额
+Price.
+价格。
+<<<PDFPAGE 494 | images=2>>>
+390
+C.E.-ConsequentEncroachmentor“middlepoint”ofanyGaporInefficiency.
+首席执行官。-任何差距或低效率的结果侵占或“中间点”。
+Thedifferencebetweentwoconsecutivecandles’closingpriceandopeningpriceis
+calledthegap.Agapoccurswhenpricesskipbetweentwotradingperiods,skipping
+overcertainprices.Agapcreatesavoidonapricechart.Pricegapsaresimplyareas
+onthechartwherenotradinghastakenplace.
+两根蜡烛的收盘价和开盘价之差称为差距。当价格在两个交易周期之间跳跃，跳过某
+些价格时，就会出现缺口。一个缺口在价格图上造成一个空白。价格差距是图表上没
+有交易发生的区域。
+ICT:“Havingtheprior4weeksNWOGonyourchartgivesyouanX-rayviewof
+howthealgorithm willreferbacktooldareasofrealFAIRVALUE”.
+信息和通信技术:“在你的图表上有前4周的NWOG给你一个X射线视图，该算法将如何
+回到真实公允价值的旧领域”。
+ItisimportanttounderstandthattheUp-gapactsasasupportzoneandthedown
+gapactsasaresistancezone.
+重要的是要明白，上缺口作为支撑区，下缺口作为阻力区。
+WhyshouldwehaveNWOG/NDOGonourchart?Becauseinstitutionswillwant
+to fill the gap before big move. As I mentioned above this kind of gaps are strong
+supportandresistance.
+为什么我们的图表上应该有NDOG恩多格？因为机构会希望在大动作之前填补空白。
+正如我上面提到的这种缺口是强有力的支撑和阻力。
+
+<<<PDFPAGE 495 | images=0>>>
+391
+Theyarerealpointofinterestforthemarkettowanttogravitatebacktoandthe
+marketisdesignedandcoulddothisbecauseitallowsthesentimentandintereston
+alargefundlevelforthemtowanttobringtheirordersintothemarketplacewhichis
+reallytheprimarydriverforwherethemarketdrivesagainstliquidity.
+它们是市场想要回归的真正兴趣点，市场设计并能够做到这一点，因为它允许大型基
+金层面的情绪和兴趣让他们想要将订单带入市场，这实际上是市场推动流动性的主要
+驱动力。
+ICTEventHorizonPDArray
+ICT事件视界PD阵列
+*ICTEventHorizonPDArray-HalfwaybetweenaNWOGandtheclosestNWOG
+istheEventHorizon.ItwillnotallowpricetoescapethedrawtotheNWOG&itwill
+createasurgetowardstheNWOGitgottoo“close”tobutyetreached.
+*ICT事件视界PD阵列-NWOG和最近的NWOG的中间是视界。它不会让普莱斯逃脱对
+NWOG的吸引力&它将创造一个对NWOG的飙升，它已经太“接近”但还没有达到。
+MeasureHigh-LowoftheNWOGof2closestNWOGs.
+测量两个最近的NWOG的NWOG的高低点。
+<<<PDFPAGE 496 | images=3>>>
+392

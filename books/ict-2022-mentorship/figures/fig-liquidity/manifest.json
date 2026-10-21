@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "source_id": "src-ict2022",
+  "source_filename": "开启ICT 2022导师计划的成功之门.pdf",
+  "source_sha256": "c072988322c073be09a95858fc5ec571c12af388fce9f093e6655ffc58b3bd7d",
+  "pdf_page_count": 671,
+  "selected_pdf_pages": [
+    43,
+    45,
+    47,
+    52,
+    57
+  ],
+  "max_edge": 2400,
+  "renderer": "PyMuPDF (Poppler unavailable)",
+  "pages": [
+    {
+      "page_id": "src-ict2022-c072988322c0-p0043",
+      "pdf_page": 43,
+      "printed_page": null,
+      "image": "page-0043.png",
+      "image_sha256": "a70919ac4f4cb31ec000cb00658e845d203d464782819f1f5455dd4887a9c667",
+      "text": "page-0043.txt",
+      "text_sha256": "55b6ff066c57ed270527cf8654e711d3ae559efd8ddc28ce894697a620535ac1",
+      "text_method": "pymupdf",
+      "text_status": "present",
+      "width": 2127,
+      "height": 2400,
+      "review_status": "unreviewed"
+    },
+    {
+      "page_id": "src-ict2022-c072988322c0-p0045",
+      "pdf_page": 45,
+      "printed_page": null,
+      "image": "page-0045.png",
+      "image_sha256": "a97c36a6bc23f52a97378b966280d30443d8e6a5f866e3965212b9bc45942672",
+      "text": "page-0045.txt",
+      "text_sha256": "496c55171f38dc2ef20c4c3c3b88d88a5e873e6e4573d593d278991001f621de",
+      "text_method": "pymupdf",
+      "text_status": "present",
+      "width": 2127,
+      "height": 2400,
+      "review_status": "unreviewed"
+    },
+    {
+      "page_id": "src-ict2022-c072988322c0-p0047",
+      "pdf_page": 47,
+      "printed_page": null,
+      "image": "page-0047.png",
+      "image_sha256": "6a019e86bac272efd50774b4111eaeb15e3366862505556bba0d09ad403aad71",
+      "text": "page-0047.txt",
+      "text_sha256": "a426bdf6698a27e6ef8a4e9ac8b0f0896de50ae55d79b8ef5e246d552e9805d3",
+      "text_method": "pymupdf",
+      "text_status": "present",
+      "width": 2127,
+      "height": 2400,
+      "review_status": "unreviewed"
+    },
+    {
+      "page_id": "src-ict2022-c072988322c0-p0052",
+      "pdf_page": 52,
+      "printed_page": null,
+      "image": "page-0052.png",
+      "image_sha256": "d8adb2d784967ebaae9581fc93372c9b613e55fad7a490b1ba7d282d9cecfff9",
+      "text": "page-0052.txt",
+      "text_sha256": "5120ef84a5c07d28ddf8783f647ec97fe25da98d1bc5ed103a17b8eeb9d194cd",
+      "text_method": "pymupdf",
+      "text_status": "present",
+      "width": 2127,
+      "height": 2400,
+      "review_status": "unreviewed"
+    },
+    {
+      "page_id": "src-ict2022-c072988322c0-p0057",
+      "pdf_page": 57,
+      "printed_page": null,
+      "image": "page-0057.png",
+      "image_sha256": "d8e3d34bc533ed0b5a1c2aa0896b9a48deecf53d0db5b745e8fb1fb7b46e98c7",
+      "text": "page-0057.txt",
+      "text_sha256": "c4f2819dc9998f6382bed5a00f59b63f5f79db3b2d4d6cbd2b5c3a7a32e9978d",
+      "text_method": "pymupdf",
+      "text_status": "present",
+      "width": 2127,
+      "height": 2400,
+      "review_status": "unreviewed"
+    }
+  ],
+  "note": "仅页面准备，未执行 OCR 或视觉理解；printed_page 需人工核对。路径相对于本清单。"
+}

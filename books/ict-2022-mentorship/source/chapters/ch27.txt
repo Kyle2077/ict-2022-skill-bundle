@@ -1,0 +1,246 @@
+
+<<<PDFPAGE 523 | images=0>>>
+419
+Chapter 27
+第27章
+Previous Day High and Low as a Liquidity Pool
+作为流动性池的前一天最高价和最低价
+One of the most accessible liquidity pools for traders to tap into is the previous
+day’s high and low. Every day, the market tends to gravitate towards one of these
+levels,creatingopportunitiesfortraderstoenterorexitpositions.
+交易者最容易利用的流动性池之一是前一天的最高价和最低价。每天，市场都趋向于
+其中一个水平，为交易者创造了进出头寸的机会。
+ThePreviousDay’sHighandLowareoneofthefoundationsfordeterminingthe
+前一天的高点和低点是决定价格的基础之一
+dailybiasandserveassignificantliquiditypoolsthatthemarkettargetsdaily.
+日偏差，并作为市场每日目标的重要流动性池。
+• Thepreviousday’shighactsasalevelofresistance,wherethemarketislikely
+toencountersellingpressure.Traderscanlookforopportunitiestosellortake
+profitswhenthepriceapproachesthislevel.
+前一天的高点是一个阻力位，市场可能会在这里遭遇抛售压力。当价格接近这
+个水平时，交易者可以寻找卖出或获利的机会。
+• Conversely,thepreviousday’slowservesasalevelofsupport,wherethemarket
+is likely to find buying interest. Traders can look for opportunities to buy or
+enterlongpositionswhenthepriceapproachesthislevel.
+相反，前一天的低点是一个支撑位，市场可能会在这里找到购买兴趣。当价格
+接近这个水平时，交易者可以寻找机会买入或进入多头。
+Taking note of the highest high traded in the previous trading day can serve as
+a valuable reference for short-term resistance levels if price reaches those levels
+again.Similarly,observingthelowestlowtradedintheprevioustradingdaycanoffer
+significantsupportlevelsfortheshorttermifpriceapproachesthoselevelsagain.
+如果价格再次达到这些水平，记录前一个交易日的最高交易价可以作为短期阻力位的
+有价值的参考。同样，观察前一个交易日的最低交易价格，如果价格再次接近这些水
+平，可以为短期提供重要的支撑位。
+It’snotlimitedtojusttheprevioustradingday;youcanalsoconsidertheprevious
+three-dayperiodtogatheradditionalinsights.Byobservingthedailyhighsandlows,
+<<<PDFPAGE 524 | images=0>>>
+420
+youwillbemonitoringthepreciselevelsthatbanksand institutionsoftenpayclose
+attentiontoforbuyingandsellinginterest.
+不仅限于前一个交易日；您也可以考虑之前的三天时间来收集更多的见解。通过观察
+每日的高点和低点，你将监控银行和机构经常密切关注的买卖利息的精确水平。
+Thedailyhighsand lowshavethepotentialtogeneratesubstantialmoves,often
+rangingfrom25to50points(inthiscasewepicturebelowofES/SP500)pertrade.
+Theselevelscanactasimportantreferencepointsandoffertradingopportunitiesfor
+capturing short-term price fluctuations.Those whomonitorthese levelsclosely can
+positionthemselvesstrategicallyinthemarketandpotentiallybenefitfromthebuying
+andsellingactivitiesoflargermarketparticipants.
+每天的高点和低点都有可能产生巨大的波动，每次交易通常在25到50点之间(在这种
+情况下，我们在下面描述了ES/SP500)。这些水平可以作为重要的参考点，并为捕捉
+短期价格波动提供交易机会。那些密切监控这些水平的人可以在市场中战略性地定位
+自己，并可能从更大的市场参与者的买卖活动中受益。
+<<<PDFPAGE 525 | images=5>>>
+421
+Bullish and Bearish Order Flow
+看涨和看跌订单流
+In a bullish order flow, buyers dominate the market, driving prices higher. As a
+result, the market tends to seek buyside liquidity above the previous day’s highs.
+Conversely,inabearishorderflow,sellersdominatethemarket,pushingpriceslower.
+Themarketthenseekssellsideliquiditybelowthepreviousday’slows.
+在看涨的订单流中，买家主导市场，推高价格。因此，市场倾向于寻求高于前一天高
+
+<<<PDFPAGE 526 | images=0>>>
+422
+点的买方流动性。相反，在看跌订单流中，卖方主导市场，压低价格。然后，市场寻
+求低于前一天低点的卖方流动性。
+AftertakingoutSellstops,welookforthenextDOL.Inthiscasethisis theEqual
+Highs.
+在卖出止损后，我们寻找下一个DOL。在这种情况下，这是相等的高点。
+<<<PDFPAGE 527 | images=0>>>
+423
+Identifying Buy-Side Liquidity Pools Above Previous Day’s
+Highs
+识别高于前一天高点的买方流动性池
+AsIalreadymentionedabove,previousday’shighandlowaretheeasiestdrawon
+liquidityfortraders.Everysingleday,themarkettendstoreachforthepreviousdaily
+highorlow,creatingopportunitiesfortraderstocapitalizeonthesemovements.
+正如我上面提到的，前一天的高点和低点是交易者最容易利用流动性的地方。每一天，
+市场都倾向于触及前一天的高点或低点，为交易者创造了利用这些波动的机会。
+Toidentifybuy-sideliquiditypoolsabovepreviousday’shighs,wecanfollowthese
+steps:
+要识别高于前一天高点的买方流动性池，我们可以遵循以下步骤:
+1. Analyze the daily chart: Start by looking at the daily chart of the currency
+pairorassetyouaretrading.Thischartwillgiveyouanoverviewoftheprice
+movementsandhelpyouidentifythepreviousday’shigh.
+分析日线图:从看你交易的货币对或资产的日线图开始。这个图表会给你一个价
+格运动的概览，并帮助你确定前一天的高点。
+2. Lookforinsidebars:Insidebarsarecandlestickpatternsthatdonottakeout
+the high or low of the previous day. These patterns can indicate a potential
+reversalinthemarket.
+寻找内部棒线:内部棒线是烛台模式，不考虑前一天的高或低。这些模式可能预
+示着市场的潜在反转。
+3. Markthepreviousday’shigh:Onceyouhaveidentifiedthepreviousday’shigh,
+markitonyourchart.Thiswillserveasareferencepointforpotentialbuy-side
+liquiditypools.
+标记前一天的高点:一旦你确定了前一天的高点，就在你的图表上标记出来。这
+将作为潜在买方流动性池的参考点。
+4. Identifypotentialbuyside liquiditypools.
+识别潜在的买方流动性池。
+Toanalyzedailychartsforpotentialtradingopportunities,followthesesteps:
+要分析日线图中潜在的交易机会，请遵循以下步骤:
+1. Lookforbreakofstructure:Identifykeysupportand resistancelevelsonthe
+dailychart.Lookforareaswherethepricebreaksaboveorbelowtheselevels,
+indicatingapotentialchangeinmarketdirection.
+寻找结构的突破:在日线图上确定关键的支撑位和阻力位。寻找价格高于或低于
+这些水平的区域，这表明市场方向可能发生变化。
+<<<PDFPAGE 528 | images=0>>>
+424
+2. IdentifydailyPOI(FVG,OB,etc.):FVGsoccurwhenthepricemovesawayfrom
+itsfairvalue.Thesegapscanserveaspotentialareasofinterestfortraders.In
+the picture above, a daily fair value gap is present after a break of structure.
+Thisgapcanbeusedasareferencepointfortradingdecisions.
+识别每日POI(FVG、OB等。):当价格偏离其公允价值时，发生fvg。这些缺口
+可以作为交易者感兴趣的潜在领域。在上图中，在打破结构后出现了每日公允
+价值缺口。这个缺口可以作为交易决策的参考点。
+Identifying Sell-Side Liquidity Pools Below Previous Day’s Lows
+识别低于前一天低点的卖方流动性池
+Everyday,themarketseeksliquidity,andoneoftheeasiestliquiditypoolstotarget
+is the area below the previous day’s low. This means that traders often look to sell
+whenthemarketbreaksbelowthepreviousday’slow.Byanalyzingdailycandlestick
+charts,wecanidentifyinstanceswherethemarkethas takenoutthepreviousday’s
+low. These instances serve as indications of potential reversals or opportunities
+toentertrades.
+市场每天都在寻找流动性，而最容易瞄准的流动性池之一就是前一天低点以下的区
+域。这意味着当市场跌破前一天的低点时，交易者通常会卖出。通过分析日线蜡烛图，
+我们可以发现市场已经突破了前一天的低点。这些情况表明潜在的反转或进入交易的
+机会。
+When the market breaks below the previous day’s low, it suggests that there is
+当市场跌破前一天的低点，它表明有
+sellingpressureandapotentialbearishorderflow.Thiscanbeasignalforustolook
+抛售压力和潜在的空头订单流。这可以是一个信号，让我们去寻找
+<<<PDFPAGE 529 | images=0>>>
+425
+foropportunitiestosell,asthemarketmaycontinuetoseeksell-sideliquidity.
+对于卖出机会，由于市场可能会继续寻求卖方流动性。
+Outlining New York Midnight Opening Price for Trading
+Decisions
+概述纽约午夜开盘价以供交易决策
+Whenanalyzingdailycharts,itisimportanttoobservehowthemarkettradesin
+relationto theNew York Midnight openingprice. If the market trades above it and
+thenstartstodecline,itcanbeanindicationofpotentialbearishorderflow.
+当分析日线图时，观察市场交易与纽约午夜开盘价的关系是很重要的。如果市场在它
+上方交易，然后开始下跌，这可能是潜在的空头订单流的迹象。
+However,ifthemarketconsistentlytradesandstaysabovetheNewYorkMidnight
+openingprice,itsuggestsabullishorderflow.Traderscanlookforopportunitiesto
+buy,especiallywhenthemarketbreaksabovethepreviousday’shigh.
+然而，如果市场持续交易并停留在纽约午夜开盘价以上，这表明订单流看涨。交易者
+可以寻找买入的机会，尤其是当市场突破前一天的高点时。
+TheNewYorkMidnightopeningpricereferstothepriceatwhichthemarketopens
+atmidnight(12AM)EasternStandardTime(EST)inNewYork.Thispriceservesasa
+reference point for traders and can provide valuable insights into market behavior.
+TradersoftenoutlinetheNewYorkMidnightopeningpriceontheirchartstovisually
+separateeachtradingday.Thishelpsinidentifyingkeypricelevelsandunderstanding
+themarket’sbehaviorthroughouttheday.
+纽约午夜开盘价是指纽约东部标准时间(EST)午夜(12AM)开市的价格。这个价格作为
+交易者的参考点，可以提供对市场行为的有价值的见解。交易员通常会在图表上标出
+纽约午夜的开盘价，以便直观地区分每个交易日。这有助于识别关键价格水平和理解
+全天的市场行为。
+<<<PDFPAGE 530 | images=1>>>
+426
+
+<<<PDFPAGE 531 | images=1>>>
+427
+Trading Previous Day High and Low
+前一天的最高价和最低价
+Everyday ask yourself how price traded today, did we work the high/low of the
+previousday?Orthedaypriortoitorthedaypriortothat.Alwaysrefertothelast3
+days.
+每天问问你自己今天的价格是如何交易的，前一天的价格是高/低吗？或者前一天或者
+前一天。总是指最近3天。
+There are two circumstances when fading the move in Price beyond a Previous
+Day’srange:
+在两种情况下，价格波动会超过前一天的范围:
+During Expansion Swings there are smaller retracements that typically create
+opportunitieswherethePreviousDay’sLowisraidedthenPriceRalliesHigher.
+在扩张波动期间，有较小的回撤，通常会创造机会，前一天的低点被突袭，然后价格
+回升。
+In opposing Expansion Swings there are retracements that create opportunities
+wherethePreviousDay’sHighisraidedthenPriceDeclines.
+在相反的扩张波动中，有回撤创造机会，前一天的高点被突袭，然后价格下跌。
+Trading Previous Day’s Low
+交易前一天的低点
+
+<<<PDFPAGE 532 | images=1>>>
+428
+
+<<<PDFPAGE 533 | images=1>>>
+429
+Inthisexample,weseePricemovingHigheraspartofalargerExpansionSwing.
+Duringanormalretracementlower-intoaFairValueGap-PricefindsBuyersunder
+thePreviousDailyLow(PDL).
+在这个例子中，我们看到价格上涨是大规模扩张的一部分。在一个正常的回撤过程中，
+价格低于前一个日低(PDL)，进入一个公允价值缺口。
+UsingthePreviousDailyLowandanticipatingaMarketReversalafterthePDLis
+raided-onecanbeaBuyerintraday.
+利用前一天的低点，预测PDL被袭后市场反转，你可以成为盘中的买家。
+WelookforconfluencesofPDArraystosupporttheideaofBuyingunderaPDL.
+We do not simply Buy under a PDL on sole basis Price moves beyond the Previous
+Day’sLow.
+我们寻找PD阵列的融合来支持在PDL下购买的想法。我们不会仅仅因为价格超过前一
+天的低点就在PDL下买入。
+Trading Previous Day’s High
+交易前一天的高点
+
+<<<PDFPAGE 534 | images=1>>>
+430
+
+<<<PDFPAGE 535 | images=3>>>
+431
+Inthisexample,weseePricemovingLoweraspartofalargerExpansionSwing.
+Duringanormalretracementhigher-afteraFairValueGapwasfilled-Pricefinds
+SellersabovethePreviousDailyHigh(PDH).
+在这个例子中，我们看到价格下跌是大规模扩张的一部分。在一个正常的回撤高点—
+—在一个公允价值缺口被填补后——价格发现卖方高于前一个日高点(PDH)。
+UsingthePreviousDailyHighandanticipatingaMarketReversalafterthePDHis
+raided-onecanbeaSellerintraday.
+利用前一天的高点，并预期在PDH被突袭后市场会反转——一个人可以在当天卖出。
+WelookforconfluencesofPDArraystosupporttheideaofSellingaboveaPDH.
+We do not simply Sell above a PDH on sole basis Price moves beyond the Previous
+Day’sHigh.
+我们寻求PD阵列的融合，以支持高于PDH的销售理念。我们不会仅仅因为价格超过
+前一天的高点，就简单地在PDH之上卖出。
+Ultimately,it’sallaboutHTFcontext.Weekly,Daily,4hsuggestinglowerprices->
+pricetradesupintoapremiumarrayduringaretracementup->tradesabovePDH
+归根结底，这一切都与HTF的背景有关。周线、日线、4h线暗示价格下跌->价格在回
+撤上涨期间上涨进入溢价阵列->交易高于PDH
+->wecanbeaseller.
+->我们可以成为卖家。
+
+<<<PDFPAGE 536 | images=3>>>
+432
+HTFinstitutionalorderflowwillassistus,andwhenwelookforaretracement,we
+HTF机构订单流将帮助我们，当我们寻找回撤时，我们
+lookforpricetotradebelowaPDLandintoadiscountarray.
+寻找低于PDL的交易价格，进入折价序列。
+WelookforconfluencesastowhyweshouldbuybelowthePDL,welookfora
+对于为什么我们应该在PDL以下买入，我们寻找汇合点
+discountarray.Wedon’tjustbuybelowaPDL,therehastobecontext.
+折扣数组。我们不能只买低于PDL的，必须有背景。
+Wehavetolookatwhatinstitutionalorderflowisindicating:welookatinstitutional
+orderflowontheweek dailyand4h suggestingprices willgolower,ifwehave that
+andpricestradesintoapremiumarrayandit’sduringaretracementandgetstothe
+premiumarraythat’swhatyoucoupleitwiththenifittradesabovethePDHwecan
+beaseller.
+我们必须看看机构订单流显示的是什么:我们每天看一周的机构订单流，4h表明价格会
+下跌，如果我们有，价格交易到溢价阵列，它在回撤期间，到达溢价阵列，这是你与之
+耦合的，如果它交易高于PDH，我们可以成为卖方。

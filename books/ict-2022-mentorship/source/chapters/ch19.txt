@@ -1,0 +1,808 @@
+
+<<<PDFPAGE 406 | images=0>>>
+302
+Chapter 19
+第十九章
+<<<PDFPAGE 407 | images=3>>>
+303
+Model
+Diagrams
+模型图
+
+<<<PDFPAGE 408 | images=1>>>
+304
+Remember,missing amove inthe market doesn’tresult ina losingtrade unless
+you use a flawed logic that leads to a losing trade. If today the setups we expected
+didn’tform,butitdoesn’tmeanthemarketisagainstus.It’sjustamissedopportunity
+anddwellingonitwon’tmakeanymoneyorchangetheoutcome.Instead,focuson
+learningfromtheexperienceanddevelopingamindsetthatcanhandlesetbacks.
+记住，在市场中错过一个动作不会导致交易失败，除非你使用了错误的逻辑导致交易
+失败。如果今天我们预期的设置没有形成，但这并不意味着市场对我们不利。这只是
+一个错过的机会，停留在它不会赚任何钱或改变结果。相反，集中精力从经验中学习，
+培养一种能够处理挫折的心态。
+Tradingisaboutstudying,observing,andrecognizingrepeatingpatternsinprice
+action.It’snotaboutblindlyfollowinginstructionstobuyorsell.ICTteachingmethod
+mightnotsuiteveryone,butit’sbasedonlogicalanalysisofcharts.Avoidtoxicthinking
+and negative self-talk. Accept missed opportunities as part of the learning process.
+Staypositive,study,practice,andbepreparedforthenextopportunity.
+交易是关于研究、观察和识别价格行为的重复模式。不是盲目的听从指令去买卖。
+ICT教学方法可能不适合每个人，但它是基于图表的逻辑分析。避免有害的想法和消
+极的自我对话。接受错过的机会，将其作为学习过程的一部分。保持积极，学习，练
+习，为下一次机会做好准备。
+ICT 2022 Mentorship Model
+ICT 2022导师模式
+1. Price trades through major Buyside or Sellside Liquidity (Asian High/Low,
+LondonHigh/Low,PreviousDay(s)High/Low,etc.).
+通过主要买方或卖方流动性(亚洲高/低、伦敦高/低、前一天高/低等)进行价格
+交易。).
+
+<<<PDFPAGE 409 | images=0>>>
+305
+2. PricereversesdirectionandcreatesaFairValueGap(FVG)withDisplacement
+(Displacement must exist. This signifies there is Institutional sponsorship to
+themove).
+价格反转方向，并通过置换(置换必须存在)产生公允价值缺口(FVG)。这表明有
+机构支持这一举措)。
+3. Swing (high or low) must be exactly horizontal to one of the three
+candles in the FVG. This swing is now a Market Structure Shift (MSS):
+秋千(高或低)必须与FVG中的三根蜡烛之一保持水平。这种转变现在是一种市
+场结构转变(MSS):
+a.TheSwingHigh/Lowcanoccureitherbeforetheliquiditygraborafterwards.
+Eitherwayisvalid.
+高/低波动可能发生在流动性紧缩之前或之后。任何一种方式都是有效的。
+4. Draw a 50% Fibonacci line (two
+options):
+画一条50%斐波纳契线(两个选项):
+a. StartatswingthattookliquiditytoaswingontheothersideoftheFVG.
+从swing开始，将流动性带到FVG另一边的swing。
+b.Startataprominentswingafterliquiditytakenswingtoaswingontheother
+sideoftheFVG
+从一个显著的摆动开始，在流动性被吸走后，摆动到FVG的另一边
+<<<PDFPAGE 410 | images=1>>>
+306
+5. ThegapintheFVGcandlesmustbeontheEquilibriumline(50%)oronthe
+sideoftheLiquidity(i.e.thebetterside).
+FVG蜡烛线的缺口必须在平衡线上(50%)或流动性的一边(即较好的一边)。
+6. PlaceLimitOrderinsidetheFVGattheEquilibriumoronthebettersideof
+Equilibrium.
+在均衡点或均衡点较好的一边的FVG内设置限价单。
+1. Liquiditygrab.(Oldhighs/lowsorotherHTFPDArrays
+流动性掠夺。(旧高点/低点或其他HTFPD阵列
+2. Displacement
+排水量
+3. MarketStructureShift(MSS)
+市场结构转变(MSS)
+4. FVG/OBaboveorbelow50%fiboftheDisplacementRange
+FVG/OB高于或低于位移范围的50%fib
+5. ReturntoFVGorOB.
+返回FVG或OB。
+6. SolidRiskRewardRatio.
+可靠的风险报酬率。
+
+<<<PDFPAGE 411 | images=0>>>
+307
+Thedisplacement lowis the short-termlow being broken,and thedisplacement
+high is the oldhigh. The range betweenthese twopointsis called thedisplacement
+range.
+置换低是短期低被打破，置换高是旧高。这两点之间的范围称为位移范围。
+<<<PDFPAGE 412 | images=2>>>
+308
+
+<<<PDFPAGE 413 | images=1>>>
+309
+[CredittoInfinityTrading–Twitter:@infinitytradeIO]
+[归功于InfinityTrading–Twitter:@infinitytradeIO]
+<<<PDFPAGE 414 | images=1>>>
+310
+[CredittoInfinityTrading–Twitter:@infinitytradeIO]
+[归功于InfinityTrading–Twitter:@infinitytradeIO]
+<<<PDFPAGE 415 | images=0>>>
+311
+The ICT ATM Method
+ICT ATM方法
+The ICT ATM model is similar tothe 2022 mentorship model but it is a stand-
+alone price action pattern. The pattern capitalizes on stop hunt. *You can find this
+setup on any timeframe. Remember this is only a setup, you have to frame context
+behindeverysetup.
+ICTATM模型类似于2022mentorship模型，但它是一种独立的价格行为模式。这种
+模式利用了停止狩猎。*您可以在任何时间段找到这种设置。请记住，这只是一个设置，
+你必须框定每个设置背后的背景。
+Introduction To The ICT ATM Method:
+ICT ATM方法介绍:
+• ATMisanindependentpattern.
+自动柜员机是一种独立的模式。
+• Thepatternbenefitsfromrunningstops.
+这种模式得益于止损。
+• Usedon60minutecharts.
+用于60分钟图表。
+• VeryEasytoseeandtrade.
+非常容易看到和交易。
+*ScanPriceon1hChartforakeyhighthatformswiththeshort-termswinglow
+brokentothedownside.Ideallyifitispartofacontinuedswinghigher–withapairof
+swinghighsbroken–priortotheKeyHighformation.Wearegoingtowaitforprice
+toretracetotheswinglowbrokenpriortotheKeyHighforming.
+*扫描1h图上的价格，寻找短期低点向下突破时形成的关键高点。理想的情况是，在关
+键高点形成之前，它是持续走高的一部分——有一对高点被打破。我们将等待价格回
+撤至关键高点形成之前的低点。
+*Priceon1hChartforakeylowthatformswiththeshort-termswinghighbroken
+totheupside.Ideallyifitispartofacontinuedswinglower–withapairofswinglows
+broken–priortotheKeylowformation.Wearegoingtowaitforpricetoretraceto
+theswinghighbrokenpriortotheKeyLowforming.
+*1h图中关键低点的价格，该价格与短期波动高点向上突破形成。理想的情况是，在
+关键低点形成之前，它是持续走低的一部分——打破了一对低点。我们将等待价格回
+撤至关键低点形成之前的波动高点。
+<<<PDFPAGE 416 | images=1>>>
+312
+
+<<<PDFPAGE 417 | images=2>>>
+313
+Afterbreakingthestructureandtaking2Short-TermLows,youneedtowaitfor
+thepullbacktoBreakerBlockandentertheposition.
+在打破这个结构并取得2个短期低点后，你需要等待回调到破位并进场。
+Stop Loss:HighorBreakerBlock.
+止损:高或断路器阻塞。
+Take Profit:BelowSecondShortTermLow.
+获利:低于第二个短期低点。
+
+<<<PDFPAGE 418 | images=2>>>
+314
+Afterbreakingthestructureandtaking2ShortTermHighs,youneedtowaitfor
+thepullbacktoBreakerBlockandentertheposition.
+在突破这个结构并取得2个短期高点后，你需要等待回调突破并进入这个位置。
+Stop Loss:LoworBreakerBlock.
+止损:低或断路器阻塞。
+Take Profit:AboveSecondShortTermHigh.
+获利:高于第二个短期高点。
+
+<<<PDFPAGE 419 | images=2>>>
+315
+Market Maker Sell Model - MMXM
+做市商卖出模型- MMXM
+CredittoTheInnerCircleDragons
+向国际赛车手致敬
+Let’stalkaboutthemarketmakersellmodel.Iwanttospecificallyfocusonthebuy
+side.So,let’stakealookadiagrambelow,thisisthebuyprograminsideofthemarket
+makersellmodel.
+先说做市商卖出模式。我想特别关注买方。让我们来看看下面的图表，这是做市商卖
+出模型中的买入程序。
+
+<<<PDFPAGE 420 | images=2>>>
+316
+Formarket makersellmodel, welookforHTF bearish conditions.IftheHTF is
+trending lower, the market maker sell model will be a retracement higher and will
+generallyeitherrunstopsorrebalance.
+对于做市商卖出模型，我们寻找HTF看跌条件。如果HTF呈下降趋势，做市商卖出模
+型将是一个回撤高点，通常会运行止损或重新平衡。
+Oncethebuyprogramendsofthemarketmakersellmodel,thesellprogramwill
+commencetotakepricebackbelowtheinitialconsolidation.
+一旦做市商卖出模式的买入计划结束，卖出计划将开始使价格回到初始盘整以下。
+It’sveryimportantforustoknowwhattheHTFdrawislikelytobe.Generallythe
+besttradesusingthemarketmakersellmodelinaHTFbearishenvironmentwillbe
+onthesellsidewithinthesellprogram.
+知道HTF的抽签结果对我们来说非常重要。一般来说，在HTF熊市环境下，使用做市
+商卖出模型的最佳交易将出现在卖出计划的卖方。
+However,wecanstillcountertrendtradetotheHTFwithinthebuyprogramofthe
+marketmakersellmodel.
+然而，我们仍然可以在做市商卖出模式的买入程序中对HTF进行反向趋势交易。
+
+<<<PDFPAGE 421 | images=0>>>
+317
+WeseethedailytimeframeandwehavethisSIBI.Weareanticipatingpricetorun
+highertoclosethisinefficiencyandthenpotentiallycontinuelowersinceweareina
+highertimeframebearishtrend.
+我们看到每天的时间框架，我们有这个SIBI。我们预计价格将走高，以结束这种低效
+率，然后可能继续走低，因为我们正处于一个较高的时间框架看跌趋势。
+Weanticipateabuyprogramastheretracementlegofamarketmakersellmodel.
+我们预计买入计划是做市商卖出模式的回撤部分。
+<<<PDFPAGE 422 | images=2>>>
+318
+Thealgorithmwillrepricetothesellsideimbalance.Andthiswholeretracement
+higherlookslikethison1htimeframe:
+该算法将对卖方不平衡重新定价。整个回撤高点在1h时间框架内看起来是这样的:
+Thisisthebuysidedeliverywithinasmallerretracementonthedailytimeframe.
+Before the price reaches the higher time frame premium level of this SIBI. Let’s
+simplify it: this upward move on the daily time frame represents a buying program
+withinthemarketmakersellmodelonthebuysideofthecurve.
+这是每日时间框架内较小回撤范围内的买方交割。在价格达到该SIBI的较高时间框架
+溢价水平之前。让我们简化一下:每日时间框架的向上移动代表了做市商卖出模型中曲
+线买方的买入计划。
+Iwanttofocusonthebuyprograminitiallyandseehowwecancapitalizeonthe
+movement higher during this retracement into the sellside imbalance on the daily
+timeframe.
+
+<<<PDFPAGE 423 | images=0>>>
+319
+我想先把重点放在买入计划上，看看我们如何在每日时间框架内，在回撤至卖方失衡
+的过程中利用上涨。
+So,wehaveourinitialconsolidationandwehavehighertimeframelevel(PDArray).
+Again,itcanbeanyhighertimeframelevel:FVG,OB,BB,MB,BSL,etc.Itcouldbe
+any of the numberof arrays that wecan see in price. It’s all dependenton what we
+cancurrentlyseeinpriceatthetime.
+因此，我们有了最初的整合，我们有了更高的时间框架级别(PD阵列)。同样，它可以
+是任何更高的时间框架级别:FVG、OB、BB、MB、BSL等。它可以是我们在价格中看
+到的任何数量的阵列。这完全取决于我们目前能看到的价格。
+<<<PDFPAGE 424 | images=1>>>
+320
+WefocusonarunonBSL,andthenwearerepricinghigherinourbuyprogram
+topurgetheliquidityabovetheoldhigh.So,itwillbebuystopsrestingabovethatold
+high. Smart money will pair short positions with the buy stops and then distribute
+theirpositionsbelowtheinitialconsolidation.
+我们关注BSL的挤兑，然后我们在购买计划中重新调高价格，以清除旧高点以上的流
+动性。因此，在旧高点上方停留将是买入止损点。聪明的投资者会将空头头寸与买入
+止损点配对，然后在最初盘整时分配他们的头寸。
+Ifweseeahighertimeframelevel,whichsitsjustaboveanoldhighwherethere
+arebuystopsandBSLrestingabove,thisishigherinprobabilitythatwearelikelyto
+seeamarketreversalandtheendofthebuyprogrambecausethealgorithmisefficient,
+itwillalwayslooktokilltwobirdswithonestone.
+如果我们看到一个更高的时间框架水平，刚好位于一个旧高点之上，在那里有买入止
+损点，BSL停留在上方，这是我们很可能看到市场反转和买入计划结束的更高概率，
+因为算法是有效的，它总是看起来一石二鸟。
+<<<PDFPAGE 425 | images=1>>>
+321
+
+<<<PDFPAGE 426 | images=1>>>
+322
+The two main parameters that the algorithm is going to look to do is
+to seek liquidity and to rebalance inefficiencieswhereyouoftengoingtofind
+anoldhighthatrestsbelowaninefficiency.Andthealgorithmwilloftendrawtothis
+areaanditwillserveyouverywellifyoukeepthisanalogywheneveryou’relooking
+forsetupsinthemarket.
+该算法要考虑的两个主要参数是寻求流动性和重新平衡低效率在那里你经常会找到一
+个低效率下的旧高点。算法通常会吸引到这个区域，如果你在市场中寻找设置时保持
+这个类比，它会很好地为你服务。
+Nowlet’sfocusontheleftsideofthecurve.
+现在让我们关注曲线的左侧。
+FromtheinitialconsolidationlowtotheHTFlevelwhereweexpectpricetoreach
+for.ThisisknownastheBDR–BuysideDeliveryRange.
+从最初的盘整低点到我们预计价格将达到的HTF水平。这被称为BDR–买方交货范
+围。
+<<<PDFPAGE 427 | images=1>>>
+323
+
+<<<PDFPAGE 428 | images=2>>>
+324
+Theinitialconsolidationwillbeourpointoforiginandwe’reanticipatingpriceto
+gouptotheHTFlevel.Weshouldthenexpect areversal andtheinitiationofasell
+programtoruntheengineeredsellsideliquiditybelowtheinitialconsolidation.
+最初的盘整将是我们的起点，我们预计价格将升至HTF水平。然后，我们应该期待反
+转和卖出计划的启动，使设计好的卖方流动性低于最初的盘整。
+Once wehave identifiedourpointof originandwehaveidentifiedourpotential
+drawonliquidityontheHTF,wecanthengradeourbuysidedeliveryrangein25%
+quadrants.
+一旦我们确定了我们的起点，并确定了我们对HTF流动性的潜在利用，我们就可以在
+25%象限内对我们的买方交割范围进行评级。
+
+<<<PDFPAGE 429 | images=2>>>
+325
+WewillanchortheFIBfromthehightothelowofthebuysidedeliveryrange.
+我们将把FIB从买方交割区间的高点锚定到低点。
+The initial consolidationwill generally form in the lowerquadrant. Between the
+firstandsecondquadrant,wewillseeourfirststageofaccumulationorareturntothe
+consolidation.
+最初的盘整一般会在下象限形成。在第一象限和第二象限之间，我们将看到第一阶段
+的积累或回到盘整。
+Wegenerallylookforpricetodooneoftwothings:
+我们通常寻找价格做两件事之一:
+1. Itwilleitherdroplowertorebalanceaninefficiencyintheexpansionlegthat
+它要么下降到更低的水平，以重新平衡扩张阶段的低效率
+movedawayfromtheconsolidation.
+远离整合。
+
+<<<PDFPAGE 430 | images=2>>>
+326
+2. ItwilllooktorunsellstopsorSSL.
+它将运行卖出止损或SSL。
+Atthe50%level,wewillgenerallyseeameasuringgap.
+在50%的水平，我们通常会看到一个测量差距。
+Ameasuringgapwillnotbefullyfilledandisnormallyareflectionofthehalfway
+测量间隙不会完全填满，通常是中间值的反映
+pointbetweentheoriginandtheterminus.
+起点和终点之间的点。
+If we take a fib from our point of origin to the measuring gap and project
+one deviationhigher,weshouldgetthehighoftheBTR.Ifthisoverlapswithahigher
+timeframe level and or buyside liquidity, this gives us a good indication that this
+is in fact a measuring gap and gives us extra confirmation that we are set
+aroundequilibrium50%ofthebuysidedeliveryrange.
+
+<<<PDFPAGE 431 | images=0>>>
+327
+如果我们从原点到测量间隙取一个fib，并投影一个更高的偏差，我们应该得到BTR的
+高点。如果这与更高的时间框架水平和/或买方流动性重叠，这给了我们一个很好的迹
+象，表明这实际上是一个测量缺口，并给了我们额外的确认，即我们设定在买方交割
+范围的平衡50%左右。
+Between 2nd and 3rd quadrant we normally expect our second stage of re-
+accumulation.Wearelookingtoeitherrebalanceaninefficiencybelowthemarketin
+theformofaBISIorwearelookingtoseeksellsideliquidityintheformofsellstops
+belowanoldloworrelativeequallows.
+在第二象限和第三象限之间，我们通常期待第二阶段的再积累。我们希望以BISI的形
+式重新平衡低于市场的低效率，或者以低于旧低点或相对相等低点的卖出止损的形式
+寻求卖方流动性。
+<<<PDFPAGE 432 | images=2>>>
+328
+1. It will either drop lower to rebalance an inefficiency in the expansion
+leg that moved away from the consolidation.
+它要么会下降，以重新平衡从整合中脱离出来的低效率的扩展分支。
+2. It will look to run sell stops or SSL.
+它将运行卖出止损或SSL。
+Wewillseeanexplosivemovehigherfromthefinalstageofaccumulationandinto
+Terminus, which would be our buyside objective or a higher timeframe level. This
+wouldpreventtradersfromenteringthemarketonaretracement,anditalsoreduces
+thetimefortraderstoclosepositionsthatareunderwater.
+我们将看到从积累的最后阶段到终点的爆炸性上涨，这将是我们的买方目标或更高的
+时间框架水平。这将防止交易者在回撤时进入市场，也减少了交易者平仓水下头寸的
+时间。
+Let’slookattheinitialconsolidationagainandwe’llgetintoalittlebitmoredetail
+ofhowwecanusetheinitialconsolidationtogiveusmeasurementsonhowhighthe
+buyprogramcanreach.
+让我们再来看一下初始整合，我们将更详细地了解如何利用初始整合来衡量购买计划
+可以达到的高度。
+Wehaveourinitialconsolidationhighandwehaveourinitialconsolidationlow.
+我们有最初的盘整高点，也有最初的盘整低点。
+
+<<<PDFPAGE 433 | images=1>>>
+329
+
+<<<PDFPAGE 434 | images=2>>>
+330
+Itisknownastheconsolidationrange.Ifwetaketheconsolidationrangehighand
+theconsolidationrangelowandweuseafibandthenanchorittothehighandthe
+low,wewanttogetthemidwaypointbetweentheconsolidationrangeandrejecthalf
+astandarddeviationabovetheconsolidationrangehigh.
+它被称为巩固范围。如果我们取盘整区间的高点和低点，使用fib，然后将其固定在高
+点和低点，我们希望得到盘整区间的中点，并拒绝盘整区间高点以上的半个标准差。
+If we take our consolidation range and we project deviations using our FIB tool
+higher,wewillbeinterestedinlevelthatnearTerminus.
+如果我们使用FIB工具将整合范围和偏差预测得更高，我们将对接近终点水平感兴
+趣。
+
+<<<PDFPAGE 435 | images=1>>>
+331
+Howdoweusethisinformation?
+我们如何使用这些信息？
+Swingpointswilloftenformaroundthesedeviations.Wecanusethesedeviations
+to anticipate highs and lows inside of the buyside delivery range within the buy
+program.
+摆动点通常会围绕这些偏差形成。我们可以使用这些偏差来预测买入计划中买方交割
+范围内的高点和低点。
+If these deviations overlap with the grades of our buyside delivery range, this is
+wherewearelikelytoseeourhighestprobabilitysetupsform.
+如果这些偏差与我们的买方交割范围的等级重叠，这就是我们最有可能看到的概率设
+置形式。
+<<<PDFPAGE 436 | images=1>>>
+332
+Ifweseeadeviationthatisabovebuysideliquidity,saywehaveanoldhightothe
+left and it’s in close proximity to this higher time frame level, we have a strong
+probabilityofabuyprogramhigh.
+如果我们看到一个高于买方流动性的背离，比如说我们有一个左边的旧高点，它非常
+接近这个更高的时间框架水平，我们有很大的概率是一个买入计划的高点。
+
+<<<PDFPAGE 437 | images=1>>>
+333
+From the initial consolidation before anything has printed to the right, we can
+already reference using these deviations to project a theoretical terminus, which
+wecanthenusetogradeourbuysidedeliveryrange.So,wecanidentifythehighest
+probabilityareasofwheresetupswillformbeforepriceevenprints.
+从最初的合并到现在，我们已经可以参考使用这些偏差来预测一个理论上的终点，然
+后我们可以用它来对我们的买方交货范围进行分级。因此，我们可以在价格打印之前
+确定最有可能形成设置的区域。
+Nowlet’sdiscussthesellsideoftheMMSM.
+现在让我们讨论一下MMSM的卖方。
+Ontherightsideofthecurve,wehavethesellsidedelivery.Again,welookforthe
+marketmakersellmodelwhenthehighertimeframeisbearish.
+在曲线的右侧，我们有卖方交割。同样，当较高的时间框架是熊市时，我们寻找做市
+商卖出模型。
+On the 1h time frame, the smaller fractal is the sell side delivery of the market
+makersellmodel.
+在1h时间框架上，较小的分形是做市商卖出模型的卖出方交割。
+Oncepricehaslefttheinitialconsolidationandourbuyprogramwasunderway,
+offeringbuysidedeliverytoourhighertimeframelevel,wethenhaveareversalknown
+asasmartmoneyreversaloranSMR.
+一旦价格离开了最初的盘整，我们的买入计划正在进行，提供买方交割到我们更高的
+时间框架水平，然后我们有一个反转，称为聪明的资金反转或SMR。
+Whatisasmartmoneyreversal?Itisachangeinstateofdelivery.Thealgorithm
+goesfromabuyprogramtoasellprogramorasellprogramtoabuyprogram.
+什么是聪明的金钱逆转？这是交货状态的变化。该算法从购买程序到出售程序，或者
+从出售程序到购买程序。
+
+<<<PDFPAGE 438 | images=1>>>
+334
+
+<<<PDFPAGE 439 | images=2>>>
+335
+Inthecaseofthemarketmakersellmodel,wearegoingfromabuyprogramtoa
+sellprogramtoasellsidedelivery.
+在做市商卖出模式的情况下，我们从买入计划到卖出计划再到卖出方交割。
+Wehavetypeonereversalwherewerunaboveanoldhighandtapintoahigher
+timeframelevel.
+我们有第一种反转，在旧高点上方运行，进入更高的时间框架水平。
+We then reverse breaking below an old swing low. This is known as a breaking
+marketstructure.
+然后我们反转跌破一个旧的低点。这就是所谓的打破市场结构。
+Thetypetworeversal iswehavereachedahighertimeframelevel.Wehavethis
+high which failed to go above its previous high, giving us a lower high. And then
+runningbackbelow,swinglow,givingusourbreakinmarketstructure.
+
+<<<PDFPAGE 440 | images=0>>>
+336
+第二种反转是我们已经达到了一个更高的时间框架水平。我们有这个高点，它没有超
+过它的前一个高点，给我们一个较低的高点。然后回到下方，低摆，让我们打破市场
+结构。
+<<<PDFPAGE 441 | images=2>>>
+337
+Theidealreversalpatternwearelookingforisatypeonereversalwherewemake
+ahigherhighandthenbreakbelowanoldswinglow.
+我们正在寻找的理想反转模式是第一种反转，在这种反转中，我们创造了一个更高的
+高点，然后跌破一个旧的低点。
+Forextraconfirmation,wewanttolookatacorrelatedassetclassandwewantto
+seeanSMTdivergencebetweenthetwo.Whenassetonemakesahigherhigh,welook
+foracorrelatedassetclasstomakealowerhigh.Iftheyareinverselycorrelated,then
+wewouldlookforonetomakeahigherhighanditscorrelatedpairtomakeahigher
+low.
+为了进一步确认，我们想看看相关的资产类别，我们希望看到两者之间的SMT背离。
+当资产一创造更高的高点时，我们寻找相关的资产类别来创造更低的高点。如果它们
+是反向相关的，那么我们将寻找一个做更高的高点，而它的相关对做更高的低点。
+We would only refer to this type of reversal pattern if it’s correlated asset was
+showinganSMTdivergencebypostingahigherhigh.
+只有当相关资产通过发布更高的高点显示出SMT背离时，我们才会参考这种反转模
+式。
+
+<<<PDFPAGE 442 | images=0>>>
+338
+Let’slookattypeoneinalittlebitmoredetail.
+让我们更详细地看看第一种类型。
+Whenweseeabreakinmarketstructureafterwehaverunashorttermhighand
+rejectedfromahighertimeframelevel,wearelookinginsideoftheexpansionlegthat
+brokemarketstructuretoseeifwecanseeaFVG.
+当我们在运行短期高点并从更高的时间框架水平拒绝后看到市场结构的突破时，我们
+正在查看打破市场结构的扩张腿的内部，看我们是否能看到FVG。
+<<<PDFPAGE 443 | images=2>>>
+339
+Thisiswhatitwouldlooklikeonthechartwherewehaveanoldswinghighwhich
+we run through sweeping the buy stops above this high, rejecting from the higher
+timeframelevelandthenrunningbackbelowthisswinglow,causingabreakinmarket
+structure.
+这是图表上看起来的样子，我们有一个旧的波动高点，我们穿过这个高点，从更高的
+时间框架水平拒绝，然后回到这个波动低点，导致市场结构的突破。
+ThebreakinmarketstructureisconfirmedwiththisFVG.IfthisFVGisnotpresent,
+wedon’tclassthisasavalidbreakinmarketstructure.Wedon’thavetoclosebelow
+theswinglowinorderforittobeclassedasavalidbreakinmarketstructureifwestill
+havetheFVGpresent.
+这个FVG证实了市场结构的打破。如果这个FVG不存在，我们不认为这是市场结构的
+有效突破。如果我们还有FVG，我们不需要收盘低于摆动低点，就可以将其归类为市
+场结构中的有效突破。
+
+<<<PDFPAGE 444 | images=0>>>
+340
+However,itishigherinprobabilityifwedoseeaclosebelowtheswinglowwhen
+price runs through the opening price of the last close candle that ran the buyside
+liquidity.
+然而，当价格穿过最后一根代表买方流动性的收盘价蜡烛线的开盘价时，如果我们确
+实看到收盘价低于摆动低点，可能性会更高。
+Thisbecomesanorderblockand whenitsopenis violated,wehaveachange in
+stateofdelivery.
+这成为一个订单块，当它的开放被违反，我们有一个交货状态的变化。
+<<<PDFPAGE 445 | images=1>>>
+341
+Thisorderblockandthechangeinstateofdeliveryisconfirmedwiththepresence
+oftheFVGinsideoftheexpansionlegthattraveledthroughtheopeningpriceofthis
+orderblock.
+该订单块和交货状态的变化通过FVG在扩展段内的存在得到确认，该扩展段穿过该订
+单块的开盘价。
+Thealgorithmwillthenrepricelowertoattack,sellsideliquidityortorebalancean
+该算法然后将重新定价较低，以攻击，出售方流动性或重新平衡
+inefficiencybelowthemarket.
+低于市场的低效率。
+WhenpricehasreacheditsHTFlevelandwehavetakenoutbuysideliquidityin
+theformofanoldhightotheleft,wecannowstartlookingfortargetsontheleftside
+ofthecurve.Weknowthatourinitialconsolidationisgoingtobeourlikelydrawsince
+thehighertimeframeisbearish.
+当价格达到HTF水平，并且我们已经以左边的旧高点的形式取出买方流动性时，我们
+现在可以开始寻找曲线左边的目标。我们知道，我们最初的盘整将是我们可能的吸引，
+因为更高的时间框架是熊市。
+Thesellsideliquiditywillrestbelowtheinitialconsolidationlows.Thiswouldbe
+ourinitialterminusasatarget.Fromthepointoforigintotheterminuswillbeour
+SDRorourexpectedrangeforsellsidedelivery.
+卖方流动性将低于最初的盘整低点。这将是我们作为目标的最初终点。从起点到终点
+将是我们的SDR或我们卖方交割的预期范围。
+WeareanticipatingpricetogoloweraftertheSMRandwearetargetingthesellside
+
+<<<PDFPAGE 446 | images=0>>>
+342
+liquiditybelowtheinitialconsolidation.
+我们预计SMR后价格将走低，我们的目标是在最初盘整之下的卖方流动性。
+Justlikeontheleftsideofthecurvewherewecouldgradeourrange,wecannow
+dothesameforthesellsideofthemarketmakersellmodel.Again,thiswouldbeour
+SDRlevelsandourFIBtool.
+就像在曲线的左侧，我们可以对我们的范围进行评级一样，我们现在可以对做市商卖
+出模型的卖方进行同样的操作。同样，这将是我们的SDR级别和FIB工具。
+We would anchor our fib from point of origin, which would be the high of
+themarketmakersellmodeltotheinitialterminusbelowtheinitialconsolidation,and
+wewouldgetagradedrangeof25%increments.
+我们将从起点锚定我们的fib，这将是做市商卖出模型的高点到初始整合以下的初始终
+点，我们将获得25%的增量分级范围。
+<<<PDFPAGE 447 | images=1>>>
+343
+Howfarbelowtheinitialconsolidationcanpricego?Well,theinitialconsolidation
+wouldbeourfirsttarget.Butwecanusecalibrationtechniquestoassesshowfarlow
+wecango.
+价格还能比最初的盘整低多少？最初的整合是我们的第一个目标。但是我们可以使用
+校准技术来评估我们能降到多低。
+Calibrationtechniquesaregoingtoinvolveanumberofthings:
+校准技术将涉及许多方面:
+1. Welookforrangebelowtheinitialconsolidation.
+我们寻找初始盘整以下的区间。
+If we have our consolidation range or we have our consolidation high and our
+consolidationlow,wewanttolookforpointrangebelowtheinitialconsolidationin
+incrementsof5,10,15and20points(NQ)or2,5,7,10points(ES/SP500).
+如果我们有盘整区间，或者有盘整高点和盘整低点，我们希望寻找低于初始盘整的点
+区间，增量为5、10、15和20点(NQ)或2、5、7、10点(SP500)。
+<<<PDFPAGE 448 | images=1>>>
+344
+
+<<<PDFPAGE 449 | images=2>>>
+345
+2. Thesecondthingwewanttolookforisifahighertimeframelevelwillbein
+closeproximitytooneofthepointrangelevels.
+我们要寻找的第二件事是，一个更高的时间框架水平是否会非常接近其中一个
+点范围水平。
+Oncethebuyprogramiscompleted,wecanstarttakingmeasurementstoassess
+howfarthesellprogramcanpotentiallydeliverprice.
+一旦购买计划完成，我们就可以开始进行测量，以评估出售计划可能在多大程度上实
+现价格。
+Ifwetaketheswinglow,whichisthelastswinglowbeforethereversalandwetake
+theswinghigh,thisisourmanipulationswingthatranthebuysideliquidityabovethis
+highandintoourhighertimeframelevel.
+如果我们把波动降到低点，这是反转前的最后一个低点，我们把波动提到高点，这就
+是我们的操纵波动，使买方流动性高于这个高点，进入我们更高的时间框架水平。
+Thisoccursafterthefinalstageofre-accumulationandittricksbuyersintolongs.
+Themarketmovesexplosivelyinthisdirection.Thisisknownasthemanipulationleg
+oftheSMR.Thiswillformanintermediatetermswingwithashort-termhightothe
+leftandashort-termhightotheright.
+这发生在再积累的最后阶段，它欺骗买家做多。市场朝着这个方向爆炸性地发展。这
+被称为SMR的操纵腿。这将形成一个中期摆动，短期高点向左，短期高点向右。
+
+<<<PDFPAGE 450 | images=2>>>
+346
+Ifwetaketheswinglowthroughtheswinghighandweprojectstandarddeviations
+ofthisswinglower,wecanlookforpotentialtargetsthatthealgorithmwillreachfor
+tocompleteitssellprogram.
+如果我们通过波动高点来波动低点，并预测波动低点的标准偏差，我们可以寻找算法
+将达到的潜在目标，以完成其卖出程序。
+Ifoneofthesedeviationsalignswithbetween5and20points(NQ)belowtheinitial
+consolidationanditalsooverlapswithahighertimeframelevel.Thisisaverystrong
+confluenceofwherethemarketmaywanttorepriceto2to2.5standarddeviationsof
+
+<<<PDFPAGE 451 | images=0>>>
+347
+themanipulationswingiscommon.
+如果其中一个背离与初始盘整以下5到20点(NQ)一致，并且与更高的时间框架水平重
+叠。这是一个非常强大的汇合点，市场可能希望重新定价到操纵摆动的2到2.5个标准
+差是常见的。
+When these standard deviations also align with other arrays, this is a high
+当这些标准差也与其他数组对齐时，这是一个高
+<<<PDFPAGE 452 | images=1>>>
+348
+probabilityofadistributionarea.
+分布区域的概率。
+1 to 2STD of the manipulation swing is also another good area to look for re-
+distribution.
+操纵摆动的1到2STD也是另一个寻找重新分布的好区域。
+If we also take the first swing low after the SMR and use fib from its low to the
+short-termhighandifweprojectdeviationslower,thiscangiveusextraconfidence
+again, especially if it lines up with a higher timeframe level and another standard
+deviation.
+如果我们也在SMR后的第一个低点波动，从低点到短期高点使用fib，如果我们预测偏
+差更低，这可以再次给我们额外的信心，特别是如果它符合更高的时间框架水平和另
+一个标准偏差。
+Nowwehaveourcalibratedterminus,whichalignswithahighertimeframelevel
+of5to20points(NQ)rangebelowtheinitialconsolidation.Andwe’veusedadifferent
+swingmeasurements.
+现在我们有了校准的终点，它与比初始盘整低5到20点(NQ)的更高的时间框架水平一
+致。我们使用了不同的摆动测量方法。
+Ifwenowgradethisfromourpointoforigintoournewcalibratedterminusand
+wedividethatrangeinour25%increments,wenowhaveacalibratedgradingrange.
+Thefirststageofdistributionislikelytooccuraroundthefirstquadrantofthegraded
+range.
+如果我们现在从起点到新的校准终点进行分级，并以25%的增量划分该范围，我们现
+<<<PDFPAGE 453 | images=0>>>
+349
+在就有了校准的分级范围。分布的第一阶段可能发生在分级范围的第一象限附近。
+Aroundthisareawearealsolikelytoseeabreakawaygap(BG),whichisanunfilled
+FVG.Again,atthe50%grade,wearelikelytoseeourmeasuringgap,whichwillbe
+anunfilled FVGat themidpointof therange. This measuringgap willgiveusextra
+confidencethatourcalibratedterminuswascorrect.
+在这个区域周围，我们也可能会看到一个分离缺口(BG)，这是一个未填充的FVG。同
+样，在50%的等级，我们可能会看到我们的测量差距，这将是一个未填充的FVG在范
+围的中点。这个测量间隙将给予我们额外的信心，即我们校准的终点是正确的。
+Wewillnormallyseeoursecondstageofdistributionaround3rdquadrantofour
+gradedrange.Thisisknownasthesilverbullet(SB).
+我们通常会在分级范围的第三象限附近看到第二阶段的分布。这被称为银弹(SB)。
+<<<PDFPAGE 454 | images=2>>>
+350
+Reverseallofthisforthebuysideofthemarketmakerbuymodel.
+对于做市商买入模式的买方来说，这一切都是相反的。
+So,intheupperarea,afterourchangeinstateofdelivery,wehaveourfirstentry,
+whichisgoingtobeourlowrisksell.Andthisisgoingtooccurafterthechangeinstate
+ofdeliveryhasbeenconfirmed.
+因此，在上方区域，在我们改变交货状态后，我们有了第一笔交易，这将是我们的低
+风险卖出。这将发生在交货状态改变被确认之后。
+Thechangeinstateofdeliverywillbeconfirmedwithdisplacementandtime.
+
+<<<PDFPAGE 455 | images=0>>>
+351
+交付状态的变化将通过位移和时间来确认。
+This is what our Change in Stated of Delivery would look like, where the buy
+programhascompleteditsbuysidedeliveryandwehaverejectedthehigher.
+这就是我们的交货状态的变化，其中买方程序已经完成其买方交货，我们已经拒绝了
+更高的。
+<<<PDFPAGE 456 | images=2>>>
+352
+Timeframelevelandranbelowtheopeningpriceofthelastupclosecandle,which
+becomesourbearishorderblock.
+时间框架水平，并低于最后一根蜡烛线的开盘价，这成为我们的看跌订单块。
+Thelowrisksellwillbearetracementbackintotheorderblockandthenwewould
+seeamovelower.AsasellsideprogramcontinuesonaLTF,youwillseeFVGinside
+ofthisorderblock.
+低风险卖出将是回撤至订单块，然后我们会看到一个更低的移动。随着LTF卖方项目
+的继续，你会在这个订单块中看到FVG。
+ThiswillbeahighprobabilityFVG.Itdoesn’tneedtocomeintorebalancethat.
+Itcanoftenjustkeyoffthelowtotheopeningpriceandrunlower,leavingthatFVG
+open.Wecantravelhigherintotheorderblock,butwedonotwanttoseethemean
+thresholdoftheorderblockbreachedonaclosingbasis.
+这将是一个大概率的FVG。它不需要进来重新平衡。它通常可以关闭低开盘价，运行
+
+<<<PDFPAGE 457 | images=0>>>
+353
+更低，让FVG开放。我们可以进入更高的订单块，但我们不希望看到收盘时订单块的
+平均阈值被突破。
+WenexthaveourMSSwherewe’vehadarunonthesellsideliquiditybelowthe
+secondstageofaccumulation.Thisgivesusourbreakinmarketstructure.Again,we
+donotneedtoclosebelowthelowinordertohaveavalidbreakinstructure.
+接下来是我们的MSS，在第二阶段积累之下，卖方流动性出现了挤兑。这给了我们打
+破市场结构的机会。同样，我们不需要为了在结构上有一个有效的突破而在低点以下
+收盘。
+Ifwebreakbelowthesecondorfinalstageofre-accumulation,thisismuchmore
+如果我们跌破再积累的第二或最后阶段，这就更多了
+<<<PDFPAGE 458 | images=1>>>
+354
+significantthansmallerbreakinsideofthemanipulationswingthatrunstops.
+比运行停止的操纵摆动内的较小中断更重要。
+Thehighestprobabilityvalidstructurebreakisgoingtobethesecondstageorthe
+final stage of re-accumulation. FVG found inside of the expansion leg that broke
+structureisgoingtogiveconfirmationofthevalidstructurebreak.
+最大概率的有效结构断裂将是再聚集的第二阶段或最后阶段。FVG在扩展分支内部发
+现，断裂结构将给出有效结构断裂的确认。
+Our first stage of distribution where we return to the FVG inside of the leg that
+brokestructure,andwewillmitigateatthebreaker,whichisthedownclosecandles
+thatrestsinsideofthefinalstageofaccumulation.
+我们的第一阶段的分配，我们回到FVG内部的腿打破了结构，我们将减轻在断路器，
+这是向下关闭蜡烛休息的最后阶段的积累。
+
+<<<PDFPAGE 459 | images=1>>>
+355
+
+<<<PDFPAGE 460 | images=2>>>
+356
+Next,wehaveasecondstructurebreakandthenacontinuationlowertoseekthe
+接下来，我们有第二个结构中断，然后继续寻找更低的
+nextsellsideliquiditybelowthefirststageofaccumulation.
+低于第一阶段积累的下一个卖方流动性。
+
+<<<PDFPAGE 461 | images=2>>>
+357
+Afterwehaverunthesellside liquiditybelowthefirststageofaccumulation,we
+willbeginoursecondstageofre-distributionontherightsideofthemarketmakersell
+modelwithinoursellprogram.Wewillrunthesellsideliquiditybelowthefirststage
+ofaccumulation.
+在我们将卖方流动性运行到第一阶段积累以下后，我们将在我们的卖出计划中的做市
+商卖出模型的右侧开始我们的第二阶段再分配。我们将在积累的第一阶段以下运行卖
+方流动性。
+As a side note, there can be more than two stages of accumulation or distribution
+cycles. It all depends on what price is presenting at the time and what we can see on
+our charts.
+顺便提一下，积累或分配周期可以有两个以上的阶段。这完全取决于当时的价格和我
+们在图表上看到的东西。
+<<<PDFPAGE 462 | images=0>>>
+358
+Wehaveabreakinmarket structure.Wereturnback upintoaFVGorweseea
+runonstopsabove ashort-term high, and then wemitigate inside ofa distribution
+block. The distribution block will be the down close candles inside of the stage
+ofaccumulation.
+我们打破了市场结构。我们回到FVG，或者我们在短期高点上方看到止损，然后我们
+在分配块内减轻损失。分配块将是堆积阶段内部的向下封闭的蜡烛。
+<<<PDFPAGE 463 | images=2>>>
+359
+
+<<<PDFPAGE 464 | images=1>>>
+360
+We continue lower to seek the next stage of sellside liquidity below the initial
+consolidation and ultimately to our calibrated terminus. The distribution cycle
+essentiallyconsistsofthesefourthings:
+我们继续走低，在初始盘整之下寻找下一阶段的卖方流动性，最终到达我们校准的终
+点。分销周期主要由以下四个部分组成:
+1. Werunliquidity
+我们经营流动性
+2. Werebalanceorwerunstops.
+我们重新平衡或者止损。
+3. Wemitigatewithinanareaonthe.Leftsideofthecurve.
+我们在一个区域内缓解。曲线的左侧。
+4. Wecontinuelowertoseekliquidity.
+Thisisourguide:
+我们继续走低以寻求流动性。这是我们
+的指南:
+Phases
+阶段
+1. BuyProgram=NetLong
+BuyProgram=NetLong
+<<<PDFPAGE 465 | images=0>>>
+361
+• OriginalConsolidation=EngineersPendingSSL>PendingBSL.
+原始合并=工程师待定SSL>待定BSL。
+• Accumulation = Buy Orders (Through Accumulation at Discount
+Market) >SellOrders.
+累计=买入订单(通过折价市场累计)>卖出订单。
+2. Smart Money Reversal = Institutional Reference Point utilized for one or
+multipleofthefollowing:
+智能资金逆转=用于以下一项或多项的机构参考点:
+• MitigationofLongpositions.
+减轻多头头寸。
+• RebalancinganOldImbalance-Sell-SideImbalanceBuy-SideInefficiency.
+重新平衡旧的失衡--卖方失衡，买方低效。
+• Buy-SideLiquidityRaidwhere:
+买方流动性突袭，其中:
+<<<PDFPAGE 466 | images=0>>>
+362
+LimitOrdersintheformofBuystops(protectinglongpositions)arepairedwith
+InstitutionalShortorders/Longexitliquidity.
+买入止损(保护多头头寸)形式的限价订单与机构空头订单/多头退出流动性成对出现。
+LimitOrdersintheformofBuyorders(interestofsellingbelowaspecificlevel)are
+买入订单形式的限价订单(在特定水平以下卖出的利益)是
+pairedwithInstitutionalShortorders/Longexitliquidity.
+与机构短期订单/长期退出流动性配对。
+*Once at Reference Point, Expect a Market Structure Shift / Market Structure
+Break=ChangeintheStateofDelivery|BuyProgram->SellProgram
+*一旦到达参考点，预期市场结构变化/市场结构断裂=交货状态的变化|购买计划->销售计
+划
+3. SellProgram=NetShort
+SellProgram=NetShort
+• Distribution(1stleg)=SellOrders>BuyOrders.
+Distribution(1stleg)=SellOrders>BuyOrders.
+• Redistribution(2ndleg)=SellOrders>BuyOrders.
+再分配(第二阶段)=卖出订单>买入订单。
+• Terminus/Completion=OrdersaddedtoInstitutionalPositionsduring.
+终止/完成=期间机构头寸增加的订单。
+HedgingandSMRarenowpairedwiththeOriginalConsolidationLiquidity.
+SellModel-Understanding
+对冲和SMR现在与原始的整合流动性配对。销售模型-理解
+IdentifytheFollowing:
+确定以下内容:
+1. HTFIOF=Bearish.
+HTFIOF=Bearish.
+2. DOL=Lower.
+DOL=Lower.
+3. InitialCurve=BuyProgramwithAccumulation/Re-Accumulation.
+初始曲线=累积/再累积购买计划。
+IfweareinHTFBearishOF,theexpectationisthatPricewillrespectHTFBearish
+如果我们在HTF看跌，预期价格将尊重HTF看跌
+PDAs.Oncewehaveidentifiedourdraw,wewouldwanttoseeamajorInstitutional.
+<<<PDFPAGE 467 | images=0>>>
+363
+掌上电脑。一旦我们确定了我们的抽签，我们希望看到一个主要的机构。
+The Sell Model’s purpose is to deliver Price efficiently to our HTF Draw, while
+alsogeneratingLiquidityPoolsBelowtheMarketPlace(duringBuyCurve,generating
+protective sell stops under old lows) that would later be used to pair Institutional
+Orderspost-SMR.TheIdeawouldbeforustobeinalignmentwithOFinorderto
+captureparts)ofthemove.
+卖出模型的目的是将价格有效地传递给我们的HTF提款，同时产生低于市场水平的流
+动性池(在买入曲线期间，在旧低点下产生保护性卖出止损),这些流动性池将在SMR交
+易后用于配对机构订单。这个想法将是我们为了捕捉部分)移动而与对准。
+OncetheSmartMoneyReversalhasbeenIdentified(MSS/MSB),wewouldlook
+一旦发现了聪明的资金逆转(MSS/MSB),我们就会寻找
+toapplyoneoftheEntryModels:
+要应用其中一种入门模型:
+1. 2022Model
+2022款
+2. OFED
+OFED
+3. Breaker+FairValueGap
+断路器+公允价值差距

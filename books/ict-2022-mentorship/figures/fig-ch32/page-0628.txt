@@ -1,0 +1,17 @@
+384
+•
+Moving the levels of the HTF to the LTF is important so we can reduce our risk
+(stops).
+将HTF的仓位转移到LTF是很重要的，这样我们可以降低风险(止损)。
+The Highest Importance is placed on the HTF Daily or 4h direction.
+When Daily and or 4h direction is Bullish:
+最重要的是HTF日线或4h方向。当日线和或4h方向看涨时:
+1.
+Use Previous Day’s Low to High for Retracement Entries.
+使用前一天的低点到高点进行回撤。
+2. Use Previous Day’s NY Session Low to High for Retracement Entries.
+使用前一天纽约时段的低点到高点进行回撤交易。
+3. Use Previous Day’s Low for Sell Stop Raid to accumulation longs.
+使用前一天的低点止损卖出，累积多头。
+4. Focusing on the anticipated move from HTF Discount to Premium PD Arrays.
+关注从HTF折扣到高级PD阵列的预期转变。

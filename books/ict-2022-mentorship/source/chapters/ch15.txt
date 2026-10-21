@@ -1,0 +1,410 @@
+
+<<<PDFPAGE 301 | images=1>>>
+197
+Chapter 15
+第十五章
+Market Structure For Precision Technicians
+精密技术人员的市场结构
+ICT market structure refers to the way the market behaves and shifts based
+on variousfactorssuch as institutional order flow, imbalances, and key levels. It
+represented in a series of either higher lows and higher highs - bullish, or series of
+lowerhighsandlowerlows-bearish.
+ICT市场结构是指基于各种因素(如机构订单流、不平衡和关键水平)的市场行为和变化
+方式。它表现为一系列较高的低点和较高的高点——看涨，或一系列较低的高点和较
+低的低点——看跌。
+Market Structure Concept
+市场结构概念
+Theactualturningpointsthatincludehighandlowswithinit(Intermediatehighs
+andlows).
+包含高点和低点的实际转折点(中间高点和低点)。
+Themarkettradesinagenericpatternorrhythmanditiseasytoreadifyouare
+awareofthebasicstructurepricetendstomovein.
+市场以一种通用的模式或节奏交易，如果你知道价格趋向于变动的基本结构，这很容
+易理解。
+1. Generally,themarkettradesfromshorttermlow(STL)toshorttermhigh(STH)
+back to a new short-term low (STL).As these STL’sand STH’s form,theywill
+developa“marketstructure”ofpriceaction.
+通常，市场从短期低点(STL)到短期高点(STH)再回到一个新的短期低点
+
+<<<PDFPAGE 302 | images=0>>>
+198
+(STL)。随着这些STL和STH的形成，它们将形成价格行为的“市场结构”。
+2. Anyshort-termlow(STL)thathashighershort-termlows(STL)onbothsides
+ofitisconsideredanIntermediatetermlow(ITL).
+任何短期低点(STL)的两边都有更高的短期低点(STL),都被认为是中期低点
+(ITL)。
+3. Anyshorttermhigh(STH)thathaslowershort-termhighs(STH)onbothsides
+ofitisconsideredanIntermediatetermhigh(ITH).
+任何短期高点(某事物)的两边都有更低的短期高点(某事物)，都被认为是中期高
+点(ITH)。
+4. AnyIntermediatetermlow(ITL)thathashigherintermediatetermlows(ITL)
+onbothsidesofitisconsideredlongtermlow(LTL).
+任何中期低点(ITL)的两边都有更高的中期低点(ITL)被认为是长期低点(LTL)。
+5. Any Intermediate term high (ITH) that has lower intermediate term highs
+(ITH)onbothsidesofitisconsideredlongtermhigh(LTH).
+任何中期高点(ITH)的两边都有较低的中期高点(ITH)，则被认为是长期高点
+(LTH)。
+InterbankTradersdonotviewMarketStructurewithRetail’smethod.
+InterbankTradersviewPriceintermsofLiquidityandImbalances.
+银行间交易者不会用散户的方法来看待市场结构。银行间交易员从流动性和失
+衡的角度看待价格。
+<<<PDFPAGE 303 | images=2>>>
+199
+1)ThehighesttimeframewillactasaLong-termPerspective
+最高的时间框架将作为一个长期的观点
+• ThistimeframewillshowyouHigherTimeFrameLevelswhichwillofferTrade
+这个时间框架将向你展示更高的时间框架水平，这将提供交易
+SetupOpportunities.
+设置机会。
+• TradeIdeaswillbebuiltuponlevelsderivedfromtheHigherTimeFrame.
+交易理念将建立在更高时间框架的基础上。
+2)Themid-leveltimeframewillactasanIntermediate-TermPerspective
+中级时间框架将作为中期视角
+• FollowingtheTradeSetupOpportunityfoundontheHTF,Mid-levelwillgive
+在HTF找到交易机会后，中级将提供
+youmoredefinitionintermsofstructurebasedonthatHTFLevel
+你更多的定义是基于HTF等级的结构
+• ManagingTradeswillbedoneviaamid-leveltimeframe.
+管理交易将通过中级时间框架完成。
+3)ThelowesttimeframewillactasaShort-termPerspective
+最低的时间框架将作为短期视角
+<<<PDFPAGE 304 | images=0>>>
+200
+• FollowingtheTradeSetupOpportunityfoundontheHTFandinsightsgiven
+withMid-level,theshort-termperspectivewillgiveyouevenmoredefinitionin
+termsofstructure.
+根据在HTF发现的交易机会和中级给出的见解，短期观点会给你更多的结构定
+义。
+• Timingtradeswithentrieswillbedoneviathelowesttimeframe.
+通过最低的时间框架来安排交易时间。
+<<<PDFPAGE 305 | images=3>>>
+201
+Intermediate Term High/Low – Any short-term low (STL) that has higher
+short-term lows (STL) on both sides of it is considered an Intermediate term
+low(ITL).Anyshort termhigh(STH)that haslowershort-termhighs (STH)onboth
+sidesofitisconsideredanIntermediatetermhigh(ITH).
+中期高/低–任何短期低点(STL)的两边都有更高的短期低点(STL)被认为是中期低点
+(ITL)。任何短期高点(某事物)的两边都有更低的短期高点(某事物)，都被认为是中期
+高点(ITH)。
+
+<<<PDFPAGE 306 | images=2>>>
+202
+IfyouseeaRebalancedITH,thatistellingyouthatthemarketisVERYweak.That
+isthemarket“tippingit’shand”towardsInterbankTraders.
+如果你看到一个重新平衡的ITH，那就是告诉你市场非常疲软。这是市场向银行间交
+易员“摊牌”。
+<<<PDFPAGE 307 | images=1>>>
+203
+ToeffectivelyrecognizeMarketStructureinamannerakintothatofanInterbank
+Trader,it’simperativetofirstgrasptheprevailingmarketnarrative.
+为了以类似于银行间交易者的方式有效地识别市场结构，首先必须掌握流行的市场叙
+事。
+The narrative guides us towards assessing liquidity conditions. Specifically, a
+叙述引导我们评估流动性状况。具体来说，一个
+liquiditydrawservesasthefoundationforestablishingourdailybias.
+流动性提取是建立我们每日偏好的基础。
+Keyquestionsarise:
+关键问题出现了:
+• Whatisthecurrentmarketnarrative?
+目前的市场叙事是什么？
+• IsitgoinghigherforBuySideLiquidityortoRebalanceaSIBI?
+是买方流动性上升还是SIBI再平衡？
+• IsitgoinglowerforSellSideLiquidityortoRebalanceaBISI?
+它是在降低卖方流动性还是在重新平衡BISI？
+FAILURETOUNDERSTANDMARKETSTRUCTURELIKEANINTERBANK
+未能像银行同业那样理解市场结构
+TRADER,
+交易员，
+WILLLEADYOUTOFALLVICTIMTOFALSEMARKETSTRUCTURE
+会让你成为虚假市场结构的受害者
+BREAKS.
+<<<PDFPAGE 308 | images=1>>>
+204
+休息。
+
+<<<PDFPAGE 309 | images=2>>>
+205
+When you look at the charts, lookeach time to see if the market is retracing an
+imbalancedcandle.Classifythisasanintermediatehigh/low.Thenmakesureprices
+don’tviolateit.
+当你看图表时，每次都要看看市场是否在回溯一根不平衡的蜡烛线。将此归类为中间
+高/低。然后确保价格不违反它。
+If you are bearish and your intermediate high is broken, then you need to
+stepasideandnotenteragain.Waitforanothersetup.
+如果你看跌，你的中级高点被打破，那么你需要靠边站，不要再次进入。等待另一个
+设置。
+
+<<<PDFPAGE 310 | images=0>>>
+206
+Thedailychartisexactlywhatinstitutionsandbanksareusing.That’swherethe
+moneyis.Thisisalsowhereyourpreferenceswillbedetermined.Mostofyourtime
+andstudyshouldbefocusedondeterminingwherethedailychartwillbeforthenext
+day,two,orweek.
+日线图正是机构和银行正在使用的。钱就在那里。这也将决定你的偏好。你的大部分
+时间和学习应该集中在确定下一天、两天或一周的日线图在哪里。
+<<<PDFPAGE 311 | images=0>>>
+207
+Market Phases
+市场阶段
+Thereare3phasesinthemarket:
+市场分为三个阶段:
+• Accumulation phase:
+积累阶段:
+Accumulationistheprocessofopeningalargepositionbyamarketmakerwithout
+积累是做市商在没有
+significantpricemovementagainstthedirectionofthisposition.
+与该头寸方向相反的重大价格变动。
+• Manipulation phase:
+操纵阶段:
+The release of negative news makes weak players panic. They become very
+predictable.Namely,ifthemarketfalls,theseplayersbegintomassivelyselleverything,
+whichisresponsibleforalargeincreaseinsupply.
+负面消息的发布让弱势玩家恐慌。它们变得非常容易预测。也就是说，如果市场下跌，
+这些玩家开始大量抛售一切，这是供应大幅增加的原因。
+Thefirstmanipulationleavesseveralquestions:“Whatkindofdemandcanabsorb
+第一个操作留下了几个问题:“什么样的需求可以吸收
+thecurrentvolume?”,“Whoisontheothersideofthedeal?”.
+目前的音量？”，“交易的另一方是谁？".
+Weakplayerstendtooftenmissbullmarketformationpoints.Afterwhichtheyare
+overcomebygreed,theybegintogetnervous,whichbringswithitthethoughtthatthe
+currenttrendispassingby.Thatiswhythe“crowd”beginstobuyeverything.
+弱势玩家往往会错过牛市形成点。之后，他们被贪婪所征服，开始变得紧张，随之而
+来的想法是当前的趋势正在过去。这就是为什么“大众”开始购买一切。
+Remember, market weakness manifests itself in moments of an uptrend,
+strength in downtrend.
+记住，市场疲软表现在上升趋势的时刻，强势表现在下降趋势的时刻。
+• Distribution phase:
+分发阶段:
+<<<PDFPAGE 312 | images=0>>>
+208
+Distributionisthereverseprocessofaccumulation.
+分配是积累的逆过程。
+ICTframesthingsbasedonatopdownapproachstartingfromthedailybecause
+that’swherebanksandinstitutionstradeoff.Numberonequestioniswhatthecurrent
+marketnarrativeis.
+ICT基于从日常开始的自上而下的方法来构建事物，因为这是银行和机构进行交易的
+地方。第一个问题是当前的市场叙事是什么。
+DoesthemarkethaveareasontogoupforBSLortorebalanceanimbalance(or
+FVG,VolumeImbalance)?OrisitlikelytogolowertosweepSellsideliquidityorto
+rebalanceanimbalance(orFVG,V.I.)?Imbalance,rebalanceandliquidity,that’sall
+they’redoing.
+市场有理由支持BSL或重新平衡失衡(或FVG，容量失衡)吗？或者，它可能会走低，
+以扫除卖方流动性或重新平衡失衡(或FVG，弗吉尼亚)？失衡、再平衡和流动性，这
+就是他们所做的一切。
+Thedailyiswhereyourbiasisgoingtobedetermined.That’swhatmakesorbreaks
+yourtrendcontinuation.So,themajorityofyourtimeshouldbewherethatdailychart
+isgoing.Ifyou’retradingagainstwhatthedailychartislikelytodo,youareabsolutely
+askingforfailure.That’snottosaythatyoucan’tgolongwhenthedailywillgolower,
+but why would you? Why would you swim against the tide? If you line up with the
+daily,youwillavoidalotofmistakes.
+日报是决定你的偏见的地方。这就是你趋势延续的成败所在。所以，你的大部分时间
+都应该关注日线图的走向。如果你违背日线图的趋势交易，你绝对是在自找失败。这
+并不是说你不能在日线走低的时候做多，但是你为什么要做多呢？你为什么要逆流而
+游？如果你和日报一致，你会避免很多错误。
+<<<PDFPAGE 313 | images=3>>>
+209
+From Narrative to Market Structure:
+从叙事到市场结构:
+HowMarketStructureisbuilt:
+市场结构是如何建立的:
+Marketprofileswillassistinmarketstructureanalysisconcepts.Arewetrending,
+inareversalpatternorinaconsolidationpreparingforabreakoutscenario?Ithelps
+youdetermineifwearebullishorbearish.
+市场概况将有助于市场结构分析概念。我们是在走向反转模式，还是在为突破场景做
+准备的盘整中？它帮助你确定我们是看涨还是看跌。
+Belowyouseetwoexamplesofhowmarketstructureisbuilt.Totheleftyouseea
+market rally into a key (Higher Time Frame) resistance level followed by a Smart
+MoneyReversal(SMR)andthenadecline(whichcanbearetracementorareversal
+dependentonif we’ve takenHTFexternal orinternal liquidity)and totheright the
+opposite.Herethedeclinereachesintoakey(HTF)supportlevel.Thesesupportand
+resistancelevelsareyoursocalled“PDarrays”(ICTCoreContentmonth4)andyou
+havetousethehighesttimeframe toidentifythoselevels.Withoutkeysupportand
+resistancelevelsyou’renotgoingtogetadirectionalbiasregardlessofwhattrading
+modelyou’reusing.
+下面你可以看到两个市场结构是如何建立的例子。在左边，你会看到市场反弹至一个
+关键(更高的时间框架)阻力位，然后是一个聪明的资金反转(SMR)，然后是下跌(这可
+能是一个回撤或反转，取决于我们是否接受了HTF的外部或内部流动性)，在右边则相
+反。这里下跌到达了一个关键的(HTF)支撑位。这些支撑位和阻力位就是你所谓的
+“PD阵列”(ICT核心内容第4个月)，你必须使用最高的时间框架来确定这些水平。如果
+没有关键的支撑位和阻力位，不管你用什么交易模型，你都不会有方向偏差。
+<<<PDFPAGE 314 | images=0>>>
+210
+Swings consist of consolidation and expansions until we reach a key support/
+resistance level where the smart money reversal (SMR) takes place. The SMRtakes
+place at thetopby either aturtlesoup ora failure swing(CC month5 ep. 5).Same
+goesforthesupportlevel.YoucananticipateanentryattheSMRafterwehitthekey
+support/resistancelevel.
+波动包括巩固和扩张，直到我们到达一个关键的支撑位/阻力位，聪明的资金反转
+(SMR)就会发生。SMR发生在顶部，要么是甲鱼汤，要么是失败的挥杆。5).支持级别
+也是如此。我们到达关键支撑位/阻力位后，你可以预期在SMR进场。
+Theconsolidationsarethebuildingblocksthatweworkwith.Duringaconsolidation
+you look for dynamic support/resistance levels to trade off until we reach the key
+support/resistancelevel(HTF).Thoselevelsareveryclear.Soaspricedeclines,you
+整合是我们工作的基础。在盘整期间，你寻找动态支撑位/阻力位进行交易，直到我们
+到达关键支撑位/阻力位(HTF)。这些级别非常明确。所以随着价格下降，你
+<<<PDFPAGE 315 | images=1>>>
+211
+wanttoseetheseswinglowsbeingformedandeveryswinglowthatformstherewill
+beadiscernibleOTEattheretracement.
+我想看到这些摆动低点的形成，每一个形成的摆动低点在回撤时都会有一个明显的记
+号。
+Whichtimeframestousetobreakdownmarketstructuredependsonthetypeof
+trade(r)?
+用哪个时间框架来分解市场结构取决于交易的类型(r)？
+Therearelotsofdifferenttimeframes,andthatcanbeoverwhelming.Yourprimary
+objectiveistoknowthetimeframethatyou’retrading.Thatdependsonwhattypeof
+traderyouwanttobe,asdisposedintheimageabove.Yousee3timeframespertype
+oftrade(r):
+有许多不同的时间框架，这可能是压倒性的。你的主要目标是知道你交易的时间范
+围。这取决于你想成为什么类型的交易者，如上图所示。你看到每种交易有3个时间框
+架:
+• HTF:tradeideabasedonthis,directionalbiasandmanagetrade.
+HTF:基于此的交易理念，定向偏好并经营交易。
+• Middletimeframe:manageyourtrade.
+中期:管理你的交易。
+• LTF:shortterm,fortimingyourentryandlookingforearlyreversalsigns,so
+LTF:短线，用来选择进场时机，寻找早期反转信号
+youknowit’stimetotakeprofits.
+你知道是时候获利了结了。
+
+<<<PDFPAGE 316 | images=1>>>
+212
+
+<<<PDFPAGE 317 | images=1>>>
+213
+
+<<<PDFPAGE 318 | images=1>>>
+214
+
+<<<PDFPAGE 319 | images=4>>>
+215
+[Bluedots:areITH/ITL,Orangearrows:thoseITH/ITLareLTH/LTL.Green=STH/STL]
+[蓝点:是ITH/ITL，橙色箭头:那些ITH/ITL是LTH/LTL。Green=STH/STL]
+
+<<<PDFPAGE 320 | images=2>>>
+216
+If Price is Bearish, we want to see price spend little time above highs, create
+shallowrunsonhighs,reject,and/orRespect PremiumArrays.Wealsowanttosee
+DISPLACEMENTLOWER.Violatingdiscountarraysand/orLT,IT,STLOWS.
+如果价格看跌，我们希望看到价格在高点上方停留的时间很少，在高点上创造浅运
+行，拒绝和/或尊重溢价排列。我们也希望看到更低的排量。违反折扣系列和/或LT，
+IT，STLOWS。
+Belowyousee2charts.Thedailytimeframeandthepriceactionbetweenthered
+linesfroma1hperspective.Thedailyistheparentofthe1hpricestructuresominor
+priceswingsaresubordinatetoit.
+下面你会看到两张图表。从1h的角度来看，日线时间框架和红线之间的价格行为。日
+线是1h价格结构的母体，所以微小的价格波动从属于它。
+[Onthisdailyyouseethedealingrangeandaretraceintopremium(justaboveEQtorebalancethatFVG)]
+[在这一天，你会看到交易区间和溢价的回撤(刚好在均衡点以上，以重新平衡FVG)]
+
+<<<PDFPAGE 321 | images=3>>>
+217
+
+<<<PDFPAGE 322 | images=3>>>
+218
+Asyouseeyouwillhave2possibleentrypoints,anaggressiveentryandalowrisk
+如你所见，你将有两个可能的进入点，一个激进的进入点和一个低风险的进入点
+highconfirmationentryasdisplayedbelow.
+高确认条目如下所示。
+OnceaITH/ITLisbroken,youhaveasignificantbreakinmarketstructure(BMS/
+MSB).OncewebreakdownandtakeouttheSTLandITLorjustaITL/ITH,thenwe
+haveasignificantbreakinmarketstructure.Thisismoresignificantthanjustsimply
+goingintoachartandsayingokaywellittookoutashort-termlowthereitis.
+一旦ITH/ITL被打破，市场结构(BMS/MSB)就会发生重大变化。一旦我们分解并去
+掉STL和ITL或者只是一个ITL/ITH，那么我们在市场结构上就有了重大突破。这比简
+单地进入图表，说好吧，这是一个短期低点更有意义。
+Yourentryshouldbebasedonthelowestofthe3timeframes.
+您的输入应该基于3个时间框架中最低的一个。
+Now let’s assume we are a swing trader; market structure is bullish and we’ve
+tradedoffofahighertimeframesupportlevelandwehadamarketshifttotheupside
+onthehighesttimeframechart.Ourmidleveltimeframehasallowedustofindakey
+support/resistancelevelthatconvergeswiththeHTFs/rlevel.Ourconfluence:pattern
+overlapswiththats/rlevel.
+现在让我们假设我们是一个波段交易者；市场结构是看涨的，我们已经摆脱了更高的
+时间框架支撑位，我们在最高时间框架图上看到了向上的市场转变。我们的中期时间
+框架允许我们找到一个关键的支撑位/阻力位，它与HTFs/r水平一致。我们汇合点:模
+式与s/r水平重叠。
+
+<<<PDFPAGE 323 | images=0>>>
+219
+Wenowhaveabiasandthat’sbullish.Keepinmindthatnoteverydayasetupwill
+bedeliveredandeverydaythebiasisbothdirections.Youhavetodecidewhatitisthat
+you’retradingandyouwantthebiasthatyouareholdingtolineupwithpriceaction,
+youcan’tforcepriceactiontodowhatyouwantittodo,youwanttogetinsync.
+我们现在有一个偏向，这是乐观的。请记住，并不是每天都会有设置交付，而是每天
+都有双向偏差。你必须决定你交易的是什么，你希望你持有的偏见与价格行为一致，
+你不能强迫价格行为做你希望它做的事情，你希望同步。
+DuringtheKillzone(time!)youwaitforthekeysupportleveltobehit(asinthe
+examplebelow)andyoulookforamarketshiftthere(basedonthehighestofthe3
+timeframes)intheformofeitherastoprunorafailureswing(ccmonth5episode5)
+andafterthatmarketshifthappenedyoulookforanentryonthelowesttimeframe.
+在杀戮地带期间(时间！)你等待关键支撑位被触及(如下例所示),你在那里寻找止损或
+失败波动形式的市场变化(基于3个时间框架中的最高值),在市场变化发生后，你在最
+低时间框架寻找进场点。
+After MSS and you’ve found your entry, you can use standard deviations for
+targetprojections.OncewebreakthatITL,wecanusethefibstandarddeviationsto
+determinepricetargetsfromthisconsolidation.
+在MSS和你找到你的条目后，你可以用标准差来预测目标。一旦我们打破ITL，我们
+可以使用纤维标准差来确定价格目标。
+<<<PDFPAGE 324 | images=6>>>
+220
+[Youseetheyellowpriceswingontheleft.Assoonasthelowistakenout,youcanusetheswing
+[你看到左边黄色的价格波动。一旦低点被拿掉，你能使用摇摆
+projectionfortargets]
+目标的投影]
+Above,asyoucansee,IdrewtheFIBfromtheITHatthetoptotheLTLatthe
+bottom of the range. Why anchor the FIB like this? This is not random of course.
+
+<<<PDFPAGE 325 | images=0>>>
+221
+Because that’s the up move, so the swing, from where the decline starts. It’s the
+retracementswingupthatfailsthatstartstodecline.Theprojectionis-2.0STDV.
+如上所述，正如你所看到的，我将FIB从顶部的ITH画到了底部的LTL。为什么要这样
+锚定纤维呢？这当然不是随机的。因为这是上升，所以是摆动，从下降开始的地方。
+开始下跌的是失败的回撤摆动。预测是-2.0STDV。
+<<<PDFPAGE 326 | images=3>>>
+222
+Onceyouareintrade,useinstitutionalorderflowtoknowifthemoveisstillgood.
+Whenyou’rebearish,allofyourupclosecandlesshouldkeeppricefromgoinghigher
+than that. So they are your resistance. For bullish price action, down close candles
+shouldsupportprice.
+一旦你在交易中，使用机构订单流来了解这个动作是否仍然有效。当你看跌的时候，
+你所有的蜡烛线都应该阻止价格上涨。所以他们是你的抵抗。对于看涨的价格行动，
+下跌收盘蜡烛应该支持价格。
+
+<<<PDFPAGE 327 | images=3>>>
+223
+
+<<<PDFPAGE 328 | images=2>>>
+224
+DoNOTlosethedesiretoholdthetrade.
+不要失去持有交易的欲望。
+Interbank Traders understand that Down Candles will be used as Buying
+Opportunities.IFYOUUNDERSTANDTHATPRICEWILLWANTTOREACHTHE
+BUYSIDELIQUIDITY.
+银行间交易员明白，蜡烛熄灭将被用作买入机会。如果你明白，价格将达到买方流动
+性。
+EverydowncandleisthechanceforSmartMoneytoaccumulatenewlongpositions.
+每根蜡烛线都是聪明的钱积累新的多头头寸的机会。
+
+<<<PDFPAGE 329 | images=1>>>
+225
+QuestionstoaskbeforeyouenteronanOrderBlock:
+进入订单块之前要问的问题:
+1. DoesPricewanttoreachhigher?
+价格想达到更高吗？
+2. DoesMarketStructuresupportyourOrderBlock?
+市场结构支持你的订单块吗？
+YOU CAN ALSO USE AN IMBALANCE AS SUPPORT INSTEAD OF THE ORDER BLOCK.
+您也可以使用不平衡作为支持，而不是订单块。
+High Probability Order Blocks have an FVG paired with them.
+高概率有序块具有与其配对的FVG。
+<<<PDFPAGE 330 | images=1>>>
+226
+[CredittoBraveheart]
+[归功于勇敢的心]
+
+<<<PDFPAGE 331 | images=1>>>
+227
+High Probability Order Blocks are blended with Time Theory.
+高概率有序块与时间理论相融合。
